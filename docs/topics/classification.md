@@ -1,6 +1,6 @@
 # Classification & Retrieval · `classification`
 
-共 **121** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **211** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
@@ -8,100 +8,190 @@
 
 - [Benchmarking Federated Learning and Knowledge Distillation for Point Cloud Classification](https://arxiv.org/abs/2607.01272) — `classification`
 - [Certified L2-Norm Robustness of 3D Point Cloud Recognition in the Frequency Domain](https://arxiv.org/abs/2511.07029) — `classification` `autonomous driving` `robustness`
+- [Layered Quantum Architecture Search for 3D Point Cloud Classification](https://arxiv.org/abs/2603.20024) — `classification`
 - [Do We Still Need Rotation-Invariant Architectures? A Statistical Robustness Benchmark for Point Cloud Classification](https://arxiv.org/abs/2611.03952) — `classification` `robustness` `dataset`
+- [2L-LSH: A Locality-Sensitive Hash Function-Based Method For Rapid Point Cloud Indexing](https://arxiv.org/abs/2604.21442) — `classification` `reconstruction`
+- [3D LULC classification using multispectral LiDAR and deep learning: current and prospective schemes](https://arxiv.org/abs/2605.22328) — `segmentation` `classification`
+- [A Closed-Form Persistence-Landmark Pipeline for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.02836) — `classification`
+- [A Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation](https://arxiv.org/abs/2605.17131) — `segmentation` `classification` — [code](https://github.com/MinhasKamal/DeepLearningForPointCloud)
+- [A Unified Non-Parametric and Interpretable Point Cloud Analysis via t-FCW Graph Representation](https://arxiv.org/abs/2605.15475) — `classification`
 - [Adversarially Guided Diffusion for LiDAR Range Image Synthesis](https://arxiv.org/abs/2607.09787) — `segmentation` `classification` `autonomous driving` — Workshop
 - [An Enhanced Geometric-Spectral Feature Learning Framework for Airborne Multispectral Point Cloud Classification](https://arxiv.org/abs/2606.09123) — `classification`
+- [Bridging the Modality Gap in Roadside LiDAR: A Training-Free Vision-Language Model Framework for Vehicle Classification](https://arxiv.org/abs/2602.09425) — `classification` `vision-language`
 - [Damage Classification for 3D Point Cloud Data via 3D Data Analysis and Vision Foundation Model-based 2D Projections](https://arxiv.org/abs/2608.08955) — `classification` `pre-training`
 - [Depth-Dependent Hidden-State Collapse in Dynamical System Autoencoders for LiDAR Point-Cloud Classification](https://arxiv.org/abs/2607.14463) — `classification`
+- [Fast Attention-Based Simplification of LiDAR Point Clouds for Object Detection and Classification](https://arxiv.org/abs/2603.07593) — `detection` `classification` `autonomous driving`
+- [LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning](https://arxiv.org/abs/2604.10780) — `segmentation` `classification` `self-supervised` `autonomous driving`
 - [Low-Density 3D Point Cloud Classification](https://arxiv.org/abs/2611.05291) — `classification` `autonomous driving`
+- [NeuroAPS-Net: Neuro-Anatomically Aware Point Cloud Representation for Efficient Alzheimer's Disease Classification](https://arxiv.org/abs/2604.22883) — `classification` `efficiency`
 - [PCT-Prompt: A Prompt-Guided Transformer Framework for Dense Prediction Tasks in Point Clouds](https://arxiv.org/abs/2608.16225) — `classification`
 - [Point-Selection Fine-Tuning Framework for Robust Point Cloud Classification](https://arxiv.org/abs/2607.19711) — `classification` `robustness`
 - [ProtoPointNet: Prototype-Based Interpretable Classification of 3D Dental Point Clouds with Verifiable Spatial Activations](https://arxiv.org/abs/2607.12335) — `classification`
 - [Refining Roadside 4D Radar Vehicle Classification Using Point-Cloud Dispersion](https://arxiv.org/abs/2611.02147) — `classification` `multi-modal`
 - [Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds](https://arxiv.org/abs/2611.05569) — `segmentation` `classification`
+- [Structure-First Point Cloud Learning with Mapper Region Graphs](https://arxiv.org/abs/2602.05522) — `classification`
 - [Synthetic LiDAR Data Generation and Deterministic Downsampling for Point Cloud Classification on the Edge](https://arxiv.org/abs/2608.07106) — `classification` `generation`
+- [Topo-ADV: Generating Topology-Driven Imperceptible Adversarial Point Clouds](https://arxiv.org/abs/2604.09879) — `classification` `robustness`
 ## 2025
 
+- [Investigating Vision-Language Model for Point Cloud-based Vehicle Classification](https://arxiv.org/abs/2504.08154) — `classification` `autonomous driving` `vision-language` — Workshop
+- [Mitigating Ambiguities in 3D Classification with Gaussian Splatting](https://arxiv.org/abs/2503.08352) — `classification` `gaussian-splatting`
+- [ConcreTizer: Model Inversion Attack via Occupancy Classification and Dispersion Control for 3D Point Cloud Restoration](https://arxiv.org/abs/2503.06986) — `classification`
 - [LiON: Learning Point-wise Abstaining Penalty for LiDAR Outlier DetectioN Using Diverse Synthetic Data](https://arxiv.org/abs/2309.10230) — `detection` `classification` `autonomous driving` — [code](https://github.com/Daniellli/LiON)
+- [Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising](https://arxiv.org/abs/2502.19660) — `classification` `denoising` `efficiency`
+- [Spiking Point Transformer for Point Cloud Classification](https://arxiv.org/abs/2502.15811) — `classification`
+- [MorphoSkel3D: Morphological Skeletonization of 3D Point Clouds for Informed Sampling in Object Classification and Retrieval](https://arxiv.org/abs/2501.12974) — `classification`
+- [Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2504.01668) — `segmentation` `classification` `autonomous driving` `domain adaptation`
 - [SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds](https://arxiv.org/abs/2507.06906) — `segmentation` `classification` `multi-modal`
 - [Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet](https://arxiv.org/abs/2509.05198) — `classification` `autonomous driving`
+- [Deep Subspace Learning for Surface Anomaly Classification Based on 3D Point Cloud Data](https://arxiv.org/abs/2502.11669) — `classification`
 - [Desensitizing for Improving Corruption Robustness in Point Cloud Classification through Adversarial Training](https://arxiv.org/abs/2509.23010) — `classification` `robustness`
+- [DG-MVP: 3D Domain Generalization via Multiple Views of Point Clouds for Classification](https://arxiv.org/abs/2504.12456) — `classification`
 - [Enhancing Tree Species Classification: Insights from YOLOv8 and Explainable AI Applied to TLS Point Cloud Projections](https://arxiv.org/abs/2512.16950) — `classification`
+- [FACT: Multinomial Misalignment Classification for Point Cloud Registration](https://arxiv.org/abs/2504.06627) — `registration` `classification`
 - [Generating Adversarial Point Clouds Using Diffusion Model](https://arxiv.org/abs/2507.21163) — `classification` `generation` `robustness`
+- [HiPoNet: A Multi-View Simplicial Complex Network for High Dimensional Point-Cloud and Single-Cell Data](https://arxiv.org/abs/2502.07746) — `classification`
 - [HLS4PC: A Parametrizable Framework For Accelerating Point-Based 3D Point Cloud Models on FPGA](https://arxiv.org/abs/2512.22139) — `segmentation` `classification`
+- [Integrating Product Coefficients for Improved 3D LiDAR Data Classification](https://arxiv.org/abs/2503.11943) — `classification`
 - [Integrating Product Coefficients for Improved 3D LiDAR Data Classification (Part II)](https://arxiv.org/abs/2510.15219) — `classification`
+- [Introducing the Short-Time Fourier Kolmogorov Arnold Network: A Dynamic Graph CNN Approach for Tree Species Classification in 3D Point Clouds](https://arxiv.org/abs/2503.23647) — `classification`
 - [Joint graph entropy knowledge distillation for point cloud classification and robustness against corruptions](https://arxiv.org/abs/2509.22150) — `classification` `robustness`
+- [Locating and Mitigating Gradient Conflicts in Point Cloud Domain Adaptation via Saliency Map Skewness](https://arxiv.org/abs/2504.15796) — `classification` `domain adaptation`
 - [ModelNet40-E: An Uncertainty-Aware Benchmark for Point Cloud Classification](https://arxiv.org/abs/2508.01269) — `classification` `dataset`
 - [MS-DGCNN++: Multi-Scale Dynamic Graph Convolution with Scale-Dependent Normalization for Robust LiDAR Tree Species Classification](https://arxiv.org/abs/2507.12602) — `classification` `robustness`
+- [Multimodal classification of forest biodiversity potential from 2D orthophotos and 3D airborne laser scanning point clouds](https://arxiv.org/abs/2501.01728) — `classification` `multi-modal`
 - [NormalView: tree species classification from backpack and aerial lidar data using geometric projections](https://arxiv.org/abs/2512.05610) — `classification`
+- [Point-LN: A Lightweight Framework for Efficient Point Cloud Classification Using Non-Parametric Positional Encoding](https://arxiv.org/abs/2501.14238) — `classification` `efficiency`
 - [PointDGRWKV: Generalizing RWKV-like Architecture to Unseen Domains for Point Cloud Classification](https://arxiv.org/abs/2508.20835) — `classification`
 - [Purge-Gate: Backpropagation-Free Test-Time Adaptation for Point Clouds Classification via Token Purging](https://arxiv.org/abs/2509.09785) — `classification`
+- [Rethinking Gradient-based Adversarial Attacks on Point Cloud Classification](https://arxiv.org/abs/2505.21854) — `classification` `robustness`
+- [RW-Net: Enhancing Few-Shot Point Cloud Classification with a Wavelet Transform Projection-based Network](https://arxiv.org/abs/2501.03221) — `classification`
 - [SIM-Net: A Multimodal Fusion Network Using Inferred 3D Object Shape Point Clouds from RGB Images for 2D Classification](https://arxiv.org/abs/2506.18683) — `classification` `multi-modal`
+- [SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds](https://arxiv.org/abs/2505.19546) — `classification` `robustness`
 - [XAI for Point Cloud Data using Perturbations based on Meaningful Segmentation](https://arxiv.org/abs/2507.22020) — `segmentation` `classification`
 ## 2024
 
+- [Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds](https://arxiv.org/abs/2403.05247) — `classification` `robustness`
 - [Localization and Expansion: A Decoupled Framework for Point Cloud Few-shot Semantic Segmentation](https://arxiv.org/abs/2408.13752) — `segmentation` `classification` `localization`
 - [RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions for 3D Point Cloud Classification and Segmentation](https://arxiv.org/abs/2408.06110) — `segmentation` `classification`
 - [MIRACLE3D: Memory-efficient Integrated Robust Approach for Continual Learning on Point Clouds via Shape Model Construction](https://arxiv.org/abs/2410.06418) — `classification` `robustness` `efficiency`
+- [Point-Level Topological Representation Learning on Point Clouds](https://arxiv.org/abs/2406.02300) — `classification`
+- [DHGCN: Dynamic Hop Graph Convolution Network for Self-Supervised Point Cloud Learning](https://arxiv.org/abs/2401.02610) — `segmentation` `classification` `self-supervised`
+- [LISR: Learning Linear 3D Implicit Surface Representation Using Compactly Supported Radial Basis Functions](https://arxiv.org/abs/2402.07301) — `classification` `reconstruction`
 - [PointDGMamba: Domain Generalization of Point Cloud Classification via Generalized State Space Model](https://arxiv.org/abs/2408.13574) — `classification`
 - [Continual Learning in 3D Point Clouds: Employing Spectral Techniques for Exemplar Selection](https://arxiv.org/abs/2409.08388) — `classification`
 - [Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification](https://arxiv.org/abs/2412.03056) — `classification`
+- [Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba](https://arxiv.org/abs/2405.06116) — `classification` `efficiency`
+- [3DMASC: Accessible, explainable 3D point clouds classification. Application to Bi-spectral Topo-bathymetric lidar data](https://arxiv.org/abs/2401.09481) — `classification`
+- [A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation](https://arxiv.org/abs/2405.11903) — `segmentation` `classification` `autonomous driving`
+- [Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey](https://arxiv.org/abs/2402.12923) — `detection` `classification` `autonomous driving` `anomaly detection`
 - [An Enhanced Classification Method Based on Adaptive Multi-Scale Fusion for Long-tailed Multispectral Point Clouds](https://arxiv.org/abs/2412.11407) — `classification`
 - [Bridging Domain Gap of Point Cloud Representations via Self-Supervised Geometric Augmentation](https://arxiv.org/abs/2409.06956) — `classification` `self-supervised` `domain adaptation`
+- [Classifying Objects in 3D Point Clouds Using Recurrent Neural Network: A GRU LSTM Hybrid Approach](https://arxiv.org/abs/2403.05950) — `classification`
+- [Classifying point clouds at the facade-level using geometric features and deep learning networks](https://arxiv.org/abs/2402.06506) — `classification`
 - [CLIP-based Point Cloud Classification via Point Cloud to Image Translation](https://arxiv.org/abs/2408.03545) — `classification`
+- [CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction](https://arxiv.org/abs/2404.14042) — `classification` `robustness`
+- [ECLAIR: A High-Fidelity Aerial LiDAR Dataset for Semantic Segmentation](https://arxiv.org/abs/2404.10699) — `segmentation` `classification` `dataset`
 - [Efficient Point Cloud Classification via Offline Distillation Framework and Negative-Weight Self-Distillation Technique](https://arxiv.org/abs/2409.02020) — `classification` `compression` `efficiency`
+- [Eidos: Efficient, Imperceptible Adversarial 3D Point Clouds](https://arxiv.org/abs/2405.14210) — `classification` `autonomous driving` `robustness` `efficiency`
+- [Enhancing octree-based context models for point cloud geometry compression with attention-based child node number prediction](https://arxiv.org/abs/2407.08528) — `classification` `compression`
 - [Enhancing Sampling Protocol for Point Cloud Classification Against Corruptions](https://arxiv.org/abs/2408.12062) — `classification`
+- [ESP-Zero: Unsupervised enhancement of zero-shot classification for Extremely Sparse Point cloud](https://arxiv.org/abs/2404.19639) — `classification` `open-vocabulary`
+- [Exploiting GPT-4 Vision for Zero-shot Point Cloud Understanding](https://arxiv.org/abs/2401.07572) — `classification` `generation` `open-vocabulary`
+- [FASTC: A Fast Attentional Framework for Semantic Traversability Classification Using Point Cloud](https://arxiv.org/abs/2406.16564) — `classification` — [code](https://github.com/chenyirui/FASTC)
+- [FRACTAL: An Ultra-Large-Scale Aerial Lidar Dataset for 3D Semantic Segmentation of Diverse Landscapes](https://arxiv.org/abs/2405.04634) — `segmentation` `classification` `dataset` — [code](https://github.com/IGNF/myria3d)
+- [Global Attention-Guided Dual-Domain Point Cloud Feature Learning for Classification and Segmentation](https://arxiv.org/abs/2407.08994) — `segmentation` `classification`
 - [GPT-based Textile Pilling Classification Using 3D Point Cloud Data](https://arxiv.org/abs/2408.10496) — `classification`
+- [GS-CLIP: Gaussian Splatting for Contrastive Language-Image-3D Pretraining from Real-World Data](https://arxiv.org/abs/2402.06198) — `classification` `gaussian-splatting` `pre-training`
 - [Learned Compression for Images and Point Clouds](https://arxiv.org/abs/2409.08376) — `classification` `generation` `compression` `upsampling`
+- [Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection](https://arxiv.org/abs/2404.10978) — `detection` `classification`
+- [Leveraging PointNet and PointNet++ for Lyft Point Cloud Classification Challenge](https://arxiv.org/abs/2404.18665) — `detection` `classification`
+- [Meta Episodic learning with Dynamic Task Sampling for CLIP-based Point Cloud Classification](https://arxiv.org/abs/2404.00857) — `classification`
+- [ModelNet-O: A Large-Scale Synthetic Dataset for Occlusion-Aware Point Cloud Classification](https://arxiv.org/abs/2401.08210) — `classification` `dataset` — [code](https://github.com/fanglaosi/PointMLS)
+- [NIV-SSD: Neighbor IoU-Voting Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2401.12447) — `detection` `classification` `localization`
 - [PCTreeS: 3D Point Cloud Tree Species Classification Using Airborne LiDAR Images](https://arxiv.org/abs/2412.04714) — `classification`
 - [PMT-MAE: Dual-Branch Self-Supervised Learning with Distillation for Efficient Point Cloud Classification](https://arxiv.org/abs/2409.02007) — `classification` `self-supervised` `efficiency`
+- [Point Cloud Classification via Deep Set Linearized Optimal Transport](https://arxiv.org/abs/2401.01460) — `classification`
 - [Point-GR: Graph Residual Point Cloud Network for 3D Object Classification and Segmentation](https://arxiv.org/abs/2412.03052) — `segmentation` `classification` — Workshop
+- [PointABM:Integrating Bidirectional State Space Model with Multi-Head Self-Attention for Point Cloud Analysis](https://arxiv.org/abs/2406.06069) — `classification`
+- [PureForest: A Large-Scale Aerial Lidar and Aerial Imagery Dataset for Tree Species Classification in Monospecific Forests](https://arxiv.org/abs/2404.12064) — `classification` `dataset` — [code](https://github.com/IGNF/myria3d)
 - [Robust 3D Point Clouds Classification based on Declarative Defenders](https://arxiv.org/abs/2410.09691) — `classification` `robustness`
 - [SA-MLP: A Low-Power Multiplication-Free Deep Network for 3D Point Cloud Classification in Resource-Constrained Environments](https://arxiv.org/abs/2409.01998) — `classification`
+- [StreakNet-Arch: An Anti-scattering Network-based Architecture for Underwater Carrier LiDAR-Radar Imaging](https://arxiv.org/abs/2404.09158) — `classification` `multi-modal`
 - [Test-Time Adaptation in Point Clouds: Leveraging Sampling Variation with Weight Averaging](https://arxiv.org/abs/2411.01116) — `classification`
+- [UOD: Unseen Object Detection in 3D Point Cloud](https://arxiv.org/abs/2401.03846) — `detection` `classification` `autonomous driving`
 ## 2023
 
+- [Continual Learning for LiDAR Semantic Segmentation: Class-Incremental and Coarse-to-Fine strategies on Sparse Data](https://arxiv.org/abs/2304.03980) — `segmentation` `classification`
+- [PointCert: Point Cloud Classification with Deterministic Certified Robustness Guarantees](https://arxiv.org/abs/2303.01959) — `classification` `autonomous driving` `robustness`
 - [CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training](https://arxiv.org/abs/2210.01055) — `classification` `pre-training`
+- [Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models](https://arxiv.org/abs/2304.07221) — `segmentation` `classification` `pre-training`
 - [Masked Spatio-Temporal Structure Prediction for Self-supervised Learning on Point Cloud Videos](https://arxiv.org/abs/2308.09245) — `classification` `self-supervised`
 - [U-RED: Unsupervised 3D Shape Retrieval and Deformation for Partial Point Clouds](https://arxiv.org/abs/2308.06383) — `classification`
 - [AGILE3D: Attention Guided Interactive Multi-object 3D Segmentation](https://arxiv.org/abs/2306.00977) — `segmentation` `classification`
 - [Equivariant vs. Invariant Layers: A Comparison of Backbone and Pooling for Point Cloud Classification](https://arxiv.org/abs/2306.05553) — `classification` — Workshop
 - [SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification](https://arxiv.org/abs/2305.09160) — `classification` `dataset` — [code](https://github.com/SiyuanHuang95/SUG)
 - [Test-Time Augmentation for 3D Point Cloud Classification and Segmentation](https://arxiv.org/abs/2311.13152) — `segmentation` `classification`
+- [What Makes for Effective Few-shot Point Cloud Classification?](https://arxiv.org/abs/2304.00022) — `classification`
+- [A Closer Look at Few-Shot 3D Point Cloud Classification](https://arxiv.org/abs/2303.18210) — `classification`
+- [Combining visibility analysis and deep learning for refinement of semantic 3D building models by conflict classification](https://arxiv.org/abs/2303.05998) — `classification`
 - [PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds](https://arxiv.org/abs/2307.08636) — `classification` `reconstruction`
 - [Advancements in Point Cloud Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2308.12113) — `segmentation` `detection` `classification`
 - [3D objects and scenes classification, recognition, segmentation, and reconstruction using 3D point cloud data: A review](https://arxiv.org/abs/2306.05978) — `segmentation` `classification` `reconstruction`
 - [3D Shape-Based Myocardial Infarction Prediction Using Point Cloud Classification Networks](https://arxiv.org/abs/2307.07298) — `classification`
 - [A Conditional Denoising Diffusion Probabilistic Model for Point Cloud Upsampling](https://arxiv.org/abs/2312.02719) — `classification` `reconstruction` `upsampling` `denoising`
+- [A Tiny Machine Learning Model for Point Cloud Object Classification](https://arxiv.org/abs/2303.10898) — `classification`
 - [Adversarial Attacks and Defenses on 3D Point Cloud Classification: A Survey](https://arxiv.org/abs/2307.00309) — `classification` `robustness`
 - [Classification Method of Road Surface Condition and Type with LiDAR Using Spatiotemporal Information](https://arxiv.org/abs/2308.05965) — `classification`
+- [Classification of Single Tree Decay Stages from Combined Airborne LiDAR Data and CIR Imagery](https://arxiv.org/abs/2301.01841) — `classification`
+- [Classification of structural building damage grades from multi-temporal photogrammetric point clouds using a machine learning model trained on virtual laser scanning data](https://arxiv.org/abs/2302.12591) — `classification`
+- [CLR-GAM: Contrastive Point Cloud Learning with Guided Augmentation and Feature Mapping](https://arxiv.org/abs/2302.14306) — `segmentation` `classification` `self-supervised` `autonomous driving`
 - [Deep Learning-based 3D Point Cloud Classification: A Systematic Survey and Outlook](https://arxiv.org/abs/2311.02608) — `classification` `autonomous driving`
 - [Deep Learning-based Compressed Domain Multimedia for Man and Machine: A Taxonomy and Application to Point Cloud Classification](https://arxiv.org/abs/2310.18849) — `classification` `compression`
 - [Detection and Classification of Pole-like Landmarks for Domain-invariant 3D Point Cloud Map Matching](https://arxiv.org/abs/2305.06845) — `detection` `classification` `localization`
 - [Edge Aware Learning for 3D Point Cloud](https://arxiv.org/abs/2309.13472) — `segmentation` `classification`
+- [EPiC: Ensemble of Partial Point Clouds for Robust Classification](https://arxiv.org/abs/2303.11419) — `classification` `robustness`
+- [Exploiting Inductive Bias in Transformer for Point Cloud Classification and Segmentation](https://arxiv.org/abs/2304.14124) — `segmentation` `classification`
 - [Feature Adversarial Distillation for Point Cloud Classification](https://arxiv.org/abs/2306.14221) — `classification` `robustness`
 - [GTNet: Graph Transformer Network for 3D Point Cloud Classification and Semantic Segmentation](https://arxiv.org/abs/2305.15213) — `segmentation` `classification`
+- [Interpreting Hidden Semantics in the Intermediate Layers of 3D Point Cloud Classification Neural Network](https://arxiv.org/abs/2303.06652) — `classification`
 - [Learned Point Cloud Compression for Classification](https://arxiv.org/abs/2308.05959) — `segmentation` `detection` `classification` `compression`
 - [Learning-Based Biharmonic Augmentation for Point Cloud Classification](https://arxiv.org/abs/2311.06070) — `classification`
+- [Local region-learning modules for point cloud classification](https://arxiv.org/abs/2303.17338) — `classification`
+- [Multi-scale Geometry-aware Transformer for 3D Point Cloud Classification](https://arxiv.org/abs/2304.05694) — `classification`
+- [Multi-view Vision-Prompt Fusion Network: Can 2D Pre-trained Model Boost 3D Point Cloud Data-scarce Learning?](https://arxiv.org/abs/2304.10224) — `classification` `autonomous driving` `pre-training`
+- [PCV: A Point Cloud-Based Network Verifier](https://arxiv.org/abs/2301.11806) — `segmentation` `detection` `classification`
+- [Point Cloud Classification Using Content-based Transformer via Clustering in Feature Space](https://arxiv.org/abs/2303.04599) — `classification`
 - [PV-SSD: A Multi-Modal Point Cloud Feature Fusion Method for Projection Features and Variable Receptive Field Voxel Features](https://arxiv.org/abs/2308.06791) — `detection` `classification` `autonomous driving` `multi-modal`
 - [Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification](https://arxiv.org/abs/2307.10875) — `classification` `robustness`
 - [Rotation-Invariant Random Features Provide a Strong Baseline for Machine Learning on 3D Point Clouds](https://arxiv.org/abs/2308.06271) — `classification`
+- [S3I-PointHop: SO(3)-Invariant PointHop for 3D Point Cloud Classification](https://arxiv.org/abs/2302.11506) — `classification`
 ## 2022
 
+- [A Unified Query-based Paradigm for Point Cloud Understanding](https://arxiv.org/abs/2203.01252) — `segmentation` `detection` `classification` `autonomous driving` — [code](https://github.com/dvlab-research/DeepVision3D)
+- [CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding](https://arxiv.org/abs/2203.00680) — `segmentation` `detection` `classification` `self-supervised`
 - [No Pain, Big Gain: Classify Dynamic Point Cloud Sequences with Static Models by Fitting Feature-level Space-time Surfaces](https://arxiv.org/abs/2203.11113) — `classification` `tracking` `scene flow` — [code](https://github.com/jx-zhong-for-academic-purpose/Kinet)
 - [3DOS: Towards 3D Open Set Learning -- Benchmarking and Understanding Semantic Novelty Detection on Point Clouds](https://arxiv.org/abs/2207.11554) — `segmentation` `detection` `classification` — [code](https://github.com/antoalli/3D_OS)
+- [Benchmarking and Analyzing Point Cloud Classification under Corruptions](https://arxiv.org/abs/2202.03377) — `classification` — [code](https://github.com/jiawei-ren/modelnetc)
 - [Self-Distillation for Unsupervised 3D Domain Adaptation](https://arxiv.org/abs/2210.08226) — `classification` `domain adaptation`
 - [Beyond single receptive field: A receptive field fusion-and-stratification network for airborne laser scanning point cloud classification](https://arxiv.org/abs/2207.10278) — `classification`
 - [3D Scalable Quantum Convolutional Neural Networks for Point Cloud Data Processing in Classification Applications](https://arxiv.org/abs/2210.09728) — `classification`
+- [3DCTN: 3D Convolution-Transformer Network for Point Cloud Classification](https://arxiv.org/abs/2203.00828) — `classification`
 - [3DGTN: 3D Dual-Attention GLocal Transformer Network for Point Cloud Classification and Segmentation](https://arxiv.org/abs/2209.11255) — `segmentation` `classification`
 - [Adaptive Edge-to-Edge Interaction Learning for Point Cloud Analysis](https://arxiv.org/abs/2211.10888) — `segmentation` `classification`
 - [APP-Net: Auxiliary-point-based Push and Pull Operations for Efficient Point Cloud Classification](https://arxiv.org/abs/2205.00847) — `classification` `efficiency`
+- [Contrastive Embedding Distribution Refinement and Entropy-Aware Attention for 3D Point Cloud Classification](https://arxiv.org/abs/2201.11388) — `classification`
+- [CP-Net: Contour-Perturbed Reconstruction Network for Self-Supervised Point Cloud Learning](https://arxiv.org/abs/2201.08215) — `classification` `reconstruction` `self-supervised`
+- [Deep learning classification of large-scale point clouds: A case study on cuneiform tablets](https://arxiv.org/abs/2202.10851) — `classification`
 - [DONEX: Real-time occupancy grid based dynamic echo classification for 3D point cloud](https://arxiv.org/abs/2212.04265) — `classification` `autonomous driving` `efficiency`
+- [MVP-Net: Multiple View Pointwise Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/abs/2201.12769) — `segmentation` `classification` `autonomous driving`
+- [PCSCNet: Fast 3D Semantic Segmentation of LiDAR Point Cloud for Autonomous Car using Point Convolution and Sparse Convolution Network](https://arxiv.org/abs/2202.10047) — `segmentation` `detection` `classification`
 - [Point-Syn2Real: Semi-Supervised Synthetic-to-Real Cross-Domain Learning for Object Classification in 3D Point Clouds](https://arxiv.org/abs/2210.17009) — `classification` `autonomous driving`
 - [Point-Voxel Adaptive Feature Abstraction for Robust Point Cloud Classification](https://arxiv.org/abs/2210.15514) — `classification` `robustness`
 - [PointResNet: Residual Network for 3D Point Cloud Segmentation and Classification](https://arxiv.org/abs/2211.11040) — `segmentation` `classification`
 - [Robust Structured Declarative Classifiers for 3D Point Clouds: Defending Adversarial Attacks with Implicit Gradients](https://arxiv.org/abs/2203.15245) — `classification` `reconstruction` `denoising` `robustness`
 - [Shrinking unit: a Graph Convolution-Based Unit for CNN-like 3D Point Cloud Feature Extractors](https://arxiv.org/abs/2209.12770) — `segmentation` `detection` `classification` — [code](https://github.com/albertotamajo/Shrinking-unit)
+- [Spatiotemporal Transformer Attention Network for 3D Voxel Level Joint Segmentation and Motion Prediction in Point Cloud](https://arxiv.org/abs/2203.00138) — `segmentation` `detection` `classification` `tracking`
 - [ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds](https://arxiv.org/abs/2211.09006) — `segmentation` `classification`
 ## 2021
 

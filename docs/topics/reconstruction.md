@@ -1,81 +1,141 @@
 # Reconstruction · `reconstruction`
 
-共 **263** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **429** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2026
 
+- [A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection](https://arxiv.org/abs/2603.25159) — `detection` `localization` `reconstruction` `anomaly detection`
+- [BrepGaussian: CAD reconstruction from Multi-View Images with Gaussian Splatting](https://arxiv.org/abs/2602.21105) — `reconstruction` `gaussian-splatting`
+- [BuildAnyPoint: 3D Building Structured Abstraction from Diverse Point Clouds](https://arxiv.org/abs/2602.23645) — `generation` `reconstruction`
+- [Bézier Degradation Modeling for LiDAR-based Human Motion Capture](https://arxiv.org/abs/2605.19620) — `reconstruction` `autonomous driving`
 - [Edge Prediction for Roof Wireframe Reconstruction with Transformers](https://arxiv.org/abs/2606.02406) — `reconstruction` — Workshop
+- [Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences](https://arxiv.org/abs/2602.22212) — `reconstruction` — [code](https://github.com/vc-bonn/neu-pig)
 - [Mind2Cloud: EEG-to-Point Cloud Generation with Two-Granularity Diffusion Decoding](https://arxiv.org/abs/2609.13991) — `generation` `reconstruction` `denoising`
 - [OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields](https://arxiv.org/abs/2607.10840) — `reconstruction`
 - [One Video, One World: Turning Monocular Video into Physical 4D Scenes](https://arxiv.org/abs/2606.31388) — `reconstruction` `monocular`
 - [P-CORE: Self-Supervised Surface Consistency for Point-Based Neural Editing](https://arxiv.org/abs/2609.03349) — `reconstruction` `self-supervised`
+- [SA-ResGS: Self-Augmented Residual 3D Gaussian Splatting for Next Best View Selection](https://arxiv.org/abs/2601.03024) — `reconstruction` `gaussian-splatting`
+- [Diffusion Masked Pretraining for Dynamic Point Cloud](https://arxiv.org/abs/2605.03639) — `reconstruction` `pre-training`
+- [Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer](https://arxiv.org/abs/2605.15828) — `reconstruction` `efficiency`
+- [SurfSplat: Conquering Feedforward 2D Gaussian Splatting with Surface Continuity Priors](https://arxiv.org/abs/2602.02000) — `reconstruction` `gaussian-splatting`
 - [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](https://arxiv.org/abs/2606.12189) — `reconstruction`
+- [DeepRAHT: Learning Predictive RAHT for Point Cloud Attribute Compression](https://arxiv.org/abs/2601.12255) — `reconstruction` `compression`
 - [LiNeXt: Revisiting LiDAR Completion with Efficient Non-Diffusion Architectures](https://arxiv.org/abs/2511.10209) — `completion` `reconstruction` `efficiency`
+- [Point-SRA: Self-Representation Alignment for 3D Representation Learning](https://arxiv.org/abs/2601.01746) — `reconstruction`
+- [A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry](https://arxiv.org/abs/2605.05095) — `reconstruction` — [code](https://github.com/jingsenzhu/BayesianNBV)
 - [CRAB: Cuboid-based Representation for As-built BIM from Point Clouds](https://arxiv.org/abs/2610.29257) — `reconstruction`
 - [PointQ-Bench: Benchmarking Diagnostic and Interpretable Point Cloud Quality Assessment](https://arxiv.org/abs/2605.28241) — `reconstruction`
 - [VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction](https://arxiv.org/abs/2608.15260) — `reconstruction` — [code](https://github.com/WZ-CS/VGGT-Align)
 - [Hierarchical Space Partition for Surface Reconstruction](https://arxiv.org/abs/2606.04891) — `reconstruction`
 - [GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243) — `reconstruction` `monocular`
 - [SAGE: Semantic-Augmented Geometric Experts for Point Cloud Registration](https://arxiv.org/abs/2610.36658) — `registration` `reconstruction`
+- [Neural Surface and Reflectance Modelling from 3D Radar Data](https://arxiv.org/abs/2603.25623) — `reconstruction` `multi-modal`
 - [NIDAR: NIR-Guided Intrinsic Decomposition for Scalable Scene-Agnostic LiDAR Intensity Reconstruction](https://arxiv.org/abs/2609.36878) — `reconstruction`
+- [PPC-MT: Parallel Point Cloud Completion with Mamba-Transformer Hybrid Architecture](https://arxiv.org/abs/2603.00870) — `completion` `reconstruction`
+- [SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration](https://arxiv.org/abs/2601.08414) — `reconstruction` `efficiency`
+- [Extrusion Segmentation Strategy to improve CAD Reconstruction from Point Cloud](https://arxiv.org/abs/2605.08971) — `segmentation` `reconstruction`
+- [Incremental Semantics-Aided Meshing from LiDAR-Inertial Odometry and RGB Direct Label Transfer](https://arxiv.org/abs/2604.09478) — `reconstruction`
+- [2L-LSH: A Locality-Sensitive Hash Function-Based Method For Rapid Point Cloud Indexing](https://arxiv.org/abs/2604.21442) — `classification` `reconstruction`
 - [A Three-Dimensional Reverse-Projection Method for Sparse Point Cloud Completion and Its Application to High-Speed Train Nose Reconstruction](https://arxiv.org/abs/2610.05758) — `completion` `reconstruction`
 - [Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration](https://arxiv.org/abs/2609.01089) — `registration` `reconstruction`
 - [Autoencoder Based Deep Clustering of Point Clouds](https://arxiv.org/abs/2611.01594) — `generation` `reconstruction`
 - [Bayesian methods and Markov chain Monte Carlo algorithms for curve reconstruction and point cloud data analysis](https://arxiv.org/abs/2608.26490) — `localization` `reconstruction`
 - [Beyond Visibility: Real-Time Surface Accessibility Fields from Sparse LiDAR](https://arxiv.org/abs/2608.06412) — `reconstruction` `efficiency`
+- [Blind Quality Enhancement for G-PCC Compressed Dynamic Point Clouds](https://arxiv.org/abs/2603.24026) — `reconstruction` `compression`
 - [CloudDiffusion: Diffusion-Based Scene Completion in the Point Cloud Domain](https://arxiv.org/abs/2606.16048) — `completion` `reconstruction` `autonomous driving`
+- [CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration](https://arxiv.org/abs/2603.12721) — `registration` `reconstruction`
 - [Collision-Aware and Observation-Aligned Object-Centric Scene Reconstruction from Point Cloud](https://arxiv.org/abs/2609.37260) — `generation` `reconstruction`
 - [Comparative evaluation of photogrammetric reconstruction methods and 3D Gaussian Splatting for road surface roughness analysis](https://arxiv.org/abs/2605.29452) — `reconstruction` `gaussian-splatting`
 - [Complexity-Calibrated Reconstruction Discrepancy for No-Reference Point Cloud Quality Assessment](https://arxiv.org/abs/2610.13219) — `reconstruction`
+- [Delaunay Canopy: Building Wireframe Reconstruction from Airborne LiDAR Point Clouds via Delaunay Graph](https://arxiv.org/abs/2604.02497) — `reconstruction`
 - [Denoising-Aware Temporal Point Cloud Completion for 3D Crop Architecture Recovery and Phenotypic Trait Extraction](https://arxiv.org/abs/2608.28343) — `completion` `reconstruction` `denoising`
+- [Diffusion-Driven Inter-Outer Surface Separation for Point Clouds with Open Boundaries](https://arxiv.org/abs/2602.00739) — `reconstruction`
+- [Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors](https://arxiv.org/abs/2605.14629) — `reconstruction` `nerf` `gaussian-splatting` `efficiency`
+- [FUSE-Flow: Scalable Real-Time Multi-View Point Cloud Reconstruction Using Confidence](https://arxiv.org/abs/2602.01035) — `reconstruction` `efficiency`
 - [Gaussian Linear Functional Manifold Method for Massive Point Cloud Data](https://arxiv.org/abs/2609.05744) — `reconstruction`
 - [Geometry-Constrained Bidirectional Point Cloud Registration for Thin, Sheet-Like Heritage Artifacts](https://arxiv.org/abs/2610.07793) — `registration` `reconstruction`
+- [GSM-GS: Geometry-Constrained Single and Multi-view Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2602.12796) — `reconstruction` `gaussian-splatting`
+- [GTLR-GS: Geometry-Texture Aware LiDAR-Regularized 3D Gaussian Splatting for Realistic Scene Reconstruction](https://arxiv.org/abs/2603.23192) — `reconstruction` `gaussian-splatting`
 - [GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly](https://arxiv.org/abs/2610.09068) — `segmentation` `reconstruction` `denoising`
+- [Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping](https://arxiv.org/abs/2604.01720) — `reconstruction` `autonomous driving`
+- [InstantHDR: Single-forward Gaussian Splatting Initialization for HDR 3D Reconstruction](https://arxiv.org/abs/2603.11298) — `reconstruction` `gaussian-splatting`
 - [Into the LidarVerse: A Real-Time Unified LiDAR World Model Across Tasks and Sensors](https://arxiv.org/abs/2610.19201) — `generation` `reconstruction` `efficiency`
 - [Joint-Embedding Prediction of Masked Point Tubes for Self-Supervised Learning on 4D Point Cloud Videos](https://arxiv.org/abs/2608.24093) — `reconstruction` `self-supervised`
 - [Learned Radius Estimation for UDF-Based Point Cloud Reconstruction](https://arxiv.org/abs/2606.18787) — `reconstruction`
 - [Learning Manifolds in High-D Point Embedding for Anisotropic Surface Approximation from Unstructured Point Clouds](https://arxiv.org/abs/2607.28855) — `reconstruction`
 - [Learning-Based 3D Reconstruction of Power Networks from Aerial Point Clouds](https://arxiv.org/abs/2609.23915) — `segmentation` `reconstruction`
 - [Learning-Based Reconstruction Attacks on Coordinate-Obfuscated Point Clouds](https://arxiv.org/abs/2609.02568) — `reconstruction` — Workshop
+- [LR-SGS: Robust LiDAR-Reflectance-Guided Salient Gaussian Splatting for Self-Driving Scene Reconstruction](https://arxiv.org/abs/2603.12647) — `reconstruction` `gaussian-splatting` `autonomous driving` `robustness`
 - [MedPCFM-TED: One-Step Point Cloud Flow Matching for Implant Generation via Teacher-Guided Endpoint Distillation](https://arxiv.org/abs/2609.16934) — `generation` `reconstruction`
 - [MedPCFM: Improving Medical Point Cloud Completion by Integrating Point Transformers and Flow Matching](https://arxiv.org/abs/2606.24433) — `completion` `generation` `reconstruction`
+- [Meltdown: Circuits and Bifurcations in Point-Cloud-Conditioned 3D Diffusion Transformers](https://arxiv.org/abs/2602.11130) — `reconstruction`
+- [Metric--Phase Fields: Decoupling Distance and Sign for Thin-Structure Reconstruction from Unoriented Point Clouds](https://arxiv.org/abs/2605.25503) — `reconstruction`
 - [MM-TRELLIS: Point-Cloud Guided Multi-Modal 3D Vehicle Generation in Autonomous Driving](https://arxiv.org/abs/2606.24301) — `generation` `reconstruction` `autonomous driving` `multi-modal`
 - [Neural LiDAR Bundle Adjustment](https://arxiv.org/abs/2607.04169) — `reconstruction` `nerf`
+- [Neural Reconstruction of LiDAR Point Clouds under Jamming Attacks via Full-Waveform Representation and Simultaneous Laser Sensing](https://arxiv.org/abs/2604.00371) — `reconstruction` `autonomous driving`
 - [Optimizing 3D Gaussian Splatting via Point Cloud Upsampling](https://arxiv.org/abs/2606.00450) — `reconstruction` `gaussian-splatting` `upsampling`
 - [OptimusMesh: Compact Autoregressive Mesh Generation from Point Clouds via Sparse Latent Pivots](https://arxiv.org/abs/2610.01148) — `generation` `reconstruction`
 - [Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection](https://arxiv.org/abs/2606.25740) — `detection` `reconstruction` `anomaly detection`
+- [Point-MF: Stabilizing One-Step Mean Flows for Single-Image Point Cloud Reconstruction](https://arxiv.org/abs/2604.24586) — `reconstruction`
 - [Points as Tori: Fast Pointwise Signed Distance for Point Clouds](https://arxiv.org/abs/2607.16946) — `reconstruction`
+- [PointSLAM++: Robust Dense Neural Gaussian Point Cloud-based SLAM](https://arxiv.org/abs/2601.11617) — `slam` `localization` `reconstruction` `robustness`
+- [Reconstructing Building Height from Spaceborne TomoSAR Point Clouds Using a Dual-Topology Network](https://arxiv.org/abs/2601.00658) — `reconstruction`
 - [Resolving Mixed Single-Photon LiDAR Returns for Foreground-View and Hidden Scene Reconstruction](https://arxiv.org/abs/2610.01206) — `reconstruction`
+- [Rethinking Point Clouds as Sequences: A Causal Next-Token Predictive Learning Framework](https://arxiv.org/abs/2605.17566) — `generation` `reconstruction` `self-supervised`
+- [Review and Evaluation of Point-Cloud based Leaf Surface Reconstruction Methods for Agricultural Applications](https://arxiv.org/abs/2604.03328) — `reconstruction`
 - [RigPAPR: Rig-Based Animation of Static Neural Point Clouds from a Fixed-Viewpoint Video](https://arxiv.org/abs/2606.06685) — `generation` `reconstruction` `monocular`
 - [Robust Reconstruction of Power Lines from Incomplete Mobile and Aerial LiDAR Data](https://arxiv.org/abs/2611.05197) — `detection` `reconstruction` `robustness`
 - [ScaleBlind: Point Cloud Completion under Unknown Scale](https://arxiv.org/abs/2609.23404) — `completion` `reconstruction`
+- [SlingBAG Pro: Accelerating point cloud-based iterative reconstruction for 3D photoacoustic imaging with arbitrary array geometries](https://arxiv.org/abs/2601.00551) — `reconstruction`
 - [SUMI: Scalable Unified Model for 3D Point Cloud Inference](https://arxiv.org/abs/2608.08115) — `completion` `reconstruction` `upsampling`
 - [SuperFlex: Deformable Superquadrics for Point Cloud Decomposition](https://arxiv.org/abs/2607.01015) — `reconstruction`
 - [TAP3D: Thermal-Assisted 3D Human Point Clouds](https://arxiv.org/abs/2610.11241) — `reconstruction`
+- [Task-Oriented Wireless Transmission of 3D Point Clouds: Geometric Versus Semantic Robustness](https://arxiv.org/abs/2603.13560) — `reconstruction` `compression` `robustness`
+- [TransDex: Pre-training Visuo-Tactile Policy with Point Cloud Reconstruction for Dexterous Manipulation of Transparent Objects](https://arxiv.org/abs/2603.13869) — `reconstruction` `self-supervised` `pre-training`
+- [TreeON: Reconstructing 3D Tree Point Clouds from Orthophotos and Heightmaps](https://arxiv.org/abs/2603.10996) — `reconstruction`
 - [VisTa3D: A Dataset and Benchmark for Thin Object Reconstruction from Vision, Tactile, and 3D Point Clouds](https://arxiv.org/abs/2608.20740) — `reconstruction` `dataset`
 - [ZVeC: A Zero-Shot Framework for Instance-Level Vehicle Extraction and Generative Point Cloud Completion](https://arxiv.org/abs/2609.24825) — `completion` `generation` `reconstruction` `open-vocabulary`
 ## 2025
 
+- [Learning Bijective Surface Parameterization for Inferring Signed Distance Functions from Sparse Point Clouds with Grid Deformation](https://arxiv.org/abs/2503.23670) — `reconstruction`
+- [MESC-3D:Mining Effective Semantic Cues for 3D Reconstruction from a Single Image](https://arxiv.org/abs/2502.20861) — `reconstruction`
+- [OffsetOPT: Explicit Surface Reconstruction without Normals](https://arxiv.org/abs/2503.15763) — `reconstruction`
+- [Parametric Point Cloud Completion for Polygonal Surface Reconstruction](https://arxiv.org/abs/2503.08363) — `completion` `reconstruction`
+- [ProtoDepth: Unsupervised Continual Depth Completion with Prototypes](https://arxiv.org/abs/2503.12745) — `completion` `reconstruction`
+- [SAB3R: Semantic-Augmented Backbone in 3D Reconstruction](https://arxiv.org/abs/2506.02112) — `segmentation` `detection` `reconstruction` `open-vocabulary`
 - [Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives](https://arxiv.org/abs/2412.00578) — `reconstruction` `gaussian-splatting`
+- [SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization](https://arxiv.org/abs/2503.14558) — `completion` `generation` `reconstruction` `upsampling`
 - [Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction](https://arxiv.org/abs/2506.21401) — `reconstruction` `gaussian-splatting` — [code](https://github.com/zhirui-gao/Curve-Gaussian)
+- [HORT: Monocular Hand-held Objects Reconstruction with Transformers](https://arxiv.org/abs/2503.21313) — `reconstruction` `denoising` `monocular`
 - [Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/abs/2507.04047) — `reconstruction` `efficiency`
 - [RayletDF: Raylet Distance Fields for Generalizable 3D Surface Reconstruction from Point Clouds or Gaussians](https://arxiv.org/abs/2508.09830) — `reconstruction` `gaussian-splatting` — [code](https://github.com/vLAR-group/RayletDF)
 - [Towards More Diverse and Challenging Pre-training for Point Cloud Learning: Self-Supervised Cross Reconstruction with Decoupled Views](https://arxiv.org/abs/2509.01250) — `generation` `reconstruction` `self-supervised` `pre-training`
 - [How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?](https://arxiv.org/abs/2511.05449) — `segmentation` `reconstruction`
+- [MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction](https://arxiv.org/abs/2506.02938) — `generation` `reconstruction`
 - [Reconstructing the local density field with combined convolutional and point cloud architecture](https://arxiv.org/abs/2510.08573) — `reconstruction` — Workshop
 - [TriFusion-AE: Language-Guided Depth and LiDAR Fusion for Robust Point Cloud Processing](https://arxiv.org/abs/2509.18743) — `reconstruction` `denoising` `autonomous driving` `robustness` — Workshop
 - [U-CAN: Unsupervised Point Cloud Denoising with Consistency-Aware Noise2Noise Matching](https://arxiv.org/abs/2510.25210) — `reconstruction` `denoising`
+- [Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy](https://arxiv.org/abs/2502.10704) — `registration` `reconstruction` — [code](https://github.com/zikai1/OAReg)
 - [WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting](https://arxiv.org/abs/2510.10726) — `reconstruction` — [code](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror)
 - [DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation](https://arxiv.org/abs/2512.11465) — `reconstruction` `self-supervised`
 - [Hyperbolic-constraint Point Cloud Reconstruction from Single RGB-D Images](https://arxiv.org/abs/2412.09055) — `reconstruction`
+- [A Divide-and-Conquer Approach for Global Orientation of Non-Watertight Scene-Level Point Clouds Using 0-1 Integer Optimization](https://arxiv.org/abs/2505.23469) — `segmentation` `reconstruction`
 - [A Fast Volumetric Capture and Reconstruction Pipeline for Dynamic Point Clouds and Gaussian Splats](https://arxiv.org/abs/2512.15719) — `reconstruction` — [code](https://github.com/irc-hslu/capturestudio)
 - [Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction](https://arxiv.org/abs/2511.04864) — `reconstruction` `self-supervised`
+- [SurfR: Surface Reconstruction with Multi-scale Attention](https://arxiv.org/abs/2506.08635) — `reconstruction`
+- [MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling](https://arxiv.org/abs/2501.16384) — `completion` `reconstruction` `efficiency` — Workshop
+- [Improving Monocular Visual-Inertial Initialization with Structureless Visual-Inertial Bundle Adjustment](https://arxiv.org/abs/2502.16598) — `tracking` `reconstruction` `monocular`
 - [LiLa-Net: Lightweight Latent LiDAR Autoencoder for 3D Point Cloud Reconstruction](https://arxiv.org/abs/2510.02028) — `reconstruction` `efficiency`
 - [DAMM-LOAM: Degeneracy Aware Multi-Metric LiDAR Odometry and Mapping](https://arxiv.org/abs/2510.13287) — `slam` `localization` `reconstruction` — Workshop
+- [GS-SDF: LiDAR-Augmented Gaussian Splatting and Neural SDF for Geometrically Consistent Rendering and Reconstruction](https://arxiv.org/abs/2503.10170) — `reconstruction` `gaussian-splatting` `autonomous driving`
 - [OREN: Octree Residual Network for Real-Time Euclidean Signed Distance Mapping](https://arxiv.org/abs/2510.18999) — `localization` `reconstruction` `efficiency`
+- [AIM2PC: Aerial Image to 3D Building Point Cloud Reconstruction](https://arxiv.org/abs/2503.18527) — `reconstruction`
 - [RoofSeg: An edge-aware transformer-based network for end-to-end roof plane segmentation](https://arxiv.org/abs/2508.19003) — `segmentation` `detection` `reconstruction`
+- [3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction](https://arxiv.org/abs/2503.12001) — `reconstruction` `nerf` `gaussian-splatting` `autonomous driving`
+- [3D Modeling and Automated Measurement of Concrete Cracks via Segment Anything Refinement and Visual Inertial LiDAR Fusion](https://arxiv.org/abs/2501.09203) — `segmentation` `detection` `reconstruction`
+- [A Constrained Optimization Approach for Gaussian Splatting from Coarsely-posed Images and Noisy Lidar Point Clouds](https://arxiv.org/abs/2504.09129) — `reconstruction` `gaussian-splatting`
 - [A Graph Attention Network-Based Framework for Reconstructing Missing LiDAR Beams](https://arxiv.org/abs/2512.12410) — `reconstruction`
 - [A PCA Based Model for Surface Reconstruction from Incomplete Point Clouds](https://arxiv.org/abs/2509.15675) — `reconstruction`
 - [A Survey of Medical Point Cloud Shape Learning: Registration, Reconstruction and Variation](https://arxiv.org/abs/2508.03057) — `registration` `reconstruction`
@@ -87,93 +147,183 @@
 - [BasketLiDAR: The First LiDAR-Camera Multimodal Dataset for Professional Basketball MOT](https://arxiv.org/abs/2508.15299) — `tracking` `reconstruction` `multi-modal` `dataset`
 - [CasPoinTr: Point Cloud Completion with Cascaded Networks and Knowledge Distillation](https://arxiv.org/abs/2509.23375) — `completion` `reconstruction`
 - [D$^2$GS: Dense Depth Regularization for LiDAR-free Urban Scene Reconstruction](https://arxiv.org/abs/2510.25173) — `reconstruction` `gaussian-splatting` `autonomous driving`
+- [Denoising Diffusion Probabilistic Model for Point Cloud Compression at Low Bit-Rates](https://arxiv.org/abs/2505.13316) — `reconstruction` `compression` `denoising`
 - [DFG-PCN: Point Cloud Completion with Degree-Flexible Point Graph](https://arxiv.org/abs/2509.23703) — `completion` `reconstruction`
+- [DiffS-NOCS: 3D Point Cloud Reconstruction through Coloring Sketches to NOCS Maps Using Diffusion Models](https://arxiv.org/abs/2506.12835) — `reconstruction`
 - [DLBAcalib: Robust Extrinsic Calibration for Non-Overlapping LiDARs Based on Dual LBA](https://arxiv.org/abs/2507.09176) — `reconstruction` `robustness`
+- [FIORD: A Fisheye Indoor-Outdoor Dataset with LIDAR Ground Truth for 3D Scene Reconstruction and Benchmarking](https://arxiv.org/abs/2504.01732) — `reconstruction` `dataset`
 - [FLaTEC: Frequency-Disentangled Latent Triplanes for Efficient Compression of LiDAR Point Clouds](https://arxiv.org/abs/2511.20065) — `reconstruction` `compression` `efficiency`
+- [Gaussian2Scene: 3D Scene Representation Learning via Self-supervised Learning with 3D Gaussian Splatting](https://arxiv.org/abs/2506.08777) — `reconstruction` `gaussian-splatting` `self-supervised`
 - [Graph-based Point Cloud Surface Reconstruction using B-Splines](https://arxiv.org/abs/2509.16050) — `reconstruction`
 - [HeartFormer: Semantic-Aware Dual-Structure Transformers for 3D Four-Chamber Cardiac Point Cloud Reconstruction](https://arxiv.org/abs/2512.00264) — `reconstruction`
 - [HGACNet: Hierarchical Graph Attention Network for Cross-Modal Point Cloud Completion](https://arxiv.org/abs/2509.13692) — `completion` `reconstruction`
+- [Laplace-Beltrami Operator for Gaussian Splatting](https://arxiv.org/abs/2502.17531) — `reconstruction` `gaussian-splatting`
+- [Less is More: Efficient Point Cloud Reconstruction via Multi-Head Decoders](https://arxiv.org/abs/2505.19057) — `reconstruction` `efficiency`
 - [Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars](https://arxiv.org/abs/2507.04321) — `localization` `reconstruction` `dataset`
 - [LiDAR-VGGT: Cross-Modal Coarse-to-Fine Fusion for Globally Consistent and Metric-Scale Dense Mapping](https://arxiv.org/abs/2511.01186) — `slam` `reconstruction`
+- [LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds](https://arxiv.org/abs/2503.23664) — `localization` `reconstruction`
 - [Manifold-Aware Point Cloud Completion via Geodesic-Attentive Hierarchical Feature Learning](https://arxiv.org/abs/2512.05710) — `completion` `reconstruction`
 - [Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348) — `reconstruction` `gaussian-splatting`
+- [Med-PU: Point Cloud Upsampling for High-Fidelity 3D Medical Shape Reconstruction](https://arxiv.org/abs/2501.16716) — `segmentation` `reconstruction` `upsampling`
 - [Memory-Guided Point Cloud Completion for Dental Reconstruction](https://arxiv.org/abs/2512.03598) — `completion` `reconstruction`
 - [MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds](https://arxiv.org/abs/2508.14879) — `generation` `reconstruction` `vision-language`
+- [mmDEAR: mmWave Point Cloud Density Enhancement for Accurate Human Body Reconstruction](https://arxiv.org/abs/2503.02375) — `reconstruction`
+- [Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement](https://arxiv.org/abs/2502.07680) — `registration` `reconstruction`
+- [Neural Shortest Path for Surface Reconstruction from Point Clouds](https://arxiv.org/abs/2502.06047) — `reconstruction`
+- [No-reference geometry quality assessment for colorless point clouds via list-wise rank learning](https://arxiv.org/abs/2502.11726) — `reconstruction` `compression`
+- [NoKSR: Kernel-Free Neural Surface Reconstruction via Point Cloud Serialization](https://arxiv.org/abs/2502.12534) — `reconstruction`
 - [OCCDiff: Occupancy Diffusion Model for High-Fidelity 3D Building Reconstruction from Noisy Point Clouds](https://arxiv.org/abs/2512.08506) — `generation` `reconstruction`
+- [Open-source automatic pipeline for efficient conversion of large-scale point clouds to IFC format](https://arxiv.org/abs/2503.11498) — `reconstruction` `efficiency`
+- [PCE-GAN: A Generative Adversarial Network for Point Cloud Attribute Quality Enhancement based on Optimal Transport](https://arxiv.org/abs/2503.00047) — `generation` `reconstruction` `compression` `robustness`
 - [Pipe Reconstruction from Point Cloud Data](https://arxiv.org/abs/2506.22118) — `reconstruction`
 - [PlantSegNeRF: A few-shot, cross-species method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching](https://arxiv.org/abs/2507.00371) — `segmentation` `reconstruction` `nerf`
 - [Point-RTD: Replaced Token Denoising for Pretraining Transformer Models on Point Clouds](https://arxiv.org/abs/2509.17207) — `reconstruction` `denoising` `pre-training`
+- [Point2Primitive: CAD Reconstruction from Point Cloud by Direct Primitive Prediction](https://arxiv.org/abs/2505.02043) — `reconstruction`
 - [PUFM++: Point Cloud Upsampling via Enhanced Flow Matching](https://arxiv.org/abs/2512.20988) — `generation` `reconstruction` `upsampling`
 - [Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching](https://arxiv.org/abs/2512.01850) — `registration` `localization` `generation` `reconstruction`
+- [Representation Learning of Point Cloud Upsampling in Global and Local Inputs](https://arxiv.org/abs/2501.07076) — `reconstruction` `upsampling`
+- [SC-NeRF: NeRF-based Point Cloud Reconstruction using a Stationary Camera for Agricultural Applications](https://arxiv.org/abs/2503.21958) — `reconstruction` `nerf`
+- [Separability Membrane: 3D Active Contour for Point Cloud Surface Reconstruction](https://arxiv.org/abs/2503.05217) — `reconstruction`
 - [Skeleton-based Robust Registration Framework for Corrupted 3D Point Clouds](https://arxiv.org/abs/2509.24273) — `registration` `reconstruction` `autonomous driving` `robustness`
 - [SkinningGS: Editable Dynamic Human Scene Reconstruction Using Gaussian Splatting Based on a Skinning Model](https://arxiv.org/abs/2506.21632) — `reconstruction` `gaussian-splatting` `monocular`
+- [Sparse2DGS: Sparse-View Surface Reconstruction using 2D Gaussian Splatting with Dense Point Cloud](https://arxiv.org/abs/2505.19854) — `reconstruction` `gaussian-splatting`
 - [SuperiorGAT: Graph Attention Networks for Sparse LiDAR Point Cloud Reconstruction in Autonomous Systems](https://arxiv.org/abs/2512.22439) — `reconstruction`
 - [SurfFill: Completion of LiDAR Point Clouds via Gaussian Surfel Splatting](https://arxiv.org/abs/2512.03010) — `completion` `reconstruction`
+- [Three-dimentional reconstruction of complex, dynamic population canopy architecture for crops with a novel point cloud completion model: A case study in Brassica napus rapeseed](https://arxiv.org/abs/2506.18292) — `completion` `reconstruction`
 - [TopoRec: Point Cloud Recognition Using Topological Data Analysis](https://arxiv.org/abs/2506.18725) — `localization` `reconstruction` `autonomous driving`
 - [Unposed 3DGS Reconstruction with Probabilistic Procrustes Mapping](https://arxiv.org/abs/2507.18541) — `reconstruction` `gaussian-splatting`
+- [Wavelet-based Global Orientation and Surface Reconstruction for Point Clouds](https://arxiv.org/abs/2506.16299) — `reconstruction`
 ## 2024
 
 - [CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections](https://arxiv.org/abs/2412.04120) — `reconstruction`
+- [DITTO: Dual and Integrated Latent Topologies for Implicit 3D Reconstruction](https://arxiv.org/abs/2403.05005) — `reconstruction`
+- [LiDAR4D: Dynamic Neural Fields for Novel Space-time View LiDAR Synthesis](https://arxiv.org/abs/2404.02742) — `reconstruction` `nerf`
+- [LidaRF: Delving into Lidar for Neural Radiance Field on Street Scenes](https://arxiv.org/abs/2405.00900) — `reconstruction` `nerf` `autonomous driving`
+- [Tri-Perspective View Decomposition for Geometry-Aware Depth Completion](https://arxiv.org/abs/2403.15008) — `completion` `reconstruction` `autonomous driving`
 - [CF-PRNet: Coarse-to-Fine Prototype Refining Network for Point Cloud Completion and Reconstruction](https://arxiv.org/abs/2409.08443) — `completion` `reconstruction`
 - [Cultural Heritage 3D Reconstruction with Diffusion Networks](https://arxiv.org/abs/2410.10927) — `generation` `reconstruction` — Workshop
 - [D-SCo: Dual-Stream Conditional Diffusion for Monocular Hand-Held Object Reconstruction](https://arxiv.org/abs/2311.14189) — `generation` `reconstruction` `denoising` `monocular`
+- [FRI-Net: Floorplan Reconstruction via Room-wise Implicit Representation](https://arxiv.org/abs/2407.10687) — `reconstruction`
+- [GaussReg: Fast 3D Registration with Gaussian Splatting](https://arxiv.org/abs/2407.05254) — `registration` `reconstruction` `nerf` `gaussian-splatting`
 - [Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes](https://arxiv.org/abs/2408.14279) — `reconstruction`
+- [Motion Keyframe Interpolation for Any Human Skeleton via Temporally Consistent Point Cloud Sampling and Reconstruction](https://arxiv.org/abs/2405.07444) — `reconstruction`
 - [NICP: Neural ICP for 3D Human Registration at Scale](https://arxiv.org/abs/2312.14024) — `registration` `reconstruction`
+- [PolyRoom: Room-aware Transformer for Floorplan Reconstruction](https://arxiv.org/abs/2407.10439) — `reconstruction`
+- [Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer](https://arxiv.org/abs/2404.14351) — `registration` `reconstruction`
 - [WindPoly: Polygonal Mesh Reconstruction via Winding Numbers](https://arxiv.org/abs/2407.19208) — `reconstruction`
 - [Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Images](https://arxiv.org/abs/2409.18364) — `reconstruction`
 - [MultiPull: Detailing Signed Distance Functions by Pulling Multi-Level Queries at Multi-Step](https://arxiv.org/abs/2411.01208) — `reconstruction`
 - [Matérn Kernels for Tunable Implicit Surface Reconstruction](https://arxiv.org/abs/2409.15466) — `reconstruction`
+- [LISR: Learning Linear 3D Implicit Surface Representation Using Compactly Supported Radial Basis Functions](https://arxiv.org/abs/2402.07301) — `classification` `reconstruction`
+- [NeurCADRecon: Neural Representation for Reconstructing CAD Surfaces by Enforcing Zero Gaussian Curvature](https://arxiv.org/abs/2404.13420) — `reconstruction`
 - [Representing Long Volumetric Video with Temporal Gaussian Hierarchy](https://arxiv.org/abs/2412.09608) — `reconstruction`
 - [Transientangelo: Few-Viewpoint Surface Reconstruction Using Single-Photon Lidar](https://arxiv.org/abs/2408.12191) — `reconstruction`
+- [OmniColor: A Global Camera Pose Optimization Approach of LiDAR-360Camera Fusion for Colorizing Point Clouds](https://arxiv.org/abs/2404.04693) — `reconstruction`
+- [You Only Scan Once: A Dynamic Scene Reconstruction Pipeline for 6-DoF Robotic Grasping of Novel Objects](https://arxiv.org/abs/2404.03462) — `reconstruction`
 - [Are We Ready for Real-Time LiDAR Semantic Segmentation in Autonomous Driving?](https://arxiv.org/abs/2410.08365) — `segmentation` `detection` `reconstruction` `autonomous driving` — Workshop
+- [Online Tree Reconstruction and Forest Inventory on a Mobile Robotic System](https://arxiv.org/abs/2403.17622) — `reconstruction`
+- [VRSO: Visual-Centric Reconstruction for Static Object Annotation](https://arxiv.org/abs/2403.15026) — `detection` `reconstruction`
 - [Monge-Ampere Regularization for Learning Arbitrary Shapes from Point Clouds](https://arxiv.org/abs/2410.18477) — `reconstruction` — [code](https://github.com/chuanxiang-yang/S2DF)
 - [NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds](https://arxiv.org/abs/2411.17392) — `reconstruction`
+- [Unsupervised 3D Point Cloud Completion via Multi-view Adversarial Learning](https://arxiv.org/abs/2407.09786) — `completion` `reconstruction` `self-supervised` `robustness`
+- [HoloGS: Instant Depth-based 3D Gaussian Splatting with Microsoft HoloLens 2](https://arxiv.org/abs/2405.02005) — `reconstruction` `gaussian-splatting`
+- [3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion](https://arxiv.org/abs/2404.07106) — `completion` `reconstruction`
+- [A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes](https://arxiv.org/abs/2407.02830) — `detection` `reconstruction` `autonomous driving`
+- [Anisotropic Gauss Reconstruction for Unoriented Point Clouds](https://arxiv.org/abs/2405.17193) — `reconstruction`
 - [CAD-Recode: Reverse Engineering CAD Code from Point Clouds](https://arxiv.org/abs/2412.14042) — `reconstruction`
 - [CLIP-GS: Unifying Vision-Language Representation with 3D Gaussian Splatting](https://arxiv.org/abs/2412.19142) — `reconstruction` `gaussian-splatting` `vision-language`
+- [D-NPC: Dynamic Neural Point Clouds for Non-Rigid View Synthesis from Monocular Video](https://arxiv.org/abs/2406.10078) — `reconstruction` `monocular`
 - [Dense Point Clouds Matter: Dust-GS for Scene Reconstruction from Sparse Viewpoints](https://arxiv.org/abs/2409.08613) — `reconstruction` `gaussian-splatting`
 - [DiffCom: Decoupled Sparse Priors Guided Diffusion Compression for Point Clouds](https://arxiv.org/abs/2411.13860) — `reconstruction` `compression`
+- [DiffPoint: Single and Multi-view Point Cloud Reconstruction with ViT Based Diffusion Model](https://arxiv.org/abs/2402.11241) — `generation` `reconstruction`
+- [Diffusing Winding Gradients (DWG): A Parallel and Scalable Method for 3D Reconstruction from Unoriented Point Clouds](https://arxiv.org/abs/2405.13839) — `reconstruction`
 - [DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting](https://arxiv.org/abs/2408.13972) — `reconstruction` `gaussian-splatting` — [code](https://github.com/Open3DVLab/DynaSurfGS)
 - [EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera](https://arxiv.org/abs/2412.11680) — `reconstruction` `upsampling`
+- [Enhanced 3D Urban Scene Reconstruction and Point Cloud Densification using Gaussian Splatting and Google Earth Imagery](https://arxiv.org/abs/2405.11021) — `reconstruction` `gaussian-splatting` `upsampling`
 - [Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration](https://arxiv.org/abs/2410.05729) — `registration` `reconstruction`
 - [ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion](https://arxiv.org/abs/2410.06613) — `completion` `reconstruction` `gaussian-splatting`
+- [Evaluating Alternatives to SFM Point Cloud Initialization for Gaussian Splatting](https://arxiv.org/abs/2404.12547) — `reconstruction` `gaussian-splatting`
+- [Few-shot point cloud reconstruction and denoising via learned Guassian splats renderings and fine-tuned diffusion features](https://arxiv.org/abs/2404.01112) — `reconstruction` `denoising`
+- [FPGA-Accelerated Correspondence-free Point Cloud Registration with PointNet Features](https://arxiv.org/abs/2404.01237) — `registration` `reconstruction`
+- [GaussianRoom: Improving 3D Gaussian Splatting with SDF Guidance and Monocular Cues for Indoor Scene Reconstruction](https://arxiv.org/abs/2405.19671) — `reconstruction` `gaussian-splatting` `monocular`
+- [GauU-Scene: A Scene Reconstruction Benchmark on Large Scale 3D Reconstruction Dataset Using Gaussian Splatting](https://arxiv.org/abs/2401.14032) — `reconstruction` `gaussian-splatting` `dataset`
+- [GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields](https://arxiv.org/abs/2407.05597) — `registration` `reconstruction` `nerf`
+- [iBA: Backdoor Attack on 3D Point Cloud via Reconstructing Itself](https://arxiv.org/abs/2403.05847) — `reconstruction`
+- [Incremental Multiview Point Cloud Registration](https://arxiv.org/abs/2407.05021) — `registration` `reconstruction`
+- [INPC: Implicit Neural Point Clouds for Radiance Field Rendering](https://arxiv.org/abs/2403.16862) — `reconstruction`
+- [LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image](https://arxiv.org/abs/2405.15622) — `generation` `reconstruction`
 - [Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control](https://arxiv.org/abs/2408.00599) — `reconstruction` `compression` `multi-modal`
+- [LFS-Aware Surface Reconstruction from Unoriented 3D Point Clouds](https://arxiv.org/abs/2403.13924) — `reconstruction`
 - [LI-GS: Gaussian Splatting with LiDAR Incorporated for Accurate Large-Scale Reconstruction](https://arxiv.org/abs/2409.12899) — `reconstruction` `gaussian-splatting`
 - [LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues](https://arxiv.org/abs/2410.22213) — `registration` `slam` `reconstruction` `robustness`
+- [Masked Generative Extractor for Synergistic Representation and 3D Generation of Point Clouds](https://arxiv.org/abs/2406.17342) — `generation` `reconstruction`
+- [MergeNet: Explicit Mesh Reconstruction from Sparse Point Clouds via Edge Prediction](https://arxiv.org/abs/2407.11610) — `reconstruction`
 - [MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing](https://arxiv.org/abs/2411.16773) — `registration` `segmentation` `reconstruction` `denoising`
+- [MLS2LoD3: Refining low LoDs building models with MLS point clouds to reconstruct semantic LoD3 building models](https://arxiv.org/abs/2402.06288) — `detection` `reconstruction`
+- [MVSBoost: An Efficient Point Cloud-based 3D Reconstruction](https://arxiv.org/abs/2406.13515) — `reconstruction` `efficiency`
 - [Neural Surface Reconstruction and Rendering for LiDAR-Visual Systems](https://arxiv.org/abs/2409.05310) — `reconstruction` `nerf`
 - [ObitoNet: Multimodal High-Resolution Point Cloud Reconstruction](https://arxiv.org/abs/2412.18775) — `reconstruction` `multi-modal`
+- [PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments](https://arxiv.org/abs/2402.09325) — `reconstruction` `nerf` `autonomous driving`
+- [PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction](https://arxiv.org/abs/2406.06521) — `reconstruction` `gaussian-splatting` `efficiency`
 - [PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection](https://arxiv.org/abs/2412.12617) — `detection` `reconstruction` `anomaly detection`
 - [Point Cloud Denoising With Fine-Granularity Dynamic Graph Convolutional Networks](https://arxiv.org/abs/2411.14158) — `reconstruction` `denoising`
 - [Point Cloud to Mesh Reconstruction: Methods, Trade-offs, and Implementation Guide](https://arxiv.org/abs/2412.10977) — `reconstruction`
+- [Point-JEPA: A Joint Embedding Predictive Architecture for Self-Supervised Learning on Point Cloud](https://arxiv.org/abs/2404.16432) — `reconstruction` `self-supervised`
+- [Point2Building: Reconstructing Buildings from Airborne LiDAR Point Clouds](https://arxiv.org/abs/2403.02136) — `reconstruction`
+- [PointDreamer: Zero-shot 3D Textured Mesh Reconstruction from Colored Point Cloud](https://arxiv.org/abs/2406.15811) — `reconstruction` `open-vocabulary`
 - [PointPatchRL -- Masked Reconstruction Improves Reinforcement Learning on Point Clouds](https://arxiv.org/abs/2410.18800) — `reconstruction`
+- [Pre-training Point Cloud Compact Model with Partial-aware Reconstruction](https://arxiv.org/abs/2407.09344) — `reconstruction` `pre-training`
 - [PX2Tooth: Reconstructing the 3D Point Cloud Teeth from a Single Panoramic X-ray](https://arxiv.org/abs/2411.03725) — `reconstruction`
+- [RecNet: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction](https://arxiv.org/abs/2402.02192) — `localization` `reconstruction`
+- [Reconstructing facade details using MLS point clouds and Bag-of-Words approach](https://arxiv.org/abs/2402.06521) — `reconstruction`
+- [Relaxing Accurate Initialization Constraint for 3D Gaussian Splatting](https://arxiv.org/abs/2403.09413) — `reconstruction` `gaussian-splatting`
+- [REPS: Reconstruction-based Point Cloud Sampling](https://arxiv.org/abs/2403.05047) — `generation` `reconstruction` — [code](https://github.com/hitcslj/REPS)
+- [Rethinking Data Input for Point Cloud Upsampling](https://arxiv.org/abs/2407.04476) — `segmentation` `reconstruction` `upsampling`
+- [Self-Calibrating 4D Novel View Synthesis from Monocular Videos Using Gaussian Splatting](https://arxiv.org/abs/2406.01042) — `reconstruction` `nerf` `gaussian-splatting` `monocular` — [code](https://github.com/fangli333/SC-4DGS)
+- [Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model](https://arxiv.org/abs/2407.12319) — `segmentation` `reconstruction`
+- [Sliding Gaussian ball adaptive growth (SlingBAG): point cloud-based iterative algorithm for large-scale 3D photoacoustic imaging](https://arxiv.org/abs/2407.11781) — `reconstruction`
+- [Surface Reconstruction from Point Clouds via Grid-based Intersection Prediction](https://arxiv.org/abs/2403.14085) — `reconstruction`
 ## 2023
 
 - [ALSO: Automotive Lidar Self-supervision by Occupancy estimation](https://arxiv.org/abs/2212.05867) — `reconstruction` `self-supervised`
 - [EventNeRF: Neural Radiance Fields from a Single Colour Event Camera](https://arxiv.org/abs/2206.11896) — `reconstruction` `nerf`
+- [Frequency-Modulated Point Cloud Rendering with Easy Editing](https://arxiv.org/abs/2303.07596) — `reconstruction`
 - [GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training](https://arxiv.org/abs/2305.08808) — `reconstruction` `self-supervised` `pre-training`
 - [Neural Kernel Surface Reconstruction](https://arxiv.org/abs/2305.19590) — `reconstruction`
+- [Temporally Consistent Online Depth Estimation Using Point-Based Fusion](https://arxiv.org/abs/2304.07435) — `reconstruction` — [code](https://github.com/facebookresearch/TemporallyConsistentDepth)
 - [GeoUDF: Surface Reconstruction from 3D Point Clouds via Geometry-guided Distance Representation](https://arxiv.org/abs/2211.16762) — `reconstruction`
 - [GridPull: Towards Scalability in Learning Implicit Representations from 3D Point Clouds](https://arxiv.org/abs/2308.13175) — `reconstruction`
+- [Tetra-NeRF: Representing Neural Radiance Fields Using Tetrahedra](https://arxiv.org/abs/2304.09987) — `reconstruction` `nerf`
 - [Robustifying Generalizable Implicit Shape Networks with a Tunable Non-Parametric Model](https://arxiv.org/abs/2311.12967) — `reconstruction`
 - [Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction](https://arxiv.org/abs/2307.09555) — `reconstruction` `nerf`
 - [Contrastive Predictive Autoencoders for Dynamic Point Cloud Self-Supervised Learning](https://arxiv.org/abs/2305.12959) — `generation` `reconstruction` `self-supervised`
+- [APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction](https://arxiv.org/abs/2305.02893) — `registration` `reconstruction`
 - [MSECNet: Accurate and Robust Normal Estimation for 3D Point Clouds by Multi-Scale Edge Conditioning](https://arxiv.org/abs/2308.02237) — `reconstruction` `normal estimation` `robustness`
 - [Mixing-Denoising Generalizable Occupancy Networks](https://arxiv.org/abs/2311.12125) — `reconstruction` `denoising`
 - [Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud](https://arxiv.org/abs/2311.07357) — `registration` `reconstruction`
+- [Efficient Implicit Neural Reconstruction Using LiDAR](https://arxiv.org/abs/2302.14363) — `registration` `reconstruction` `efficiency`
 - [Incremental Multimodal Surface Mapping via Self-Organizing Gaussian Mixture Models](https://arxiv.org/abs/2309.10900) — `reconstruction` `multi-modal`
 - [A boundary-aware point clustering approach in Euclidean and embedding spaces for roof plane segmentation](https://arxiv.org/abs/2309.03722) — `segmentation` `reconstruction`
 - [PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds](https://arxiv.org/abs/2307.08636) — `classification` `reconstruction`
+- [CherryPicker: Semantic Skeletonization and Topological Reconstruction of Cherry Trees](https://arxiv.org/abs/2304.04708) — `reconstruction` — Workshop
 - [Learnable Chamfer Distance for Point Cloud Reconstruction](https://arxiv.org/abs/2312.16582) — `reconstruction`
 - [$p$-Poisson surface reconstruction in curl-free flow from point clouds](https://arxiv.org/abs/2310.20095) — `reconstruction`
+- [$PC^2$: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D Reconstruction](https://arxiv.org/abs/2302.10668) — `reconstruction` `denoising`
 - [3D objects and scenes classification, recognition, segmentation, and reconstruction using 3D point cloud data: A review](https://arxiv.org/abs/2306.05978) — `segmentation` `classification` `reconstruction`
 - [A Conditional Denoising Diffusion Probabilistic Model for Point Cloud Upsampling](https://arxiv.org/abs/2312.02719) — `classification` `reconstruction` `upsampling` `denoising`
+- [A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds](https://arxiv.org/abs/2301.13656) — `reconstruction` `dataset`
 - [Artificial Neural Network for Estimation of Physical Parameters of Sea Water using LiDAR Waveforms](https://arxiv.org/abs/2312.10068) — `detection` `reconstruction`
 - [Automatic extraction and 3D reconstruction of split wire from point cloud data based on improved DPC algorithm](https://arxiv.org/abs/2401.08587) — `reconstruction`
+- [CircNet: Meshing 3D Point Clouds with Circumcenter Detection](https://arxiv.org/abs/2301.09253) — `detection` `reconstruction`
 - [Colmap-PCD: An Open-source Tool for Fine Image-to-point cloud Registration](https://arxiv.org/abs/2310.05504) — `registration` `reconstruction` `monocular`
+- [CP+: Camera Poses Augmentation with Large-scale LiDAR Maps](https://arxiv.org/abs/2302.12198) — `reconstruction`
 - [DiffPMAE: Diffusion Masked Autoencoders for Point Cloud Reconstruction](https://arxiv.org/abs/2312.03298) — `reconstruction` `compression`
+- [Dynamic Point Cloud Geometry Compression Using Multiscale Inter Conditional Coding](https://arxiv.org/abs/2301.12165) — `reconstruction` `compression`
+- [Edge Preserving Implicit Surface Representation of Point Clouds](https://arxiv.org/abs/2301.04860) — `reconstruction`
 - [Evaluating the point cloud of individual trees generated from images based on Neural Radiance fields (NeRF) method](https://arxiv.org/abs/2312.03372) — `reconstruction` `nerf`
 - [Fast Point Cloud to Mesh Reconstruction for Deformable Object Tracking](https://arxiv.org/abs/2311.02749) — `tracking` `reconstruction`
+- [Feature-assisted interactive geometry reconstruction in 3D point clouds using incremental region growing](https://arxiv.org/abs/2304.05109) — `reconstruction`
+- [Few-Shot 3D Point Cloud Semantic Segmentation via Stratified Class-Specific Attention Based Transformer Network](https://arxiv.org/abs/2303.15654) — `segmentation` `reconstruction`
 - [High-Resolution Cranial Defect Reconstruction by Iterative, Low-Resolution, Point Cloud Completion Transformers](https://arxiv.org/abs/2308.03813) — `completion` `reconstruction` `anomaly detection`
 - [LieDetect: Detection of representation orbits of compact Lie groups from point clouds](https://arxiv.org/abs/2309.03086) — `detection` `reconstruction`
 - [Lightweight super resolution network for point cloud geometry compression](https://arxiv.org/abs/2311.00970) — `reconstruction` `compression` `upsampling` `efficiency`
@@ -181,24 +331,32 @@
 - [Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping](https://arxiv.org/abs/2312.15630) — `reconstruction` `efficiency`
 - [Multi-class point cloud completion networks for 3D cardiac anatomy reconstruction from cine magnetic resonance images](https://arxiv.org/abs/2307.08535) — `completion` `reconstruction`
 - [MV-DeepSDF: Implicit Modeling with Multi-Sweep Point Clouds for 3D Vehicle Reconstruction in Autonomous Driving](https://arxiv.org/abs/2309.16715) — `reconstruction` `autonomous driving`
+- [NeRF-LiDAR: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields](https://arxiv.org/abs/2304.14811) — `reconstruction` `nerf` `autonomous driving`
 - [Neural Poisson Surface Reconstruction: Resolution-Agnostic Shape Reconstruction from Point Clouds](https://arxiv.org/abs/2308.01766) — `reconstruction`
 - [Neural-Singular-Hessian: Implicit Neural Representation of Unoriented Point Clouds by Enforcing Singular Hessian](https://arxiv.org/abs/2309.01793) — `reconstruction`
 - [NeuSG: Neural Implicit Surface Reconstruction with 3D Gaussian Splatting Guidance](https://arxiv.org/abs/2312.00846) — `reconstruction` `gaussian-splatting`
+- [NoiseTrans: Point Cloud Denoising with Transformers](https://arxiv.org/abs/2304.11812) — `reconstruction` `denoising`
 - [Optimizing Implicit Neural Representations from Point Clouds via Energy-Based Models](https://arxiv.org/abs/2311.02601) — `reconstruction`
 - [P2CADNet: An End-to-End Reconstruction Network for Parametric 3D CAD Model from Point Clouds](https://arxiv.org/abs/2310.02638) — `reconstruction`
 - [PBWR: Parametric Building Wireframe Reconstruction from Aerial LiDAR Point Clouds](https://arxiv.org/abs/2311.12062) — `reconstruction`
+- [Point Cloud Data Simulation and Modelling with Aize Workspace](https://arxiv.org/abs/2301.07947) — `segmentation` `reconstruction`
 - [Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds](https://arxiv.org/abs/2312.04962) — `segmentation` `reconstruction`
 - [Polyhedral Surface: Self-supervised Point Cloud Reconstruction Based on Polyhedral Surface](https://arxiv.org/abs/2310.14560) — `reconstruction` `self-supervised`
 - [Select-and-Combine (SAC): A Novel Multi-Stereo Depth Fusion Algorithm for Point Cloud Generation via Efficient Local Markov Netlets](https://arxiv.org/abs/2308.12138) — `generation` `reconstruction` `efficiency`
 - [SG-GAN: Fine Stereoscopic-Aware Generation for 3D Brain Point Cloud Up-sampling from a Single Image](https://arxiv.org/abs/2305.12646) — `generation` `reconstruction`
+- [StarNet: Style-Aware 3D Point Cloud Generation](https://arxiv.org/abs/2303.15805) — `generation` `reconstruction`
 - [Template-free Articulated Neural Point Clouds for Reposable View Synthesis](https://arxiv.org/abs/2305.19065) — `reconstruction` `nerf`
 - [Tensorformer: Normalized Matrix Attention Transformer for High-quality Point Cloud Reconstruction](https://arxiv.org/abs/2306.15989) — `reconstruction`
 - [UNeR3D: Versatile and Scalable 3D RGB Point Cloud Generation from 2D Images in Unsupervised Reconstruction](https://arxiv.org/abs/2312.06706) — `generation` `reconstruction`
+- [Volumetric Attribute Compression for 3D Point Clouds using Feedforward Network with Geometric Attention](https://arxiv.org/abs/2304.00335) — `reconstruction` `compression`
 ## 2022
 
 - [Critical Regularizations for Neural Surface Reconstruction in the Wild](https://arxiv.org/abs/2206.03087) — `reconstruction`
+- [POCO: Point Convolution for Surface Reconstruction](https://arxiv.org/abs/2201.01831) — `reconstruction`
+- [Point-NeRF: Point-based Neural Radiance Fields](https://arxiv.org/abs/2201.08845) — `reconstruction` `nerf`
 - [Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors](https://arxiv.org/abs/2204.10603) — `reconstruction`
 - [Surface Reconstruction from Point Clouds by Learning Predictive Context Priors](https://arxiv.org/abs/2204.11015) — `reconstruction`
+- [Towards realistic symmetry-based completion of previously unseen point clouds](https://arxiv.org/abs/2201.01858) — `completion` `reconstruction`
 - [Capturing, Reconstructing, and Simulating: the UrbanScene3D Dataset](https://arxiv.org/abs/2107.04286) — `reconstruction` `dataset`
 - [Dynamic 3D Scene Analysis by Point Cloud Accumulation](https://arxiv.org/abs/2207.12394) — `segmentation` `reconstruction`
 - [Few 'Zero Level Set'-Shot Learning of Shape Signed Distance Functions in Feature Space](https://arxiv.org/abs/2207.04161) — `reconstruction`
@@ -210,6 +368,7 @@
 - [SCONE: Surface Coverage Optimization in Unknown Environments by Volumetric Integration](https://arxiv.org/abs/2208.10449) — `reconstruction` — [code](https://github.com/Anttwo/SCONE)
 - [SNAKE: Shape-aware Neural 3D Keypoint Field](https://arxiv.org/abs/2206.01724) — `detection` `reconstruction` — [code](https://github.com/zhongcl-thu/SNAKE)
 - [Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion](https://arxiv.org/abs/2204.09186) — `completion` `reconstruction`
+- [NeuralTailor: Reconstructing Sewing Pattern Structures from 3D Point Clouds of Garments](https://arxiv.org/abs/2201.13063) — `reconstruction`
 - [RFEPS: Reconstructing Feature-line Equipped Polygonal Surface](https://arxiv.org/abs/2212.03600) — `reconstruction`
 - [PointInverter: Point Cloud Reconstruction and Editing via a Generative Model with Shape Priors](https://arxiv.org/abs/2211.08702) — `generation` `reconstruction`
 - [PointNeuron: 3D Neuron Reconstruction via Geometry and Topology Learning of Point Clouds](https://arxiv.org/abs/2210.08305) — `segmentation` `reconstruction`
@@ -220,6 +379,10 @@
 - [3D-OAE: Occlusion Auto-Encoders for Self-Supervised Learning on Point Clouds](https://arxiv.org/abs/2203.14084) — `reconstruction` `self-supervised` — [code](https://github.com/junshengzhou/3D-OAE)
 - [Automated Reconstruction of 3D Open Surfaces from Sparse Point Clouds](https://arxiv.org/abs/2210.15059) — `reconstruction` — Workshop
 - [CARNet:Compression Artifact Reduction for Point Cloud Attribute](https://arxiv.org/abs/2209.08276) — `reconstruction` `compression`
+- [City3D: Large-Scale Building Reconstruction from Airborne LiDAR Point Clouds](https://arxiv.org/abs/2201.10276) — `reconstruction`
+- [CP-Net: Contour-Perturbed Reconstruction Network for Self-Supervised Point Cloud Learning](https://arxiv.org/abs/2201.08215) — `classification` `reconstruction` `self-supervised`
+- [Deep Point Cloud Simplification for High-quality Surface Reconstruction](https://arxiv.org/abs/2203.09088) — `reconstruction`
+- [Deep Surface Reconstruction from Point Clouds with Visibility Information](https://arxiv.org/abs/2202.01810) — `reconstruction`
 - [Dynamic Point Cloud Denoising via Gradient Fields](https://arxiv.org/abs/2204.08755) — `reconstruction` `denoising` `autonomous driving`
 - [Fast-Image2Point: Towards Real-Time Point Cloud Reconstruction of a Single Image using 3D Supervision](https://arxiv.org/abs/2209.10029) — `reconstruction` `efficiency`
 - [From a few Accurate 2D Correspondences to 3D Point Clouds](https://arxiv.org/abs/2206.08749) — `reconstruction`
@@ -228,12 +391,15 @@
 - [Large-Scale LiDAR Consistent Mapping using Hierachical LiDAR Bundle Adjustment](https://arxiv.org/abs/2209.11939) — `reconstruction`
 - [Learning Dense Features for Point Cloud Registration Using a Graph Attention Network](https://arxiv.org/abs/2206.06731) — `registration` `tracking` `localization` `reconstruction`
 - [Multi-view Point Cloud Registration based on Evolutionary Multitasking with Bi-Channel Knowledge Sharing Mechanism](https://arxiv.org/abs/2205.02996) — `registration` `reconstruction`
+- [Multiview point cloud registration with anisotropic and space-varying localization noise](https://arxiv.org/abs/2201.00708) — `registration` `localization` `reconstruction`
 - [No-reference Point Cloud Geometry Quality Assessment Based on Pairwise Rank Learning](https://arxiv.org/abs/2211.01205) — `reconstruction` `denoising`
 - [Point Cloud Scene Completion with Joint Color and Semantic Estimation from Single RGB-D Image](https://arxiv.org/abs/2210.05891) — `segmentation` `completion` `reconstruction`
 - [PU-EVA: An Edge Vector based Approximation Solution for Flexible-scale Point Cloud Upsampling](https://arxiv.org/abs/2204.10750) — `reconstruction` `upsampling`
 - [RangeUDF: Semantic Surface Reconstruction from 3D Point Clouds](https://arxiv.org/abs/2204.09138) — `reconstruction`
+- [Reconstruction of Power Lines from Point Clouds](https://arxiv.org/abs/2201.12499) — `reconstruction`
 - [Robust Structured Declarative Classifiers for 3D Point Clouds: Defending Adversarial Attacks with Implicit Gradients](https://arxiv.org/abs/2203.15245) — `classification` `reconstruction` `denoising` `robustness`
 - [Semi-signed prioritized neural fitting for surface reconstruction from unoriented point clouds](https://arxiv.org/abs/2206.06715) — `reconstruction`
+- [Sketch-based 3D Shape Modeling from Sparse Point Clouds](https://arxiv.org/abs/2201.11287) — `reconstruction` — Workshop
 - [Surface Reconstruction from Point Clouds: A Survey and a Benchmark](https://arxiv.org/abs/2205.02413) — `reconstruction` `dataset`
 - [Tracking and Reconstructing Hand Object Interactions from Point Cloud Sequences in the Wild](https://arxiv.org/abs/2209.12009) — `tracking` `reconstruction`
 ## 2021

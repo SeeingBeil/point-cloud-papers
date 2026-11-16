@@ -1,11 +1,17 @@
 # 3D Object Detection · `detection`
 
-共 **430** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **637** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2026
 
+- [A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection](https://arxiv.org/abs/2603.25159) — `detection` `localization` `reconstruction` `anomaly detection`
+- [Back to Point: Exploring Point-Language Models for Zero-Shot 3D Anomaly Detection](https://arxiv.org/abs/2603.21511) — `detection` `open-vocabulary` `anomaly detection`
+- [Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal](https://arxiv.org/abs/2603.28224) — `detection` `localization` `autonomous driving` `dataset`
+- [GS-CLIP: Zero-shot 3D Anomaly Detection by Geometry-Aware Prompt and Synergistic View Representation Learning](https://arxiv.org/abs/2602.19206) — `detection` `open-vocabulary` `anomaly detection`
+- [On the Feasibility and Opportunity of Autoregressive 3D Object Detection](https://arxiv.org/abs/2603.07985) — `detection` `generation`
+- [Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models](https://arxiv.org/abs/2605.05372) — `detection` `anomaly detection` `efficiency` — Workshop
 - [C2E: Boosting Ego-Only 3D Object Detection via Multi-Teacher Contrastive Knowledge Distillation](https://arxiv.org/abs/2607.01827) — `detection` `autonomous driving`
 - [Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2607.02074) — `detection` `autonomous driving` `robustness`
 - [Coordinate Frame Recovery, Per Class NMS and Null Return Modelling for Sim2Real V2X LiDAR Detection](https://arxiv.org/abs/2611.03940) — `detection` — [code](https://github.com/amanupg/urbantwin-sim2real-v2x) Workshop
@@ -24,48 +30,81 @@
 - [GEKey: Learning Geodesic Eccentric 3D Keypoints via Self-Supervision](https://arxiv.org/abs/2611.07677) — `detection`
 - [ReFineR: Single image to dense point cloud registration at pixel level with point splatting](https://arxiv.org/abs/2611.16583) — `registration` `detection`
 - [Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model](https://arxiv.org/abs/2607.06896) — `detection` `tracking` `slam` — Workshop
+- [PIRATR: Parametric Object Inference for Robotic Applications with Transformers in 3D Point Clouds](https://arxiv.org/abs/2602.05557) — `detection` `localization`
 - [DeeperRadar: End-to-End MIMO Radar Design and Multi-Modal Fusion for Autonomous Vehicle Perception](https://arxiv.org/abs/2607.17351) — `detection` `multi-modal`
 - [Leveraging Vision-Based Point Cloud Map Priors for Camera-Based 3D Object Detection and Online Vectorized HD Mapping](https://arxiv.org/abs/2609.26325) — `detection` `autonomous driving` — Workshop
 - [Geometry-Aware Fisheye-LiDAR Fusion for Robust 3D Object Detection in Low-Overlap Setups](https://arxiv.org/abs/2606.08844) — `detection` `robustness`
+- [LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2601.09812) — `detection` `autonomous driving` `robustness` `efficiency`
 - [Physics-inspired Pseudo Anomaly Generation and Prototype Feature Guidance for 3D Anomaly Detection](https://arxiv.org/abs/2607.10544) — `detection` `generation` `anomaly detection`
+- [3DTMDet: A Dual-Path Synergy Network of Transformer and SSM for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2605.15546) — `detection`
 - [A Systematic Point Cloud Edge Detection Framework for Automatic Aircraft Skin Milling](https://arxiv.org/abs/2611.04435) — `detection`
 - [A Vendor-Agnostic LiDAR Data Conversion System with Multi-Signal Detection and Multi-Format Output](https://arxiv.org/abs/2606.22881) — `detection`
 - [ACZ-GSeg: Adaptive Concentric Zone-based Two-stage Ground Segmentation for LiDAR Point Clouds](https://arxiv.org/abs/2607.12110) — `segmentation` `detection`
+- [An Open-Source LiDAR and Monocular Off-Road Autonomous Navigation Stack](https://arxiv.org/abs/2604.03096) — `detection` `monocular`
+- [Annotation-Free Detection of Drivable Areas and Curbs Leveraging LiDAR Point Cloud Maps](https://arxiv.org/abs/2603.27553) — `detection` `autonomous driving`
 - [Boundary Detection for High-Dimensional Point Clouds](https://arxiv.org/abs/2610.23590) — `detection`
 - [Camera and LiDAR BEV Fusion for Cooperative 3D Object Detection on TUMTraf V2X](https://arxiv.org/abs/2606.12981) — `detection` `BEV`
 - [CedarCypress3D: an annotated UAV-LiDAR dataset of individual trees in planted cedar and cypress forests](https://arxiv.org/abs/2608.30149) — `detection` `dataset`
 - [Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration](https://arxiv.org/abs/2607.17200) — `registration` `detection` `efficiency`
 - [Cyclops: LiDAR as a Camera That Dreams in Color](https://arxiv.org/abs/2608.16264) — `detection` — [code](https://github.com/IMRL/Cyclops)
 - [Depth-Semantic Alignment and Affinity-Guided Fusion for Structured Radar Point Cloud Generation](https://arxiv.org/abs/2606.26743) — `detection` `tracking` `generation` `multi-modal`
+- [EdgeFormer: local patch-based edge detection transformer on point clouds](https://arxiv.org/abs/2604.21387) — `detection`
+- [Fast Attention-Based Simplification of LiDAR Point Clouds for Object Detection and Classification](https://arxiv.org/abs/2603.07593) — `detection` `classification` `autonomous driving`
+- [FlowCalib: LiDAR-to-Vehicle Miscalibration Detection using Scene Flows](https://arxiv.org/abs/2601.23107) — `detection` `autonomous driving`
 - [Fog-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Recovering Fog-Hidden Objects](https://arxiv.org/abs/2611.16742) — `detection` `autonomous driving` `dataset`
+- [GDPR-Compliant Person Recognition in Industrial Environments Using MEMS-LiDAR and Hybrid Data](https://arxiv.org/abs/2602.01764) — `detection`
+- [GSeg3D: A High-Precision Grid-Based Algorithm for Safety-Critical Ground Segmentation in LiDAR Point Clouds](https://arxiv.org/abs/2603.04208) — `segmentation` `detection` `autonomous driving`
+- [HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds](https://arxiv.org/abs/2602.11554) — `detection` `multi-modal`
 - [Illumination-Invariant Anomaly Detection for Sub-Canopy UAV Multispectral Point Clouds](https://arxiv.org/abs/2606.09111) — `detection` `anomaly detection`
+- [Integrating Object Detection, LiDAR-Enhanced Depth Estimation, and Segmentation Models for Railway Environments](https://arxiv.org/abs/2604.14781) — `segmentation` `detection`
 - [IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection](https://arxiv.org/abs/2608.14394) — `detection` `autonomous driving` `multi-modal` `efficiency`
 - [Learning to Suppress SPAD-based LiDAR Flare](https://arxiv.org/abs/2607.03247) — `detection`
+- [Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking](https://arxiv.org/abs/2604.25405) — `detection` `tracking` `localization` `autonomous driving`
+- [LiDAR for Crowd Management: Applications, Benefits, and Future Directions](https://arxiv.org/abs/2603.27663) — `detection`
+- [LIORNet: Self-Supervised LiDAR Snow Removal Framework for Autonomous Driving under Adverse Weather Conditions](https://arxiv.org/abs/2603.19936) — `detection` `self-supervised` `autonomous driving`
+- [LmPT: Conditional Point Transformer for Anatomical Landmark Detection on 3D Point Clouds](https://arxiv.org/abs/2602.02808) — `detection`
 - [Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration](https://arxiv.org/abs/2609.18088) — `registration` `detection` `self-supervised`
 - [Multi-level latent-diffusion adaptation for cross-region point cloud segmentation of ancient terraces](https://arxiv.org/abs/2611.18033) — `segmentation` `detection`
+- [Neuromorphic LiDAR-based Bird's Eye View Object Detection using Energy-efficient Spiking Neural Networks](https://arxiv.org/abs/2605.25293) — `detection` `autonomous driving` `efficiency`
 - [On Exploring Input Resolution Scaling For Anytime LiDAR Object Detection](https://arxiv.org/abs/2607.08391) — `detection`
+- [One Shot Learning for Edge Detection on Point Clouds](https://arxiv.org/abs/2604.22354) — `detection`
 - [PC$^2$-AD: Point Cloud Upsampling to Safeguard 3D Anomaly Detection with Resolution-constrained Edge Devices](https://arxiv.org/abs/2609.14722) — `detection` `upsampling` `anomaly detection` — [code](https://github.com/gyutong406-commits/PC2-AD)
 - [Point Cloud Diffusion with Global and Local Reconstruction for Instance-Level 3D Anomaly Detection](https://arxiv.org/abs/2606.25740) — `detection` `reconstruction` `anomaly detection`
+- [Point Cloud Feature Coding for Object Detection over an Error-Prone Cloud-Edge Collaborative System](https://arxiv.org/abs/2603.03890) — `detection`
 - [Provisioning Robust and Efficient LiDAR Perception for Autonomous Driving](https://arxiv.org/abs/2610.27617) — `detection` `autonomous driving` `robustness` `efficiency`
+- [Random Walk on Point Clouds for Feature Detection](https://arxiv.org/abs/2604.20474) — `detection`
 - [Robust Reconstruction of Power Lines from Incomplete Mobile and Aerial LiDAR Data](https://arxiv.org/abs/2611.05197) — `detection` `reconstruction` `robustness`
 - [RoughSense: Lightweight Terrain-Induced Rover Vibration Prediction Using Point Clouds and IMU Feedback](https://arxiv.org/abs/2609.03720) — `detection` `efficiency`
+- [SC-MII: Infrastructure LiDAR-based 3D Object Detection on Edge Devices for Split Computing with Multiple Intermediate Outputs Integration](https://arxiv.org/abs/2601.07119) — `detection` `autonomous driving`
 - [Shape-Prior-Based Point Cloud Completion for Single-Stage Fully Sparse 3D Object Detection](https://arxiv.org/abs/2606.00688) — `detection` `completion` `autonomous driving`
 - [Solution for UCF UrbanTwin LUMPI Track: Sim-to-Real Urban LiDAR 3D Object Detection](https://arxiv.org/abs/2609.07590) — `detection`
 - [Solution for UCF UrbanTwin V2X-Real Track: Sim-to-Real Urban LiDAR 3D Object Detection](https://arxiv.org/abs/2609.07608) — `detection`
+- [Sub-Footprint Effect Correction in FW-LiDAR Point Clouds via Intra-Footprint Target Unmixing](https://arxiv.org/abs/2605.09845) — `detection`
+- [Systematic Evaluation of Depth Backbones and Semantic Cues for Monocular Pseudo-LiDAR 3D Detection](https://arxiv.org/abs/2601.03617) — `detection` `monocular`
+- [TriBand-BEV: Real-Time LiDAR-Only 3D Pedestrian Detection via Height-Aware BEV and High-Resolution Feature Fusion](https://arxiv.org/abs/2605.12220) — `detection` `BEV` `efficiency`
 - [Uncertainty Evaluation to Support Safety of the Intended Functionality Analysis for Determining the Applicability of Performance Targets Across Triggering Conditions in ML-Based LiDAR Object Detection](https://arxiv.org/abs/2610.35092) — `detection`
 - [ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models](https://arxiv.org/abs/2607.12959) — `detection` `BEV`
 - [Viking Hill Dataset: A Lidar-Radar-Camera Dataset for Detection and Segmentation in Forest Scenes](https://arxiv.org/abs/2606.19154) — `segmentation` `detection` `multi-modal` `dataset`
 - [When Point Clouds Outperform Pixels: Rethinking Zero-Shot Multimodal Anomaly Detection](https://arxiv.org/abs/2609.25793) — `detection` `localization` `open-vocabulary` `multi-modal`
 ## 2025
 
+- [3D-AVS: LiDAR-based 3D Auto-Vocabulary Segmentation](https://arxiv.org/abs/2406.09126) — `segmentation` `detection` `open-vocabulary` — Workshop
+- [Ev-3DOD: Pushing the Temporal Boundaries of 3D Object Detection with Event Cameras](https://arxiv.org/abs/2502.19630) — `detection` `autonomous driving`
+- [GBlobs: Explicit Local Structure via Gaussian Blobs for Improved Cross-Domain LiDAR-based 3D Object Detection](https://arxiv.org/abs/2503.08639) — `detection`
+- [PF3Det: A Prompted Foundation Feature Assisted Visual LiDAR 3D Detector](https://arxiv.org/abs/2504.03563) — `detection` `autonomous driving` — Workshop
+- [Real-IAD MVN: A Multi-View Normal Vector Dataset and Benchmark for High-Fidelity Industrial Anomaly Detection](https://arxiv.org/abs/2605.07149) — `detection` `anomaly detection` `dataset`
+- [SAB3R: Semantic-Augmented Backbone in 3D Reconstruction](https://arxiv.org/abs/2506.02112) — `segmentation` `detection` `reconstruction` `open-vocabulary`
 - [V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection](https://arxiv.org/abs/2411.08402) — `detection` `denoising` `multi-modal`
+- [ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving](https://arxiv.org/abs/2504.03438) — `detection` `autonomous driving` `multi-modal`
 - [CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection](https://arxiv.org/abs/2506.21364) — `registration` `detection`
+- [DeSPITE: Exploring Contrastive Deep Skeleton-Pointcloud-IMU-Text Embeddings for Advanced Point Cloud Human Activity Understanding](https://arxiv.org/abs/2506.13897) — `detection`
 - [DoppDrive: Doppler-Driven Temporal Aggregation for Improved Radar Object Detection](https://arxiv.org/abs/2508.12330) — `detection` `autonomous driving` `multi-modal`
 - [Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation](https://arxiv.org/abs/2506.22375) — `detection`
 - [OpenM3D: Open Vocabulary Multi-view Indoor 3D Object Detection without Human Annotations](https://arxiv.org/abs/2508.20063) — `detection` `open-vocabulary`
 - [Rethinking Backbone Design for Lightweight 3D Object Detection in LiDAR](https://arxiv.org/abs/2508.00744) — `detection` `autonomous driving` `efficiency` — Workshop
 - [Robust 3D Object Detection using Probabilistic Point Clouds from Single-Photon LiDARs](https://arxiv.org/abs/2508.00169) — `detection` `robustness`
 - [Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge](https://arxiv.org/abs/2507.04123) — `detection` `autonomous driving` `efficiency`
+- [Unpaired Translation of Point Clouds for Modeling Detector Response](https://arxiv.org/abs/2501.18674) — `detection` — Workshop
 - [A New Adversarial Perspective for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2412.13017) — `detection` `robustness`
 - [HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection](https://arxiv.org/abs/2412.11489) — `detection` `generation` `autonomous driving` `multi-modal`
 - [L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection](https://arxiv.org/abs/2408.03677) — `detection` `robustness`
@@ -74,10 +113,14 @@
 - [PointCFormer: a Relation-based Progressive Feature Extraction Network for Point Cloud Completion](https://arxiv.org/abs/2412.08421) — `segmentation` `detection` `completion`
 - [RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection](https://arxiv.org/abs/2412.12799) — `detection` `multi-modal`
 - [SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection](https://arxiv.org/abs/2412.14571) — `detection` `multi-modal`
+- [SSLFusion: Scale & Space Aligned Latent Fusion Model for Multimodal 3D Object Detection](https://arxiv.org/abs/2504.05170) — `detection` `multi-modal`
 - [Enhancing Pseudo-Boxes via Data-Level LiDAR-Camera Fusion for Unsupervised 3D Object Detection](https://arxiv.org/abs/2508.20530) — `detection` `generation` `multi-modal`
 - [Investigating Domain Gaps for Indoor 3D Object Detection](https://arxiv.org/abs/2508.17439) — `detection`
 - [MVAT: Multi-View Aware Teacher for Weakly Supervised 3D Object Detection](https://arxiv.org/abs/2509.07507) — `detection`
+- [Towards Streaming LiDAR Object Detection with Point Clouds as Egocentric Sequences](https://arxiv.org/abs/2506.06944) — `detection` `autonomous driving`
+- [M3CAD: Towards Generic Cooperative Autonomous Driving Benchmark](https://arxiv.org/abs/2505.06746) — `detection` `tracking` `autonomous driving` `dataset`
 - [PlaneHEC: Efficient Hand-Eye Calibration for Multi-view Robotic Arm via Any Point Cloud Plane Detection](https://arxiv.org/abs/2507.19851) — `detection` `efficiency`
+- [Class-Aware PillarMix: Can Mixed Sample Data Augmentation Enhance 3D Object Detection with Radar Point Clouds?](https://arxiv.org/abs/2503.02687) — `detection` `multi-modal` — [code](https://github.com/boschresearch/CAPMIX)
 - [CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving](https://arxiv.org/abs/2508.13485) — `detection` `denoising` `autonomous driving` `multi-modal`
 - [GBlobs: Local LiDAR Geometry for Improved Sensor Placement Generalization](https://arxiv.org/abs/2510.18539) — `detection`
 - [mmWave Radar-Based Non-Line-of-Sight Pedestrian Localization at T-Junctions Utilizing Road Layout Extraction via Camera](https://arxiv.org/abs/2508.02348) — `detection` `localization` `autonomous driving` `multi-modal`
@@ -88,91 +131,191 @@
 - [PointSlice: Accurate and Efficient Slice-Based Representation for 3D Object Detection from Point Clouds](https://arxiv.org/abs/2509.01487) — `segmentation` `detection` `autonomous driving` `efficiency`
 - [SFGFusion: Surface Fitting Guided 3D Object Detection with 4D Radar and Camera Fusion](https://arxiv.org/abs/2510.19215) — `detection` `autonomous driving` `multi-modal`
 - [3D forest semantic segmentation using multispectral LiDAR and 3D deep learning](https://arxiv.org/abs/2507.08025) — `segmentation` `detection`
+- [3D Modeling and Automated Measurement of Concrete Cracks via Segment Anything Refinement and Visual Inertial LiDAR Fusion](https://arxiv.org/abs/2501.09203) — `segmentation` `detection` `reconstruction`
 - [3D Point Cloud Object Detection on Edge Devices for Split Computing](https://arxiv.org/abs/2511.02293) — `detection` `autonomous driving`
 - [3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering](https://arxiv.org/abs/2507.13110) — `registration` `detection` `anomaly detection`
+- [A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting](https://arxiv.org/abs/2506.14066) — `segmentation` `detection` `completion`
 - [A Real-Time Multi-Model Parametric Representation of Point Clouds](https://arxiv.org/abs/2509.14773) — `detection` `efficiency`
 - [Adaptive Dual-Weighted Gravitational Point Cloud Denoising Method](https://arxiv.org/abs/2512.10386) — `detection` `reconstruction` `denoising` `autonomous driving`
 - [An Adaptive ICP LiDAR Odometry Based on Reliable Initial Pose](https://arxiv.org/abs/2509.22058) — `registration` `detection` `autonomous driving`
+- [ArrowPose: Segmentation, Detection, and 5 DoF Pose Estimation Network for Colorless Point Clouds](https://arxiv.org/abs/2506.08699) — `segmentation` `detection`
+- [Automated Detection and Analysis of Minor Deformations in Flat Walls Due to Railway Vibrations Using LiDAR and Machine Learning](https://arxiv.org/abs/2501.06457) — `detection`
+- [Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data](https://arxiv.org/abs/2505.05752) — `segmentation` `detection`
+- [Boosting Global-Local Feature Matching via Anomaly Synthesis for Multi-Class Point Cloud Anomaly Detection](https://arxiv.org/abs/2505.07375) — `detection` `anomaly detection`
+- [CaLiV: LiDAR-to-Vehicle Calibration of Arbitrary Sensor Setups](https://arxiv.org/abs/2504.01987) — `detection`
 - [Co-Win: Joint Object Detection and Instance Segmentation in LiDAR Point Clouds via Collaborative Window Processing](https://arxiv.org/abs/2507.19691) — `segmentation` `detection` `BEV`
 - [Deep Imbalanced Multi-Target Regression: 3D Point Cloud Voxel Content Estimation in Simulated Forests](https://arxiv.org/abs/2511.12740) — `detection`
+- [DepthFusion: Depth-Aware Hybrid Feature Fusion for LiDAR-Camera 3D Object Detection](https://arxiv.org/abs/2505.07398) — `detection` `multi-modal`
+- [DetVPCC: RoI-based Point Cloud Sequence Compression for 3D Object Detection](https://arxiv.org/abs/2502.04804) — `detection` `compression`
+- [DINOSTAR: Deep Iterative Neural Object Detector Self-Supervised Training for Roadside LiDAR Applications](https://arxiv.org/abs/2501.17076) — `detection` `self-supervised`
+- [Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps](https://arxiv.org/abs/2501.07399) — `detection` `slam` `localization`
+- [Explainable LiDAR 3D Point Cloud Segmentation and Clustering for Detecting Airplane-Generated Wind Turbulence](https://arxiv.org/abs/2503.00518) — `segmentation` `detection`
+- [Geographical hotspot prediction based on point cloud-voxel-community partition clustering](https://arxiv.org/abs/2503.21084) — `detection`
 - [HyPCV-Former: Hyperbolic Spatio-Temporal Transformer for 3D Point Cloud Video Anomaly Detection](https://arxiv.org/abs/2508.00473) — `detection` `anomaly detection`
 - [IAENet: An Importance-Aware Ensemble Model for 3D Point Cloud-Based Anomaly Detection](https://arxiv.org/abs/2508.20492) — `detection` `anomaly detection`
 - [IEC3D-AD: A 3D Dataset of Industrial Equipment Components for Unsupervised Point Cloud Anomaly Detection](https://arxiv.org/abs/2511.03267) — `detection` `anomaly detection` `dataset`
 - [InfraDiffusion: zero-shot depth map restoration with diffusion models and prompted segmentation from sparse infrastructure point clouds](https://arxiv.org/abs/2509.03324) — `segmentation` `detection` `open-vocabulary`
+- [Intelligent driving vehicle front multi-target tracking and detection based on YOLOv5 and point cloud 3D projection](https://arxiv.org/abs/2504.11310) — `detection` `tracking`
+- [Interpretable Affordance Detection on 3D Point Clouds with Probabilistic Prototypes](https://arxiv.org/abs/2504.18355) — `detection`
 - [LDRFusion: A LiDAR-Dominant multimodal refinement framework for 3D object detection](https://arxiv.org/abs/2507.16224) — `detection` `completion` `multi-modal`
+- [Learning better representations for crowded pedestrians in offboard LiDAR-camera 3D tracking-by-detection](https://arxiv.org/abs/2505.16029) — `detection` `tracking` `generation` `multi-modal`
 - [LiDAR Point Cloud Image-based Generation Using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2509.18917) — `detection` `generation` `denoising`
 - [LiDAR-based 3D Change Detection at City Scale](https://arxiv.org/abs/2510.21112) — `detection`
+- [LiDAR-based Object Detection with Real-time Voice Specifications](https://arxiv.org/abs/2504.02920) — `detection` `efficiency`
+- [LiDAR-Based Vehicle Detection and Tracking for Autonomous Racing](https://arxiv.org/abs/2501.14502) — `detection` `tracking`
 - [Methods for the Segmentation of Reticular Structures Using 3D LiDAR Data: A Comparative Evaluation](https://arxiv.org/abs/2507.20589) — `segmentation` `detection`
+- [MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection](https://arxiv.org/abs/2505.09422) — `detection` `autonomous driving` `multi-modal` `robustness`
 - [Multi-Mapcher: Loop Closure Detection-Free Heterogeneous LiDAR Multi-Session SLAM Leveraging Outlier-Robust Registration for Autonomous Vehicles](https://arxiv.org/abs/2511.00635) — `registration` `detection` `slam` `localization`
+- [MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection](https://arxiv.org/abs/2501.10266) — `detection` `autonomous driving` `multi-modal`
+- [OmniJet-$α_C$: Learning point cloud calorimeter simulations using generative transformers](https://arxiv.org/abs/2501.05534) — `detection` `generation`
 - [On the Impact of LiDAR Point Cloud Compression on Remote Semantic Segmentation](https://arxiv.org/abs/2509.23341) — `segmentation` `detection` `compression`
 - [Out-of-Distribution Detection in LiDAR Semantic Segmentation Using Epistemic Uncertainty from Hierarchical GMMs](https://arxiv.org/abs/2510.08631) — `segmentation` `detection`
 - [PI3DETR: Parametric Instance Detection of 3D Point Cloud Edges With a Geometry-Aware 3DETR](https://arxiv.org/abs/2509.03262) — `detection`
+- [Pillar-Voxel Fusion Network for 3D Object Detection in Airborne Hyperspectral Point Clouds](https://arxiv.org/abs/2504.09506) — `detection`
+- [PillarMamba: Learning Local-Global Context for Roadside Point Cloud via Hybrid State Space Model](https://arxiv.org/abs/2505.05397) — `detection`
+- [POD: Predictive Object Detection with Single-Frame FMCW LiDAR Point Cloud](https://arxiv.org/abs/2504.05649) — `detection` `autonomous driving`
+- [Point Cloud Based Scene Segmentation: A Survey](https://arxiv.org/abs/2503.12595) — `segmentation` `detection` `autonomous driving`
 - [Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology](https://arxiv.org/abs/2511.05853) — `segmentation` `detection` `dataset`
 - [Pole-Image: A Self-Supervised Pole-Anchored Descriptor for Long-Term LiDAR Localization and Map Maintenance](https://arxiv.org/abs/2510.17237) — `detection` `localization` `self-supervised`
+- [Position: Untrained Machine Learning for Anomaly Detection by using 3D Point Cloud Data](https://arxiv.org/abs/2502.03876) — `detection` `anomaly detection`
 - [Querying Autonomous Vehicle Point Clouds: Enhanced by 3D Object Counting with CounterNet](https://arxiv.org/abs/2507.19209) — `detection`
+- [Range Image-Based Implicit Neural Compression for LiDAR Point Clouds](https://arxiv.org/abs/2504.17229) — `detection` `compression`
 - [Real-time Point Cloud Data Transmission via L4S for 5G-Edge-Assisted Robotics](https://arxiv.org/abs/2511.15677) — `detection` `efficiency`
+- [Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds](https://arxiv.org/abs/2505.17442) — `detection` `compression` `robustness`
 - [Relative Energy Learning for LiDAR Out-of-Distribution Detection](https://arxiv.org/abs/2511.06720) — `detection` `autonomous driving` — [code](https://github.com/343gltysprk/rel)
 - [Rethinking the Detail-Preserved Completion of Complex Tubular Structures based on Point Cloud: a Dataset and a Benchmark](https://arxiv.org/abs/2508.17658) — `segmentation` `detection` `completion` `dataset`
 - [Rethinking the Encoding and Annotating of 3D Bounding Box: Corner-Aware 3D Object Detection from Point Clouds](https://arxiv.org/abs/2511.17619) — `detection` `BEV`
 - [Revisiting Physically Realizable Adversarial Object Attack against LiDAR-based Detection: Clarifying Problem Formulation and Experimental Protocols](https://arxiv.org/abs/2507.18457) — `detection` `robustness`
+- [Simulation-Based Performance Evaluation of 3D Object Detection Methods with Deep Learning for a LiDAR Point Cloud Dataset in a SOTIF-related Use Case](https://arxiv.org/abs/2503.03548) — `detection` `dataset`
 - [SODA: Out-of-Distribution Detection in Domain-Shifted Point Clouds via Neighborhood Propagation](https://arxiv.org/abs/2506.21892) — `detection`
 - [SSCATeR: Sparse Scatter-Based Convolution Algorithm with Temporal Data Recycling for Real-Time 3D Object Detection in LiDAR Point Clouds](https://arxiv.org/abs/2512.08557) — `detection` `efficiency`
 - [StripDet: Strip Attention-Based Lightweight 3D Object Detection from Point Cloud](https://arxiv.org/abs/2509.05954) — `detection` `efficiency`
+- [Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds](https://arxiv.org/abs/2506.11804) — `detection` `compression`
 - [Towards Training-Free Underwater 3D Object Detection from Sonar Point Clouds: A Comparison of Traditional and Deep Learning Approaches](https://arxiv.org/abs/2508.18293) — `detection`
+- [UAV Position Estimation using a LiDAR-based 3D Object Detection Method](https://arxiv.org/abs/2504.07028) — `detection`
 ## 2024
 
+- [Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning](https://arxiv.org/abs/2401.04105) — `detection` `efficiency`
+- [IS-Fusion: Instance-Scene Collaborative Fusion for Multimodal 3D Object Detection](https://arxiv.org/abs/2403.15241) — `detection` `autonomous driving` `BEV` `multi-modal` — [code](https://github.com/yinjunbo/IS-Fusion)
 - [Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping](https://arxiv.org/abs/2312.04521) — `detection` `multi-modal` `anomaly detection`
 - [PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection](https://arxiv.org/abs/2312.08371) — `detection` `efficiency` — [code](https://github.com/kuanchihhuang/PTT)
 - [Selectively Dilated Convolution for Accuracy-Preserving Sparse Pillar-based Embedded 3D Object Detection](https://arxiv.org/abs/2408.13798) — `detection` `autonomous driving` — Workshop
+- [Approaching Outside: Scaling Unsupervised 3D Object Detection from 2D Scene](https://arxiv.org/abs/2407.08569) — `detection`
 - [Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection](https://arxiv.org/abs/2408.00286) — `detection` `generation`
+- [FSD-BEV: Foreground Self-Distillation for Multi-view 3D Object Detection](https://arxiv.org/abs/2407.10135) — `detection` `autonomous driving` `BEV`
+- [Global-Local Collaborative Inference with LLM for Lidar-Based Open-Vocabulary Detection](https://arxiv.org/abs/2407.08931) — `detection` `open-vocabulary` `vision-language`
+- [LabelDistill: Label-guided Cross-modal Knowledge Distillation for Camera-based 3D Object Detection](https://arxiv.org/abs/2407.10164) — `detection`
 - [LEROjD: Lidar Extended Radar-Only Object Detection](https://arxiv.org/abs/2409.05564) — `detection` `multi-modal`
+- [SEED: A Simple and Effective 3D DETR in Point Clouds](https://arxiv.org/abs/2407.10749) — `detection`
 - [ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images](https://arxiv.org/abs/2410.24001) — `detection` `open-vocabulary` — [code](https://github.com/yangtiming/ImOV3D)
 - [One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/2411.01584) — `detection`
 - [Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data](https://arxiv.org/abs/2411.15657) — `detection` `autonomous driving` `monocular` `open-vocabulary`
+- [LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection](https://arxiv.org/abs/2401.15865) — `detection` `compression` `efficiency`
+- [MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection](https://arxiv.org/abs/2401.16305) — `detection` `efficiency` — [code](https://github.com/BraveGroup/PointSAM-for-MixSup)
 - [BEV-MAE: Bird's Eye View Masked Autoencoders for Point Cloud Pre-training in Autonomous Driving Scenarios](https://arxiv.org/abs/2212.05758) — `detection` `self-supervised` `autonomous driving` `BEV`
 - [iDet3D: Towards Efficient Interactive Object Detection for LiDAR Point Clouds](https://arxiv.org/abs/2312.15449) — `detection` `efficiency`
+- [SOAP: Cross-sensor Domain Adaptation for 3D Object Detection Using Stationary Object Aggregation Pseudo-labelling](https://arxiv.org/abs/2401.04230) — `detection` `domain adaptation`
 - [TraIL-Det: Transformation-Invariant Local Feature Networks for 3D LiDAR Object Detection with Unsupervised Pre-Training](https://arxiv.org/abs/2408.13902) — `detection` `autonomous driving` `pre-training` — [code](https://github.com/l1997i/rapid_seg)
 - [Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection](https://arxiv.org/abs/2408.03790) — `detection` `autonomous driving` `vision-language`
 - [Can We Remove the Ground? Obstacle-aware Point Cloud Compression for Remote Object Detection](https://arxiv.org/abs/2410.00582) — `detection` `compression`
+- [Fine-Grained Pillar Feature Encoding Via Spatio-Temporal Virtual Grid for 3D Object Detection](https://arxiv.org/abs/2403.06433) — `detection`
+- [Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds](https://arxiv.org/abs/2404.12440) — `segmentation` `detection` `open-vocabulary` — Workshop
 - [Are We Ready for Real-Time LiDAR Semantic Segmentation in Autonomous Driving?](https://arxiv.org/abs/2410.08365) — `segmentation` `detection` `reconstruction` `autonomous driving` — Workshop
 - [Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds](https://arxiv.org/abs/2411.18443) — `detection` `efficiency`
 - [HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds From Heterogeneous LiDAR Sensors](https://arxiv.org/abs/2408.06328) — `segmentation` `detection` `dataset`
 - [Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance](https://arxiv.org/abs/2409.06171) — `detection` `completion`
 - [Moving Object Segmentation in Point Cloud Data using Hidden Markov Models](https://arxiv.org/abs/2410.18638) — `segmentation` `detection` — Workshop
+- [VRSO: Visual-Centric Reconstruction for Static Object Annotation](https://arxiv.org/abs/2403.15026) — `detection` `reconstruction`
+- [Label-Efficient Semantic Segmentation of LiDAR Point Clouds in Adverse Weather Conditions](https://arxiv.org/abs/2406.09906) — `segmentation` `detection` `efficiency`
 - [Point Cloud Structural Similarity-based Underwater Sonar Loop Detection](https://arxiv.org/abs/2409.14020) — `detection` `localization`
+- [UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps](https://arxiv.org/abs/2403.17633) — `detection` `autonomous driving` `domain adaptation` `robustness`
 - [MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2411.15016) — `detection` `autonomous driving` `multi-modal`
+- [3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework](https://arxiv.org/abs/2401.07251) — `registration` `detection` `dataset`
+- [3D Object Detection and High-Resolution Traffic Parameters Extraction Using Low-Resolution LiDAR Data](https://arxiv.org/abs/2401.06946) — `detection`
+- [3D Object Detection from Point Cloud via Voting Step Diffusion](https://arxiv.org/abs/2403.14133) — `detection`
+- [3DRef: 3D Dataset and Benchmark for Reflection Detection in RGB and Lidar Data](https://arxiv.org/abs/2403.06538) — `detection` `dataset`
+- [A Framework for Building Point Cloud Cleaning, Plane Detection and Semantic Segmentation](https://arxiv.org/abs/2402.00692) — `segmentation` `detection`
 - [A Novel Perception Entropy Metric for Optimizing Vehicle Perception with LiDAR Deployment](https://arxiv.org/abs/2407.17942) — `detection`
+- [A Point Cloud Enhancement Method for 4D mmWave Radar Imagery](https://arxiv.org/abs/2401.16714) — `detection` `multi-modal`
+- [A Radiometric Correction based Optical Modeling Approach to Removing Reflection Noise in TLS Point Clouds of Urban Scenes](https://arxiv.org/abs/2407.02830) — `detection` `reconstruction` `autonomous driving`
+- [Advancements in Point Cloud-Based 3D Defect Detection and Classification for Industrial Systems: A Comprehensive Survey](https://arxiv.org/abs/2402.12923) — `detection` `classification` `autonomous driving` `anomaly detection`
+- [An Onboard Framework for Staircases Modeling Based on Point Clouds](https://arxiv.org/abs/2405.01918) — `detection`
+- [Are Dense Labels Always Necessary for 3D Object Detection from Point Cloud?](https://arxiv.org/abs/2403.02818) — `detection`
+- [BSH for Collision Detection in Point Cloud models](https://arxiv.org/abs/2407.15852) — `detection`
 - [CP-VoteNet: Contrastive Prototypical VoteNet for Few-Shot Point Cloud Object Detection](https://arxiv.org/abs/2408.17036) — `detection`
+- [CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation](https://arxiv.org/abs/2403.16794) — `segmentation` `detection`
 - [DALI: Domain Adaptive LiDAR Object Detection via Distribution-level and Instance-level Pseudo Label Denoising](https://arxiv.org/abs/2412.08806) — `detection` `denoising`
 - [DecoratingFusion: A LiDAR-Camera Fusion Network with the Combination of Point-level and Feature-level Fusion](https://arxiv.org/abs/2501.00220) — `detection` `autonomous driving` `multi-modal`
+- [DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds](https://arxiv.org/abs/2405.05131) — `detection` `autonomous driving` `multi-modal`
+- [Detection Is Tracking: Point Cloud Multi-Sweep Deep Learning Models Revisited](https://arxiv.org/abs/2402.15756) — `detection` `tracking` `autonomous driving`
+- [Empowering Urban Traffic Management: Elevated 3D LiDAR for Data Collection and Advanced Object Detection Analysis](https://arxiv.org/abs/2405.13202) — `detection`
+- [Enhancing Lidar-based Object Detection in Adverse Weather using Offset Sequences in Time](https://arxiv.org/abs/2401.09049) — `detection`
+- [Extrinsic Calibration of Multiple LiDARs for a Mobile Robot based on Floor Plane And Object Segmentation](https://arxiv.org/abs/2403.14161) — `segmentation` `detection`
 - [Future Does Matter: Boosting 3D Object Detection with Temporal Motion Estimation in Point Cloud Sequences](https://arxiv.org/abs/2409.04390) — `detection` `autonomous driving`
+- [Image-Guided Outdoor LiDAR Perception Quality Assessment for Autonomous Driving](https://arxiv.org/abs/2406.17265) — `detection` `autonomous driving`
+- [Just Add $100 More: Augmenting NeRF-based Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem](https://arxiv.org/abs/2403.11573) — `detection` `nerf`
+- [Label-Free Model Failure Detection for Lidar-based Point Cloud Segmentation](https://arxiv.org/abs/2407.14306) — `segmentation` `detection`
+- [Leveraging 3D LiDAR Sensors to Enable Enhanced Urban Safety and Public Health: Pedestrian Monitoring and Abnormal Activity Detection](https://arxiv.org/abs/2404.10978) — `detection` `classification`
+- [Leveraging Anchor-based LiDAR 3D Object Detection via Point Assisted Sample Selection](https://arxiv.org/abs/2403.01978) — `detection` `autonomous driving`
+- [Leveraging PointNet and PointNet++ for Lyft Point Cloud Classification Challenge](https://arxiv.org/abs/2404.18665) — `detection` `classification`
 - [LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera](https://arxiv.org/abs/2407.16197) — `detection` `completion` `autonomous driving` `occupancy prediction`
+- [LiDAR-based HD Map Localization using Semantic Generalized ICP with Road Marking Detection](https://arxiv.org/abs/2407.02061) — `registration` `detection` `localization` `autonomous driving`
 - [LION: Linear Group RNN for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2407.18232) — `detection`
+- [LISO: Lidar-only Self-Supervised 3D Object Detection](https://arxiv.org/abs/2403.07071) — `detection` `self-supervised` `autonomous driving`
+- [MLS2LoD3: Refining low LoDs building models with MLS point clouds to reconstruct semantic LoD3 building models](https://arxiv.org/abs/2402.06288) — `detection` `reconstruction`
+- [MultiCorrupt: A Multi-Modal Robustness Dataset and Benchmark of LiDAR-Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2402.11677) — `detection` `multi-modal` `robustness` `dataset` — [code](https://github.com/ika-rwth-aachen/MultiCorrupt)
+- [NIV-SSD: Neighbor IoU-Voting Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2401.12447) — `detection` `classification` `localization`
+- [No More Potentially Dynamic Objects: Static Point Cloud Map Generation based on 3D Object Detection and Ground Projection](https://arxiv.org/abs/2407.01073) — `detection` `generation`
+- [Off-Road LiDAR Intensity Based Semantic Segmentation](https://arxiv.org/abs/2401.01439) — `segmentation` `detection` `autonomous driving`
 - [Optimized CNNs for Rapid 3D Point Cloud Object Recognition](https://arxiv.org/abs/2412.02855) — `detection`
+- [OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition](https://arxiv.org/abs/2405.07966) — `detection` `slam` `localization`
+- [Perception-Guided Quality Metric of 3D Point Clouds Using Hybrid Strategy](https://arxiv.org/abs/2407.03885) — `detection`
 - [PO3AD: Predicting Point Offsets toward Better 3D Point Cloud Anomaly Detection](https://arxiv.org/abs/2412.12617) — `detection` `reconstruction` `anomaly detection`
 - [Point Cloud Novelty Detection Based on Latent Representations of a General Feature Extractor](https://arxiv.org/abs/2410.09861) — `detection`
+- [Point cloud obstacle detection with the map filtration](https://arxiv.org/abs/2404.07730) — `detection`
+- [PointCompress3D: A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems](https://arxiv.org/abs/2405.01750) — `detection` `compression`
+- [PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features](https://arxiv.org/abs/2403.01804) — `detection` `autonomous driving` `efficiency`
 - [RadarPillars: Efficient Object Detection from 4D Radar Point Clouds](https://arxiv.org/abs/2408.05020) — `detection` `multi-modal` `efficiency`
 - [Real-Time 3D Object Detection Using InnovizOne LiDAR and Low-Power Hailo-8 AI Accelerator](https://arxiv.org/abs/2412.05594) — `detection` `autonomous driving` `efficiency`
 - [REGNet V2: End-to-End REgion-based Grasp Detection Network for Grippers of Different Sizes in Point Clouds](https://arxiv.org/abs/2410.09431) — `detection`
+- [Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes](https://arxiv.org/abs/2404.05164) — `registration` `detection` `monocular`
 - [Revisiting Cross-Domain Problem for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2408.12708) — `detection` `autonomous driving`
+- [Revisiting Out-of-Distribution Detection in LiDAR-based 3D Object Detection](https://arxiv.org/abs/2404.15879) — `detection`
 - [RIDE: Boosting 3D Object Detection for LiDAR Point Clouds via Rotation-Invariant Analysis](https://arxiv.org/abs/2408.15643) — `detection`
 - [SEGT: A General Spatial Expansion Group Transformer for nuScenes Lidar-based Object Detection Task](https://arxiv.org/abs/2412.09658) — `detection`
 - [Separating Drone Point Clouds From Complex Backgrounds by Cluster Filter -- Technical Report for CVPR 2024 UG2 Challenge](https://arxiv.org/abs/2412.16947) — `detection`
+- [Sparse Points to Dense Clouds: Enhancing 3D Detection with Limited LiDAR Data](https://arxiv.org/abs/2404.06715) — `detection` `autonomous driving` `monocular`
+- [Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform](https://arxiv.org/abs/2405.03969) — `registration` `detection`
 - [TOPGN: Real-time Transparent Obstacle Detection using Lidar Point Cloud Intensity for Autonomous Robot Navigation](https://arxiv.org/abs/2408.05608) — `detection` `efficiency`
+- [Towards Consistent Object Detection via LiDAR-Camera Synergy](https://arxiv.org/abs/2405.01258) — `detection` `multi-modal` — [code](https://github.com/xifen523/COD)
 - [Towards Robust Perception for Assistive Robotics: An RGB-Event-LiDAR Dataset and Multi-Modal Detection Pipeline](https://arxiv.org/abs/2408.13394) — `detection` `multi-modal` `robustness` `dataset`
 - [Towards Zero-shot Point Cloud Anomaly Detection: A Multi-View Projection Framework](https://arxiv.org/abs/2409.13162) — `detection` `open-vocabulary` `anomaly detection`
+- [Transferring facade labels between point clouds with semantic octrees while considering change detection](https://arxiv.org/abs/2402.06531) — `detection`
 - [Unsupervised Machine Learning for Detecting and Locating Human-Made Objects in 3D Point Cloud](https://arxiv.org/abs/2410.20006) — `detection`
 - [Unsupervised UAV 3D Trajectories Estimation with Sparse Point Clouds](https://arxiv.org/abs/2412.12716) — `detection` `tracking`
+- [UOD: Unseen Object Detection in 3D Point Cloud](https://arxiv.org/abs/2401.03846) — `detection` `classification` `autonomous driving`
+- [Vision Foundation Model Driven Foreground-Aware Pseudo-LiDAR Generation for Monocular 3D Object Detection](https://arxiv.org/abs/2404.09431) — `detection` `generation` `monocular` `pre-training`
+- [VoxAtnNet: A 3D Point Clouds Convolutional Neural Network for Generalizable Face Presentation Attack Detection](https://arxiv.org/abs/2404.12680) — `detection`
+- [Voxel Mamba: Group-Free State Space Models for Point Cloud based 3D Object Detection](https://arxiv.org/abs/2406.10700) — `detection`
+- [Zero-shot detection of buildings in mobile LiDAR using Language Vision Model](https://arxiv.org/abs/2404.09931) — `detection` `open-vocabulary`
 ## 2023
 
 - [3D Human Keypoints Estimation From Point Clouds in the Wild Without Human Labels](https://arxiv.org/abs/2306.04745) — `detection`
+- [Density-Insensitive Unsupervised Domain Adaption on 3D Object Detection](https://arxiv.org/abs/2304.09446) — `detection` `autonomous driving`
 - [DynStatF: An Efficient Feature Fusion Strategy for LiDAR 3D Object Detection](https://arxiv.org/abs/2305.15219) — `detection` `efficiency` — Workshop
 - [GraVoS: Voxel Selection for 3D Point-Cloud Detection](https://arxiv.org/abs/2208.08780) — `detection`
+- [LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross-Modal Fusion](https://arxiv.org/abs/2303.03595) — `detection`
 - [MoDAR: Using Motion Forecasting for 3D Object Detection in Point Cloud Sequences](https://arxiv.org/abs/2306.03206) — `detection`
+- [MSF: Motion-guided Sequential Fusion for Efficient 3D Object Detection from Point Cloud Sequences](https://arxiv.org/abs/2303.08316) — `detection` `autonomous driving` `efficiency`
+- [Multimodal Industrial Anomaly Detection via Hybrid Fusion](https://arxiv.org/abs/2303.00601) — `detection` `multi-modal` `anomaly detection`
+- [NerVE: Neural Volumetric Edges for Parametric Curve Extraction from Point Cloud](https://arxiv.org/abs/2303.16465) — `detection`
 - [PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds](https://arxiv.org/abs/2305.04925) — `detection`
+- [PiMAE: Point Cloud and Image Interactive Masked Autoencoders for 3D Object Detection](https://arxiv.org/abs/2303.08129) — `detection` — [code](https://github.com/BLVLab/PiMAE)
 - [PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer](https://arxiv.org/abs/2305.06621) — `detection`
 - [Reviewing 3D Object Detectors in the Context of High-Resolution 3+1D Radar](https://arxiv.org/abs/2308.05478) — `detection` `multi-modal` — Workshop
 - [Towards Unsupervised Object Detection From LiDAR Point Clouds](https://arxiv.org/abs/2311.02007) — `detection` `autonomous driving`
+- [Unified Keypoint-based Action Recognition Framework via Structured Keypoint Pooling](https://arxiv.org/abs/2303.15270) — `detection` `tracking`
+- [Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency](https://arxiv.org/abs/2303.08686) — `detection` `monocular`
 - [2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds](https://arxiv.org/abs/2308.05667) — `registration` `detection`
 - [3D Implicit Transporter for Temporally Consistent Keypoint Discovery](https://arxiv.org/abs/2309.05098) — `detection`
 - [Ada3D : Exploiting the Spatial Redundancy with Adaptive Inference for Efficient 3D Object Detection](https://arxiv.org/abs/2307.08209) — `detection` `autonomous driving` `efficiency`
@@ -187,35 +330,58 @@
 - [HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2310.20234) — `detection` `autonomous driving`
 - [Semantic segmentation of sparse irregular point clouds for leaf/wood discrimination](https://arxiv.org/abs/2305.16963) — `segmentation` `detection`
 - [Uni3DETR: Unified 3D Detection Transformer](https://arxiv.org/abs/2310.05699) — `detection`
+- [Unleash the Potential of Image Branch for Cross-modal 3D Object Detection](https://arxiv.org/abs/2301.09077) — `detection`
+- [Exploring Active 3D Object Detection from a Generalization Perspective](https://arxiv.org/abs/2301.09249) — `detection`
 - [Pre-Training LiDAR-Based 3D Object Detectors Through Colorization](https://arxiv.org/abs/2310.14592) — `detection` `autonomous driving` `pre-training`
 - [ZeroFlow: Scalable Scene Flow via Distillation](https://arxiv.org/abs/2305.10424) — `detection` `scene flow`
 - [SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud](https://arxiv.org/abs/2212.02845) — `detection` `autonomous driving` `domain adaptation`
+- [Voxel or Pillar: Exploring Efficient Point Cloud Representation for 3D Object Detection](https://arxiv.org/abs/2304.02867) — `detection` `efficiency`
+- [OctFormer: Octree-based Transformers for 3D Point Clouds](https://arxiv.org/abs/2305.03045) — `segmentation` `detection`
+- [Hierarchical Point Attention for Indoor 3D Object Detection](https://arxiv.org/abs/2301.02650) — `detection`
 - [RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud](https://arxiv.org/abs/2309.09737) — `detection` `tracking` `multi-modal`
 - [RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection](https://arxiv.org/abs/2307.10249) — `detection` `multi-modal`
 - [Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation](https://arxiv.org/abs/2309.17336) — `detection` `generation` `multi-modal` `robustness`
+- [Self-Supervised Depth Correction of Lidar Measurements from Map Consistency Loss](https://arxiv.org/abs/2303.01123) — `detection` `self-supervised`
 - [Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison](https://arxiv.org/abs/2306.15416) — `detection` `localization`
+- [Open-Vocabulary Affordance Detection in 3D Point Clouds](https://arxiv.org/abs/2303.02401) — `detection` `open-vocabulary`
 - [SUIT: Learning Significance-guided Information for 3D Temporal Detection](https://arxiv.org/abs/2307.01807) — `detection` `autonomous driving`
+- [(LC)$^2$: LiDAR-Camera Loop Constraints For Cross-Modal Place Recognition](https://arxiv.org/abs/2304.08660) — `detection` `localization` `multi-modal`
 - [Energy-based Detection of Adverse Weather Effects in LiDAR Data](https://arxiv.org/abs/2305.16129) — `detection`
+- [Onboard dynamic-object detection and tracking for autonomous robot navigation with RGB-D camera](https://arxiv.org/abs/2303.00132) — `detection` `tracking` `autonomous driving`
 - [A Review and A Robust Framework of Data-Efficient 3D Scene Parsing with Traditional/Learned 3D Descriptors](https://arxiv.org/abs/2312.01262) — `segmentation` `detection` `robustness` `efficiency`
 - [DC3DCD: unsupervised learning for multiclass 3D point cloud change detection](https://arxiv.org/abs/2305.05421) — `detection`
 - [Deep Unsupervised Learning for 3D ALS Point Cloud Change Detection](https://arxiv.org/abs/2305.03529) — `detection`
 - [SCP: Scene Completion Pre-training for 3D Object Detection](https://arxiv.org/abs/2309.06199) — `detection` `completion` `autonomous driving` `pre-training`
 - [Advancements in Point Cloud Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2308.12113) — `segmentation` `detection` `classification`
+- [Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection](https://arxiv.org/abs/2303.13194) — `detection` `multi-modal` `anomaly detection` — [code](https://github.com/caoyunkang/CPMF)
 - [2DDATA: 2D Detection Annotations Transmittable Aggregation for Semantic Segmentation on Point Cloud](https://arxiv.org/abs/2309.11755) — `segmentation` `detection`
+- [3D Object Detection in LiDAR Point Clouds using Graph Neural Networks](https://arxiv.org/abs/2301.12519) — `detection`
 - [3D Pose Estimation of Tomato Peduncle Nodes using Deep Keypoint Detection and Point Cloud](https://arxiv.org/abs/2311.04699) — `detection`
 - [6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation](https://arxiv.org/abs/2312.02593) — `registration` `detection`
 - [A Comprehensive Review on Tree Detection Methods Using Point Cloud and Aerial Imagery from Unmanned Aerial Vehicles](https://arxiv.org/abs/2309.16375) — `detection`
 - [A Ground Segmentation Method Based on Point Cloud Map for Unstructured Roads](https://arxiv.org/abs/2309.08164) — `segmentation` `detection`
 - [Advancements in 3D Lane Detection Using LiDAR Point Clouds: From Data Collection to Model Development](https://arxiv.org/abs/2309.13596) — `detection`
+- [Aligning Bird-Eye View Representation of Point Cloud Sequences using Scene Flow](https://arxiv.org/abs/2305.02909) — `detection` `scene flow`
+- [AOP-Net: All-in-One Perception Network for Joint LiDAR-based 3D Object Detection and Panoptic Segmentation](https://arxiv.org/abs/2302.00885) — `segmentation` `detection`
 - [Artificial Neural Network for Estimation of Physical Parameters of Sea Water using LiDAR Waveforms](https://arxiv.org/abs/2312.10068) — `detection` `reconstruction`
+- [BEVFusion4D: Learning LiDAR-Camera Fusion Under Bird's-Eye-View via Cross-Modality Guidance and Temporal Aggregation](https://arxiv.org/abs/2303.17099) — `detection` `localization` `autonomous driving` `BEV`
 - [Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration Method Using Segment Anything](https://arxiv.org/abs/2306.02656) — `segmentation` `detection` `multi-modal`
+- [Change detection needs change information: improving deep 3D point cloud change detection](https://arxiv.org/abs/2304.12639) — `segmentation` `detection`
 - [Change of Scenery: Unsupervised LiDAR Change Detection for Mobile Robots](https://arxiv.org/abs/2309.10924) — `segmentation` `detection`
+- [CircNet: Meshing 3D Point Clouds with Circumcenter Detection](https://arxiv.org/abs/2301.09253) — `detection` `reconstruction`
 - [Detection and Classification of Pole-like Landmarks for Domain-invariant 3D Point Cloud Map Matching](https://arxiv.org/abs/2305.06845) — `detection` `classification` `localization`
 - [Ego-Motion Estimation and Dynamic Motion Separation from 3D Point Clouds for Accumulating Data and Improving 3D Object Detection](https://arxiv.org/abs/2308.15357) — `detection`
 - [End-to-End 3D Object Detection using LiDAR Point Cloud](https://arxiv.org/abs/2312.15377) — `detection` `tracking`
+- [EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets](https://arxiv.org/abs/2301.08128) — `detection` `generation` — [code](https://github.com/uhh-pd-ml/EPiC-GAN)
+- [Event Camera and LiDAR based Human Tracking for Adverse Lighting Conditions in Subterranean Environments](https://arxiv.org/abs/2304.08908) — `detection` `tracking`
+- [Exorcising ''Wraith'': Protecting LiDAR-based Object Detector in Automated Driving System from Appearing Attacks](https://arxiv.org/abs/2303.09731) — `detection`
 - [FAKEPCD: Fake Point Cloud Detection via Source Attribution](https://arxiv.org/abs/2312.11213) — `detection` `generation`
 - [FGFusion: Fine-Grained Lidar-Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2309.11804) — `detection` `autonomous driving` `multi-modal` — [code](https://github.com/XavierGrool/FGFusion)
+- [FinderNet: A Data Augmentation Free Canonicalization aided Loop Detection and Closure technique for Point clouds in 6-DOF separation](https://arxiv.org/abs/2304.01074) — `detection`
+- [FRAME: Fast and Robust Autonomous 3D point cloud Map-merging for Egocentric multi-robot exploration](https://arxiv.org/abs/2301.09213) — `detection` `localization` `robustness`
 - [FusionViT: Hierarchical 3D Object Detection via LiDAR-Camera Vision Transformer Fusion](https://arxiv.org/abs/2311.03620) — `detection` `multi-modal`
+- [Generalized Few-Shot 3D Object Detection of LiDAR Point Cloud for Autonomous Driving](https://arxiv.org/abs/2302.03914) — `detection` `autonomous driving`
+- [Human Semantic Segmentation using Millimeter-Wave Radar Sparse Point Clouds](https://arxiv.org/abs/2304.14132) — `segmentation` `detection` `multi-modal`
 - [Improved Multi-Scale Grid Rendering of Point Clouds for Radar Object Detection Networks](https://arxiv.org/abs/2305.15836) — `detection` `multi-modal`
 - [Improving LiDAR 3D Object Detection via Range-based Point Cloud Density Optimization](https://arxiv.org/abs/2306.05663) — `detection`
 - [Influence of Camera-LiDAR Configuration on 3D Object Detection for Autonomous Driving](https://arxiv.org/abs/2310.05245) — `detection` `autonomous driving` `multi-modal`
@@ -225,21 +391,35 @@
 - [Learned Point Cloud Compression for Classification](https://arxiv.org/abs/2308.05959) — `segmentation` `detection` `classification` `compression`
 - [LEF: Late-to-Early Temporal Fusion for LiDAR 3D Object Detection](https://arxiv.org/abs/2309.16870) — `detection`
 - [LEGO: Learning and Graph-Optimized Modular Tracker for Online Multi-Object Tracking with Point Clouds](https://arxiv.org/abs/2308.09908) — `detection` `tracking`
+- [LiDAR Spoofing Meets the New-Gen: Capability Improvements, Broken Assumptions, and New Attack Strategies](https://arxiv.org/abs/2303.10555) — `detection` `autonomous driving`
 - [LiDAR-based curb detection for ground truth annotation in automated driving validation](https://arxiv.org/abs/2312.00534) — `detection`
 - [LiDAR-based Outdoor Crowd Management for Smart Campus on the Edge](https://arxiv.org/abs/2311.18077) — `detection`
 - [LiDAR-BEVMTN: Real-Time LiDAR Bird's-Eye View Multi-Task Perception Network for Autonomous Driving](https://arxiv.org/abs/2307.08850) — `segmentation` `detection` `autonomous driving` `efficiency`
+- [LiDAR-CS Dataset: LiDAR Point Cloud Dataset with Cross-Sensors for 3D Object Detection](https://arxiv.org/abs/2301.12515) — `detection` `autonomous driving` `dataset`
 - [LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation](https://arxiv.org/abs/2309.10436) — `registration` `detection` `slam` `localization`
 - [LieDetect: Detection of representation orbits of compact Lie groups from point clouds](https://arxiv.org/abs/2309.03086) — `detection` `reconstruction`
 - [LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds](https://arxiv.org/abs/2306.07835) — `detection` `autonomous driving` `efficiency`
 - [LXL: LiDAR Excluded Lean 3D Object Detection with 4D Imaging Radar and Camera Fusion](https://arxiv.org/abs/2307.00724) — `detection` `autonomous driving` `multi-modal`
 - [MaskBEV: Joint Object Detection and Footprint Completion for Bird's-eye View 3D Point Clouds](https://arxiv.org/abs/2307.01864) — `detection` `completion` `BEV`
+- [Moby: Empowering 2D Models for Efficient Point Cloud Analytics on the Edge](https://arxiv.org/abs/2302.09221) — `detection` `autonomous driving` `efficiency`
+- [Modal-graph 3D shape servoing of deformable objects with raw point clouds](https://arxiv.org/abs/2304.08822) — `detection` `tracking`
 - [NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM](https://arxiv.org/abs/2307.08221) — `detection` `slam` `localization` `efficiency`
+- [Object Detection in 3D Point Clouds via Local Correlation-Aware Point Embedding](https://arxiv.org/abs/2301.04613) — `detection`
+- [Optimal Transport for Change Detection on LiDAR Point Clouds](https://arxiv.org/abs/2302.07025) — `detection`
+- [PALF: Pre-Annotation and Camera-LiDAR Late Fusion for the Easy Annotation of Point Clouds](https://arxiv.org/abs/2304.08591) — `detection` `autonomous driving` `multi-modal`
 - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](https://arxiv.org/abs/2312.08230) — `detection` `completion` `generation` `self-supervised`
+- [PCV: A Point Cloud-Based Network Verifier](https://arxiv.org/abs/2301.11806) — `segmentation` `detection` `classification`
+- [Pillar R-CNN for Point Cloud 3D Object Detection](https://arxiv.org/abs/2302.13301) — `detection` `generation` `BEV`
 - [Point Cloud Denoising and Outlier Detection with Local Geometric Structure by Dynamic Graph CNN](https://arxiv.org/abs/2310.07376) — `detection` `denoising`
 - [Point Cloud Video Anomaly Detection Based on Point Spatio-Temporal Auto-Encoder](https://arxiv.org/abs/2306.04466) — `detection` `anomaly detection`
+- [PointFISH -- learning point cloud representations for RNA localization patterns](https://arxiv.org/abs/2302.10923) — `detection` `localization`
+- [Position-Guided Point Cloud Panoptic Segmentation Transformer](https://arxiv.org/abs/2303.13509) — `segmentation` `detection` — [code](https://github.com/SmartBot-PJLab/P3Former)
 - [Poster: Making Edge-assisted LiDAR Perceptions Robust to Lossy Point Cloud Compression](https://arxiv.org/abs/2309.04549) — `detection` `localization` `compression` `robustness`
 - [PotholeGuard: A Pothole Detection Approach by Point Cloud Semantic Segmentation](https://arxiv.org/abs/2311.02641) — `segmentation` `detection`
+- [PTA-Det: Point Transformer Associating Point cloud and Image for 3D Object Detection](https://arxiv.org/abs/2301.07301) — `detection` `autonomous driving`
 - [PV-SSD: A Multi-Modal Point Cloud Feature Fusion Method for Projection Features and Variable Receptive Field Voxel Features](https://arxiv.org/abs/2308.06791) — `detection` `classification` `autonomous driving` `multi-modal`
+- [Quantifying the LiDAR Sim-to-Real Domain Shift: A Detailed Investigation Using Object Detectors and Analyzing Point Clouds at Target-Level](https://arxiv.org/abs/2303.01899) — `detection` `generation` `autonomous driving`
+- [Range-Aided LiDAR-Inertial Multi-Vehicle Mapping in Degenerate Environment](https://arxiv.org/abs/2303.08454) — `detection`
 - [Real3D-AD: A Dataset of Point Cloud Anomaly Detection](https://arxiv.org/abs/2309.13226) — `detection` `anomaly detection` `dataset`
 - [Robust Point Cloud Processing through Positional Embedding](https://arxiv.org/abs/2309.00339) — `detection` `robustness`
 - [Self-Supervised Learning for Point Clouds Data: A Survey](https://arxiv.org/abs/2305.11881) — `detection` `localization` `self-supervised`
@@ -247,22 +427,29 @@
 - [Semantics-aware LiDAR-Only Pseudo Point Cloud Generation for 3D Object Detection](https://arxiv.org/abs/2309.08932) — `detection` `generation`
 - [SSC3OD: Sparsely Supervised Collaborative 3D Object Detection from LiDAR Point Clouds](https://arxiv.org/abs/2307.00717) — `detection` `autonomous driving`
 - [TimePillars: Temporally-Recurrent 3D LiDAR Object Detection](https://arxiv.org/abs/2312.17260) — `detection` `autonomous driving`
+- [Toward Unsupervised 3D Point Cloud Anomaly Detection using Variational Autoencoder](https://arxiv.org/abs/2304.03420) — `detection` `anomaly detection`
 - [Unsupervised Change Detection for Space Habitats Using 3D Point Clouds](https://arxiv.org/abs/2312.02396) — `detection` — [code](https://github.com/nasa/isaac)
+- [Urban GeoBIM construction by integrating semantic LiDAR point clouds with as-designed BIM models](https://arxiv.org/abs/2304.11719) — `detection`
 - [Weakly Supervised Point Clouds Transformer for 3D Object Detection](https://arxiv.org/abs/2309.04105) — `segmentation` `detection`
 ## 2022
 
 - [3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection](https://arxiv.org/abs/2204.06272) — `detection`
 - [3D-VField: Adversarial Augmentation of Point Clouds for Domain Generalization in 3D Object Detection](https://arxiv.org/abs/2112.04764) — `detection` `robustness`
+- [A Unified Query-based Paradigm for Point Cloud Understanding](https://arxiv.org/abs/2203.01252) — `segmentation` `detection` `classification` `autonomous driving` — [code](https://github.com/dvlab-research/DeepVision3D)
 - [Boosting 3D Object Detection by Simulating Multimodality on Point Clouds](https://arxiv.org/abs/2206.14971) — `detection`
 - [Bridged Transformer for Vision and Point Cloud 3D Object Detection](https://arxiv.org/abs/2210.01391) — `detection`
 - [CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection](https://arxiv.org/abs/2204.00325) — `detection` `autonomous driving` `multi-modal`
+- [CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding](https://arxiv.org/abs/2203.00680) — `segmentation` `detection` `classification` `self-supervised`
+- [DeepFusion: Lidar-Camera Deep Fusion for Multi-Modal 3D Object Detection](https://arxiv.org/abs/2203.08195) — `detection` `autonomous driving` `multi-modal`
 - [Focal Sparse Convolutional Networks for 3D Object Detection](https://arxiv.org/abs/2204.12463) — `detection` — [code](http://github.com/dvlab-research/FocalsConv)
+- [Geometric Transformer for Fast and Robust Point Cloud Registration](https://arxiv.org/abs/2202.06688) — `registration` `detection` `robustness` — [code](https://github.com/qinzheng93/GeoTransformer)
 - [GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer](https://arxiv.org/abs/2308.03768) — `registration` `detection` `robustness`
 - [Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data](https://arxiv.org/abs/2203.16258) — `segmentation` `detection` `self-supervised` `autonomous driving`
 - [Investigating the Impact of Multi-LiDAR Placement on Object Detection for Autonomous Driving](https://arxiv.org/abs/2105.00373) — `detection` `autonomous driving`
 - [LiDAR Snowfall Simulation for Robust 3D Object Detection](https://arxiv.org/abs/2203.15118) — `detection` `autonomous driving` `robustness`
 - [Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds](https://arxiv.org/abs/2203.11139) — `detection` `efficiency` — [code](https://github.com/yifanzhang713/IA-SSD)
 - [OccAM's Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data](https://arxiv.org/abs/2204.06577) — `detection` — [code](https://github.com/dschinagl/occam)
+- [Point Density-Aware Voxels for LiDAR 3D Object Detection](https://arxiv.org/abs/2203.05662) — `detection` `autonomous driving`
 - [Point2Seq: Detecting 3D Objects as Sequences](https://arxiv.org/abs/2203.13394) — `detection`
 - [Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion](https://arxiv.org/abs/2203.09780) — `detection` `completion`
 - [TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers](https://arxiv.org/abs/2203.11496) — `detection` `autonomous driving` `multi-modal` `robustness` — [code](https://github.com/XuyangBai/TransFusion)
@@ -289,17 +476,21 @@
 - [SNAKE: Shape-aware Neural 3D Keypoint Field](https://arxiv.org/abs/2206.01724) — `detection` `reconstruction` — [code](https://github.com/zhongcl-thu/SNAKE)
 - [Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection](https://arxiv.org/abs/2211.13067) — `detection` — [code](https://github.com/stevewongv/Sparse2Dense)
 - [Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception](https://arxiv.org/abs/2203.11405) — `detection` `autonomous driving` — [code](https://github.com/YurongYou/Hindsight)
+- [WeakM3D: Towards Weakly Supervised Monocular 3D Object Detection](https://arxiv.org/abs/2203.08332) — `detection` `monocular`
 - [Behind the Curtain: Learning Occluded Shapes for 3D Object Detection](https://arxiv.org/abs/2112.02205) — `detection`
 - [MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection](https://arxiv.org/abs/2212.00442) — `detection`
 - [Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds](https://arxiv.org/abs/2204.10688) — `detection`
 - [Boosting Single-Frame 3D Object Detection by Simulating Multi-Frame Point Clouds](https://arxiv.org/abs/2207.01030) — `detection`
+- [Semi-supervised 3D Object Detection via Temporal Graph Neural Networks](https://arxiv.org/abs/2202.00182) — `detection` `autonomous driving`
 - [Centroid Distance Keypoint Detector for Colored Point Clouds](https://arxiv.org/abs/2210.01298) — `detection`
+- [Dense Voxel Fusion for 3D Object Detection](https://arxiv.org/abs/2203.00871) — `detection`
 - [Li3DeTr: A LiDAR based 3D Detection Transformer](https://arxiv.org/abs/2210.15365) — `detection` `autonomous driving`
 - [DA-CIL: Towards Domain Adaptive Class-Incremental 3D Object Detection](https://arxiv.org/abs/2212.02057) — `detection`
 - [Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects](https://arxiv.org/abs/2209.12880) — `detection`
 - [Dynamic Control Barrier Function-based Model Predictive Control to Safety-Critical Obstacle-Avoidance of Mobile Robot](https://arxiv.org/abs/2209.08539) — `detection`
 - [Fast Staircase Detection and Estimation using 3D Point Clouds with Multi-detection Merging for Heterogeneous Robots](https://arxiv.org/abs/2211.00610) — `detection`
 - [HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud](https://arxiv.org/abs/2204.05481) — `detection` `slam` `localization`
+- [CVFNet: Real-time 3D Object Detection by Learning Cross View Features](https://arxiv.org/abs/2203.06585) — `detection` `efficiency`
 - [Patchwork++: Fast and Robust Ground Segmentation Solving Partial Under-Segmentation Using 3D Point Cloud](https://arxiv.org/abs/2207.11919) — `segmentation` `detection` `robustness`
 - [SemanticBEVFusion: Rethink LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detection](https://arxiv.org/abs/2212.04675) — `detection` `autonomous driving` `multi-modal`
 - [GraffMatch: Global Matching of 3D Lines and Planes for Wide Baseline LiDAR Registration](https://arxiv.org/abs/2212.12745) — `registration` `detection`
@@ -310,26 +501,36 @@
 - [You Only Label Once: 3D Box Adaptation from Point Cloud to Image via Semi-Supervised Learning](https://arxiv.org/abs/2211.09302) — `detection`
 - [3D Cascade RCNN: High Quality Object Detection in Point Clouds](https://arxiv.org/abs/2211.08248) — `detection` — [code](https://github.com/caiqi/Cascasde-3D)
 - [Building Change Detection using Multi-Temporal Airborne LiDAR Data](https://arxiv.org/abs/2204.12535) — `detection`
+- [LiDAR-guided Stereo Matching with a Spatial Consistency Constraint](https://arxiv.org/abs/2202.09953) — `detection`
 - [3D Object Detection with a Self-supervised Lidar Scene Flow Backbone](https://arxiv.org/abs/2205.00705) — `detection` `self-supervised` `scene flow`
 - [3D-VFD: A Victim-free Detector against 3D Adversarial Point Clouds](https://arxiv.org/abs/2205.08738) — `detection` `robustness`
 - [3DMODT: Attention-Guided Affinities for Joint Detection & Tracking in 3D Point Clouds](https://arxiv.org/abs/2211.00746) — `detection` `tracking`
 - [4DenoiseNet: Adverse Weather Denoising from Adjacent Point Clouds](https://arxiv.org/abs/2209.07121) — `detection` `denoising` `autonomous driving`
+- [A Lightweight and Detector-free 3D Single Object Tracker on Point Clouds](https://arxiv.org/abs/2203.04232) — `detection` `tracking` `efficiency`
 - [A Survey of Robust 3D Object Detection Methods in Point Clouds](https://arxiv.org/abs/2204.00106) — `detection` `robustness`
 - [AdaSplats: Adaptive Splatting of Point Clouds for Accurate 3D Modeling and Real-time High-Fidelity LiDAR Simulation](https://arxiv.org/abs/2203.09155) — `segmentation` `detection` `tracking` `localization`
 - [AGO-Net: Association-Guided 3D Point Cloud Object Detection Network](https://arxiv.org/abs/2208.11658) — `detection`
+- [Analyzing General-Purpose Deep-Learning Detection and Segmentation Models with Images from a Lidar as a Camera Sensor](https://arxiv.org/abs/2203.04064) — `segmentation` `detection`
+- [Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors](https://arxiv.org/abs/2202.11660) — `detection` `anomaly detection`
+- [ANTLER: Bayesian Nonlinear Tensor Learning and Modeler for Unstructured, Varying-Size Point Cloud Data](https://arxiv.org/abs/2202.13788) — `detection`
 - [BoundED: Neural Boundary and Edge Detection in 3D Point Clouds via Local Neighborhood Statistics](https://arxiv.org/abs/2210.13305) — `detection` `autonomous driving`
 - [CAGroup3D: Class-Aware Grouping for 3D Object Detection on Point Clouds](https://arxiv.org/abs/2210.04264) — `detection`
+- [CG-SSD: Corner Guided Single Stage 3D Object Detection from LiDAR Point Cloud](https://arxiv.org/abs/2202.11868) — `detection`
 - [Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement](https://arxiv.org/abs/2210.05896) — `detection` `autonomous driving` `robustness` `dataset`
 - [Context-Aware Data Augmentation for LIDAR 3D Object Detection](https://arxiv.org/abs/2211.10850) — `detection`
 - [D-Align: Dual Query Co-attention Network for 3D Object Detection Based on Multi-frame Point Cloud Sequence](https://arxiv.org/abs/2210.00087) — `detection`
 - [Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM](https://arxiv.org/abs/2209.08578) — `detection` `slam` `localization`
 - [Detection of Condensed Vehicle Gas Exhaust in LiDAR Point Clouds](https://arxiv.org/abs/2207.04908) — `detection` `autonomous driving`
+- [Efficient divide-and-conquer registration of UAV and ground LiDAR point clouds through canopy shape context](https://arxiv.org/abs/2201.11296) — `registration` `detection` `efficiency`
 - [EPCS: Endpoint-based Part-aware Curve Skeleton Extraction for Low-quality Point Clouds](https://arxiv.org/abs/2211.09488) — `detection`
+- [Estimation of Looming from LiDAR](https://arxiv.org/abs/2202.10972) — `detection`
 - [Feature-based model selection for object detection from point cloud data](https://arxiv.org/abs/2209.12419) — `detection`
 - [FreSCo: Frequency-Domain Scan Context for LiDAR-based Place Recognition with Translation and Rotation Invariance](https://arxiv.org/abs/2206.12628) — `detection` `localization`
 - [FusionRCNN: LiDAR-Camera Fusion for Two-stage 3D Object Detection](https://arxiv.org/abs/2209.10733) — `detection` `autonomous driving` `multi-modal`
+- [Globally Optimal Boresight Alignment of UAV-LiDAR Systems](https://arxiv.org/abs/2202.13501) — `detection`
 - [Graph Neural Network and Spatiotemporal Transformer Attention for 3D Video Object Detection from Point Clouds](https://arxiv.org/abs/2207.12659) — `detection`
 - [ImLiDAR: Cross-Sensor Dynamic Message Propagation Network for 3D Object Detection](https://arxiv.org/abs/2211.09518) — `detection`
+- [Intensity Image-based LiDAR Fiducial Marker System](https://arxiv.org/abs/2203.01816) — `detection`
 - [LiDAR-MIMO: Efficient Uncertainty Estimation for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2206.00214) — `detection` `efficiency`
 - [LinK3D: Linear Keypoints Representation for 3D LiDAR Point Cloud](https://arxiv.org/abs/2206.05927) — `registration` `detection`
 - [Masked Autoencoder for Self-Supervised Pre-training on Lidar Point Clouds](https://arxiv.org/abs/2207.00531) — `detection` `self-supervised` `pre-training`
@@ -337,6 +538,9 @@
 - [NDD: A 3D Point Cloud Descriptor Based on Normal Distribution for Loop Closure Detection](https://arxiv.org/abs/2209.12513) — `detection`
 - [Optimized SC-F-LOAM: Optimized Fast LiDAR Odometry and Mapping Using Scan Context](https://arxiv.org/abs/2204.04932) — `detection` `slam`
 - [PathFusion: Path-consistent Lidar-Camera Deep Feature Fusion](https://arxiv.org/abs/2212.06244) — `detection` `multi-modal`
+- [PCSCNet: Fast 3D Semantic Segmentation of LiDAR Point Cloud for Autonomous Car using Point Convolution and Sparse Convolution Network](https://arxiv.org/abs/2202.10047) — `segmentation` `detection` `classification`
+- [PillarGrid: Deep Learning-based Cooperative Perception for 3D Object Detection from Onboard-Roadside LiDAR](https://arxiv.org/abs/2203.06319) — `detection` `autonomous driving`
+- [Point Cloud Compression for Efficient Data Broadcasting: A Performance Comparison](https://arxiv.org/abs/2202.00719) — `detection` `tracking` `generation` `compression`
 - [Point Cloud Quality Assessment using 3D Saliency Maps](https://arxiv.org/abs/2209.15475) — `detection`
 - [PointPillars Backbone Type Selection For Fast and Accurate LiDAR Object Detection](https://arxiv.org/abs/2209.15252) — `detection`
 - [PointSee: Image Enhances Point Cloud](https://arxiv.org/abs/2211.01664) — `detection`
@@ -345,8 +549,11 @@
 - [RaLiBEV: Radar and LiDAR BEV Fusion Learning for Anchor Box Free Object Detection Systems](https://arxiv.org/abs/2211.06108) — `detection` `autonomous driving` `BEV` `multi-modal`
 - [Resolving Class Imbalance for LiDAR-based Object Detector by Dynamic Weight Average and Contextual Ground Truth Sampling](https://arxiv.org/abs/2210.03331) — `detection` `autonomous driving`
 - [Road Markings Segmentation from LIDAR Point Clouds using Reflectivity Information](https://arxiv.org/abs/2211.01105) — `segmentation` `detection`
+- [Roadside Lidar Vehicle Detection and Tracking Using Range And Intensity Background Subtraction](https://arxiv.org/abs/2201.04756) — `detection` `tracking`
+- [SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System](https://arxiv.org/abs/2201.06423) — `detection` `slam` `localization` `generation`
 - [Semantic Geometric Fusion Multi-object Tracking and Lidar Odometry in Dynamic Environment](https://arxiv.org/abs/2204.11621) — `detection` `tracking` `slam` `localization`
 - [Shrinking unit: a Graph Convolution-Based Unit for CNN-like 3D Point Cloud Feature Extractors](https://arxiv.org/abs/2209.12770) — `segmentation` `detection` `classification` — [code](https://github.com/albertotamajo/Shrinking-unit)
+- [Spatiotemporal Transformer Attention Network for 3D Voxel Level Joint Segmentation and Motion Prediction in Point Cloud](https://arxiv.org/abs/2203.00138) — `segmentation` `detection` `classification` `tracking`
 - [Teacher-Student Network for 3D Point Cloud Anomaly Detection with Few Normal Samples](https://arxiv.org/abs/2210.17258) — `detection` `anomaly detection`
 - [Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection](https://arxiv.org/abs/2210.10263) — `detection` `localization` `generation` `efficiency`
 - [Transformers for Multi-Object Tracking on Point Clouds](https://arxiv.org/abs/2205.15730) — `detection` `tracking`

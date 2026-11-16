@@ -1,12 +1,17 @@
 # Generation & Diffusion · `generation`
 
-共 **209** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **326** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2026
 
+- [BuildAnyPoint: 3D Building Structured Abstraction from Diverse Point Clouds](https://arxiv.org/abs/2602.23645) — `generation` `reconstruction`
+- [C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion](https://arxiv.org/abs/2604.16680) — `registration` `generation`
 - [GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](https://arxiv.org/abs/2512.23180) — `generation` `BEV` `multi-modal`
+- [GaussianGrow: Geometry-aware Gaussian Growing from 3D Point Clouds with Text Guidance](https://arxiv.org/abs/2604.05721) — `generation` `gaussian-splatting`
+- [On the Feasibility and Opportunity of Autoregressive 3D Object Detection](https://arxiv.org/abs/2603.07985) — `detection` `generation`
+- [Points-to-3D: Structure-Aware 3D Generation with Point Cloud Priors](https://arxiv.org/abs/2603.18782) — `generation`
 - [4D-RaDiff: Latent Point Diffusion for 4D Radar Point Cloud Generation](https://arxiv.org/abs/2512.14235) — `generation` `multi-modal`
 - [FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors](https://arxiv.org/abs/2608.23549) — `generation` `nerf` `gaussian-splatting`
 - [Learning to Tessellate: Point Cloud Generation via Recursive Spectral Partitioning](https://arxiv.org/abs/2608.02432) — `generation`
@@ -15,8 +20,12 @@
 - [PrintAnything: Learning an Intermediate Representation for 3D printing G-code Generation](https://arxiv.org/abs/2607.27729) — `generation`
 - [RadarGen: Automotive Radar Point Cloud Generation from Cameras](https://arxiv.org/abs/2512.17897) — `generation` `BEV` `multi-modal`
 - [ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling](https://arxiv.org/abs/2610.21190) — `generation` `upsampling`
+- [IGLOSS: Image Generation for Lidar Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2604.01361) — `segmentation` `generation` `open-vocabulary`
 - [LiFi: LiDAR Generation from Multi-View Images via Geometric and Semantic Collaborative Guidance](https://arxiv.org/abs/2610.19786) — `generation`
+- [Class-Partitioned VQ-VAE and Latent Flow Matching for Point Cloud Scene Generation](https://arxiv.org/abs/2601.12391) — `generation`
 - [DriveLiDAR4D: Sequential and Controllable LiDAR Scene Generation for Autonomous Driving](https://arxiv.org/abs/2511.13309) — `generation` `autonomous driving`
+- [TOSC: Task-Oriented Shape Completion for Open-World Dexterous Grasp Generation from Partial Point Clouds](https://arxiv.org/abs/2601.05499) — `completion` `generation`
+- [R3DPA: Leveraging 3D Representation Alignment and RGB Pretrained Priors for LiDAR Scene Generation](https://arxiv.org/abs/2601.07692) — `generation` `autonomous driving` `pre-training`
 - [DiFF: Doppler-informed Flow Matching for Human Motion Flow](https://arxiv.org/abs/2609.39098) — `generation` `scene flow` — [code](https://github.com/keroseus/DiFF)
 - [Physics-inspired Pseudo Anomaly Generation and Prototype Feature Guidance for 3D Anomaly Detection](https://arxiv.org/abs/2607.10544) — `detection` `generation` `anomaly detection`
 - [Autoencoder Based Deep Clustering of Point Clouds](https://arxiv.org/abs/2611.01594) — `generation` `reconstruction`
@@ -24,31 +33,46 @@
 - [Depth-Semantic Alignment and Affinity-Guided Fusion for Structured Radar Point Cloud Generation](https://arxiv.org/abs/2606.26743) — `detection` `tracking` `generation` `multi-modal`
 - [EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion](https://arxiv.org/abs/2609.26039) — `generation`
 - [FPSGen: Flexible Point Cloud Scene Generation with BEV-Supported Transport Flows](https://arxiv.org/abs/2607.26645) — `completion` `generation` `BEV`
+- [Generalized Wasserstein Flow Matching: Nested Couplings for Point Cloud Generation](https://arxiv.org/abs/2605.08424) — `generation`
 - [Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge](https://arxiv.org/abs/2609.10322) — `generation`
 - [GridFlow: Structured Latent Flow for Seamless City-Scale 3D Point Cloud Generation](https://arxiv.org/abs/2608.29793) — `generation`
 - [Hierarchical Flow Matching for 3D Point Cloud Generation](https://arxiv.org/abs/2608.05557) — `generation` `denoising`
 - [HuLiGen: Human LiDAR Generation from Parametric Body Models](https://arxiv.org/abs/2610.10196) — `generation`
 - [Into the LidarVerse: A Real-Time Unified LiDAR World Model Across Tasks and Sensors](https://arxiv.org/abs/2610.19201) — `generation` `reconstruction` `efficiency`
+- [Learned Elevation Models as a Lightweight Alternative to LiDAR for Radio Environment Map Estimation](https://arxiv.org/abs/2604.05520) — `generation` `efficiency`
 - [M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis](https://arxiv.org/abs/2609.30056) — `generation` `multi-modal`
 - [MedPCFM-TED: One-Step Point Cloud Flow Matching for Implant Generation via Teacher-Guided Endpoint Distillation](https://arxiv.org/abs/2609.16934) — `generation` `reconstruction`
 - [MedPCFM: Improving Medical Point Cloud Completion by Integrating Point Transformers and Flow Matching](https://arxiv.org/abs/2606.24433) — `completion` `generation` `reconstruction`
+- [MGPC: Multimodal Network for Generalizable Point Cloud Completion With Modality Dropout and Progressive Decoding](https://arxiv.org/abs/2601.03660) — `completion` `generation` `multi-modal` — [code](https://github.com/L-J-Yuan/MGPC)
 - [MM-TRELLIS: Point-Cloud Guided Multi-Modal 3D Vehicle Generation in Autonomous Driving](https://arxiv.org/abs/2606.24301) — `generation` `reconstruction` `autonomous driving` `multi-modal`
 - [Multi-Path Mamba Diffusion for 3D Point Cloud Semantic Scene Completion](https://arxiv.org/abs/2611.04583) — `completion` `generation` `occupancy prediction`
 - [OptimusMesh: Compact Autoregressive Mesh Generation from Point Clouds via Sparse Latent Pivots](https://arxiv.org/abs/2610.01148) — `generation` `reconstruction`
 - [PathCover: A Fast Convex Decomposition along a Path via Randomized Iterative Space Partitioning (RISP) on Point Clouds](https://arxiv.org/abs/2608.05586) — `generation`
+- [Physics-Aware Diffusion for LiDAR Point Cloud Densification](https://arxiv.org/abs/2603.26759) — `generation` `upsampling`
 - [Point as Skeleton: Accumulated Point Cloud Enhanced Autoregressive Generation for Closed-Loop Autonomous Driving Simulation](https://arxiv.org/abs/2607.06516) — `generation` `autonomous driving`
+- [Quartet of Diffusions: Structure-Aware Point Cloud Generation through Part and Symmetry Guidance](https://arxiv.org/abs/2601.20425) — `generation`
+- [Rethinking Point Clouds as Sequences: A Causal Next-Token Predictive Learning Framework](https://arxiv.org/abs/2605.17566) — `generation` `reconstruction` `self-supervised`
 - [RhinoNet: Unsupervised Learning for Phenoscaping and Generation of High Dimensional Point Clouds](https://arxiv.org/abs/2610.23898) — `generation`
 - [RigPAPR: Rig-Based Animation of Static Neural Point Clouds from a Fixed-Viewpoint Video](https://arxiv.org/abs/2606.06685) — `generation` `reconstruction` `monocular`
+- [RS2AD-LiDAR: End-to-End Autonomous Driving LiDAR Data Generation from Roadside Sensor Observations](https://arxiv.org/abs/2605.23406) — `generation` `autonomous driving`
 - [Synthetic LiDAR Data Generation and Deterministic Downsampling for Point Cloud Classification on the Edge](https://arxiv.org/abs/2608.07106) — `classification` `generation`
 - [TokenFlow: Latent Token Rectified Flow Matching for 3D Point Cloud Generation](https://arxiv.org/abs/2610.27418) — `generation`
 - [ZVeC: A Zero-Shot Framework for Instance-Level Vehicle Extraction and Generative Point Cloud Completion](https://arxiv.org/abs/2609.24825) — `completion` `generation` `reconstruction` `open-vocabulary`
 ## 2025
 
+- [GenPC: Zero-shot Point Cloud Completion via 3D Generative Priors](https://arxiv.org/abs/2502.19896) — `completion` `generation` `open-vocabulary`
+- [SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation](https://arxiv.org/abs/2505.17721) — `segmentation` `generation` `denoising`
+- [SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization](https://arxiv.org/abs/2503.14558) — `completion` `generation` `reconstruction` `upsampling`
+- [TreeMeshGPT: Artistic Mesh Generation with Autoregressive Tree Sequencing](https://arxiv.org/abs/2503.11629) — `generation` — [code](https://github.com/sail-sg/TreeMeshGPT)
 - [Guiding Diffusion-Based Articulated Object Generation by Partial Point Cloud Alignment and Physical Plausibility Constraints](https://arxiv.org/abs/2508.00558) — `registration` `generation`
 - [Harnessing Text-to-Image Diffusion Models for Point Cloud Self-Supervised Learning](https://arxiv.org/abs/2507.09102) — `generation` `self-supervised`
 - [Towards More Diverse and Challenging Pre-training for Point Cloud Learning: Self-Supervised Cross Reconstruction with Decoupled Views](https://arxiv.org/abs/2509.01250) — `generation` `reconstruction` `self-supervised` `pre-training`
 - [Avi: Action from Volumetric Inference](https://arxiv.org/abs/2510.21746) — `generation` — Workshop
+- [MIND: Material Interface Generation from UDFs for Non-Manifold Surface Reconstruction](https://arxiv.org/abs/2506.02938) — `generation` `reconstruction`
 - [Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers](https://arxiv.org/abs/2510.07316) — `generation` `compression` `monocular`
+- [Rectified Point Flow: Generic Point Cloud Pose Estimation](https://arxiv.org/abs/2506.05282) — `registration` `generation`
+- [GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision](https://arxiv.org/abs/2504.11754) — `segmentation` `generation` — [code](https://github.com/vLAR-group/GrabS)
+- [EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance](https://arxiv.org/abs/2505.21876) — `generation` `efficiency`
 - [Geometry-to-Image Synthesis-Driven Generative Point Cloud Registration](https://arxiv.org/abs/2512.09407) — `registration` `generation`
 - [HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection](https://arxiv.org/abs/2412.11489) — `detection` `generation` `autonomous driving` `multi-modal`
 - [CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling](https://arxiv.org/abs/2509.21114) — `generation`
@@ -56,76 +80,146 @@
 - [Enhancing Pseudo-Boxes via Data-Level LiDAR-Camera Fusion for Unsupervised 3D Object Detection](https://arxiv.org/abs/2508.20530) — `detection` `generation` `multi-modal`
 - [Rethinking Metrics and Diffusion Architecture for 3D Point Cloud Generation](https://arxiv.org/abs/2511.05308) — `generation`
 - [Point2Pose: A Generative Framework for 3D Human Pose Estimation with Multi-View Point Cloud Dataset](https://arxiv.org/abs/2512.10321) — `generation` `dataset`
+- [Generative Data Augmentation for Object Point Cloud Segmentation](https://arxiv.org/abs/2505.17783) — `segmentation` `generation` `denoising`
+- [Towards Terrain-Aware Task-Driven 3D Scene Graph Generation in Outdoor Environments](https://arxiv.org/abs/2506.06562) — `generation` — Workshop
+- [R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model](https://arxiv.org/abs/2503.17097) — `generation` `upsampling` `BEV` `multi-modal`
 - [TopoLiDM: Topology-Aware LiDAR Diffusion Models for Interpretable and Realistic LiDAR Point Cloud Generation](https://arxiv.org/abs/2507.22454) — `generation` `autonomous driving` — [code](https://github.com/IRMVLab/TopoLiDM)
 - [Real-Time Adaptive Motion Planning via Point Cloud-Guided, Energy-Based Diffusion and Potential Fields](https://arxiv.org/abs/2507.09383) — `generation` `efficiency`
+- [3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation](https://arxiv.org/abs/2505.03300) — `segmentation` `generation` `autonomous driving`
+- [3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap](https://arxiv.org/abs/2504.12442) — `segmentation` `generation` `open-vocabulary`
+- [4DR P2T: 4D Radar Tensor Synthesis with Point Clouds](https://arxiv.org/abs/2502.05550) — `generation` `multi-modal`
 - [A Continuous-Time Consistency Model for 3D Point Cloud Generation](https://arxiv.org/abs/2509.01492) — `generation`
 - [Adaptive and Iterative Point Cloud Denoising with Score-Based Diffusion Model](https://arxiv.org/abs/2509.14560) — `generation` `denoising`
 - [ALICE-LRI: A General Method for Lossless Range Image Generation for Spinning LiDAR Sensors without Calibration Metadata](https://arxiv.org/abs/2510.20708) — `generation`
 - [APML: Adaptive Probabilistic Matching Loss for Robust 3D Point Cloud Reconstruction](https://arxiv.org/abs/2509.08104) — `completion` `generation` `reconstruction` `robustness`
+- [Autoencoder Models for Point Cloud Environmental Synthesis from WiFi Channel State Information: A Preliminary Study](https://arxiv.org/abs/2504.20541) — `generation`
 - [Benefit from Reference: Retrieval-Augmented Cross-modal Point Cloud Completion](https://arxiv.org/abs/2507.14485) — `completion` `generation`
+- [Channel-adaptive Cross-modal Generative Semantic Communication for Point Cloud Transmission](https://arxiv.org/abs/2506.03211) — `generation` `autonomous driving`
 - [DiffPCN: Latent Diffusion Model Based on Multi-view Depth Images for Point Cloud Completion](https://arxiv.org/abs/2509.23723) — `completion` `generation`
 - [Dual-Branch Center-Surrounding Contrast: Rethinking Contrastive Learning for 3D Point Clouds](https://arxiv.org/abs/2512.08673) — `generation` `self-supervised`
 - [Efficient Model-Based Purification Against Adversarial Attacks for LiDAR Segmentation](https://arxiv.org/abs/2508.19290) — `segmentation` `generation` `robustness` `efficiency`
+- [Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery](https://arxiv.org/abs/2505.02049) — `generation` `upsampling`
+- [Face recognition on point cloud with cgan-top for denoising](https://arxiv.org/abs/2506.06864) — `generation` `denoising`
+- [FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps](https://arxiv.org/abs/2502.00395) — `slam` `localization` `generation` `autonomous driving`
 - [From Canopy to Ground via ForestGen3D: Learning Cross-Domain Generation of 3D Forest Structure from Aerial-to-Terrestrial LiDAR](https://arxiv.org/abs/2509.16346) — `generation`
 - [GeMS: Efficient Gaussian Splatting for Extreme Motion Blur](https://arxiv.org/abs/2508.14682) — `generation` `gaussian-splatting` `efficiency`
 - [Generating Adversarial Point Clouds Using Diffusion Model](https://arxiv.org/abs/2507.21163) — `classification` `generation` `robustness`
 - [Guided and Unguided Conditional Diffusion Mechanisms for Structured and Semantically-Aware 3D Point Cloud Generation](https://arxiv.org/abs/2509.17206) — `segmentation` `generation`
+- [HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder](https://arxiv.org/abs/2505.01938) — `generation` `gaussian-splatting` `compression` `efficiency`
 - [InJecteD: Analyzing Trajectories and Drift Dynamics in Denoising Diffusion Probabilistic Models for 2D Point Cloud Generation](https://arxiv.org/abs/2509.12239) — `generation` `denoising`
+- [Learning better representations for crowded pedestrians in offboard LiDAR-camera 3D tracking-by-detection](https://arxiv.org/abs/2505.16029) — `detection` `tracking` `generation` `multi-modal`
 - [Leveraging CVAE for Joint Configuration Estimation of Multifingered Grippers from Point Cloud Data](https://arxiv.org/abs/2511.17276) — `generation`
 - [LiDAR Point Cloud Image-based Generation Using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2509.18917) — `detection` `generation` `denoising`
 - [LiDARDraft: Generating LiDAR Point Cloud from Versatile Inputs](https://arxiv.org/abs/2512.20105) — `generation` `autonomous driving`
 - [LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving](https://arxiv.org/abs/2511.16049) — `generation` `autonomous driving`
+- [MaskPlanner: Learning-Based Object-Centric Motion Generation from 3D Point Clouds](https://arxiv.org/abs/2502.18745) — `generation`
 - [Matching the Optimal Denoiser in Point Cloud Diffusion with (Improved) Rotational Alignment](https://arxiv.org/abs/2510.03335) — `generation` `denoising`
 - [MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds](https://arxiv.org/abs/2508.14879) — `generation` `reconstruction` `vision-language`
 - [MFM-point: Multi-scale Flow Matching for Point Cloud Generation](https://arxiv.org/abs/2511.20041) — `generation`
+- [MRG: A Multi-Robot Manufacturing Digital Scene Generation Method Using Multi-Instance Point Cloud Registration](https://arxiv.org/abs/2501.02041) — `registration` `segmentation` `generation`
+- [Multiview Point Cloud Registration via Optimization in an Autoencoder Latent Space](https://arxiv.org/abs/2504.21467) — `registration` `generation`
+- [Not-So-Optimal Transport Flows for 3D Point Cloud Generation](https://arxiv.org/abs/2502.12456) — `generation`
 - [OCCDiff: Occupancy Diffusion Model for High-Fidelity 3D Building Reconstruction from Noisy Point Clouds](https://arxiv.org/abs/2512.08506) — `generation` `reconstruction`
+- [OmniJet-$α_C$: Learning point cloud calorimeter simulations using generative transformers](https://arxiv.org/abs/2501.05534) — `detection` `generation`
 - [OT-MeanFlow3D: Bridging Optimal Transport and Meanflow for Efficient 3D Point Cloud Generation](https://arxiv.org/abs/2509.22592) — `generation` `efficiency`
+- [PCE-GAN: A Generative Adversarial Network for Point Cloud Attribute Quality Enhancement based on Optimal Transport](https://arxiv.org/abs/2503.00047) — `generation` `reconstruction` `compression` `robustness`
+- [Physically-Based Mesh Generation for Confined 3D Point Clouds Using Flexible Foil Models](https://arxiv.org/abs/2502.06541) — `generation`
+- [Point Cloud Recombination: Systematic Real Data Augmentation Using Robotic Targets for LiDAR Perception Validation](https://arxiv.org/abs/2505.02476) — `generation`
 - [Point cloud segmentation for 3D Clothed Human Layering](https://arxiv.org/abs/2508.05531) — `segmentation` `generation`
+- [Point2Quad: Generating Quad Meshes from Point Clouds via Face Prediction](https://arxiv.org/abs/2504.19545) — `generation`
+- [PointDiffuse: A Dual-Conditional Diffusion Model for Enhanced Point Cloud Semantic Segmentation](https://arxiv.org/abs/2503.06094) — `segmentation` `generation` `denoising`
 - [PointNSP: Autoregressive 3D Point Cloud Generation with Next-Scale Level-of-Detail Prediction](https://arxiv.org/abs/2510.05613) — `generation`
+- [Procedural Generation of 3D Maize Plant Architecture from LIDAR Data](https://arxiv.org/abs/2501.13963) — `generation`
 - [PUFM++: Point Cloud Upsampling via Enhanced Flow Matching](https://arxiv.org/abs/2512.20988) — `generation` `reconstruction` `upsampling`
 - [Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching](https://arxiv.org/abs/2512.01850) — `registration` `localization` `generation` `reconstruction`
+- [Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks](https://arxiv.org/abs/2504.01659) — `segmentation` `generation` `domain adaptation` `robustness`
 - [SG-LDM: Semantic-Guided LiDAR Generation via Latent-Aligned Diffusion](https://arxiv.org/abs/2506.23606) — `generation`
 - [StrucADT: Generating Structure-controlled 3D Point Clouds with Adjacency Diffusion Transformer](https://arxiv.org/abs/2509.23709) — `generation`
+- [TFDM: Time-Variant Frequency-Based Point Cloud Diffusion with Mamba](https://arxiv.org/abs/2503.13004) — `generation`
+- [The Worse The Better: Content-Aware Viewpoint Generation Network for Projection-related Point Cloud Quality Assessment](https://arxiv.org/abs/2502.11710) — `generation`
+- [TopoDiT-3D: Topology-Aware Diffusion Transformer with Bottleneck Structure for 3D Point Cloud Generation](https://arxiv.org/abs/2505.09140) — `generation`
 - [Toward Using Machine Learning as a Shape Quality Metric for Liver Point Cloud Generation](https://arxiv.org/abs/2508.02482) — `generation`
 - [UMIGen: A Unified Framework for Egocentric Point Cloud Generation and Cross-Embodiment Robotic Imitation Learning](https://arxiv.org/abs/2511.09302) — `generation`
+- [Unified Geometry and Color Compression Framework for Point Clouds via Generative Diffusion Priors](https://arxiv.org/abs/2503.18083) — `generation` `compression`
 - [Warm-Starting Optimization-Based Motion Planning for Robotic Manipulators via Point Cloud-Conditioned Flow Matching](https://arxiv.org/abs/2510.03460) — `generation`
+- [WeatherGen: A Unified Diverse Weather Generator for LiDAR Point Clouds via Spider Mamba Diffusion](https://arxiv.org/abs/2504.13561) — `generation`
 ## 2024
 
+- [Dexterous Grasp Transformer](https://arxiv.org/abs/2404.18135) — `generation`
+- [FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance](https://arxiv.org/abs/2406.02074) — `completion` `generation`
 - [Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation](https://arxiv.org/abs/2312.14124) — `generation`
 - [Cultural Heritage 3D Reconstruction with Diffusion Networks](https://arxiv.org/abs/2410.10927) — `generation` `reconstruction` — Workshop
 - [D-SCo: Dual-Stream Conditional Diffusion for Monocular Hand-Held Object Reconstruction](https://arxiv.org/abs/2311.14189) — `generation` `reconstruction` `denoising` `monocular`
 - [DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields](https://arxiv.org/abs/2311.12063) — `segmentation` `generation` `efficiency`
 - [Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection](https://arxiv.org/abs/2408.00286) — `detection` `generation`
+- [Diffusion Model is a Good Pose Estimator from 3D RF-Vision](https://arxiv.org/abs/2403.16198) — `generation`
+- [PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training](https://arxiv.org/abs/2407.14054) — `registration` `generation`
+- [T-CorresNet: Template Guided 3D Point Cloud Completion with Correspondence Pooling Query Generation Strategy](https://arxiv.org/abs/2407.05008) — `completion` `generation` `autonomous driving`
 - [Point Cloud Synthesis Using Inner Product Transforms](https://arxiv.org/abs/2410.18987) — `generation` — [code](https://github.com/aidos-lab/inner-product-transforms)
 - [GaussianAnything: Interactive Point Cloud Flow Matching For 3D Object Generation](https://arxiv.org/abs/2411.08033) — `generation`
+- [CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers](https://arxiv.org/abs/2401.01552) — `completion` `generation`
 - [Point Cloud Part Editing: Segmentation, Generation, Assembly, and Selection](https://arxiv.org/abs/2312.11867) — `segmentation` `generation`
 - [ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling](https://arxiv.org/abs/2410.06963) — `generation` `upsampling` `efficiency`
 - [PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing](https://arxiv.org/abs/2411.04249) — `generation`
+- [RGB2Point: 3D Point Cloud Generation from Single RGB Images](https://arxiv.org/abs/2407.14979) — `generation` `denoising`
 - [LOGen: Toward Lidar Object Generation by Point Diffusion](https://arxiv.org/abs/2412.07385) — `generation` `autonomous driving`
 - [LiDAR-EDIT: LiDAR Data Generation by Editing the Object Layouts in Real-World Scenes](https://arxiv.org/abs/2412.00592) — `generation` `autonomous driving`
+- [PillarGen: Enhancing Radar Point Cloud Density and Quality via Pillar-based Point Generation Network](https://arxiv.org/abs/2403.01663) — `generation` `multi-modal`
+- [SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robust Point Cloud Registration](https://arxiv.org/abs/2407.06297) — `registration` `generation` `robustness`
+- [HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud](https://arxiv.org/abs/2404.03159) — `generation`
 - [A Generative Adversarial Network-based Method for LiDAR-Assisted Radar Image Enhancement](https://arxiv.org/abs/2409.00196) — `generation` `multi-modal` `robustness`
+- [Automatic Odometry-Less OpenDRIVE Generation From Sparse Point Clouds](https://arxiv.org/abs/2405.07544) — `generation`
+- [DiffPoint: Single and Multi-view Point Cloud Reconstruction with ViT Based Diffusion Model](https://arxiv.org/abs/2402.11241) — `generation` `reconstruction`
 - [Divide and Conquer: A Systematic Approach for Industrial Scale High-Definition OpenDRIVE Generation from Sparse Point Clouds](https://arxiv.org/abs/2407.18703) — `generation`
 - [EADReg: Probabilistic Correspondence Generation with Efficient Autoregressive Diffusion Model for Outdoor Point Cloud Registration](https://arxiv.org/abs/2411.15271) — `registration` `generation` `efficiency`
 - [Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models](https://arxiv.org/abs/2408.06145) — `generation` `efficiency`
+- [Efficient Global Navigational Planning in 3D Structures based on Point Cloud Tomography](https://arxiv.org/abs/2403.07631) — `generation` `efficiency`
+- [Enhancing Diffusion-based Point Cloud Generation with Smoothness Constraint](https://arxiv.org/abs/2404.02396) — `generation`
+- [Exploiting GPT-4 Vision for Zero-shot Point Cloud Understanding](https://arxiv.org/abs/2401.07572) — `classification` `generation` `open-vocabulary`
+- [Exploiting Topological Priors for Boosting Point Cloud Generation](https://arxiv.org/abs/2403.10962) — `generation`
+- [Fast LiDAR Upsampling using Conditional Diffusion Models](https://arxiv.org/abs/2405.04889) — `generation` `upsampling`
+- [Flow AM: Generating Point Cloud Global Explanations by Latent Alignment](https://arxiv.org/abs/2404.18760) — `generation`
 - [Generative Adversarial Synthesis of Radar Point Cloud Scenes](https://arxiv.org/abs/2410.13526) — `generation` `multi-modal` `robustness`
+- [Generative AI Empowered LiDAR Point Cloud Generation with Multimodal Transformer](https://arxiv.org/abs/2406.18542) — `generation` `multi-modal`
+- [Generative Design of Crystal Structures by Point Cloud Representations and Diffusion Model](https://arxiv.org/abs/2401.13192) — `generation`
 - [Grasp Diffusion Network: Learning Grasp Generators from Partial Point Clouds with Diffusion Models in SO(3)xR3](https://arxiv.org/abs/2412.08398) — `generation`
+- [Imagination Policy: Using Generative Point Cloud Models for Learning Manipulation Policies](https://arxiv.org/abs/2406.11740) — `generation`
 - [Improving Adversarial Robustness for 3D Point Cloud Recognition at Test-Time through Purified Self-Training](https://arxiv.org/abs/2409.14940) — `generation` `robustness`
+- [LAM3D: Large Image-Point-Cloud Alignment Model for 3D Reconstruction from Single Image](https://arxiv.org/abs/2405.15622) — `generation` `reconstruction`
 - [Learned Compression for Images and Point Clouds](https://arxiv.org/abs/2409.08376) — `classification` `generation` `compression` `upsampling`
+- [LidarDM: Generative LiDAR Simulation in a Generated World](https://arxiv.org/abs/2404.02903) — `generation` `autonomous driving`
 - [LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression](https://arxiv.org/abs/2408.08682) — `generation` `compression` `vision-language`
+- [Masked Generative Extractor for Synergistic Representation and 3D Generation of Point Clouds](https://arxiv.org/abs/2406.17342) — `generation` `reconstruction`
+- [Mitigating Prior Shape Bias in Point Clouds via Differentiable Center Learning](https://arxiv.org/abs/2402.02088) — `generation`
+- [NeRF2Points: Large-Scale Point Cloud Generation From Street Views' Radiance Field Optimization](https://arxiv.org/abs/2404.04875) — `generation` `nerf`
+- [No More Potentially Dynamic Objects: Static Point Cloud Map Generation based on 3D Object Detection and Ground Projection](https://arxiv.org/abs/2407.01073) — `detection` `generation`
 - [Particle-based 6D Object Pose Estimation from Point Clouds using Diffusion Models](https://arxiv.org/abs/2412.00835) — `generation`
+- [PCAC-GAN: A Sparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression](https://arxiv.org/abs/2407.05677) — `generation` `compression` `robustness`
+- [Point Cloud Compression via Constrained Optimal Transport](https://arxiv.org/abs/2403.08236) — `generation` `compression`
 - [Point Cloud Resampling with Learnable Heat Diffusion](https://arxiv.org/abs/2411.14120) — `generation`
 - [Point-PNG: Conditional Pseudo-Negatives Generation for Point Cloud Pre-Training](https://arxiv.org/abs/2409.15832) — `generation` `self-supervised` `pre-training`
 - [Point2Graph: An End-to-end Point Cloud-based 3D Open-Vocabulary Scene Graph for Robot Navigation](https://arxiv.org/abs/2409.10350) — `generation` `open-vocabulary`
 - [PointCG: Self-supervised Point Cloud Learning via Joint Completion and Generation](https://arxiv.org/abs/2411.06041) — `completion` `generation` `self-supervised`
+- [RadCloud: Real-Time High-Resolution Point Cloud Generation Using Low-Cost Radars for Aerial and Ground Vehicles](https://arxiv.org/abs/2403.05964) — `generation` `efficiency`
+- [RangeLDM: Fast Realistic LiDAR Point Cloud Generation](https://arxiv.org/abs/2403.10094) — `generation` `autonomous driving`
+- [REPS: Reconstruction-based Point Cloud Sampling](https://arxiv.org/abs/2403.05047) — `generation` `reconstruction` — [code](https://github.com/hitcslj/REPS)
 - [Simultaneous Diffusion Sampling for Conditional LiDAR Generation](https://arxiv.org/abs/2410.11628) — `generation`
+- [Single-View Scene Point Cloud Human Grasp Generation](https://arxiv.org/abs/2404.15815) — `generation`
+- [Talk to Parallel LiDARs: A Human-LiDAR Interaction Method Based on 3D Visual Grounding](https://arxiv.org/abs/2405.15274) — `generation` `autonomous driving`
+- [Taming Transformers for Realistic Lidar Point Cloud Generation](https://arxiv.org/abs/2404.05505) — `generation` `denoising`
 - [Text2LiDAR: Text-guided LiDAR Point Cloud Generation via Equirectangular Transformer](https://arxiv.org/abs/2407.19628) — `generation`
 - [U-Motion: Learned Point Cloud Video Compression with U-Structured Temporal Context Generation](https://arxiv.org/abs/2411.14501) — `generation` `compression`
+- [Uni3D-LLM: Unifying Point Cloud Perception, Generation and Editing with Large Language Models](https://arxiv.org/abs/2402.03327) — `generation` `vision-language`
+- [Vision Foundation Model Driven Foreground-Aware Pseudo-LiDAR Generation for Monocular 3D Object Detection](https://arxiv.org/abs/2404.09431) — `detection` `generation` `monocular` `pre-training`
 ## 2023
 
 - [3D Registration with Maximal Cliques](https://arxiv.org/abs/2305.10854) — `registration` `generation`
+- [3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process](https://arxiv.org/abs/2303.10406) — `completion` `generation`
+- [Controllable Mesh Generation Through Sparse Latent Point Diffusion Models](https://arxiv.org/abs/2303.07938) — `generation`
 - [GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds](https://arxiv.org/abs/2212.03010) — `generation` `pre-training`
 - [GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds](https://arxiv.org/abs/2312.00068) — `generation`
 - [UltraLiDAR: Learning Compact Representations for LiDAR Completion and Generation](https://arxiv.org/abs/2311.01448) — `completion` `generation`
+- [UniDexGrasp: Universal Robotic Dexterous Grasping via Learning Diverse Proposal Generation and Goal-Conditioned Policy](https://arxiv.org/abs/2303.00938) — `generation`
 - [3DHacker: Spectrum-based Decision Boundary Generation for Hard-label 3D Point Cloud Attack](https://arxiv.org/abs/2308.07546) — `generation` `autonomous driving`
 - [PG-RCNN: Semantic Surface Point Generation for 3D Object Detection](https://arxiv.org/abs/2307.12637) — `detection` `completion` `generation`
 - [Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation](https://arxiv.org/abs/2308.02874) — `generation`
@@ -134,8 +228,11 @@
 - [Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection](https://arxiv.org/abs/2312.02966) — `detection` `generation` — [code](https://github.com/luluho1208/Diffusion-SS3D)
 - [Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion](https://arxiv.org/abs/2307.16532) — `detection` `generation` `autonomous driving` `multi-modal`
 - [SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation](https://arxiv.org/abs/2310.17359) — `registration` `generation` `denoising` `robustness`
+- [MeshDiffusion: Score-based Generative 3D Mesh Modeling](https://arxiv.org/abs/2303.08133) — `generation`
 - [Sample Complexity Bounds for Estimating Probability Divergences under Invariances](https://arxiv.org/abs/2311.02868) — `generation`
 - [Contrastive Predictive Autoencoders for Dynamic Point Cloud Self-Supervised Learning](https://arxiv.org/abs/2305.12959) — `generation` `reconstruction` `self-supervised`
+- [SGFormer: Semantic Graph Transformer for Point Cloud-based 3D Scene Graph Generation](https://arxiv.org/abs/2303.11048) — `generation`
+- [3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models](https://arxiv.org/abs/2301.11445) — `generation`
 - [Context-Aware Indoor Point Cloud Object Generation through User Instructions](https://arxiv.org/abs/2311.16501) — `generation`
 - [LiDAR Data Synthesis with Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2309.09256) — `completion` `generation` `denoising`
 - [Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation](https://arxiv.org/abs/2309.17336) — `detection` `generation` `multi-modal` `robustness`
@@ -143,24 +240,36 @@
 - [A Hybrid Semantic-Geometric Approach for Clutter-Resistant Floorplan Generation from Building Point Clouds](https://arxiv.org/abs/2305.15420) — `generation`
 - [A point cloud approach to generative modeling for galaxy surveys at the field level](https://arxiv.org/abs/2311.17141) — `generation`
 - [A Unified Generative Framework for Realistic Lidar Simulation in Autonomous Driving Systems](https://arxiv.org/abs/2312.15817) — `generation` `autonomous driving`
+- [Attention-based Point Cloud Edge Sampling](https://arxiv.org/abs/2302.14673) — `generation`
 - [BuilDiff: 3D Building Shape Generation using Single-Image Conditional Point Cloud Diffusion Models](https://arxiv.org/abs/2309.00158) — `generation`
 - [Can point cloud networks learn statistical shape models of anatomies?](https://arxiv.org/abs/2305.05610) — `generation`
 - [Comparison of Point Cloud and Image-based Models for Calorimeter Fast Simulation](https://arxiv.org/abs/2307.04780) — `generation`
 - [DeepTreeGANv2: Iterative Pooling of Point Clouds](https://arxiv.org/abs/2312.00042) — `generation`
+- [Depth- and Semantics-aware Multi-modal Domain Translation: Generating 3D Panoramic Color Images from LiDAR Point Clouds](https://arxiv.org/abs/2302.07661) — `generation` `multi-modal`
+- [DiffFacto: Controllable Part-Based 3D Point Cloud Generation with Cross Diffusion](https://arxiv.org/abs/2305.01921) — `generation`
 - [DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion](https://arxiv.org/abs/2305.09132) — `completion` `generation`
+- [EPiC-GAN: Equivariant Point Cloud Generation for Particle Jets](https://arxiv.org/abs/2301.08128) — `detection` `generation` — [code](https://github.com/uhh-pd-ml/EPiC-GAN)
 - [FAKEPCD: Fake Point Cloud Detection via Source Attribution](https://arxiv.org/abs/2312.11213) — `detection` `generation`
 - [Fast Training of Diffusion Transformer with Extreme Masking for 3D Point Clouds Generation](https://arxiv.org/abs/2312.07231) — `generation`
 - [FrePolad: Frequency-Rectified Point Latent Diffusion for Point Cloud Generation](https://arxiv.org/abs/2311.12090) — `generation` `denoising`
+- [Generative Models for 3D Point Clouds](https://arxiv.org/abs/2302.13408) — `generation`
+- [GPU-Accelerated LOD Generation for Point Clouds](https://arxiv.org/abs/2302.14801) — `generation`
 - [Improving Neural Radiance Field using Near-Surface Sampling with Point Cloud Generation](https://arxiv.org/abs/2310.04152) — `generation` `nerf`
+- [InsMOS: Instance-Aware Moving Object Segmentation in LiDAR Data](https://arxiv.org/abs/2303.03909) — `segmentation` `generation`
+- [Instance-incremental Scene Graph Generation from Real-world Point Clouds via Normalizing Flows](https://arxiv.org/abs/2302.10425) — `generation`
 - [InstructP2P: Learning to Edit 3D Point Clouds with Text Instructions](https://arxiv.org/abs/2306.07154) — `generation`
 - [P2M2-Net: Part-Aware Prompt-Guided Multimodal Point Cloud Completion](https://arxiv.org/abs/2312.17611) — `completion` `generation` `multi-modal`
 - [Partial Symmetry Detection for 3D Geometry using Contrastive Learning with Geodesic Point Cloud Patches](https://arxiv.org/abs/2312.08230) — `detection` `completion` `generation` `self-supervised`
 - [Patch-Wise Point Cloud Generation: A Divide-and-Conquer Approach](https://arxiv.org/abs/2307.12049) — `generation` `autonomous driving`
+- [Pillar R-CNN for Point Cloud 3D Object Detection](https://arxiv.org/abs/2302.13301) — `detection` `generation` `BEV`
+- [Point Cloud Diffusion Models for Automatic Implant Generation](https://arxiv.org/abs/2303.08061) — `generation` — [code](https://github.com/pfriedri/pcdiff-implant)
 - [Point-Bind & Point-LLM: Aligning Point Cloud with Multi-modality for 3D Understanding, Generation, and Instruction Following](https://arxiv.org/abs/2309.00615) — `generation` `vision-language` — [code](https://github.com/ZiyuGuo99/Point-Bind_Point-LLM)
 - [PointGPT: Auto-regressively Generative Pre-training from Point Clouds](https://arxiv.org/abs/2305.11487) — `generation` `pre-training`
+- [Quantifying the LiDAR Sim-to-Real Domain Shift: A Detailed Investigation Using Object Detectors and Analyzing Point Clouds at Target-Level](https://arxiv.org/abs/2303.01899) — `detection` `generation` `autonomous driving`
 - [Select-and-Combine (SAC): A Novel Multi-Stereo Depth Fusion Algorithm for Point Cloud Generation via Efficient Local Markov Netlets](https://arxiv.org/abs/2308.12138) — `generation` `reconstruction` `efficiency`
 - [Semantics-aware LiDAR-Only Pseudo Point Cloud Generation for 3D Object Detection](https://arxiv.org/abs/2309.08932) — `detection` `generation`
 - [SG-GAN: Fine Stereoscopic-Aware Generation for 3D Brain Point Cloud Up-sampling from a Single Image](https://arxiv.org/abs/2305.12646) — `generation` `reconstruction`
+- [StarNet: Style-Aware 3D Point Cloud Generation](https://arxiv.org/abs/2303.15805) — `generation` `reconstruction`
 - [UNeR3D: Versatile and Scalable 3D RGB Point Cloud Generation from 2D Images in Unsupervised Reconstruction](https://arxiv.org/abs/2312.06706) — `generation` `reconstruction`
 ## 2022
 
@@ -177,6 +286,7 @@
 - [NeuralMeshing: Differentiable Meshing of Implicit Neural Representations](https://arxiv.org/abs/2210.02382) — `generation`
 - [A Realism Metric for Generated LiDAR Point Clouds](https://arxiv.org/abs/2208.14958) — `generation`
 - [Accurate Ground-Truth Depth Image Generation via Overfit Training of Point Cloud Registration using Local Frame Sets](https://arxiv.org/abs/2207.07016) — `registration` `generation`
+- [Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis](https://arxiv.org/abs/2203.03311) — `completion` `generation`
 - [Convolutional Neural Network-based Efficient Dense Point Cloud Generation using Unsigned Distance Fields](https://arxiv.org/abs/2203.11537) — `generation` `efficiency`
 - [CP3: Unifying Point Cloud Completion by Pretrain-Prompt-Predict Paradigm](https://arxiv.org/abs/2207.05359) — `completion` `generation` `pre-training`
 - [Fast Point Cloud Generation with Straight Flows](https://arxiv.org/abs/2212.01747) — `generation` `denoising`
@@ -185,18 +295,25 @@
 - [Learning to Simulate Realistic LiDARs](https://arxiv.org/abs/2209.10986) — `generation`
 - [NeuralBF: Neural Bilateral Filtering for Top-down Instance Segmentation on Point Clouds](https://arxiv.org/abs/2207.09978) — `segmentation` `generation`
 - [PCGen: Point Cloud Generator for LiDAR Simulation](https://arxiv.org/abs/2210.08738) — `generation`
+- [Point Cloud Compression for Efficient Data Broadcasting: A Performance Comparison](https://arxiv.org/abs/2202.00719) — `detection` `tracking` `generation` `compression`
+- [Point Cloud Generation with Continuous Conditioning](https://arxiv.org/abs/2202.08526) — `generation`
 - [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751) — `generation`
+- [PUFA-GAN: A Frequency-Aware Generative Adversarial Network for 3D Point Cloud Upsampling](https://arxiv.org/abs/2203.00914) — `generation` `upsampling` `robustness`
 - [RGB-L: Enhancing Indirect Visual SLAM using LiDAR-based Dense Depth Maps](https://arxiv.org/abs/2212.02085) — `slam` `generation`
 - [sat2pc: Estimating Point Cloud of Building Roofs from 2D Satellite Images](https://arxiv.org/abs/2205.12464) — `generation`
+- [SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System](https://arxiv.org/abs/2201.06423) — `detection` `slam` `localization` `generation`
+- [SPA-VAE: Similar-Parts-Assignment for Unsupervised 3D Point Cloud Generation](https://arxiv.org/abs/2203.07825) — `generation`
 - [Synthetic Point Cloud Generation for Class Segmentation Applications](https://arxiv.org/abs/2205.03738) — `segmentation` `generation`
 - [Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection](https://arxiv.org/abs/2210.10263) — `detection` `localization` `generation` `efficiency`
 ## 2021
 
 - [3D Spatial Recognition without Spatially Labeled 3D](https://arxiv.org/abs/2105.06461) — `segmentation` `detection` `generation`
 - [Diffusion Probabilistic Models for 3D Point Cloud Generation](https://arxiv.org/abs/2103.01458) — `completion` `generation` `upsampling`
+- [PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-step Point Moving Paths](https://arxiv.org/abs/2202.09507) — `completion` `generation`
 - [Deep Hybrid Self-Prior for Full 3D Mesh Generation](https://arxiv.org/abs/2108.08017) — `generation` `reconstruction`
 - [DeepCAD: A Deep Generative Network for Computer-Aided Design Models](https://arxiv.org/abs/2105.09492) — `generation`
 - [Progressive Seed Generation Auto-encoder for Unsupervised Point Cloud Learning](https://arxiv.org/abs/2112.05213) — `generation` `reconstruction`
+- [Snowflake Point Deconvolution for Point Cloud Completion and Generation with Skip-Transformer](https://arxiv.org/abs/2202.09367) — `completion` `generation`
 - [Unsupervised Learning of Fine Structure Generation for 3D Point Clouds by 2D Projection Matching](https://arxiv.org/abs/2108.03746) — `generation` — [code](https://github.com/chenchao15/2D)
 - [Vis2Mesh: Efficient Mesh Reconstruction from Unstructured Point Clouds of Large Scenes with Learned Virtual View Visibility](https://arxiv.org/abs/2108.08378) — `completion` `generation` `reconstruction` `efficiency`
 - [Voxel-based Network for Shape Completion by Leveraging Edge Generation](https://arxiv.org/abs/2108.09936) — `completion` `generation`

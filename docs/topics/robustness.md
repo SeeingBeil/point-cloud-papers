@@ -1,43 +1,68 @@
 # Robustness & Adversarial · `robustness`
 
-共 **193** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **285** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2026
 
+- [APC: Transferable and Efficient Adversarial Point Counterattack for Robust 3D Point Cloud Recognition](https://arxiv.org/abs/2604.15708) — `robustness` `efficiency`
+- [ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation](https://arxiv.org/abs/2605.25553) — `completion` `robustness`
+- [PQDT: Pseudo-Query Dual Transformer for Robust Point Cloud Restoration](https://arxiv.org/abs/2605.25127) — `robustness`
 - [Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2607.02074) — `detection` `autonomous driving` `robustness`
 - [Hyper-Network Neural Functional Maps for Unsupervised Robust 3D Shape Matching](https://arxiv.org/abs/2606.30131) — `robustness`
 - [RAF: Reliability-Aware Fusion of Camera, LiDAR, and 4D RADAR for Robust 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2607.04587) — `detection` `multi-modal` `robustness`
 - [Register Anything Model for Generalizable and Robust Point Cloud Registration](https://arxiv.org/abs/2610.28821) — `registration` `robustness` — [code](https://github.com/qinzheng93/RegisterAnything)
+- [Adaptive Augmentation-Aware Latent Learning for Robust LiDAR Semantic Segmentation](https://arxiv.org/abs/2603.01074) — `segmentation` `robustness`
 - [Point-Focused Attention Meets Context-Scan State Space: Robust Biological Visual Perception for Point Cloud Representation](https://arxiv.org/abs/2610.11342) — `robustness`
+- [Sparkle: A Robust and Versatile Representation for Point Cloud based Human Motion Capture](https://arxiv.org/abs/2604.00857) — `robustness`
+- [Any3D-VLA: Enhancing VLA Robustness via Diverse Point Clouds](https://arxiv.org/abs/2602.00807) — `robustness`
 - [3D-ANC: Adaptive Neural Collapse for Robust 3D Point Cloud Recognition](https://arxiv.org/abs/2511.07040) — `robustness`
 - [Certified L2-Norm Robustness of 3D Point Cloud Recognition in the Frequency Domain](https://arxiv.org/abs/2511.07029) — `classification` `autonomous driving` `robustness`
 - [3D-BBDA: Backpropagation-Free Black-Box Domain Adaptation for Robust 3D Point Cloud Recognition](https://arxiv.org/abs/2611.03588) — `domain adaptation` `robustness`
 - [Do We Still Need Rotation-Invariant Architectures? A Statistical Robustness Benchmark for Point Cloud Classification](https://arxiv.org/abs/2611.03952) — `classification` `robustness` `dataset`
 - [FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement](https://arxiv.org/abs/2609.05325) — `slam` `multi-modal` `robustness`
 - [Geometry-Aware Fisheye-LiDAR Fusion for Robust 3D Object Detection in Low-Overlap Setups](https://arxiv.org/abs/2606.08844) — `detection` `robustness`
+- [PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition](https://arxiv.org/abs/2603.05965) — `localization` `BEV` `robustness`
+- [LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2601.09812) — `detection` `autonomous driving` `robustness` `efficiency`
 - [A Numerically-Robust ROS 2 Port of iG-LIO: Diagnosing and Fixing Toolchain-Induced Failures in Incremental GICP LiDAR-Inertial Odometry](https://arxiv.org/abs/2607.09947) — `robustness`
 - [A Robust Point Cloud Analysis Framework Inspired By Primary Visual Cortex](https://arxiv.org/abs/2606.14292) — `robustness`
+- [Beyond Defenses: Manifold-Aligned Regularization for Intrinsic 3D Point Cloud Robustness](https://arxiv.org/abs/2605.07590) — `robustness`
+- [BIEVR-LIO: Robust LiDAR-Inertial Odometry through Bump-Image-Enhanced Voxel Maps](https://arxiv.org/abs/2604.14421) — `registration` `robustness`
 - [CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration](https://arxiv.org/abs/2608.19536) — `registration` `robustness`
 - [DINE: Distance Is Not Enough -- Learning Global Deformation Priors for Robust Soft-Tissue Point Cloud Registration](https://arxiv.org/abs/2607.14946) — `registration` `robustness`
+- [EquiForm: Noise-Robust SE(3)-Equivariant Policy Learning from 3D Point Clouds](https://arxiv.org/abs/2601.17486) — `robustness`
 - [From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation](https://arxiv.org/abs/2609.27363) — `localization` `robustness`
+- [GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion](https://arxiv.org/abs/2604.17721) — `registration` `gaussian-splatting` `robustness`
+- [Generating Adversarial Events: A Motion-Aware Point Cloud Framework](https://arxiv.org/abs/2602.08230) — `autonomous driving` `robustness`
+- [InvariantCloud: A Globally Invariant, Uniquely Indexed Point Cloud Framework for Robust 6-DoF Tactile Pose Tracking](https://arxiv.org/abs/2605.25216) — `tracking` `robustness`
+- [LR-SGS: Robust LiDAR-Reflectance-Guided Salient Gaussian Splatting for Self-Driving Scene Reconstruction](https://arxiv.org/abs/2603.12647) — `reconstruction` `gaussian-splatting` `autonomous driving` `robustness`
 - [PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration](https://arxiv.org/abs/2609.25375) — `registration` `robustness`
 - [Point-Selection Fine-Tuning Framework for Robust Point Cloud Classification](https://arxiv.org/abs/2607.19711) — `classification` `robustness`
+- [PointSLAM++: Robust Dense Neural Gaussian Point Cloud-based SLAM](https://arxiv.org/abs/2601.11617) — `slam` `localization` `reconstruction` `robustness`
 - [Proteus: A Truncation-Robust Entropy Model for Progressive LiDAR Compression](https://arxiv.org/abs/2608.00687) — `compression` `robustness`
 - [Provisioning Robust and Efficient LiDAR Perception for Autonomous Driving](https://arxiv.org/abs/2610.27617) — `detection` `autonomous driving` `robustness` `efficiency`
+- [PWAVEP: Purifying Imperceptible Adversarial Perturbations in 3D Point Clouds via Spectral Graph Wavelets](https://arxiv.org/abs/2602.03333) — `robustness`
 - [RAPA: Ray-Aware Physics Augmentation for Robust Camera-LiDAR Calibration](https://arxiv.org/abs/2611.12129) — `multi-modal` `robustness`
+- [Rethinking Transferable Adversarial Attacks on Point Clouds from a Compact Subspace Perspective](https://arxiv.org/abs/2601.23102) — `robustness`
 - [Robust LIDAR Sensor-to-Sensor Domain Generalization via Accumulated-Point Scene Completion](https://arxiv.org/abs/2610.39516) — `segmentation` `completion` `robustness`
 - [Robust Reconstruction of Power Lines from Incomplete Mobile and Aerial LiDAR Data](https://arxiv.org/abs/2611.05197) — `detection` `reconstruction` `robustness`
 - [Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions](https://arxiv.org/abs/2610.34271) — `registration` `robustness`
 - [Self-Supervised Pretraining Improves Cross-Site and Cross-Scale Robustness of Point Cloud Leaf-Wood Segmentation](https://arxiv.org/abs/2607.06948) — `segmentation` `self-supervised` `pre-training` `robustness`
 - [Semantic-weighted ICP for LiDAR Odometry: Class-Aware Residual Reweighting for Robust Scan Registration](https://arxiv.org/abs/2606.03905) — `registration` `robustness`
 - [Sinkhorn-CPD: Robust point cloud registration via unbalanced entropic optimal transport](https://arxiv.org/abs/2606.16672) — `registration` `robustness`
+- [Task-Oriented Wireless Transmission of 3D Point Clouds: Geometric Versus Semantic Robustness](https://arxiv.org/abs/2603.13560) — `reconstruction` `compression` `robustness`
+- [Topo-ADV: Generating Topology-Driven Imperceptible Adversarial Point Clouds](https://arxiv.org/abs/2604.09879) — `classification` `robustness`
+- [TreeLoc++: Robust 6-DoF LiDAR Localization in Forests with a Compact Digital Forest Inventory](https://arxiv.org/abs/2603.03695) — `localization` `robustness`
 ## 2025
 
+- [4Deform: Neural Surface Deformation for Robust Shape Interpolation](https://arxiv.org/abs/2502.20208) — `robustness`
+- [DSPNet: Dual-vision Scene Perception for Robust 3D Question Answering](https://arxiv.org/abs/2503.03190) — `robustness`
+- [Point-Cache: Test-time Dynamic and Hierarchical Cache for Robust and Generalizable Point Cloud Analysis](https://arxiv.org/abs/2503.12150) — `robustness`
 - [Robust 3D Object Detection using Probabilistic Point Clouds from Single-Photon LiDARs](https://arxiv.org/abs/2508.00169) — `detection` `robustness`
 - [TurboReg: TurboClique for Robust and Efficient Point Cloud Registration](https://arxiv.org/abs/2507.01439) — `registration` `robustness` `efficiency`
 - [UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis](https://arxiv.org/abs/2507.18997) — `robustness`
+- [PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration](https://arxiv.org/abs/2407.10142) — `registration` `robustness`
 - [PointMAC: Meta-Learned Adaptation for Robust Test-Time Point Cloud Completion](https://arxiv.org/abs/2510.10365) — `completion` `robustness`
 - [TriFusion-AE: Language-Guided Depth and LiDAR Fusion for Robust Point Cloud Processing](https://arxiv.org/abs/2509.18743) — `reconstruction` `denoising` `autonomous driving` `robustness` — Workshop
 - [A New Adversarial Perspective for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2412.13017) — `detection` `robustness`
@@ -46,12 +71,20 @@
 - [Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation](https://arxiv.org/abs/2412.13454) — `autonomous driving` `pre-training` `robustness`
 - [GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration](https://arxiv.org/abs/2507.14452) — `registration` `robustness`
 - [ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance](https://arxiv.org/abs/2511.22908) — `registration` `robustness`
+- [Diffusion Based Robust LiDAR Place Recognition](https://arxiv.org/abs/2504.12412) — `localization` `robustness`
+- [SANDRO: a Robust Solver with a Splitting Strategy for Point Cloud Registration](https://arxiv.org/abs/2503.07743) — `registration` `robustness`
+- [A Direct Semi-Exhaustive Search Method for Robust, Partial-to-Full Point Cloud Registration](https://arxiv.org/abs/2502.00115) — `registration` `robustness`
 - [EAROL: Environmental Augmented Perception-Aware Planning and Robust Odometry via Downward-Mounted Tilted LiDAR](https://arxiv.org/abs/2508.14554) — `localization` `robustness`
+- [Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM](https://arxiv.org/abs/2503.11145) — `slam` `localization` `robustness` `efficiency`
+- [Robust LiDAR-Camera Calibration with 2D Gaussian Splatting](https://arxiv.org/abs/2504.00525) — `gaussian-splatting` `multi-modal` `robustness` — [code](https://github.com/ShuyiZhou495/RobustCalibration)
 - [PKSS-Align: Robust Point Cloud Registration on Pre-Kendall Shape Space](https://arxiv.org/abs/2508.04286) — `registration` `robustness`
+- [Cross-modal feature fusion for robust point cloud registration with ambiguous geometry](https://arxiv.org/abs/2505.13088) — `registration` `robustness`
 - [A Multi-View High-Resolution Foot-Ankle Complex Point Cloud Dataset During Gait for Occlusion-Robust 3D Completion](https://arxiv.org/abs/2507.11037) — `completion` `robustness` `dataset`
 - [A Sensor-Aware Phenomenological Framework for Lidar Degradation Simulation and SLAM Robustness Evaluation](https://arxiv.org/abs/2512.08653) — `slam` `robustness`
+- [Adaptive-LIO: Enhancing Robustness and Precision through Environmental Adaptation in LiDAR Inertial Odometry](https://arxiv.org/abs/2503.05077) — `slam` `autonomous driving` `robustness`
 - [AF-RLIO: Adaptive Fusion of Radar-LiDAR-Inertial Information for Robust Odometry in Challenging Environments](https://arxiv.org/abs/2507.18317) — `multi-modal` `robustness`
 - [APML: Adaptive Probabilistic Matching Loss for Robust 3D Point Cloud Reconstruction](https://arxiv.org/abs/2509.08104) — `completion` `generation` `reconstruction` `robustness`
+- [CAR-LOAM: Color-Assisted Robust LiDAR Odometry and Mapping](https://arxiv.org/abs/2502.17249) — `robustness`
 - [DeblurSplat: SfM-free 3D Gaussian Splatting with Event Camera for Robust Deblurring](https://arxiv.org/abs/2509.18898) — `gaussian-splatting` `robustness`
 - [Deep Neural Watermarking for Robust Copyright Protection in 3D Point Clouds](https://arxiv.org/abs/2510.27533) — `robustness`
 - [Denoising-While-Completing Network (DWCNet): Robust Point Cloud Completion Under Corruption](https://arxiv.org/abs/2507.16743) — `completion` `denoising` `autonomous driving` `robustness`
@@ -61,47 +94,91 @@
 - [Efficient Model-Based Purification Against Adversarial Attacks for LiDAR Segmentation](https://arxiv.org/abs/2508.19290) — `segmentation` `generation` `robustness` `efficiency`
 - [Generating Adversarial Point Clouds Using Diffusion Model](https://arxiv.org/abs/2507.21163) — `classification` `generation` `robustness`
 - [GMOR: A Lightweight Robust Point Cloud Registration Framework via Geometric Maximum Overlapping](https://arxiv.org/abs/2508.17427) — `registration` `robustness` `efficiency`
+- [HybridReg: Robust 3D Point Cloud Registration with Hybrid Motions](https://arxiv.org/abs/2503.07019) — `registration` `robustness`
 - [Joint graph entropy knowledge distillation for point cloud classification and robustness against corruptions](https://arxiv.org/abs/2509.22150) — `classification` `robustness`
+- [KNN-Defense: Defense against 3D Adversarial Point Clouds using Nearest-Neighbor Search](https://arxiv.org/abs/2506.06906) — `robustness`
+- [LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features](https://arxiv.org/abs/2502.08676) — `slam` `robustness` `efficiency`
+- [LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments](https://arxiv.org/abs/2501.02580) — `registration` `slam` `localization` `robustness`
 - [MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration](https://arxiv.org/abs/2512.23472) — `registration` `robustness`
+- [MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection](https://arxiv.org/abs/2505.09422) — `detection` `autonomous driving` `multi-modal` `robustness`
 - [MS-DGCNN++: Multi-Scale Dynamic Graph Convolution with Scale-Dependent Normalization for Robust LiDAR Tree Species Classification](https://arxiv.org/abs/2507.12602) — `classification` `robustness`
 - [Multimodal Robust Prompt Distillation for 3D Point Cloud Models](https://arxiv.org/abs/2511.21574) — `multi-modal` `robustness`
+- [PCE-GAN: A Generative Adversarial Network for Point Cloud Attribute Quality Enhancement based on Optimal Transport](https://arxiv.org/abs/2503.00047) — `generation` `reconstruction` `compression` `robustness`
+- [Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds](https://arxiv.org/abs/2505.17442) — `detection` `compression` `robustness`
+- [Rethinking Gradient-based Adversarial Attacks on Point Cloud Classification](https://arxiv.org/abs/2505.21854) — `classification` `robustness`
 - [Revisiting Physically Realizable Adversarial Object Attack against LiDAR-based Detection: Clarifying Problem Formulation and Experimental Protocols](https://arxiv.org/abs/2507.18457) — `detection` `robustness`
+- [Robust Human Registration with Body Part Segmentation on Noisy Point Clouds](https://arxiv.org/abs/2504.03602) — `registration` `segmentation` `robustness`
 - [Robust Partial 3D Point Cloud Registration via Confidence Estimation under Global Context](https://arxiv.org/abs/2509.24275) — `registration` `robustness`
 - [Robust Point Cloud Reinforcement Learning via PCA-Based Canonicalization](https://arxiv.org/abs/2510.20974) — `robustness`
+- [Robust Single Object Tracking in LiDAR Point Clouds under Adverse Weather Conditions](https://arxiv.org/abs/2501.07133) — `tracking` `robustness`
+- [Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks](https://arxiv.org/abs/2504.01659) — `segmentation` `generation` `domain adaptation` `robustness`
+- [Shortest-Path Decomposition for Foliage-Robust 3D Tree Modeling and Above-Ground Biomass Estimation from Point Clouds](https://arxiv.org/abs/2506.15577) — `robustness`
 - [Skeleton-based Robust Registration Framework for Corrupted 3D Point Clouds](https://arxiv.org/abs/2509.24273) — `registration` `reconstruction` `autonomous driving` `robustness`
+- [SMART-PC: Skeletal Model Adaptation for Robust Test-Time Training in Point Clouds](https://arxiv.org/abs/2505.19546) — `classification` `robustness`
+- [Spectral Informed Mamba for Robust Point Cloud Processing](https://arxiv.org/abs/2503.04953) — `self-supervised` `robustness`
 ## 2024
 
+- [Hide in Thicket: Generating Imperceptible and Rational Adversarial Perturbations on 3D Point Clouds](https://arxiv.org/abs/2403.05247) — `classification` `robustness`
 - [BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2411.13251) — `segmentation` `robustness` `dataset` — Workshop
+- [LiveHPS++: Robust and Coherent Motion Capture in Dynamic Free Environment](https://arxiv.org/abs/2407.09833) — `robustness`
+- [Transferable 3D Adversarial Shape Completion using Diffusion Models](https://arxiv.org/abs/2407.10077) — `completion` `robustness`
 - [UMERegRobust - Universal Manifold Embedding Compatible Features for Robust Point Cloud Registration](https://arxiv.org/abs/2408.12380) — `registration` `robustness`
+- [RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar](https://arxiv.org/abs/2405.14014) — `autonomous driving` `occupancy prediction` `multi-modal` `robustness`
 - [Target-Guided Adversarial Point Cloud Transformer Towards Recognition Against Real-world Corruptions](https://arxiv.org/abs/2411.00462) — `robustness` — [code](https://github.com/Roywangj/APCT)
 - [MIRACLE3D: Memory-efficient Integrated Robust Approach for Continual Learning on Point Clouds via Shape Model Construction](https://arxiv.org/abs/2410.06418) — `classification` `robustness` `efficiency`
 - [A Pioneering Neural Network Method for Efficient and Robust Fluid Simulation](https://arxiv.org/abs/2412.10748) — `robustness` `efficiency`
 - [CMG-Net: Robust Normal Estimation for Point Clouds via Chamfer Normal Distance and Multi-scale Geometry](https://arxiv.org/abs/2312.09154) — `normal estimation` `robustness`
 - [Robust 3D Tracking with Quality-Aware Shape Completion](https://arxiv.org/abs/2312.10608) — `completion` `tracking` `robustness`
 - [A Robust Probability-based Joint Registration Method of Multiple Point Clouds Considering Local Consistency](https://arxiv.org/abs/2409.09682) — `registration` `robustness`
+- [Prepared for the Worst: A Learning-Based Adversarial Attack for Resilience Analysis of the ICP Algorithm](https://arxiv.org/abs/2403.05666) — `localization` `robustness`
+- [Realtime Robust Shape Estimation of Deformable Linear Object](https://arxiv.org/abs/2403.16146) — `tracking` `robustness` `efficiency`
+- [RPMArt: Towards Robust Perception and Manipulation for Articulated Objects](https://arxiv.org/abs/2403.16023) — `robustness`
+- [SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robust Point Cloud Registration](https://arxiv.org/abs/2407.06297) — `registration` `generation` `robustness`
+- [UADA3D: Unsupervised Adversarial Domain Adaptation for 3D Object Detection with Sparse LiDAR and Large Domain Gaps](https://arxiv.org/abs/2403.17633) — `detection` `autonomous driving` `domain adaptation` `robustness`
 - [PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion](https://arxiv.org/abs/2410.04939) — `localization` `autonomous driving` `multi-modal` `robustness`
+- [Unsupervised 3D Point Cloud Completion via Multi-view Adversarial Learning](https://arxiv.org/abs/2407.09786) — `completion` `reconstruction` `self-supervised` `robustness`
 - [A Generative Adversarial Network-based Method for LiDAR-Assisted Radar Image Enhancement](https://arxiv.org/abs/2409.00196) — `generation` `multi-modal` `robustness`
 - [Adversarial Attacks on LiDAR-Based Tracking Across Road Users: Robustness Evaluation and Target-Aware Black-Box Method](https://arxiv.org/abs/2410.20893) — `tracking` `BEV` `robustness`
 - [An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models](https://arxiv.org/abs/2411.16308) — `segmentation` `denoising` `robustness`
+- [CloudFort: Enhancing Robustness of 3D Point Cloud Classification Against Backdoor Attacks via Spatial Partitioning and Ensemble Prediction](https://arxiv.org/abs/2404.14042) — `classification` `robustness`
+- [Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views](https://arxiv.org/abs/2403.02063) — `nerf` `autonomous driving` `robustness`
+- [Efficient and Robust Point Cloud Registration via Heuristics-guided Parameter Search](https://arxiv.org/abs/2404.06155) — `registration` `robustness` `efficiency`
+- [Eidos: Efficient, Imperceptible Adversarial 3D Point Clouds](https://arxiv.org/abs/2405.14210) — `classification` `autonomous driving` `robustness` `efficiency`
+- [Enhancing Robustness to Noise Corruption for Point Cloud Recognition via Spatial Sorting and Set-Mixing Aggregation Module](https://arxiv.org/abs/2407.10806) — `robustness`
+- [epsilon-Mesh Attack: A Surface-based Adversarial Point Cloud Attack for Facial Expression Recognition](https://arxiv.org/abs/2403.06661) — `robustness`
 - [Evaluating and Improving the Robustness of LiDAR Odometry and Localization Under Real-World Corruptions](https://arxiv.org/abs/2409.10824) — `localization` `autonomous driving` `robustness`
 - [Generative Adversarial Synthesis of Radar Point Cloud Scenes](https://arxiv.org/abs/2410.13526) — `generation` `multi-modal` `robustness`
 - [Imperceptible Adversarial Attacks on Point Clouds Guided by Point-to-Surface Field](https://arxiv.org/abs/2412.19015) — `robustness`
 - [Improving Adversarial Robustness for 3D Point Cloud Recognition at Test-Time through Purified Self-Training](https://arxiv.org/abs/2409.14940) — `generation` `robustness`
 - [KISS-Matcher: Fast and Robust Point Cloud Registration Revisited](https://arxiv.org/abs/2409.15615) — `registration` `robustness`
+- [Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes](https://arxiv.org/abs/2404.04557) — `registration` `robustness`
 - [LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training](https://arxiv.org/abs/2410.15833) — `segmentation` `domain adaptation` `robustness`
 - [LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues](https://arxiv.org/abs/2410.22213) — `registration` `slam` `reconstruction` `robustness`
 - [LoGDesc: Local geometric features aggregation for robust point cloud registration](https://arxiv.org/abs/2410.02420) — `registration` `robustness`
 - [Mahalanobis k-NN: A Statistical Lens for Robust Point-Cloud Registrations](https://arxiv.org/abs/2409.06267) — `registration` `robustness`
+- [MultiCorrupt: A Multi-Modal Robustness Dataset and Benchmark of LiDAR-Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2402.11677) — `detection` `multi-modal` `robustness` `dataset` — [code](https://github.com/ika-rwth-aachen/MultiCorrupt)
 - [NIMBA: Towards Robust and Principled Processing of Point Clouds With SSMs](https://arxiv.org/abs/2411.00151) — `robustness`
+- [NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments](https://arxiv.org/abs/2405.12563) — `registration` `slam` `robustness`
+- [PCAC-GAN: A Sparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression](https://arxiv.org/abs/2407.05677) — `generation` `compression` `robustness`
+- [PCLD: Point Cloud Layerwise Diffusion for Adversarial Purification](https://arxiv.org/abs/2403.06698) — `autonomous driving` `robustness`
+- [Point Cloud Models Improve Visual Robustness in Robotic Learners](https://arxiv.org/abs/2404.18926) — `robustness`
+- [PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer](https://arxiv.org/abs/2404.14034) — `registration` `autonomous driving` `robustness`
 - [Reliable-loc: Robust sequential LiDAR global localization in large-scale street scenes based on verifiable cues](https://arxiv.org/abs/2411.07815) — `localization` `robustness`
+- [RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration](https://arxiv.org/abs/2405.07594) — `registration` `robustness`
+- [RKHS-BA: A Robust Correspondence-Free Multi-View Registration Framework with Semantic Point Clouds](https://arxiv.org/abs/2403.01254) — `registration` `robustness`
 - [Robust 3D Point Clouds Classification based on Declarative Defenders](https://arxiv.org/abs/2410.09691) — `classification` `robustness`
+- [Robust Fine-tuning for Pre-trained 3D Point Cloud Models](https://arxiv.org/abs/2404.16422) — `pre-training` `robustness`
 - [Robust Point Cloud Registration in Robotic Inspection with Locally Consistent Gaussian Mixture Model](https://arxiv.org/abs/2407.17183) — `registration` `robustness`
 - [Rotation Perturbation Robustness in Point Cloud Analysis: A Perspective of Manifold Distillation](https://arxiv.org/abs/2411.01748) — `robustness`
+- [SeqTrack3D: Exploring Sequence Information for Robust 3D Point Cloud Tracking](https://arxiv.org/abs/2402.16249) — `tracking` `autonomous driving` `robustness`
 - [Sight View Constraint for Robust Point Cloud Registration](https://arxiv.org/abs/2409.05065) — `registration` `robustness`
 - [Stealthy and Robust Backdoor Attack against 3D Point Clouds through Additional Point Features](https://arxiv.org/abs/2412.07511) — `robustness`
 - [Towards Robust Perception for Assistive Robotics: An RGB-Event-LiDAR Dataset and Multi-Modal Detection Pipeline](https://arxiv.org/abs/2408.13394) — `detection` `multi-modal` `robustness` `dataset`
 ## 2023
 
+- [Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration](https://arxiv.org/abs/2303.09950) — `registration` `robustness` — [code](https://github.com/qinzheng93/GraphSCNet)
+- [PointCert: Point Cloud Classification with Deterministic Certified Robustness Guarantees](https://arxiv.org/abs/2303.01959) — `classification` `autonomous driving` `robustness`
+- [Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting](https://arxiv.org/abs/2304.00467) — `registration` `robustness` — [code](https://github.com/WHU-USI3DV/SGHR)
 - [Provable Adversarial Robustness for Group Equivariant Tasks: Graphs, Point Clouds, Molecules, and More](https://arxiv.org/abs/2312.02708) — `segmentation` `robustness`
 - [SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation](https://arxiv.org/abs/2310.17359) — `registration` `generation` `denoising` `robustness`
 - [MSECNet: Accurate and Robust Normal Estimation for 3D Point Clouds by Multi-Scale Edge Conditioning](https://arxiv.org/abs/2308.02237) — `reconstruction` `normal estimation` `robustness`
@@ -109,12 +186,17 @@
 - [Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation](https://arxiv.org/abs/2309.17336) — `detection` `generation` `multi-modal` `robustness`
 - [Deep Robust Multi-Robot Re-localisation in Natural Environments](https://arxiv.org/abs/2307.13950) — `localization` `robustness`
 - [A Review and A Robust Framework of Data-Efficient 3D Scene Parsing with Traditional/Learned 3D Descriptors](https://arxiv.org/abs/2312.01262) — `segmentation` `detection` `robustness` `efficiency`
+- [Benchmarking the Robustness of LiDAR Semantic Segmentation Models](https://arxiv.org/abs/2301.00970) — `segmentation` `autonomous driving` `robustness`
+- [Robust affine point matching via quadratic assignment on Grassmannians](https://arxiv.org/abs/2303.02698) — `registration` `robustness` — [code](https://github.com/sashakolpakov/roam)
+- [Adaptive Local Adversarial Attacks on 3D Point Clouds for Augmented Reality](https://arxiv.org/abs/2303.06641) — `tracking` `robustness`
 - [Adaptive Multi-step Refinement Network for Robust Point Cloud Registration](https://arxiv.org/abs/2312.03053) — `registration` `robustness`
 - [Adversarial Attacks and Defenses on 3D Point Cloud Classification: A Survey](https://arxiv.org/abs/2307.00309) — `classification` `robustness`
 - [Benchmarking and Analyzing Robust Point Cloud Recognition: Bag of Tricks for Defending Adversarial Examples](https://arxiv.org/abs/2307.16361) — `robustness`
 - [CSI: Enhancing the Robustness of 3D Point Cloud Recognition against Corruption](https://arxiv.org/abs/2310.03360) — `robustness`
 - [DeepIPCv2: LiDAR-powered Robust Environmental Perception and Navigational Control for Autonomous Vehicle](https://arxiv.org/abs/2307.06647) — `segmentation` `autonomous driving` `robustness`
+- [EPiC: Ensemble of Partial Point Clouds for Robust Classification](https://arxiv.org/abs/2303.11419) — `classification` `robustness`
 - [Feature Adversarial Distillation for Point Cloud Classification](https://arxiv.org/abs/2306.14221) — `classification` `robustness`
+- [FRAME: Fast and Robust Autonomous 3D point cloud Map-merging for Egocentric multi-robot exploration](https://arxiv.org/abs/2301.09213) — `detection` `localization` `robustness`
 - [LiCamPose: Combining Multi-View LiDAR and RGB Cameras for Robust Single-timestamp 3D Human Pose Estimation](https://arxiv.org/abs/2312.06409) — `robustness`
 - [LiDAR View Synthesis for Robust Vehicle Navigation Without Expert Labels](https://arxiv.org/abs/2308.01424) — `autonomous driving` `robustness`
 - [OAAFormer: Robust and Efficient Point Cloud Registration Through Overlapping-Aware Attention in Transformer](https://arxiv.org/abs/2310.09817) — `registration` `robustness` `efficiency`
@@ -122,17 +204,23 @@
 - [Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM](https://arxiv.org/abs/2311.00928) — `registration` `segmentation` `slam` `robustness`
 - [Risk-optimized Outlier Removal for Robust 3D Point Cloud Classification](https://arxiv.org/abs/2307.10875) — `classification` `robustness`
 - [Robust Estimation of Surface Curvature Information from Point Cloud Data](https://arxiv.org/abs/2306.00299) — `normal estimation` `robustness`
+- [Robust Extrinsic Self-Calibration of Camera and Solid State LiDAR](https://arxiv.org/abs/2302.06276) — `monocular` `robustness`
 - [Robust Lifelong Indoor LiDAR Localization using the Area Graph](https://arxiv.org/abs/2308.05593) — `localization` `robustness`
+- [Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments](https://arxiv.org/abs/2303.02684) — `slam` `localization` `multi-modal` `robustness`
 - [Robust Point Cloud Processing through Positional Embedding](https://arxiv.org/abs/2309.00339) — `detection` `robustness`
 - [Robust-DefReg: A Robust Deformable Point Cloud Registration Method based on Graph Convolutional Neural Networks](https://arxiv.org/abs/2306.04701) — `registration` `robustness`
+- [RoCNet: 3D Robust Registration of Point-Clouds using Deep Learning](https://arxiv.org/abs/2303.07963) — `registration` `robustness`
 - [Self-supervised adversarial masking for 3D point cloud representation learning](https://arxiv.org/abs/2307.05325) — `self-supervised` `robustness`
 - [SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration](https://arxiv.org/abs/2307.09351) — `registration` `robustness`
 ## 2022
 
 - [3D-VField: Adversarial Augmentation of Point Clouds for Domain Generalization in 3D Object Detection](https://arxiv.org/abs/2112.04764) — `detection` `robustness`
+- [ART-Point: Improving Rotation Robustness of Point Cloud Classifiers via Adversarial Rotation](https://arxiv.org/abs/2203.03888) — `robustness`
+- [Geometric Transformer for Fast and Robust Point Cloud Registration](https://arxiv.org/abs/2202.06688) — `registration` `detection` `robustness` — [code](https://github.com/qinzheng93/GeoTransformer)
 - [GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer](https://arxiv.org/abs/2308.03768) — `registration` `detection` `robustness`
 - [LiDAR Snowfall Simulation for Robust 3D Object Detection](https://arxiv.org/abs/2203.15118) — `detection` `autonomous driving` `robustness`
 - [SC^2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration](https://arxiv.org/abs/2203.14453) — `registration` `robustness` `efficiency`
+- [Shape-invariant 3D Adversarial Point Clouds](https://arxiv.org/abs/2203.04041) — `robustness`
 - [TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers](https://arxiv.org/abs/2203.11496) — `detection` `autonomous driving` `multi-modal` `robustness` — [code](https://github.com/XuyangBai/TransFusion)
 - [WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation](https://arxiv.org/abs/2203.12917) — `generation` `robustness`
 - [CPO: Change Robust Panorama to Point Cloud Localization](https://arxiv.org/abs/2207.05317) — `localization` `generation` `robustness`
@@ -143,6 +231,7 @@
 - [PointCA: Evaluating the Robustness of 3D Point Cloud Completion Models Against Adversarial Examples](https://arxiv.org/abs/2211.12294) — `segmentation` `completion` `robustness`
 - [Self-Supervised Robust Scene Flow Estimation via the Alignment of Probability Density Functions](https://arxiv.org/abs/2203.12193) — `self-supervised` `scene flow` `robustness`
 - [Ada3Diff: Defending against 3D Adversarial Point Clouds via Adaptive Diffusion](https://arxiv.org/abs/2211.16247) — `denoising` `autonomous driving` `robustness`
+- [A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments](https://arxiv.org/abs/2203.06612) — `registration` `localization` `robustness`
 - [Patchwork++: Fast and Robust Ground Segmentation Solving Partial Under-Segmentation Using 3D Point Cloud](https://arxiv.org/abs/2207.11919) — `segmentation` `detection` `robustness`
 - [A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar](https://arxiv.org/abs/2204.04149) — `multi-modal` `robustness`
 - [Robust Point Cloud Registration Framework Based on Deep Graph Matching(TPAMI Version)](https://arxiv.org/abs/2211.04696) — `registration` `robustness`
@@ -151,6 +240,7 @@
 - [3D-VFD: A Victim-free Detector against 3D Adversarial Point Clouds](https://arxiv.org/abs/2205.08738) — `detection` `robustness`
 - [3DVerifier: Efficient Robustness Verification for 3D Point Cloud Models](https://arxiv.org/abs/2207.07539) — `robustness` `efficiency`
 - [A Survey of Robust 3D Object Detection Methods in Point Clouds](https://arxiv.org/abs/2204.00106) — `detection` `robustness`
+- [Benchmarking Robustness of 3D Point Cloud Recognition Against Common Corruptions](https://arxiv.org/abs/2201.12296) — `robustness` — [code](https://github.com/jiachens/ModelNet40-C)
 - [Common Corruption Robustness of Point Cloud Detectors: Benchmark and Enhancement](https://arxiv.org/abs/2210.05896) — `detection` `autonomous driving` `robustness` `dataset`
 - [CorAl: Introspection for Robust Radar and Lidar Perception in Diverse Environments Using Differential Entropy](https://arxiv.org/abs/2205.05975) — `localization` `multi-modal` `robustness`
 - [Imperceptible and Robust Backdoor Attack in 3D Point Cloud](https://arxiv.org/abs/2208.08052) — `robustness`
@@ -163,6 +253,8 @@
 - [PointACL:Adversarial Contrastive Learning for Robust Point Clouds Representation under Adversarial Attack](https://arxiv.org/abs/2209.06971) — `self-supervised` `robustness`
 - [PointCAT: Contrastive Adversarial Training for Robust Point Cloud Recognition](https://arxiv.org/abs/2209.07788) — `robustness`
 - [PointDP: Diffusion-driven Purification against Adversarial Attacks on 3D Point Cloud Recognition](https://arxiv.org/abs/2208.09801) — `autonomous driving` `robustness`
+- [PUFA-GAN: A Frequency-Aware Generative Adversarial Network for 3D Point Cloud Upsampling](https://arxiv.org/abs/2203.00914) — `generation` `upsampling` `robustness`
+- [RipsNet: a general architecture for fast and robust estimation of the persistent homology of point clouds](https://arxiv.org/abs/2202.01725) — `robustness`
 - [RMS-FlowNet: Efficient and Robust Multi-Scale Scene Flow Estimation for Large-Scale Point Clouds](https://arxiv.org/abs/2204.00354) — `scene flow` `robustness` `efficiency`
 - [Robust Structured Declarative Classifiers for 3D Point Clouds: Defending Adversarial Attacks with Implicit Gradients](https://arxiv.org/abs/2203.15245) — `classification` `reconstruction` `denoising` `robustness`
 - [Understanding Key Point Cloud Features for Development Three-dimensional Adversarial Attacks](https://arxiv.org/abs/2210.14164) — `robustness`

@@ -208,6 +208,8 @@ def main() -> int:
     ap.add_argument("--date-to", default=None, help="YYYY-MM-DD, arXiv submittedDate range upper bound")
     ap.add_argument("--merge", default=None, help="existing entries JSON to avoid duplicates")
     ap.add_argument("--query-set", choices=["full", "core"], default="full")
+    ap.add_argument("--sort", choices=["submittedDate", "relevance"], default="submittedDate",
+                    help="relevance covers a whole year; submittedDate follows recency")
     ap.add_argument("--sleep", type=float, default=3.0)
     args = ap.parse_args()
 
@@ -231,7 +233,7 @@ def main() -> int:
         while start < args.max:
             n = min(page, args.max - start)
             try:
-                xml = fetch(q, start, n, "submittedDate")
+                xml = fetch(q, start, n, args.sort)
             except Exception as e:  # noqa: BLE001
                 print(f"  abort query after error: {e}", file=sys.stderr)
                 break

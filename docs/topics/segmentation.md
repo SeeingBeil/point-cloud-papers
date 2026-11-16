@@ -1,39 +1,71 @@
 # Semantic / Instance Segmentation · `segmentation`
 
-共 **447** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **685** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2026
 
+- [EvObj: Learning Evolving Object-centric Representations for 3D Instance Segmentation without Scene Supervision](https://arxiv.org/abs/2605.13152) — `segmentation` — [code](https://github.com/vLAR-group/EvObj)
 - [Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation](https://arxiv.org/abs/2606.07280) — `segmentation`
+- [MVGGT: Multimodal Visual Geometry Grounded Transformer for Multiview 3D Referring Expression Segmentation](https://arxiv.org/abs/2601.06874) — `segmentation` `multi-modal`
+- [PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting](https://arxiv.org/abs/2605.11520) — `segmentation` `gaussian-splatting` `autonomous driving`
 - [S2AM3D: Scale-controllable Part Segmentation of 3D Point Clouds](https://arxiv.org/abs/2512.00995) — `segmentation`
+- [SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation](https://arxiv.org/abs/2603.06572) — `segmentation`
 - [Bootstrapping a 4D LiDAR Annotation Tool from Video Foundation Models](https://arxiv.org/abs/2608.25418) — `segmentation` — Workshop
+- [G2P: Gaussian-to-Point Attribute Alignment for Boundary-Aware 3D Segmentation](https://arxiv.org/abs/2601.03510) — `segmentation` `gaussian-splatting`
 - [GhostPoint: Self-Supervised Representation Learning by Hallucinating Occluded LiDAR Structure](https://arxiv.org/abs/2608.14428) — `segmentation` `detection` `self-supervised` `autonomous driving`
 - [Reducing the Gap Between Spatial and Space-Filling Curve Neighbors in 3D Point Cloud Segmentation](https://arxiv.org/abs/2610.19530) — `segmentation` — Workshop
 - [Scale Matters: Adaptive Granularity Selection for Cross-Species 3D Plant Organ Segmentation](https://arxiv.org/abs/2608.17803) — `segmentation` — Workshop
 - [TopoField: Technical Report for ECCV 2026 SceneFun3D Challenge](https://arxiv.org/abs/2610.37218) — `segmentation` — Workshop
 - [UBone3D: Physics-Rectified Conditional Flow Matching for Anatomical 3D Shape Completion from Ultrasound](https://arxiv.org/abs/2609.11506) — `segmentation` `completion`
 - [White Aggregation and Restoration for Few-shot 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2509.13907) — `segmentation`
+- [IGLOSS: Image Generation for Lidar Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2604.01361) — `segmentation` `generation` `open-vocabulary`
+- [Adaptive Augmentation-Aware Latent Learning for Robust LiDAR Semantic Segmentation](https://arxiv.org/abs/2603.01074) — `segmentation` `robustness`
+- [Segment Any Events with Language](https://arxiv.org/abs/2601.23159) — `segmentation` `open-vocabulary`
 - [FoundObj: Self-supervised Foundation Models as Rewards for Label-free 3D Object Segmentation](https://arxiv.org/abs/2605.27178) — `segmentation` `self-supervised` — [code](https://github.com/vLAR-group/FoundObj)
 - [EPSegFZ: Efficient Point Cloud Semantic Segmentation for Few- and Zero-Shot Scenarios with Language Guidance](https://arxiv.org/abs/2511.11700) — `segmentation` `open-vocabulary` `efficiency`
 - [MR-COSMO: Visual-Text Memory Recall and Direct CrOSs-MOdal Alignment Method for Query-Driven 3D Segmentation](https://arxiv.org/abs/2506.20991) — `segmentation`
+- [P-SLCR: Unsupervised Point Cloud Semantic Segmentation via Prototypes Structure Learning and Consistent Reasoning](https://arxiv.org/abs/2603.06321) — `segmentation`
 - [Retrieving Objects from 3D Scenes with Box-Guided Open-Vocabulary Instance Segmentation](https://arxiv.org/abs/2512.19088) — `segmentation` `open-vocabulary` — Workshop
+- [Rethinking Multimodal Few-Shot 3D Point Cloud Segmentation: From Fused Refinement to Decoupled Arbitration](https://arxiv.org/abs/2601.01456) — `segmentation` `multi-modal`
+- [FocusTrack: One-Stage Focus-and-Suppress Framework for 3D Point Cloud Object Tracking](https://arxiv.org/abs/2602.24133) — `segmentation` `tracking`
 - [Leveraging 2D Foundation Priors for Generalized Category Discovery under Test-Time Adaptation in 3D LiDAR Segmentation](https://arxiv.org/abs/2611.01682) — `segmentation` `autonomous driving`
+- [Finding NeMO: A Geometry-Aware Representation of Template Views for Few-Shot Perception](https://arxiv.org/abs/2602.04343) — `segmentation`
+- [JOPP-3D: Joint Open Vocabulary Semantic Segmentation on Point Clouds and Panoramas](https://arxiv.org/abs/2603.06168) — `segmentation` `open-vocabulary`
 - [VaViT: Vanilla ViT for Automotive Point Cloud Semantic Segmentation](https://arxiv.org/abs/2605.31177) — `segmentation`
 - [ForestMamba: Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation](https://arxiv.org/abs/2606.01549) — `segmentation`
+- [DRUM: Diffusion-based Raydrop-aware Unpaired Mapping for Sim2Real LiDAR Segmentation](https://arxiv.org/abs/2603.26263) — `segmentation`
 - [Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom](https://arxiv.org/abs/2606.12048) — `segmentation`
+- [Viewpoint Recommendation for Point Cloud Labeling through Interaction Cost Modeling](https://arxiv.org/abs/2602.10871) — `segmentation` `autonomous driving`
+- [Extrusion Segmentation Strategy to improve CAD Reconstruction from Point Cloud](https://arxiv.org/abs/2605.08971) — `segmentation` `reconstruction`
+- [In-Field 3D Wheat Head Instance Segmentation From TLS Point Clouds Using Deep Learning Without Manual Labels](https://arxiv.org/abs/2603.14309) — `segmentation`
 - [Loss Landscape Topology Reveals Why Simple Baselines are Competitive at 3D Point Cloud Segmentation Under Class Imbalance](https://arxiv.org/abs/2607.21089) — `segmentation`
+- [OPTNet: Ordering Point Transformer Network for Post-disaster 3D Semantic Segmentation](https://arxiv.org/abs/2605.17197) — `segmentation`
+- [3D LULC classification using multispectral LiDAR and deep learning: current and prospective schemes](https://arxiv.org/abs/2605.22328) — `segmentation` `classification`
+- [A Survey on Deep Learning Architectures for Point Cloud Classification and Segmentation](https://arxiv.org/abs/2605.17131) — `segmentation` `classification` — [code](https://github.com/MinhasKamal/DeepLearningForPointCloud)
 - [A Vision-Language Model (VLM)-based Pipeline for End-to-End Procedural Modeling of Field-Grown Maize from Point Clouds](https://arxiv.org/abs/2610.03468) — `segmentation` `vision-language`
 - [ACZ-GSeg: Adaptive Concentric Zone-based Two-stage Ground Segmentation for LiDAR Point Clouds](https://arxiv.org/abs/2607.12110) — `segmentation` `detection`
 - [Adversarially Guided Diffusion for LiDAR Range Image Synthesis](https://arxiv.org/abs/2607.09787) — `segmentation` `classification` `autonomous driving` — Workshop
 - [Aerial Content-Aware Sample-Adaptive Classifier for Urban Photogrammetric Point Cloud Segmentation](https://arxiv.org/abs/2611.02844) — `segmentation`
+- [Benchmarking Deep Learning Models for Aerial LiDAR Point Cloud Semantic Segmentation under Real Acquisition Conditions: A Case Study in Navarre](https://arxiv.org/abs/2603.22229) — `segmentation`
 - [Boundary-Enhanced Segmentation of Pig Point Clouds in Commercial Housing Environments](https://arxiv.org/abs/2608.11697) — `segmentation` `completion`
+- [Collaborative Learning for Semi-Supervised LiDAR Semantic Segmentation](https://arxiv.org/abs/2605.17135) — `segmentation`
+- [Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors](https://arxiv.org/abs/2603.23356) — `segmentation`
 - [COSTA: A Cluster-Centric Paradigm for Annotation-Free Open-Set Semantic Segmentation of Aerial Point Clouds with Domain Shifts](https://arxiv.org/abs/2608.18479) — `segmentation`
+- [Cross-view Domain Generalization via Geometric Consistency for LiDAR Semantic Segmentation](https://arxiv.org/abs/2602.14525) — `segmentation`
+- [Data-Efficient Semantic Segmentation of 3D Point Clouds via Open-Vocabulary Image Segmentation-based Pseudo-Labeling](https://arxiv.org/abs/2604.11007) — `segmentation` `open-vocabulary` `efficiency`
+- [Enhancing 3D LiDAR Segmentation by Shaping Dense and Accurate 2D Semantic Predictions](https://arxiv.org/abs/2602.18869) — `segmentation`
 - [ForestQuery: Boundary-Aware and Spatially Anchored Query Learning for Unified Forest Point Cloud Segmentation](https://arxiv.org/abs/2610.03403) — `segmentation`
+- [FugSeg: Fast Uncertainty-aware Ground Segmentation for 3D Point Cloud](https://arxiv.org/abs/2605.08952) — `segmentation`
+- [GreenSeg: Ground Segmentation Algorithm for Agricultural Robots in Mediterranean Greenhouses using RGB-D Point Clouds](https://arxiv.org/abs/2605.25279) — `segmentation`
+- [GSeg3D: A High-Precision Grid-Based Algorithm for Safety-Critical Ground Segmentation in LiDAR Point Clouds](https://arxiv.org/abs/2603.04208) — `segmentation` `detection` `autonomous driving`
 - [GUARD: Geometric Uncertainty-Aware Point Cloud Denoising and Segmentation for Robotic Hard Disk Drive Disassembly](https://arxiv.org/abs/2610.09068) — `segmentation` `reconstruction` `denoising`
 - [How Sampling Strategy Affects Imbalance Mitigation in LiDAR Segmentation: A Study of Structured vs. Random Point-Based Architectures](https://arxiv.org/abs/2608.16673) — `segmentation`
+- [Integrating Object Detection, LiDAR-Enhanced Depth Estimation, and Segmentation Models for Railway Environments](https://arxiv.org/abs/2604.14781) — `segmentation` `detection`
+- [Learning Hierarchical Orthogonal Prototypes for Generalized Few-Shot 3D Point Cloud Segmentation](https://arxiv.org/abs/2603.19788) — `segmentation`
 - [Learning-Based 3D Reconstruction of Power Networks from Aerial Point Clouds](https://arxiv.org/abs/2609.23915) — `segmentation` `reconstruction`
+- [LIDARLearn: A Unified Deep Learning Library for 3D Point Cloud Classification, Segmentation, and Self-Supervised Representation Learning](https://arxiv.org/abs/2604.10780) — `segmentation` `classification` `self-supervised` `autonomous driving`
 - [LOGOS: LiDAR-Only Gaussian Elevation Splatting for Unified Tiny Obstacle Segmentation](https://arxiv.org/abs/2606.21527) — `segmentation`
 - [MSSP: Multi-Scale Spatially-Constrained Partition for Unsupervised Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/2609.06959) — `segmentation`
 - [Multi-level latent-diffusion adaptation for cross-region point cloud segmentation of ancient terraces](https://arxiv.org/abs/2611.18033) — `segmentation` `detection`
@@ -42,146 +74,290 @@
 - [R4Tun: LLM-guided adaptive segmental tunnel lining segmentation in point clouds](https://arxiv.org/abs/2609.11360) — `segmentation` `vision-language`
 - [RAHF-Net: Range-Aware Heterogeneous Fusion for LiDAR-Assisted RGB Semantic Segmentation](https://arxiv.org/abs/2610.25400) — `segmentation`
 - [RaSFNet: Ray-aligned and Scan-aware Fusion Network for LiDAR Semantic Segmentation](https://arxiv.org/abs/2610.31186) — `segmentation` `autonomous driving`
+- [Resolving Long-Tail Ambiguity in Unsupervised 3D Point Cloud Segmentation with Language Priors](https://arxiv.org/abs/2605.20737) — `segmentation` — [code](https://github.com/Whisky0129/langtail_official)
+- [Resolving Primitive-Sharing Ambiguity in Long-Tailed TLS-Based Industrial MEP Point Cloud Segmentation via Spatial Context Constraints](https://arxiv.org/abs/2601.19128) — `segmentation` — [code](https://github.com/PointCloudYC/LongTail3D)
 - [Rethinking 3D Segmentation from Individual LiDAR Scans: Incidence-Aware Sampling on the SIP Benchmark](https://arxiv.org/abs/2608.07757) — `segmentation` `dataset`
+- [Riverine Land Cover Mapping through Semantic Segmentation of Multispectral Point Clouds](https://arxiv.org/abs/2603.22230) — `segmentation`
 - [Robust LIDAR Sensor-to-Sensor Domain Generalization via Accumulated-Point Scene Completion](https://arxiv.org/abs/2610.39516) — `segmentation` `completion` `robustness`
 - [Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds](https://arxiv.org/abs/2611.05569) — `segmentation` `classification`
 - [SelectAnyTree: A Promptable Instance Segmentation Model for 3D Forest LiDAR Point Clouds](https://arxiv.org/abs/2606.27491) — `segmentation`
 - [Self-Supervised Pretraining Improves Cross-Site and Cross-Scale Robustness of Point Cloud Leaf-Wood Segmentation](https://arxiv.org/abs/2607.06948) — `segmentation` `self-supervised` `pre-training` `robustness`
+- [Source-Free Domain Adaptation for Geospatial Point Cloud Semantic Segmentation](https://arxiv.org/abs/2601.08375) — `segmentation` `domain adaptation`
 - [SpaceCache: Intermediate Feature Reuse for Efficient Semantic Segmentation on Point Cloud Streams](https://arxiv.org/abs/2610.21207) — `segmentation` `autonomous driving` `efficiency`
+- [Spatially-Aware Evaluation Framework for Aerial LiDAR Point Cloud Semantic Segmentation: Distance-Based Metrics on Challenging Regions](https://arxiv.org/abs/2603.22420) — `segmentation`
 - [SSC-Priors: Exploring Semantic and Visibility Priors to Boost Lidar Semantic Scene Completion](https://arxiv.org/abs/2609.17413) — `segmentation` `completion` `occupancy prediction`
 - [The Role of Radiometric Features in Cross-Site Leaf-Wood Segmentation of LiDAR Point Clouds](https://arxiv.org/abs/2609.21903) — `segmentation`
+- [Uncertainty-aware Prototype Learning with Variational Inference for Few-shot Point Cloud Segmentation](https://arxiv.org/abs/2603.19757) — `segmentation`
 - [Viking Hill Dataset: A Lidar-Radar-Camera Dataset for Detection and Segmentation in Forest Scenes](https://arxiv.org/abs/2606.19154) — `segmentation` `detection` `multi-modal` `dataset`
 - [xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR](https://arxiv.org/abs/2605.30111) — `segmentation`
 ## 2025
 
+- [3D-AVS: LiDAR-based 3D Auto-Vocabulary Segmentation](https://arxiv.org/abs/2406.09126) — `segmentation` `detection` `open-vocabulary` — Workshop
+- [CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image](https://arxiv.org/abs/2504.11230) — `segmentation`
+- [Generalized Few-shot 3D Point Cloud Segmentation with Vision-Language Model](https://arxiv.org/abs/2503.16282) — `segmentation` `vision-language`
+- [HiLoTs: High-Low Temporal Sensitive Representation Learning for Semi-Supervised LiDAR Segmentation in Autonomous Driving](https://arxiv.org/abs/2503.17752) — `segmentation` `autonomous driving`
+- [LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/2506.07857) — `segmentation` — [code](https://github.com/vLAR-group/LogoSP)
+- [Relation3D: Enhancing Relation Modeling for Point Cloud Instance Segmentation](https://arxiv.org/abs/2506.17891) — `segmentation` — [code](https://github.com/Howard-coder191/Relation3D)
+- [SAB3R: Semantic-Augmented Backbone in 3D Reconstruction](https://arxiv.org/abs/2506.02112) — `segmentation` `detection` `reconstruction` `open-vocabulary`
+- [SeaLion: Semantic Part-Aware Latent Point Diffusion Models for 3D Generation](https://arxiv.org/abs/2505.17721) — `segmentation` `generation` `denoising`
+- [SUM Parts: Benchmarking Part-Level Semantic Segmentation of Urban Meshes](https://arxiv.org/abs/2503.15300) — `segmentation`
 - [All in One: Visual-Description-Guided Unified Point Cloud Segmentation](https://arxiv.org/abs/2507.05211) — `segmentation`
 - [Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds](https://arxiv.org/abs/2508.11265) — `segmentation`
 - [Open-Vocabulary Octree-Graph for 3D Scene Understanding](https://arxiv.org/abs/2411.16253) — `segmentation` `open-vocabulary`
 - [SAM4D: Segment Anything in Camera and LiDAR Streams](https://arxiv.org/abs/2506.21547) — `segmentation`
 - [How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?](https://arxiv.org/abs/2511.05449) — `segmentation` `reconstruction`
 - [Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning](https://arxiv.org/abs/2510.13307) — `segmentation`
+- [On Geometry-Enhanced Parameter-Efficient Fine-Tuning for 3D Scene Segmentation](https://arxiv.org/abs/2505.22444) — `segmentation` `efficiency` — [code](https://github.com/LiyaoTang/GEM)
 - [Online Segment Any 3D Thing as Instance Tracking](https://arxiv.org/abs/2512.07599) — `segmentation` `tracking` — [code](https://github.com/AutoLab-SAI-SJTU/AutoSeg3D)
+- [GrabS: Generative Embodied Agent for 3D Object Segmentation without Scene Supervision](https://arxiv.org/abs/2504.11754) — `segmentation` `generation` — [code](https://github.com/vLAR-group/GrabS)
 - [Generalized Zero-Shot Learning for Point Cloud Segmentation with Evidence-Based Dynamic Calibration](https://arxiv.org/abs/2509.08280) — `segmentation` `open-vocabulary`
+- [IPDN: Image-enhanced Prompt Decoding Network for 3D Referring Expression Segmentation](https://arxiv.org/abs/2501.04995) — `segmentation`
+- [Pamba: Enhancing Global Interaction in Point Clouds via State Space Model](https://arxiv.org/abs/2406.17442) — `segmentation`
 - [PointCFormer: a Relation-based Progressive Feature Extraction Network for Point Cloud Completion](https://arxiv.org/abs/2412.08421) — `segmentation` `detection` `completion`
+- [Taylor Series-Inspired Local Structure Fitting Network for Few-shot Point Cloud Semantic Segmentation](https://arxiv.org/abs/2504.02454) — `segmentation`
+- [A Divide-and-Conquer Approach for Global Orientation of Non-Watertight Scene-Level Point Clouds Using 0-1 Integer Optimization](https://arxiv.org/abs/2505.23469) — `segmentation` `reconstruction`
 - [Graph-Guided Dual-Level Augmentation for 3D Scene Segmentation](https://arxiv.org/abs/2507.22668) — `segmentation`
+- [DINO in the Room: Leveraging 2D Foundation Models for 3D Segmentation](https://arxiv.org/abs/2503.18944) — `segmentation`
+- [Is clustering enough for LiDAR instance segmentation? A state-of-the-art training-free baseline](https://arxiv.org/abs/2503.13203) — `segmentation` `autonomous driving`
 - [LOSC: LiDAR Open-voc Segmentation Consolidator](https://arxiv.org/abs/2507.07605) — `segmentation` `open-vocabulary`
+- [Generative Data Augmentation for Object Point Cloud Segmentation](https://arxiv.org/abs/2505.17783) — `segmentation` `generation` `denoising`
 - [Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion](https://arxiv.org/abs/2512.06882) — `segmentation`
 - [Improving Multimodal Distillation for 3D Semantic Segmentation under Domain Shift](https://arxiv.org/abs/2511.17455) — `segmentation` `multi-modal`
 - [Domain Adaptation-Based Crossmodal Knowledge Distillation for 3D Semantic Segmentation](https://arxiv.org/abs/2509.00379) — `segmentation` `autonomous driving` `domain adaptation`
+- [Joint 3D Point Cloud Segmentation using Real-Sim Loop: From Panels to Trees and Branches](https://arxiv.org/abs/2503.05630) — `segmentation`
+- [Mapping Semantic Segmentation to Point Clouds Using Structure from Motion for Forest Analysis](https://arxiv.org/abs/2505.10751) — `segmentation` — Workshop
+- [MFSeg: Efficient Multi-frame 3D Semantic Segmentation](https://arxiv.org/abs/2505.04408) — `segmentation` `upsampling` `efficiency`
 - [Radar Tracker: Moving Instance Tracking in Sparse and Noisy Radar Point Clouds](https://arxiv.org/abs/2507.03441) — `segmentation` `tracking` `multi-modal`
 - [Radar Velocity Transformer: Single-scan Moving Object Segmentation in Noisy Radar Point Clouds](https://arxiv.org/abs/2507.03463) — `segmentation` `autonomous driving` `multi-modal`
+- [Technical Report for ICRA 2025 GOOSE 3D Semantic Segmentation Challenge: Adaptive Point Cloud Understanding for Heterogeneous Robotic Systems](https://arxiv.org/abs/2506.06995) — `segmentation` — Workshop
 - [DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation](https://arxiv.org/abs/2510.23525) — `segmentation` `domain adaptation`
+- [Label-Efficient LiDAR Panoptic Segmentation](https://arxiv.org/abs/2503.02372) — `segmentation` `efficiency`
+- [Overlap-Aware Feature Learning for Robust Unsupervised Domain Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2504.01668) — `segmentation` `classification` `autonomous driving` `domain adaptation`
+- [CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting](https://arxiv.org/abs/2505.03679) — `segmentation` `autonomous driving` `open-vocabulary` `multi-modal`
 - [PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation](https://arxiv.org/abs/2507.04633) — `segmentation`
 - [SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds](https://arxiv.org/abs/2507.06906) — `segmentation` `classification` `multi-modal`
 - [High-quality Pseudo-labeling for Point Cloud Segmentation with Scene-level Annotation](https://arxiv.org/abs/2506.23227) — `segmentation` — [code](https://github.com/LHDuan/WSegPC)
+- [APCoTTA: Continual Test-Time Adaptation for Semantic Segmentation of Airborne LiDAR Point Clouds](https://arxiv.org/abs/2505.09971) — `segmentation`
 - [RoofSeg: An edge-aware transformer-based network for end-to-end roof plane segmentation](https://arxiv.org/abs/2508.19003) — `segmentation` `detection` `reconstruction`
+- [Unsupervised deep learning for semantic segmentation of multispectral LiDAR forest point clouds](https://arxiv.org/abs/2502.06227) — `segmentation`
 - [PointSlice: Accurate and Efficient Slice-Based Representation for 3D Object Detection from Point Clouds](https://arxiv.org/abs/2509.01487) — `segmentation` `detection` `autonomous driving` `efficiency`
 - [Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge](https://arxiv.org/abs/2510.08316) — `segmentation`
+- [3D Can Be Explored In 2D: Pseudo-Label Generation for LiDAR Point Clouds Using Sensor-Intensity-Based 2D Semantic Segmentation](https://arxiv.org/abs/2505.03300) — `segmentation` `generation` `autonomous driving`
 - [3D forest semantic segmentation using multispectral LiDAR and 3D deep learning](https://arxiv.org/abs/2507.08025) — `segmentation` `detection`
+- [3D Modeling and Automated Measurement of Concrete Cracks via Segment Anything Refinement and Visual Inertial LiDAR Fusion](https://arxiv.org/abs/2501.09203) — `segmentation` `detection` `reconstruction`
+- [3D-PointZshotS: Geometry-Aware 3D Point Cloud Zero-Shot Semantic Segmentation Narrowing the Visual-Semantic Gap](https://arxiv.org/abs/2504.12442) — `segmentation` `generation` `open-vocabulary`
+- [3DSES: an indoor Lidar point cloud segmentation dataset with real and pseudo-labels from a 3D model](https://arxiv.org/abs/2501.17534) — `segmentation` `dataset`
+- [A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting](https://arxiv.org/abs/2506.14066) — `segmentation` `detection` `completion`
 - [ALISE: Annotation-Free LiDAR Instance Segmentation for Autonomous Driving](https://arxiv.org/abs/2510.05752) — `segmentation` `autonomous driving`
 - [Ambiguity-aware Point Cloud Segmentation by Adaptive Margin Contrastive Learning](https://arxiv.org/abs/2507.06592) — `segmentation` `self-supervised`
+- [An Experimental Study of SOTA LiDAR Segmentation Models](https://arxiv.org/abs/2502.12860) — `segmentation`
+- [ArrowPose: Segmentation, Detection, and 5 DoF Pose Estimation Network for Colorless Point Clouds](https://arxiv.org/abs/2506.08699) — `segmentation` `detection`
+- [Automating Infrastructure Surveying: A Framework for Geometric Measurements and Compliance Assessment Using Point Cloud Data](https://arxiv.org/abs/2505.05752) — `segmentation` `detection`
+- [BAGNet: A Boundary-Aware Graph Attention Network for 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2506.00475) — `segmentation`
 - [BATISNet: Instance Segmentation of Tooth Point Clouds with Boundary Awareness](https://arxiv.org/abs/2512.24201) — `segmentation`
 - [Calibrated Keyframe-Segment Selection for Descriptor-Agnostic LiDAR Loop Closure in Repetitive Environments](https://arxiv.org/abs/2512.09447) — `registration` `segmentation`
 - [Co-Win: Joint Object Detection and Instance Segmentation in LiDAR Point Clouds via Collaborative Window Processing](https://arxiv.org/abs/2507.19691) — `segmentation` `detection` `BEV`
 - [Cross-Dataset Semantic Segmentation Performance Analysis: Unifying NIST Point Cloud City Datasets for 3D Deep Learning](https://arxiv.org/abs/2508.00822) — `segmentation` `dataset`
 - [DAGLFNet: Deep Feature Attention Guided Global and Local Feature Fusion for Pseudo-Image Point Cloud Segmentation](https://arxiv.org/abs/2510.10471) — `segmentation`
 - [Data-Efficient Point Cloud Semantic Segmentation Pipeline for Unimproved Roads](https://arxiv.org/abs/2508.20135) — `segmentation` `efficiency`
+- [Deep Unsupervised Segmentation of Log Point Clouds](https://arxiv.org/abs/2503.14244) — `segmentation`
+- [Depth-Aware Range Image-Based Model for Point Cloud Segmentation](https://arxiv.org/abs/2503.14955) — `segmentation`
 - [Efficient Model-Based Purification Against Adversarial Attacks for LiDAR Segmentation](https://arxiv.org/abs/2508.19290) — `segmentation` `generation` `robustness` `efficiency`
+- [Enhancing Human-Robot Collaboration: A Sim2Real Domain Adaptation Algorithm for Point Cloud Segmentation in Industrial Environments](https://arxiv.org/abs/2506.09552) — `segmentation` `domain adaptation`
+- [Explainable LiDAR 3D Point Cloud Segmentation and Clustering for Detecting Airplane-Generated Wind Turbulence](https://arxiv.org/abs/2503.00518) — `segmentation` `detection`
 - [Exploring Single Domain Generalization of LiDAR-based Semantic Segmentation under Imperfect Labels](https://arxiv.org/abs/2510.09035) — `segmentation` `autonomous driving`
 - [Few to Big: Prototype Expansion Network via Diffusion Learner for Point Cloud Few-shot Semantic Segmentation](https://arxiv.org/abs/2509.12878) — `segmentation`
+- [FLARES: Fast and Accurate LiDAR Multi-Range Semantic Segmentation](https://arxiv.org/abs/2502.09274) — `segmentation` `autonomous driving`
+- [ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds](https://arxiv.org/abs/2506.16991) — `segmentation`
 - [Geometry-Aware Cross Modal Alignment for Light Field-LiDAR Semantic Segmentation](https://arxiv.org/abs/2510.06687) — `segmentation` `autonomous driving`
+- [GeoT: Geometry-guided Instance-dependent Transition Matrix for Semi-supervised Tooth Point Cloud Segmentation](https://arxiv.org/abs/2503.16976) — `segmentation`
+- [Ground Awareness in Deep Learning for Large Outdoor Point Cloud Segmentation](https://arxiv.org/abs/2501.18246) — `segmentation`
 - [Guided and Unguided Conditional Diffusion Mechanisms for Structured and Semantically-Aware 3D Point Cloud Generation](https://arxiv.org/abs/2509.17206) — `segmentation` `generation`
 - [Guided Model-based LiDAR Super-Resolution for Resource-Efficient Automotive scene Segmentation](https://arxiv.org/abs/2509.01317) — `segmentation` `upsampling` `autonomous driving` `efficiency`
 - [HLS4PC: A Parametrizable Framework For Accelerating Point-Based 3D Point Cloud Models on FPGA](https://arxiv.org/abs/2512.22139) — `segmentation` `classification`
+- [Improving Open-Set Semantic Segmentation in 3D Point Clouds by Conditional Channel Capacity Maximization: Preliminary Results](https://arxiv.org/abs/2505.11521) — `segmentation`
 - [InfraDiffusion: zero-shot depth map restoration with diffusion models and prompted segmentation from sparse infrastructure point clouds](https://arxiv.org/abs/2509.03324) — `segmentation` `detection` `open-vocabulary`
 - [Integrating SAM Supervision for 3D Weakly Supervised Point Cloud Segmentation](https://arxiv.org/abs/2508.19909) — `segmentation`
+- [Label-Efficient LiDAR Semantic Segmentation with 2D-3D Vision Transformer Adapters](https://arxiv.org/abs/2503.03299) — `segmentation` `efficiency`
 - [Label-Efficient Point Cloud Segmentation with Active Learning](https://arxiv.org/abs/2512.05759) — `segmentation` `efficiency`
+- [LiDAR Based Semantic Perception for Forklifts in Outdoor Environments](https://arxiv.org/abs/2505.22258) — `segmentation`
+- [LLM-Guided Taxonomy and Hierarchical Uncertainty for 3D Point Cloud Active Learning](https://arxiv.org/abs/2505.18924) — `segmentation` `vision-language`
+- [Med-PU: Point Cloud Upsampling for High-Fidelity 3D Medical Shape Reconstruction](https://arxiv.org/abs/2501.16716) — `segmentation` `reconstruction` `upsampling`
 - [Methods for the Segmentation of Reticular Structures Using 3D LiDAR Data: A Comparative Evaluation](https://arxiv.org/abs/2507.20589) — `segmentation` `detection`
+- [MRG: A Multi-Robot Manufacturing Digital Scene Generation Method Using Multi-Instance Point Cloud Registration](https://arxiv.org/abs/2501.02041) — `registration` `segmentation` `generation`
+- [Multi-dataset synergistic in supervised learning to pre-label structural components in point clouds from shell construction scenes](https://arxiv.org/abs/2502.14721) — `segmentation` `dataset`
+- [Multimodal Point Cloud Semantic Segmentation With Virtual Point Enhancement](https://arxiv.org/abs/2504.01449) — `segmentation` `multi-modal`
+- [NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation](https://arxiv.org/abs/2505.24634) — `segmentation` `autonomous driving` `efficiency` — [code](https://github.com/alanWXZ/NUC-Net)
 - [OmniPlantSeg: Species Agnostic 3D Point Cloud Organ Segmentation for High-Resolution Plant Phenotyping Across Modalities](https://arxiv.org/abs/2509.21038) — `segmentation`
 - [On the Impact of LiDAR Point Cloud Compression on Remote Semantic Segmentation](https://arxiv.org/abs/2509.23341) — `segmentation` `detection` `compression`
 - [Open-world Point Cloud Semantic Segmentation: A Human-in-the-loop Framework](https://arxiv.org/abs/2508.04962) — `segmentation`
 - [OpenUrban3D: Annotation-Free Open-Vocabulary Semantic Segmentation of Large-Scale Urban Point Clouds](https://arxiv.org/abs/2509.10842) — `segmentation` `open-vocabulary`
 - [Out-of-Distribution Detection in LiDAR Semantic Segmentation Using Epistemic Uncertainty from Hierarchical GMMs](https://arxiv.org/abs/2510.08631) — `segmentation` `detection`
+- [Panoptic-CUDAL: Rural Australia Point Cloud Dataset in Rainy Conditions](https://arxiv.org/abs/2503.16378) — `segmentation` `autonomous driving` `dataset`
 - [PlantSegNeRF: A few-shot, cross-species method for plant 3D instance point cloud reconstruction via joint-channel NeRF with multi-view image instance matching](https://arxiv.org/abs/2507.00371) — `segmentation` `reconstruction` `nerf`
+- [Point Cloud Based Scene Segmentation: A Survey](https://arxiv.org/abs/2503.12595) — `segmentation` `detection` `autonomous driving`
 - [Point cloud segmentation for 3D Clothed Human Layering](https://arxiv.org/abs/2508.05531) — `segmentation` `generation`
+- [Point Cloud Segmentation of Agricultural Vehicles using 3D Gaussian Splatting](https://arxiv.org/abs/2506.05009) — `segmentation` `gaussian-splatting`
 - [Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology](https://arxiv.org/abs/2511.05853) — `segmentation` `detection` `dataset`
 - [Point-Plane Projections for Accurate LiDAR Semantic Segmentation in Small Data Scenarios](https://arxiv.org/abs/2509.10841) — `segmentation` `autonomous driving`
+- [PointDiffuse: A Dual-Conditional Diffusion Model for Enhanced Point Cloud Semantic Segmentation](https://arxiv.org/abs/2503.06094) — `segmentation` `generation` `denoising`
 - [PointGauss: Point Cloud-Guided Multi-Object Segmentation for Gaussian Splatting](https://arxiv.org/abs/2508.00259) — `segmentation` `gaussian-splatting`
 - [PointVDP: Learning View-Dependent Projection by Fireworks Rays for 3D Point Cloud Segmentation](https://arxiv.org/abs/2507.06618) — `segmentation`
+- [Pre-training with 3D Synthetic Data: Learning 3D Point Cloud Instance Segmentation from 3D Synthetic Scenes](https://arxiv.org/abs/2503.24229) — `segmentation` `pre-training`
+- [ProtoGuard-guided PROPEL: Class-Aware Prototype Enhancement and Progressive Labeling for Incremental 3D Point Cloud Segmentation](https://arxiv.org/abs/2504.01648) — `segmentation`
 - [Query-aware Hub Prototype Learning for Few-Shot 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2512.08253) — `segmentation`
 - [RangeSAM: On the Potential of Visual Foundation Models for Range-View represented LiDAR segmentation](https://arxiv.org/abs/2509.15886) — `segmentation` `autonomous driving`
 - [rareboost3d: a synthetic lidar dataset with enhanced rare classes](https://arxiv.org/abs/2510.10876) — `segmentation` `autonomous driving` `dataset`
 - [Redefining Radar Segmentation: Simultaneous Static-Moving Segmentation and Ego-Motion Estimation using Radar Point Clouds](https://arxiv.org/abs/2511.20003) — `segmentation` `multi-modal`
 - [Rethinking the Detail-Preserved Completion of Complex Tubular Structures based on Point Cloud: a Dataset and a Benchmark](https://arxiv.org/abs/2508.17658) — `segmentation` `detection` `completion` `dataset`
+- [Robust Human Registration with Body Part Segmentation on Noisy Point Clouds](https://arxiv.org/abs/2504.03602) — `registration` `segmentation` `robustness`
+- [Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks](https://arxiv.org/abs/2504.01659) — `segmentation` `generation` `domain adaptation` `robustness`
+- [SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency](https://arxiv.org/abs/2503.23980) — `segmentation` `open-vocabulary`
+- [SELECT: A Submodular Approach for Active LiDAR Semantic Segmentation](https://arxiv.org/abs/2505.11516) — `segmentation` `autonomous driving`
 - [Self-Supervised Moving Object Segmentation of Sparse and Noisy Radar Point Clouds](https://arxiv.org/abs/2511.02395) — `segmentation` `slam` `self-supervised` `autonomous driving`
+- [SN-LiDAR: Semantic Neural Fields for Novel Space-time View LiDAR Synthesis](https://arxiv.org/abs/2504.08361) — `segmentation` `autonomous driving`
 - [SNAP: Towards Segmenting Anything in Any Point Cloud](https://arxiv.org/abs/2510.11565) — `segmentation`
+- [SPPSFormer: High-quality Superpoint-based Transformer for Roof Plane Instance Segmentation from Point Clouds](https://arxiv.org/abs/2505.24475) — `segmentation`
+- [SRKD: Towards Efficient 3D Point Cloud Segmentation via Structure- and Relation-aware Knowledge Distillation](https://arxiv.org/abs/2506.17290) — `segmentation` `efficiency`
 - [The Impact of 2D Segmentation Backbones on Point Cloud Predictions Using 4D Radar](https://arxiv.org/abs/2509.19644) — `segmentation` `autonomous driving` `multi-modal`
 - [Through the Perspective of LiDAR: A Feature-Enriched and Uncertainty-Aware Annotation Pipeline for Terrestrial Point Cloud Segmentation](https://arxiv.org/abs/2510.06582) — `segmentation`
+- [Towards Explicit Geometry-Reflectance Collaboration for Generalized LiDAR Segmentation in Adverse Weather](https://arxiv.org/abs/2506.02396) — `segmentation`
 - [Training-Free Global Geometric Association for 4D LiDAR Panoptic Segmentation](https://arxiv.org/abs/2512.18991) — `segmentation`
 - [treeX: Unsupervised Tree Instance Segmentation in Dense Forest Point Clouds](https://arxiv.org/abs/2509.03633) — `segmentation`
+- [Turin3D: Evaluating Adaptation Strategies under Label Scarcity in Urban LiDAR Segmentation with Semi-Supervised Techniques](https://arxiv.org/abs/2504.05882) — `segmentation`
+- [ViewPCL: a point cloud based active learning method for multi-view segmentation](https://arxiv.org/abs/2506.13043) — `segmentation`
 - [Weakly-Supervised Learning for Tree Instances Segmentation in Airborne Lidar Point Clouds](https://arxiv.org/abs/2508.15646) — `segmentation`
 - [XAI for Point Cloud Data using Perturbations based on Meaningful Segmentation](https://arxiv.org/abs/2507.22020) — `segmentation` `classification`
 ## 2024
 
 - [Beyond the Label Itself: Latent Labels Enhance Semi-supervised Point Cloud Panoptic Segmentation](https://arxiv.org/abs/2312.08234) — `segmentation`
+- [Density-guided Translator Boosts Synthetic-to-Real Unsupervised Domain Adaptive Segmentation of 3D Point Clouds](https://arxiv.org/abs/2403.18469) — `segmentation`
+- [OA-CNNs: Omni-Adaptive Sparse CNNs for 3D Semantic Segmentation](https://arxiv.org/abs/2403.14418) — `segmentation`
+- [ODIN: A Single Model for 2D and 3D Segmentation](https://arxiv.org/abs/2401.02416) — `segmentation`
+- [Rethinking Few-shot 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2403.00592) — `segmentation`
+- [TASeg: Temporal Aggregation Network for LiDAR Semantic Segmentation](https://arxiv.org/abs/2407.09751) — `segmentation`
 - [Zero-Shot Dual-Path Integration Framework for Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2408.08591) — `segmentation` `open-vocabulary` — Workshop
 - [Bayesian Self-Training for Semi-Supervised 3D Segmentation](https://arxiv.org/abs/2409.08102) — `segmentation`
 - [BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2411.13251) — `segmentation` `robustness` `dataset` — Workshop
 - [DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields](https://arxiv.org/abs/2311.12063) — `segmentation` `generation` `efficiency`
+- [Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation](https://arxiv.org/abs/2407.12489) — `segmentation`
+- [HGL: Hierarchical Geometry Learning for Test-time Adaptation in 3D Point Cloud Segmentation](https://arxiv.org/abs/2407.12387) — `segmentation`
 - [Localization and Expansion: A Decoupled Framework for Point Cloud Few-shot Semantic Segmentation](https://arxiv.org/abs/2408.13752) — `segmentation` `classification` `localization`
 - [OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation](https://arxiv.org/abs/2309.00616) — `segmentation` `open-vocabulary`
+- [Part2Object: Hierarchical Unsupervised 3D Instance Segmentation](https://arxiv.org/abs/2407.10084) — `segmentation`
+- [RAPiD-Seg: Range-Aware Pointwise Distance Distribution Networks for 3D LiDAR Segmentation](https://arxiv.org/abs/2407.10159) — `segmentation` `autonomous driving` — [code](https://github.com/l1997i/rapid_seg)
 - [RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions for 3D Point Cloud Classification and Segmentation](https://arxiv.org/abs/2408.06110) — `segmentation` `classification`
+- [SegPoint: Segment Any Point Cloud via Large Language Model](https://arxiv.org/abs/2407.13761) — `segmentation`
+- [SFPNet: Sparse Focal Point Network for Semantic Segmentation on General LiDAR Point Clouds](https://arxiv.org/abs/2407.11569) — `segmentation`
 - [Subspace Prototype Guidance for Mitigating Class Imbalance in Point Cloud Semantic Segmentation](https://arxiv.org/abs/2408.10537) — `segmentation`
 - [RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation](https://arxiv.org/abs/2412.02402) — `segmentation` — [code](https://github.com/sosppxo/RG-SAN)
 - [Multimodality Helps Few-shot 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2410.22489) — `segmentation`
+- [Symbol as Points: Panoptic Symbol Spotting via Point-based Representation](https://arxiv.org/abs/2401.10556) — `segmentation`
+- [DHGCN: Dynamic Hop Graph Convolution Network for Self-Supervised Point Cloud Learning](https://arxiv.org/abs/2401.02610) — `segmentation` `classification` `self-supervised`
 - [Point Cloud Part Editing: Segmentation, Generation, Assembly, and Selection](https://arxiv.org/abs/2312.11867) — `segmentation` `generation`
+- [MambaMOS: LiDAR-based 3D Moving Object Segmentation with Motion-aware State Space Model](https://arxiv.org/abs/2404.12794) — `segmentation` — [code](https://github.com/Terminal-K/MambaMOS)
 - [RefMask3D: Language-Guided Transformer for 3D Referring Segmentation](https://arxiv.org/abs/2407.18244) — `segmentation` — [code](https://github.com/heshuting555/RefMask3D)
+- [Scalable 3D Panoptic Segmentation As Superpoint Graph Clustering](https://arxiv.org/abs/2401.06704) — `segmentation`
 - [ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset](https://arxiv.org/abs/2411.04865) — `segmentation` `dataset`
+- [Spot-Compose: A Framework for Open-Vocabulary Object Retrieval and Drawer Manipulation in Point Clouds](https://arxiv.org/abs/2404.12440) — `segmentation` `detection` `open-vocabulary` — Workshop
 - [Are We Ready for Real-Time LiDAR Semantic Segmentation in Autonomous Driving?](https://arxiv.org/abs/2410.08365) — `segmentation` `detection` `reconstruction` `autonomous driving` — Workshop
 - [Exploiting Local Features and Range Images for Small Data Real-Time Point Cloud Semantic Segmentation](https://arxiv.org/abs/2410.10510) — `segmentation` `autonomous driving` `efficiency`
 - [HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds From Heterogeneous LiDAR Sensors](https://arxiv.org/abs/2408.06328) — `segmentation` `detection` `dataset`
 - [Moving Object Segmentation in Point Cloud Data using Hidden Markov Models](https://arxiv.org/abs/2410.18638) — `segmentation` `detection` — Workshop
+- [GroundGrid:LiDAR Point Cloud Ground Segmentation and Terrain Estimation](https://arxiv.org/abs/2405.15664) — `segmentation`
+- [Label-Efficient Semantic Segmentation of LiDAR Point Clouds in Adverse Weather Conditions](https://arxiv.org/abs/2406.09906) — `segmentation` `detection` `efficiency`
+- [Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving](https://arxiv.org/abs/2405.05258) — `segmentation` `autonomous driving` `multi-modal` `efficiency`
+- [P2P: Part-to-Part Motion Cues Guide a Strong Tracking Framework for LiDAR Point Clouds](https://arxiv.org/abs/2407.05238) — `segmentation` `tracking`
+- [Training point-based deep learning networks for forest segmentation with synthetic data](https://arxiv.org/abs/2403.14115) — `segmentation`
+- [3D Learnable Supertoken Transformer for LiDAR Point Cloud Scene Segmentation](https://arxiv.org/abs/2405.15826) — `segmentation`
+- [A comprehensive overview of deep learning techniques for 3D point cloud classification and semantic segmentation](https://arxiv.org/abs/2405.11903) — `segmentation` `classification` `autonomous driving`
+- [A Framework for Building Point Cloud Cleaning, Plane Detection and Semantic Segmentation](https://arxiv.org/abs/2402.00692) — `segmentation` `detection`
+- [A Preprocessing and Postprocessing Voxel-based Method for LiDAR Semantic Segmentation Improvement in Long Distance](https://arxiv.org/abs/2405.10046) — `segmentation`
 - [Accelerating Point Cloud Ground Segmentation: From Mechanical to Solid-State Lidars](https://arxiv.org/abs/2408.10404) — `segmentation`
 - [An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models](https://arxiv.org/abs/2411.16308) — `segmentation` `denoising` `robustness`
+- [ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/abs/2406.01337) — `segmentation` `dataset`
+- [B-TMS: Bayesian Traversable Terrain Modeling and Segmentation Across 3D LiDAR Scans and Maps for Enhanced Off-Road Navigation](https://arxiv.org/abs/2406.18138) — `segmentation` — Workshop
 - [Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation](https://arxiv.org/abs/2408.01356) — `segmentation`
 - [Calibrated and Efficient Sampling-Free Confidence Estimation for LiDAR Scene Semantic Segmentation](https://arxiv.org/abs/2411.11935) — `segmentation` `autonomous driving` `efficiency`
 - [CFSSeg: Closed-Form Solution for Class-Incremental Semantic Segmentation of 2D Images and 3D Point Clouds](https://arxiv.org/abs/2412.10834) — `segmentation`
+- [Class-Imbalanced Semi-Supervised Learning for Large-Scale Point Cloud Semantic Segmentation via Decoupling Optimization](https://arxiv.org/abs/2401.06975) — `segmentation`
+- [CurbNet: Curb Detection Framework Based on LiDAR Point Cloud Segmentation](https://arxiv.org/abs/2403.16794) — `segmentation` `detection`
 - [Density-aware global-local attention network for point cloud segmentation](https://arxiv.org/abs/2412.00489) — `segmentation` `autonomous driving`
 - [Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation](https://arxiv.org/abs/2410.08091) — `segmentation`
+- [DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization](https://arxiv.org/abs/2406.11266) — `segmentation` `localization`
+- [Dynamic Prototype Adaptation with Distillation for Few-shot Point Cloud Segmentation](https://arxiv.org/abs/2401.16051) — `segmentation` — [code](https://github.com/jliu4ai/DPA)
+- [ECLAIR: A High-Fidelity Aerial LiDAR Dataset for Semantic Segmentation](https://arxiv.org/abs/2404.10699) — `segmentation` `classification` `dataset`
 - [Efficiently Expanding Receptive Fields: Local Split Attention and Parallel Aggregation for Enhanced Large-scale Point Cloud Semantic Segmentation](https://arxiv.org/abs/2409.01662) — `segmentation`
+- [ELiTe: Efficient Image-to-LiDAR Knowledge Transfer for Semantic Segmentation](https://arxiv.org/abs/2405.04121) — `segmentation` `efficiency`
 - [Evaluating the Impact of Point Cloud Colorization on Semantic Segmentation Accuracy](https://arxiv.org/abs/2410.06725) — `segmentation`
 - [Exploring contextual modeling with linear complexity for point cloud segmentation](https://arxiv.org/abs/2410.21211) — `segmentation`
 - [Extracting Object Heights From LiDAR & Aerial Imagery](https://arxiv.org/abs/2408.00967) — `segmentation`
+- [Extrinsic Calibration of Multiple LiDARs for a Mobile Robot based on Floor Plane And Object Segmentation](https://arxiv.org/abs/2403.14161) — `segmentation` `detection`
+- [Filling Missing Values Matters for Range Image-Based Point Cloud Segmentation](https://arxiv.org/abs/2405.10175) — `segmentation`
 - [Fine-grained Metrics for Point Cloud Semantic Segmentation](https://arxiv.org/abs/2407.21289) — `segmentation`
+- [FRACTAL: An Ultra-Large-Scale Aerial Lidar Dataset for 3D Semantic Segmentation of Diverse Landscapes](https://arxiv.org/abs/2405.04634) — `segmentation` `classification` `dataset` — [code](https://github.com/IGNF/myria3d)
+- [Global Attention-Guided Dual-Domain Point Cloud Feature Learning for Classification and Segmentation](https://arxiv.org/abs/2407.08994) — `segmentation` `classification`
 - [GSTran: Joint Geometric and Semantic Coherence for Point Cloud Segmentation](https://arxiv.org/abs/2408.11558) — `segmentation`
 - [Horticultural Temporal Fruit Monitoring via 3D Instance Segmentation and Re-Identification using Colored Point Clouds](https://arxiv.org/abs/2411.07799) — `segmentation`
 - [Impact of color and mixing proportion of synthetic point clouds on semantic segmentation](https://arxiv.org/abs/2412.19145) — `segmentation`
+- [Improved Block Merging for 3D Point Cloud Instance Segmentation](https://arxiv.org/abs/2407.06991) — `segmentation`
 - [Instance Segmentation of Reinforced Concrete Bridges with Synthetic Point Clouds](https://arxiv.org/abs/2409.16381) — `segmentation`
 - [Interactive4D: Interactive 4D LiDAR Segmentation](https://arxiv.org/abs/2410.08206) — `segmentation`
+- [Label-Free Model Failure Detection for Lidar-based Point Cloud Segmentation](https://arxiv.org/abs/2407.14306) — `segmentation` `detection`
 - [Lidar Panoptic Segmentation in an Open World](https://arxiv.org/abs/2409.14273) — `segmentation` — [code](https://github.com/g-meghana-reddy/open-world-panoptic-segmentation)
 - [LiOn-XA: Unsupervised Domain Adaptation via LiDAR-Only Cross-Modal Adversarial Training](https://arxiv.org/abs/2410.15833) — `segmentation` `domain adaptation` `robustness`
 - [MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing](https://arxiv.org/abs/2411.16773) — `registration` `segmentation` `reconstruction` `denoising`
 - [MILAN: Milli-Annotations for Lidar Semantic Segmentation](https://arxiv.org/abs/2407.15797) — `segmentation` `self-supervised` `autonomous driving`
 - [Multilateral Cascading Network for Semantic Segmentation of Large-Scale Outdoor Point Clouds](https://arxiv.org/abs/2409.13983) — `segmentation`
+- [Mushroom Segmentation and 3D Pose Estimation from Point Clouds using Fully Convolutional Geometric Features and Implicit Pose Encoding](https://arxiv.org/abs/2404.12144) — `segmentation`
 - [OE3DIS: Open-Ended 3D Point Cloud Instance Segmentation](https://arxiv.org/abs/2408.11747) — `segmentation` — Workshop
+- [Off-Road LiDAR Intensity Based Semantic Segmentation](https://arxiv.org/abs/2401.01439) — `segmentation` `detection` `autonomous driving`
+- [OpenTrench3D: A Photogrammetric 3D Point Cloud Dataset for Semantic Segmentation of Underground Utilities](https://arxiv.org/abs/2404.07711) — `segmentation` `dataset`
+- [PDF: A Probability-Driven Framework for Open World 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2404.00979) — `segmentation`
 - [PLANesT-3D: A new annotated dataset for segmentation of 3D plant point clouds](https://arxiv.org/abs/2407.21150) — `segmentation` `dataset`
+- [Point Cloud in the Air](https://arxiv.org/abs/2401.00658) — `segmentation`
 - [Point-GR: Graph Residual Point Cloud Network for 3D Object Classification and Segmentation](https://arxiv.org/abs/2412.03052) — `segmentation` `classification` — Workshop
+- [Point-SAM: Promptable 3D Segmentation Model for Point Clouds](https://arxiv.org/abs/2406.17741) — `segmentation`
 - [Precise Workcell Sketching from Point Clouds Using an AR Toolbox](https://arxiv.org/abs/2410.00479) — `segmentation`
 - [ProtoSeg: A Prototype-Based Point Cloud Instance Segmentation Method](https://arxiv.org/abs/2410.02352) — `segmentation`
 - [Railway LiDAR semantic segmentation based on intelligent semi-automated data annotation](https://arxiv.org/abs/2410.13383) — `segmentation`
+- [Refining Segmentation On-the-Fly: An Interactive Framework for Point Cloud Semantic Segmentation](https://arxiv.org/abs/2403.06401) — `segmentation`
+- [Region-Transformer: Self-Attention Region Based Class-Agnostic Point Cloud Segmentation](https://arxiv.org/abs/2403.01407) — `segmentation`
 - [RESSCAL3D++: Joint Acquisition and Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/2410.02323) — `segmentation`
+- [RESSCAL3D: Resolution Scalable 3D Semantic Segmentation of Point Clouds](https://arxiv.org/abs/2404.06863) — `segmentation`
+- [Rethinking Data Input for Point Cloud Upsampling](https://arxiv.org/abs/2407.04476) — `segmentation` `reconstruction` `upsampling`
+- [RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation](https://arxiv.org/abs/2403.19460) — `segmentation` `efficiency`
+- [Scale Disparity of Instances in Interactive Point Cloud Segmentation](https://arxiv.org/abs/2407.14009) — `segmentation`
+- [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://arxiv.org/abs/2406.16279) — `segmentation` `efficiency`
+- [Serialized Point Mamba: A Serialized Point Cloud Mamba Segmentation Model](https://arxiv.org/abs/2407.12319) — `segmentation` `reconstruction`
 - [SIESEF-FusionNet: Spatial Inter-correlation Enhancement and Spatially-Embedded Feature Fusion Network for LiDAR Point Cloud Semantic Segmentation](https://arxiv.org/abs/2411.06991) — `segmentation` `autonomous driving`
+- [SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation](https://arxiv.org/abs/2406.11441) — `segmentation` `efficiency`
+- [Test-time adaptation for geospatial point cloud semantic segmentation with distinct domain shifts](https://arxiv.org/abs/2407.06043) — `segmentation`
 - [Textured As-Is BIM via GIS-informed Point Cloud Segmentation](https://arxiv.org/abs/2411.18898) — `segmentation`
+- [Towards Explainable LiDAR Point Cloud Semantic Segmentation via Gradient Based Target Localization](https://arxiv.org/abs/2402.12098) — `segmentation` `localization` `autonomous driving`
 - [Trainable Pointwise Decoder Module for Point Cloud Segmentation](https://arxiv.org/abs/2408.01548) — `segmentation` `autonomous driving`
+- [TS40K: a 3D Point Cloud Dataset of Rural Terrain and Electrical Transmission System](https://arxiv.org/abs/2405.13989) — `segmentation` `autonomous driving` `dataset`
+- [Twin Deformable Point Convolutions for Point Cloud Semantic Segmentation in Remote Sensing Scenes](https://arxiv.org/abs/2405.19735) — `segmentation`
 - [UdeerLID+: Integrating LiDAR, Image, and Relative Depth with Semi-Supervised](https://arxiv.org/abs/2409.06197) — `segmentation` `autonomous driving`
 - [Unsupervised semantic segmentation of urban high-density multispectral point clouds](https://arxiv.org/abs/2410.18520) — `segmentation`
+- [Weakly Supervised LiDAR Semantic Segmentation via Scatter Image Annotation](https://arxiv.org/abs/2404.12861) — `segmentation`
 - [When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels](https://arxiv.org/abs/2409.01691) — `segmentation`
 ## 2023
 
+- [3D Semantic Segmentation in the Wild: Learning Generalized Models for Adverse-Condition Point Clouds](https://arxiv.org/abs/2304.00690) — `segmentation` `autonomous driving`
+- [Continual Learning for LiDAR Semantic Segmentation: Class-Incremental and Coarse-to-Fine strategies on Sparse Data](https://arxiv.org/abs/2304.03980) — `segmentation` `classification`
+- [Exploiting the Complementarity of 2D and 3D Networks to Address Domain-Shift in 3D Semantic Segmentation](https://arxiv.org/abs/2304.02991) — `segmentation` `autonomous driving` — Workshop
 - [GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/2305.16404) — `segmentation` — [code](https://github.com/vLAR-group/GrowSP)
+- [ISBNet: a 3D Point Cloud Instance Segmentation Network with Instance-aware Sampling and Box-aware Dynamic Convolution](https://arxiv.org/abs/2303.00246) — `segmentation`
 - [LaserMix for Semi-Supervised LiDAR Semantic Segmentation](https://arxiv.org/abs/2207.00026) — `segmentation` — [code](https://github.com/ldkong1205/LaserMix)
+- [Less is More: Reducing Task and Model Complexity for 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2303.11203) — `segmentation` `autonomous driving` — [code](https://github.com/l1997i/lim3d)
+- [MSeg3D: Multi-modal 3D Semantic Segmentation for Autonomous Driving](https://arxiv.org/abs/2303.08600) — `segmentation` `autonomous driving` `multi-modal`
+- [Novel Class Discovery for 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2303.11610) — `segmentation`
 - [On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR](https://arxiv.org/abs/2411.00600) — `segmentation` `autonomous driving`
 - [PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models](https://arxiv.org/abs/2212.01558) — `segmentation` `pre-training`
+- [RangeViT: Towards Vision Transformers for 3D Semantic Segmentation in Autonomous Driving](https://arxiv.org/abs/2301.10222) — `segmentation` `autonomous driving` — [code](https://github.com/valeoai/rangevit)
+- [Spatiotemporal Self-supervised Learning for Point Clouds in the Wild](https://arxiv.org/abs/2303.16235) — `segmentation` `self-supervised`
+- [You Only Need One Thing One Click: Self-Training for Weakly Supervised 3D Scene Understanding](https://arxiv.org/abs/2303.14727) — `segmentation`
 - [2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision](https://arxiv.org/abs/2310.12817) — `segmentation`
 - [APNet: Urban-level Scene Segmentation of Aerial Images and Point Clouds](https://arxiv.org/abs/2309.17162) — `segmentation` — Workshop
 - [Clustering based Point Cloud Representation Learning for 3D Analysis](https://arxiv.org/abs/2307.14605) — `segmentation` `detection` — [code](https://github.com/FengZicai/Cluster3Dseg)
@@ -190,11 +366,17 @@
 - [GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers](https://arxiv.org/abs/2307.13251) — `segmentation`
 - [Generalized Few-Shot Point Cloud Segmentation Via Geometric Words](https://arxiv.org/abs/2309.11222) — `segmentation`
 - [Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation](https://arxiv.org/abs/2308.11166) — `segmentation`
+- [Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models](https://arxiv.org/abs/2304.07221) — `segmentation` `classification` `pre-training`
 - [LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment](https://arxiv.org/abs/2308.01686) — `segmentation` `multi-modal`
 - [MemorySeg: Online LiDAR Semantic Segmentation with a Latent Memory](https://arxiv.org/abs/2311.01556) — `segmentation`
+- [PointDC:Unsupervised Semantic Segmentation of 3D Point Clouds via Cross-modal Distillation and Super-Voxel Clustering](https://arxiv.org/abs/2304.08965) — `segmentation`
+- [Rethinking Range View Representation for LiDAR Segmentation](https://arxiv.org/abs/2303.05367) — `segmentation` `autonomous driving`
 - [Retro-FPN: Retrospective Feature Pyramid Network for Point Cloud Semantic Segmentation](https://arxiv.org/abs/2308.09314) — `segmentation`
 - [See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data](https://arxiv.org/abs/2307.10782) — `segmentation` `open-vocabulary` `multi-modal`
 - [UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase](https://arxiv.org/abs/2309.05573) — `segmentation` `multi-modal` — [code](https://github.com/PJLab-ADG/PCSeg)
+- [Using a Waffle Iron for Automotive Point Cloud Semantic Segmentation](https://arxiv.org/abs/2301.10100) — `segmentation` `autonomous driving` — [code](https://github.com/valeoai/WaffleIron)
+- [Walking Your LiDOG: A Journey Through Multiple Domains for LiDAR Semantic Segmentation](https://arxiv.org/abs/2304.11705) — `segmentation`
+- [You Never Get a Second Chance To Make a Good First Impression: Seeding Active Learning for 3D Semantic Segmentation](https://arxiv.org/abs/2304.11762) — `segmentation`
 - [Annotator: A Generic Active Learning Baseline for LiDAR Semantic Segmentation](https://arxiv.org/abs/2310.20293) — `segmentation`
 - [Provable Adversarial Robustness for Group Equivariant Tasks: Graphs, Point Clouds, Molecules, and More](https://arxiv.org/abs/2312.02708) — `segmentation` `robustness`
 - [Segment Any Point Cloud Sequences by Distilling Vision Foundation Models](https://arxiv.org/abs/2306.09347) — `segmentation` — [code](https://github.com/youquanl/Segment-Any-Point-Cloud)
@@ -202,17 +384,25 @@
 - [Spherical Frustum Sparse Convolution Network for LiDAR Point Cloud Semantic Segmentation](https://arxiv.org/abs/2311.17491) — `segmentation`
 - [AGILE3D: Attention Guided Interactive Multi-object 3D Segmentation](https://arxiv.org/abs/2306.00977) — `segmentation` `classification`
 - [LWSIS: LiDAR-guided Weakly Supervised Instance Segmentation for Autonomous Driving](https://arxiv.org/abs/2212.03504) — `segmentation` `autonomous driving`
+- [PUPS: Point Cloud Unified Panoptic Segmentation](https://arxiv.org/abs/2302.06185) — `segmentation`
+- [OctFormer: Octree-based Transformers for 3D Point Clouds](https://arxiv.org/abs/2305.03045) — `segmentation` `detection`
 - [Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement](https://arxiv.org/abs/2308.03177) — `segmentation`
 - [Test-Time Augmentation for 3D Point Cloud Classification and Segmentation](https://arxiv.org/abs/2311.13152) — `segmentation` `classification`
 - [ZeroPS: High-quality Cross-modal Knowledge Transfer for Zero-Shot 3D Part Segmentation](https://arxiv.org/abs/2311.14262) — `segmentation` `open-vocabulary`
 - [U3DS$^3$: Unsupervised 3D Semantic Scene Segmentation](https://arxiv.org/abs/2311.06018) — `segmentation`
 - [Towards Robust Few-shot Point Cloud Semantic Segmentation](https://arxiv.org/abs/2309.11228) — `segmentation` `robustness`
+- [Few-Shot Point Cloud Semantic Segmentation via Contrastive Self-Supervision and Multi-Resolution Attention](https://arxiv.org/abs/2302.10501) — `segmentation`
 - [Mask4Former: Mask Transformer for 4D Panoptic Segmentation](https://arxiv.org/abs/2309.16133) — `segmentation` `tracking`
+- [Multi-to-Single Knowledge Distillation for Point Cloud Semantic Segmentation](https://arxiv.org/abs/2304.14800) — `segmentation`
+- [TransUPR: A Transformer-based Uncertain Point Refiner for LiDAR Point Cloud Semantic Segmentation](https://arxiv.org/abs/2302.08594) — `segmentation`
 - [Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation](https://arxiv.org/abs/2308.14619) — `segmentation` `domain adaptation`
 - [A Review and A Robust Framework of Data-Efficient 3D Scene Parsing with Traditional/Learned 3D Descriptors](https://arxiv.org/abs/2312.01262) — `segmentation` `detection` `robustness` `efficiency`
+- [Benchmarking the Robustness of LiDAR Semantic Segmentation Models](https://arxiv.org/abs/2301.00970) — `segmentation` `autonomous driving` `robustness`
 - [Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2305.14335) — `segmentation` `open-vocabulary`
 - [A boundary-aware point clustering approach in Euclidean and embedding spaces for roof plane segmentation](https://arxiv.org/abs/2309.03722) — `segmentation` `reconstruction`
 - [JSMNet Improving Indoor Point Cloud Semantic and Instance Segmentation through Self-Attention and Multiscale](https://arxiv.org/abs/2309.07425) — `segmentation`
+- [Semantic Segmentation of Urban Textured Meshes Through Point Sampling](https://arxiv.org/abs/2302.10635) — `segmentation`
+- [TUM-FAÇADE: Reviewing and enriching point cloud benchmarks for façade segmentation](https://arxiv.org/abs/2304.07140) — `segmentation`
 - [Benchmarking Deep Learning Architectures for Urban Vegetation Point Cloud Semantic Segmentation from MLS](https://arxiv.org/abs/2306.10274) — `segmentation`
 - [Advancements in Point Cloud Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2308.12113) — `segmentation` `detection` `classification`
 - [Cross-modal and Cross-domain Knowledge Transfer for Label-free 3D Segmentation](https://arxiv.org/abs/2309.10649) — `segmentation`
@@ -220,25 +410,44 @@
 - [2DDATA: 2D Detection Annotations Transmittable Aggregation for Semantic Segmentation on Point Cloud](https://arxiv.org/abs/2309.11755) — `segmentation` `detection`
 - [3D objects and scenes classification, recognition, segmentation, and reconstruction using 3D point cloud data: A review](https://arxiv.org/abs/2306.05978) — `segmentation` `classification` `reconstruction`
 - [A Ground Segmentation Method Based on Point Cloud Map for Unstructured Roads](https://arxiv.org/abs/2309.08164) — `segmentation` `detection`
+- [A Review of Panoptic Segmentation for Mobile Mapping Point Clouds](https://arxiv.org/abs/2304.13980) — `segmentation`
 - [A Spatiotemporal Correspondence Approach to Unsupervised LiDAR Segmentation with Traffic Applications](https://arxiv.org/abs/2308.12433) — `segmentation`
 - [A Unified Framework for 3D Point Cloud Visual Grounding](https://arxiv.org/abs/2308.11887) — `segmentation`
 - [Addressing Data Misalignment in Image-LiDAR Fusion on Point Cloud Segmentation](https://arxiv.org/abs/2309.14932) — `segmentation` `autonomous driving`
 - [Analysis of LiDAR Configurations on Off-road Semantic Segmentation Performance](https://arxiv.org/abs/2306.16551) — `segmentation`
+- [AOP-Net: All-in-One Perception Network for Joint LiDAR-based 3D Object Detection and Panoptic Segmentation](https://arxiv.org/abs/2302.00885) — `segmentation` `detection`
 - [Attention-Guided Lidar Segmentation and Odometry Using Image-to-Point Cloud Saliency Transfer](https://arxiv.org/abs/2308.14332) — `segmentation` `autonomous driving`
 - [Autonomous Point Cloud Segmentation for Power Lines Inspection in Smart Grid](https://arxiv.org/abs/2308.07283) — `segmentation`
 - [BPNet: Bézier Primitive Segmentation on 3D Point Clouds](https://arxiv.org/abs/2307.04013) — `segmentation`
 - [Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration Method Using Segment Anything](https://arxiv.org/abs/2306.02656) — `segmentation` `detection` `multi-modal`
+- [Change detection needs change information: improving deep 3D point cloud change detection](https://arxiv.org/abs/2304.12639) — `segmentation` `detection`
 - [Change of Scenery: Unsupervised LiDAR Change Detection for Mobile Robots](https://arxiv.org/abs/2309.10924) — `segmentation` `detection`
+- [CLR-GAM: Contrastive Point Cloud Learning with Guided Augmentation and Feature Mapping](https://arxiv.org/abs/2302.14306) — `segmentation` `classification` `self-supervised` `autonomous driving`
 - [CMDFusion: Bidirectional Fusion Network with Cross-modality Knowledge Distillation for LIDAR Semantic Segmentation](https://arxiv.org/abs/2307.04091) — `segmentation`
+- [Context-Aware Transformer for 3D Point Cloud Automatic Annotation](https://arxiv.org/abs/2303.14893) — `segmentation` `completion`
+- [Contrastive Learning for Self-Supervised Pre-Training of Point Cloud Segmentation Networks With Image Data](https://arxiv.org/abs/2301.07283) — `segmentation` `self-supervised` `pre-training`
 - [DeepIPCv2: LiDAR-powered Robust Environmental Perception and Navigational Control for Autonomous Vehicle](https://arxiv.org/abs/2307.06647) — `segmentation` `autonomous driving` `robustness`
 - [DPMix: Mixture of Depth and Point Cloud Video Experts for 4D Action Segmentation](https://arxiv.org/abs/2307.16803) — `segmentation`
 - [Dynamic Clustering Transformer Network for Point Cloud Segmentation](https://arxiv.org/abs/2306.08073) — `segmentation`
 - [Edge Aware Learning for 3D Point Cloud](https://arxiv.org/abs/2309.13472) — `segmentation` `classification`
+- [ElC-OIS: Ellipsoidal Clustering for Open-World Instance Segmentation on LiDAR Data](https://arxiv.org/abs/2303.04351) — `segmentation`
+- [Exploiting Implicit Rigidity Constraints via Weight-Sharing Aggregation for Scene Flow Estimation from Point Clouds](https://arxiv.org/abs/2303.02454) — `segmentation` `scene flow` `autonomous driving`
+- [Exploiting Inductive Bias in Transformer for Point Cloud Classification and Segmentation](https://arxiv.org/abs/2304.14124) — `segmentation` `classification`
+- [Few-Shot 3D Point Cloud Semantic Segmentation via Stratified Class-Specific Attention Based Transformer Network](https://arxiv.org/abs/2303.15654) — `segmentation` `reconstruction`
 - [FreePoint: Unsupervised Point Cloud Instance Segmentation](https://arxiv.org/abs/2305.06973) — `segmentation`
+- [From CAD models to soft point cloud labels: An automatic annotation pipeline for cheaply supervised 3D semantic segmentation](https://arxiv.org/abs/2302.03114) — `segmentation`
+- [GeoSpark: Sparking up Point Cloud Segmentation with Geometry Clue](https://arxiv.org/abs/2303.08274) — `segmentation`
 - [GRJointNET: Synergistic Completion and Part Segmentation on 3D Incomplete Point Clouds](https://arxiv.org/abs/2311.13997) — `segmentation` `completion`
 - [GTNet: Graph Transformer Network for 3D Point Cloud Classification and Semantic Segmentation](https://arxiv.org/abs/2305.15213) — `segmentation` `classification`
 - [HRHD-HK: A benchmark dataset of high-rise and high-density urban scenes for 3D semantic segmentation of photogrammetric point clouds](https://arxiv.org/abs/2307.07976) — `segmentation` `dataset` — Workshop
+- [Human Semantic Segmentation using Millimeter-Wave Radar Sparse Point Clouds](https://arxiv.org/abs/2304.14132) — `segmentation` `detection` `multi-modal`
+- [Human Vision Based 3D Point Cloud Semantic Segmentation of Large-Scale Outdoor Scene](https://arxiv.org/abs/2301.12972) — `segmentation`
+- [Imbalance Knowledge-Driven Multi-modal Network for Land-Cover Semantic Segmentation Using Images and LiDAR Point Clouds](https://arxiv.org/abs/2303.15777) — `segmentation` `multi-modal`
+- [InsMOS: Instance-Aware Moving Object Segmentation in LiDAR Data](https://arxiv.org/abs/2303.03909) — `segmentation` `generation`
+- [Knowledge Distillation from 3D to Bird's-Eye-View for LiDAR Semantic Segmentation](https://arxiv.org/abs/2304.11393) — `segmentation` `autonomous driving` `BEV`
+- [Label Name is Mantra: Unifying Point Cloud Segmentation across Heterogeneous Datasets](https://arxiv.org/abs/2303.10585) — `segmentation`
 - [Learned Point Cloud Compression for Classification](https://arxiv.org/abs/2308.05959) — `segmentation` `detection` `classification` `compression`
+- [Learning from Mistakes: Self-Regularizing Hierarchical Representations in Point Cloud Semantic Segmentation](https://arxiv.org/abs/2301.11145) — `segmentation`
 - [Learning to Adapt SAM for Segmenting Cross-domain Point Clouds](https://arxiv.org/abs/2310.08820) — `segmentation`
 - [LEST: Large-scale LiDAR Semantic Segmentation with Transformer](https://arxiv.org/abs/2307.09367) — `segmentation` `autonomous driving`
 - [Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation](https://arxiv.org/abs/2311.01989) — `segmentation` `open-vocabulary` `pre-training` `efficiency`
@@ -251,35 +460,49 @@
 - [OneFormer3D: One Transformer for Unified Point Cloud Segmentation](https://arxiv.org/abs/2311.14405) — `segmentation`
 - [PANet: LiDAR Panoptic Segmentation with Sparse Instance Proposal and Aggregation](https://arxiv.org/abs/2306.15348) — `segmentation` `autonomous driving`
 - [pCTFusion: Point Convolution-Transformer Fusion with Semantic Aware Loss for Outdoor LiDAR Point Cloud Segmentation](https://arxiv.org/abs/2307.14777) — `segmentation`
+- [PCV: A Point Cloud-Based Network Verifier](https://arxiv.org/abs/2301.11806) — `segmentation` `detection` `classification`
+- [Point Cloud Data Simulation and Modelling with Aize Workspace](https://arxiv.org/abs/2301.07947) — `segmentation` `reconstruction`
 - [Point Cloud Segmentation Using Transfer Learning with RandLA-Net: A Case Study on Urban Areas](https://arxiv.org/abs/2312.11880) — `segmentation`
+- [Point Cloud Semantic Segmentation](https://arxiv.org/abs/2305.00773) — `segmentation`
 - [Point Cloud Semantic Segmentation with Sparse and Inhomogeneous Annotations](https://arxiv.org/abs/2312.06259) — `segmentation`
 - [Point2CAD: Reverse Engineering CAD Models from 3D Point Clouds](https://arxiv.org/abs/2312.04962) — `segmentation` `reconstruction`
 - [PointHR: Exploring High-Resolution Architectures for 3D Point Cloud Segmentation](https://arxiv.org/abs/2310.07743) — `segmentation` — [code](https://github.com/haibo-qiu/PointHR)
+- [Position-Guided Point Cloud Panoptic Segmentation Transformer](https://arxiv.org/abs/2303.13509) — `segmentation` `detection` — [code](https://github.com/SmartBot-PJLab/P3Former)
 - [PotholeGuard: A Pothole Detection Approach by Point Cloud Semantic Segmentation](https://arxiv.org/abs/2311.02641) — `segmentation` `detection`
 - [PSGformer: Enhancing 3D Point Cloud Instance Segmentation via Precise Semantic Guidance](https://arxiv.org/abs/2307.07708) — `segmentation`
 - [Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM](https://arxiv.org/abs/2311.00928) — `registration` `segmentation` `slam` `robustness`
 - [Radar Instance Transformer: Reliable Moving Instance Segmentation in Sparse Radar Point Clouds](https://arxiv.org/abs/2309.16435) — `segmentation` `multi-modal`
 - [RecolorCloud: A Point Cloud Tool for Recoloring, Segmentation, and Conversion](https://arxiv.org/abs/2310.12470) — `segmentation`
+- [Reliability-Adaptive Consistency Regularization for Weakly-Supervised Point Cloud Segmentation](https://arxiv.org/abs/2303.05164) — `segmentation`
+- [SAT: Size-Aware Transformer for 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2301.06869) — `segmentation`
 - [SE-LIO: Semantics-enhanced Solid-State-LiDAR-Inertial Odometry for Tree-rich Environments](https://arxiv.org/abs/2312.01809) — `segmentation`
 - [Segmentation of Drone Collision Hazards in Airborne RADAR Point Clouds Using PointNet](https://arxiv.org/abs/2311.03221) — `segmentation` `multi-modal`
 - [Self-Supervised Pre-Training Boosts Semantic Scene Segmentation on LiDAR Data](https://arxiv.org/abs/2309.02139) — `segmentation` `self-supervised` `pre-training`
 - [Semantic Segmentation of Radar Detections using Convolutions on Point Clouds](https://arxiv.org/abs/2305.12775) — `segmentation` `detection` `autonomous driving` `multi-modal`
 - [Semantic Segmentation on 3D Point Clouds with High Density Variations](https://arxiv.org/abs/2307.01489) — `segmentation` `upsampling`
+- [Sim2real Transfer Learning for Point Cloud Segmentation: An Industrial Application Case on Autonomous Disassembly](https://arxiv.org/abs/2301.05033) — `segmentation`
+- [Small but Mighty: Enhancing 3D Point Clouds Semantic Segmentation with U-Next Framework](https://arxiv.org/abs/2304.00749) — `segmentation`
 - [SMRVIS: Point cloud extraction from 3-D ultrasound for non-destructive testing](https://arxiv.org/abs/2306.04668) — `segmentation`
 - [Spherical Mask: Coarse-to-Fine 3D Point Cloud Instance Segmentation with Spherical Representation](https://arxiv.org/abs/2312.11269) — `segmentation`
 - [Tinto: Multisensor Benchmark for 3D Hyperspectral Point Cloud Segmentation in the Geosciences](https://arxiv.org/abs/2305.09928) — `segmentation` `dataset`
 - [Towards accurate instance segmentation in large-scale LiDAR point clouds](https://arxiv.org/abs/2307.02877) — `segmentation`
 - [Transferring CLIP's Knowledge into Zero-Shot Point Cloud Semantic Segmentation](https://arxiv.org/abs/2312.07221) — `segmentation` `open-vocabulary`
 - [TreeLearn: A deep learning method for segmenting individual trees from ground-based LiDAR forest point clouds](https://arxiv.org/abs/2309.08471) — `segmentation`
+- [Using t-distributed stochastic neighbor embedding for visualization and segmentation of 3D point clouds of plants](https://arxiv.org/abs/2302.03442) — `segmentation`
 - [Weakly Supervised Point Cloud Segmentation via Conservative Propagation of Scene-level Labels](https://arxiv.org/abs/2312.06799) — `segmentation`
 - [Weakly Supervised Point Clouds Transformer for 3D Object Detection](https://arxiv.org/abs/2309.04105) — `segmentation` `detection`
 - [When 3D Bounding-Box Meets SAM: Point Cloud Instance Segmentation with Weak-and-Noisy Supervision](https://arxiv.org/abs/2309.00828) — `segmentation`
 ## 2022
 
+- [A Unified Query-based Paradigm for Point Cloud Understanding](https://arxiv.org/abs/2203.01252) — `segmentation` `detection` `classification` `autonomous driving` — [code](https://github.com/dvlab-research/DeepVision3D)
+- [Contrastive Boundary Learning for Point Cloud Segmentation](https://arxiv.org/abs/2203.05272) — `segmentation`
+- [CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding](https://arxiv.org/abs/2203.00680) — `segmentation` `detection` `classification` `self-supervised`
 - [Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data](https://arxiv.org/abs/2203.16258) — `segmentation` `detection` `self-supervised` `autonomous driving`
 - [Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation](https://arxiv.org/abs/2204.07548) — `segmentation` — [code](https://github.com/drprojects/DeepViewAgg)
 - [Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation](https://arxiv.org/abs/2206.02099) — `segmentation` — [code](https://github.com/cardwing/Codes-for-PVKD)
+- [Scribble-Supervised LiDAR Semantic Segmentation](https://arxiv.org/abs/2203.08537) — `segmentation`
 - [SemAffiNet: Semantic-Affine Transformation for Point Cloud Segmentation](https://arxiv.org/abs/2205.13490) — `segmentation`
+- [SoftGroup for 3D Instance Segmentation on Point Clouds](https://arxiv.org/abs/2203.01509) — `segmentation`
 - [Stratified Transformer for 3D Point Cloud Segmentation](https://arxiv.org/abs/2203.14508) — `segmentation` — [code](https://github.com/dvlab-research/Stratified-Transformer)
 - [2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds](https://arxiv.org/abs/2207.04397) — `segmentation` `autonomous driving`
 - [CoSMix: Compositional Semantic Mix for Domain Adaptation in 3D LiDAR Segmentation](https://arxiv.org/abs/2207.09778) — `segmentation` `autonomous driving` `domain adaptation`
@@ -297,6 +520,7 @@
 - [OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds](https://arxiv.org/abs/2210.04458) — `segmentation` — [code](https://github.com/vLAR-group/OGC)
 - [PointCA: Evaluating the Robustness of 3D Point Cloud Completion Models Against Adversarial Examples](https://arxiv.org/abs/2211.12294) — `segmentation` `completion` `robustness`
 - [Semantic Segmentation for Point Cloud Scenes via Dilated Graph Feature Aggregation and Pyramid Decoders](https://arxiv.org/abs/2204.04944) — `segmentation` — Workshop
+- [Sparse Cross-scale Attention Network for Efficient LiDAR Panoptic Segmentation](https://arxiv.org/abs/2201.05972) — `segmentation` `efficiency`
 - [Transfer Learning from Synthetic to Real LiDAR Point Cloud for Semantic Segmentation](https://arxiv.org/abs/2107.05399) — `segmentation`
 - [SHRED: 3D Shape Region Decomposition with Learned Local Operations](https://arxiv.org/abs/2206.03480) — `segmentation`
 - [Zero-shot point cloud segmentation by transferring geometric primitives](https://arxiv.org/abs/2210.09923) — `segmentation` `open-vocabulary`
@@ -306,8 +530,10 @@
 - [Interactive Object Segmentation in 3D Point Clouds](https://arxiv.org/abs/2204.07183) — `segmentation`
 - [PCB-RandNet: Rethinking Random Sampling for LIDAR Semantic Segmentation in Autonomous Driving Scene](https://arxiv.org/abs/2209.13797) — `segmentation` `autonomous driving` — [code](https://github.com/huixiancheng/PCB-RandNet)
 - [BoxGraph: Semantic Place Recognition and Pose Estimation from 3D LiDAR](https://arxiv.org/abs/2206.15154) — `segmentation` `localization`
+- [CGiS-Net: Aggregating Colour, Geometry and Implicit Semantic Features for Indoor Place Recognition](https://arxiv.org/abs/2202.02070) — `segmentation` `localization`
 - [EVOPS Benchmark: Evaluation of Plane Segmentation from RGBD and LiDAR Data](https://arxiv.org/abs/2204.05799) — `segmentation` `slam` `dataset`
 - [LapSeg3D: Weakly Supervised Semantic Segmentation of Point Clouds Representing Laparoscopic Scenes](https://arxiv.org/abs/2207.07418) — `segmentation`
+- [Meta-RangeSeg: LiDAR Sequence Semantic Segmentation Using Multiple Feature Aggregation](https://arxiv.org/abs/2202.13377) — `segmentation`
 - [Patchwork++: Fast and Robust Ground Segmentation Solving Partial Under-Segmentation Using 3D Point Cloud](https://arxiv.org/abs/2207.11919) — `segmentation` `detection` `robustness`
 - [Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data](https://arxiv.org/abs/2212.03690) — `segmentation` `multi-modal`
 - [PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration Using Panoptic Attention](https://arxiv.org/abs/2209.09699) — `registration` `segmentation` `detection` `slam`
@@ -319,10 +545,13 @@
 - [3D Segmentation of Humans in Point Clouds with Synthetic Data](https://arxiv.org/abs/2212.00786) — `segmentation`
 - [3DGTN: 3D Dual-Attention GLocal Transformer Network for Point Cloud Classification and Segmentation](https://arxiv.org/abs/2209.11255) — `segmentation` `classification`
 - [A Near Sensor Edge Computing System for Point Cloud Semantic Segmentation](https://arxiv.org/abs/2207.05888) — `segmentation` `autonomous driving`
+- [Active Learning for Point Cloud Semantic Segmentation via Spatial-Structural Diversity Reasoning](https://arxiv.org/abs/2202.12588) — `segmentation`
 - [Adaptive Edge-to-Edge Interaction Learning for Point Cloud Analysis](https://arxiv.org/abs/2211.10888) — `segmentation` `classification`
 - [AdaSplats: Adaptive Splatting of Point Clouds for Accurate 3D Modeling and Real-time High-Fidelity LiDAR Simulation](https://arxiv.org/abs/2203.09155) — `segmentation` `detection` `tracking` `localization`
+- [Analyzing General-Purpose Deep-Learning Detection and Segmentation Models with Images from a Lidar as a Camera Sensor](https://arxiv.org/abs/2203.04064) — `segmentation` `detection`
 - [Automatic Segmentation of Aircraft Dents in Point Clouds](https://arxiv.org/abs/2205.01614) — `segmentation`
 - [Bidirectional Feature Globalization for Few-shot Semantic Segmentation of 3D Point Cloud Scenes](https://arxiv.org/abs/2208.06671) — `segmentation`
+- [Box2Seg: Learning Semantics of 3D Point Clouds with Box-Level Supervision](https://arxiv.org/abs/2201.02963) — `segmentation`
 - [CAM/CAD Point Cloud Part Segmentation via Few-Shot Learning](https://arxiv.org/abs/2207.01218) — `segmentation`
 - [CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving](https://arxiv.org/abs/2207.12691) — `segmentation` `autonomous driving` `efficiency`
 - [COARSE3D: Class-Prototypes for Contrastive Learning in Weakly-Supervised 3D Point Cloud Segmentation](https://arxiv.org/abs/2210.01784) — `segmentation` `self-supervised`
@@ -339,11 +568,15 @@
 - [HAVANA: Hard negAtiVe sAmples aware self-supervised coNtrastive leArning for Airborne laser scanning point clouds semantic segmentation](https://arxiv.org/abs/2210.10626) — `segmentation` `self-supervised`
 - [Hypergraph Convolutional Network based Weakly Supervised Point Cloud Semantic Segmentation with Scene-Level Annotations](https://arxiv.org/abs/2211.01174) — `segmentation`
 - [Image Understands Point Cloud: Weakly Supervised 3D Semantic Segmentation via Association Learning](https://arxiv.org/abs/2209.07774) — `segmentation`
+- [Improving Lidar-Based Semantic Segmentation of Top-View Grid Maps by Learning Features in Complementary Representations](https://arxiv.org/abs/2203.01151) — `segmentation` `autonomous driving`
 - [Keypoint Cascade Voting for Point Cloud Based 6DoF Pose Estimation](https://arxiv.org/abs/2210.08123) — `segmentation`
 - [LACV-Net: Semantic Segmentation of Large-Scale Point Cloud Scene via Local Adaptive and Comprehensive VLAD](https://arxiv.org/abs/2210.05870) — `segmentation` `autonomous driving`
 - [Learning Spatial and Temporal Variations for 4D Point Cloud Segmentation](https://arxiv.org/abs/2207.04673) — `segmentation` `autonomous driving`
 - [LESS: Label-Efficient Semantic Segmentation for LiDAR Point Clouds](https://arxiv.org/abs/2210.08064) — `segmentation` `autonomous driving` `efficiency`
+- [LIDAR data based Segmentation and Localization using Open Street Maps for Rural Roads](https://arxiv.org/abs/2202.07049) — `segmentation` `localization`
+- [LiDAR-based 4D Panoptic Segmentation via Dynamic Shifting Network](https://arxiv.org/abs/2203.07186) — `segmentation` `autonomous driving` — [code](https://github.com/hongfz16/DS-Net)
 - [Multi-scale Network with Attentional Multi-resolution Fusion for Point Cloud Semantic Segmentation](https://arxiv.org/abs/2206.13628) — `segmentation`
+- [MVP-Net: Multiple View Pointwise Semantic Segmentation of Large-Scale Point Clouds](https://arxiv.org/abs/2201.12769) — `segmentation` `classification` `autonomous driving`
 - [NeuralBF: Neural Bilateral Filtering for Top-down Instance Segmentation on Point Clouds](https://arxiv.org/abs/2207.09978) — `segmentation` `generation`
 - [Number-Adaptive Prototype Learning for 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2210.09948) — `segmentation`
 - [Object Segmentation of Cluttered Airborne LiDAR Point Clouds](https://arxiv.org/abs/2210.16081) — `segmentation`
@@ -351,15 +584,20 @@
 - [Online Pole Segmentation on Range Images for Long-term LiDAR Localization in Urban Environments](https://arxiv.org/abs/2208.07364) — `segmentation` `localization`
 - [P2Net: A Post-Processing Network for Refining Semantic Segmentation of LiDAR Point Cloud based on Consistency of Consecutive Frames](https://arxiv.org/abs/2212.00567) — `segmentation`
 - [PaGO-LOAM: Robust Ground-Optimized LiDAR Odometry](https://arxiv.org/abs/2206.00266) — `segmentation` `robustness`
+- [PCSCNet: Fast 3D Semantic Segmentation of LiDAR Point Cloud for Autonomous Car using Point Convolution and Sparse Convolution Network](https://arxiv.org/abs/2202.10047) — `segmentation` `detection` `classification`
 - [Point Cloud Scene Completion with Joint Color and Semantic Estimation from Single RGB-D Image](https://arxiv.org/abs/2210.05891) — `segmentation` `completion` `reconstruction`
 - [Point Cloud Semantic Segmentation using Multi Scale Sparse Convolution Neural Network](https://arxiv.org/abs/2205.01550) — `segmentation`
+- [PointMatch: A Consistency Training Framework for Weakly Supervised Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/2202.10705) — `segmentation`
 - [PointResNet: Residual Network for 3D Point Cloud Segmentation and Classification](https://arxiv.org/abs/2211.11040) — `segmentation` `classification`
+- [Projection-based Point Convolution for Efficient Point Cloud Segmentation](https://arxiv.org/abs/2202.01991) — `segmentation` `efficiency`
 - [PST: Plant segmentation transformer for 3D point clouds of rapeseed plants at the podding stage](https://arxiv.org/abs/2206.13082) — `segmentation`
 - [Push-the-Boundary: Boundary-aware Feature Propagation for Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/2212.12402) — `segmentation`
 - [RangeSeg: Range-Aware Real Time Segmentation of 3D LiDAR Point Clouds](https://arxiv.org/abs/2205.01570) — `segmentation` `autonomous driving`
 - [Road Markings Segmentation from LIDAR Point Clouds using Reflectivity Information](https://arxiv.org/abs/2211.01105) — `segmentation` `detection`
 - [Self-Supervised Pre-training of 3D Point Cloud Networks with Image Data](https://arxiv.org/abs/2211.11801) — `segmentation` `self-supervised` `pre-training` — Workshop
 - [Shrinking unit: a Graph Convolution-Based Unit for CNN-like 3D Point Cloud Feature Extractors](https://arxiv.org/abs/2209.12770) — `segmentation` `detection` `classification` — [code](https://github.com/albertotamajo/Shrinking-unit)
+- [SnapshotNet: Self-supervised Feature Learning for Point Cloud Data Segmentation Using Minimal Labeled Data](https://arxiv.org/abs/2201.04833) — `segmentation` `self-supervised`
+- [Spatiotemporal Transformer Attention Network for 3D Voxel Level Joint Segmentation and Motion Prediction in Point Cloud](https://arxiv.org/abs/2203.00138) — `segmentation` `detection` `classification` `tracking`
 - [Synthetic Point Cloud Generation for Class Segmentation Applications](https://arxiv.org/abs/2205.03738) — `segmentation` `generation`
 - [Synthetic-to-Real Domain Generalized Semantic Segmentation for 3D Indoor Point Clouds](https://arxiv.org/abs/2212.04668) — `segmentation`
 - [ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds](https://arxiv.org/abs/2211.09006) — `segmentation` `classification`

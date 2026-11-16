@@ -1,137 +1,264 @@
 # Efficiency & Deployment · `efficiency`
 
-共 **213** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **354** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2026
 
+- [APC: Transferable and Efficient Adversarial Point Counterattack for Robust 3D Point Cloud Recognition](https://arxiv.org/abs/2604.15708) — `robustness` `efficiency`
+- [Efficient Encoder-Free Fourier-based 3D Large Multimodal Model](https://arxiv.org/abs/2602.23153) — `multi-modal` `efficiency`
+- [Learning Coordinate-based Convolutional Kernels for Continuous SE(3) Equivariant and Efficient Point Cloud Analysis](https://arxiv.org/abs/2603.17538) — `efficiency`
 - [QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer](https://arxiv.org/abs/2605.31124) — `efficiency`
+- [Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models](https://arxiv.org/abs/2605.05372) — `detection` `anomaly detection` `efficiency` — Workshop
 - [Point Ladder Tuning: Parameter-Efficient Hierarchical Adaptation for 3D Point Cloud Understanding](https://arxiv.org/abs/2607.19171) — `efficiency` — [code](https://github.com/JunLinChang/ECCV2026-PLT)
 - [PointLAM: Local Attentive Mamba for Efficient Point-based 3D Object Detection](https://arxiv.org/abs/2609.21780) — `detection` `efficiency`
+- [Not All Tasks Quantize Equally: Fisher-Guided Quantization for Visual Geometry Transformer](https://arxiv.org/abs/2605.15828) — `reconstruction` `efficiency`
+- [Pointy - A Lightweight Transformer for Point Cloud Foundation Models](https://arxiv.org/abs/2603.10963) — `efficiency` — Workshop
 - [EPSegFZ: Efficient Point Cloud Semantic Segmentation for Few- and Zero-Shot Scenarios with Language Guidance](https://arxiv.org/abs/2511.11700) — `segmentation` `open-vocabulary` `efficiency`
 - [LiNeXt: Revisiting LiDAR Completion with Efficient Non-Diffusion Architectures](https://arxiv.org/abs/2511.10209) — `completion` `reconstruction` `efficiency`
 - [Point Cloud Quantization through Multimodal Prompting for 3D Understanding](https://arxiv.org/abs/2511.12079) — `multi-modal` `efficiency`
 - [Real-Time 3D Object Detection with Inference-Aligned Learning](https://arxiv.org/abs/2511.16140) — `detection` `efficiency`
 - [You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows](https://arxiv.org/abs/2608.09579) — `denoising` `multi-modal` `efficiency`
+- [D-Compress: Detail-Preserving LiDAR Range Image Compression for Real-Time Streaming on Resource-Constrained Robots](https://arxiv.org/abs/2603.13699) — `compression` `efficiency`
+- [SLNet: A Super-Lightweight Geometry-Adaptive Network for 3D Point Cloud Recognition](https://arxiv.org/abs/2603.07454) — `efficiency`
 - [Hydra++: Real-Time Hierarchical 3D Scene Graph Construction With Object-Level Shape Estimation](https://arxiv.org/abs/2607.09455) — `efficiency`
+- [Efficient Point Cloud Processing with High-Dimensional Positional Encoding and Non-Local MLPs](https://arxiv.org/abs/2603.04099) — `efficiency` — [code](https://github.com/zouyanmei/HPENet_v2.git)
+- [SPARK: Scalable Real-Time Point Cloud Aggregation with Multi-View Self-Calibration](https://arxiv.org/abs/2601.08414) — `reconstruction` `efficiency`
+- [LCF3D: A Robust and Real-Time Late-Cascade Fusion Framework for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2601.09812) — `detection` `autonomous driving` `robustness` `efficiency`
+- [PointTransformerX: Portable and Efficient 3D Point Cloud Processing without Sparse Algorithms](https://arxiv.org/abs/2604.24169) — `efficiency` — Workshop
+- [A meshfree exterior calculus for generalizable and data-efficient learning of physics from point clouds](https://arxiv.org/abs/2605.08436) — `efficiency`
 - [Beyond Visibility: Real-Time Surface Accessibility Fields from Sparse LiDAR](https://arxiv.org/abs/2608.06412) — `reconstruction` `efficiency`
 - [Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration](https://arxiv.org/abs/2607.17200) — `registration` `detection` `efficiency`
+- [Data-Efficient Semantic Segmentation of 3D Point Clouds via Open-Vocabulary Image Segmentation-based Pseudo-Labeling](https://arxiv.org/abs/2604.11007) — `segmentation` `open-vocabulary` `efficiency`
+- [Development and Validation of an Integrated LiDAR-Camera System for Real-Time Monitoring of Underground Longwall Operations](https://arxiv.org/abs/2605.02516) — `multi-modal` `efficiency`
+- [Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain](https://arxiv.org/abs/2601.04551) — `slam` `localization` `compression` `efficiency`
+- [Efficient Dense Matching for Enhanced Gaussian Splatting Using AV1 Motion Vectors](https://arxiv.org/abs/2605.14629) — `reconstruction` `nerf` `gaussian-splatting` `efficiency`
 - [Efficient RWKV-based Representation Learning for 3D Point Clouds](https://arxiv.org/abs/2606.10395) — `efficiency`
+- [FlashFPS: Efficient Farthest Point Sampling for Large-Scale Point Clouds via Pruning and Caching](https://arxiv.org/abs/2604.17720) — `efficiency`
 - [FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation](https://arxiv.org/abs/2608.21804) — `registration` `efficiency`
 - [FLIP: Real-Time and Resilient Formation Planning for Large-Scale DIstributed Swarms via Point Cloud Registration](https://arxiv.org/abs/2605.29704) — `registration` `efficiency`
+- [FUSE-Flow: Scalable Real-Time Multi-View Point Cloud Reconstruction Using Confidence](https://arxiv.org/abs/2602.01035) — `reconstruction` `efficiency`
 - [IndoorBEV: A Lightweight Real-Time LiDAR BEV Perception System for Indoor Mobile Robots](https://arxiv.org/abs/2610.00355) — `BEV` `efficiency`
 - [Into the LidarVerse: A Real-Time Unified LiDAR World Model Across Tasks and Sensors](https://arxiv.org/abs/2610.19201) — `generation` `reconstruction` `efficiency`
 - [IRGNN: Efficient Invariant Radar Graph Neural Network for Radar Point Cloud Object Detection](https://arxiv.org/abs/2608.14394) — `detection` `autonomous driving` `multi-modal` `efficiency`
+- [Learned Elevation Models as a Lightweight Alternative to LiDAR for Radio Environment Map Estimation](https://arxiv.org/abs/2604.05520) — `generation` `efficiency`
+- [Lightweight 3D LiDAR-Based UAV Tracking: An Adaptive Extended Kalman Filtering Approach](https://arxiv.org/abs/2603.09783) — `tracking` `efficiency`
+- [Lightweight Super Resolution-enabled Coding Model for the JPEG Pleno Learning-based Point Cloud Coding Standard](https://arxiv.org/abs/2602.00863) — `efficiency`
 - [LoCoSplat: Real-Time Feed-Forward 3D Gaussian Splatting with Minimal 3D Reasoning](https://arxiv.org/abs/2610.04351) — `gaussian-splatting` `efficiency`
 - [MAGE: View-guided Point Cloud Completion with Efficient Modality Alignment and Adaptive Geometry Enhancement](https://arxiv.org/abs/2607.02568) — `completion` `efficiency`
+- [Mantis: Mamba-native Tuning is Efficient for 3D Point Cloud Foundation Models](https://arxiv.org/abs/2605.03438) — `efficiency`
+- [Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping](https://arxiv.org/abs/2601.09578) — `slam` `multi-modal` `efficiency`
+- [NeuroAPS-Net: Neuro-Anatomically Aware Point Cloud Representation for Efficient Alzheimer's Disease Classification](https://arxiv.org/abs/2604.22883) — `classification` `efficiency`
+- [Neuromorphic LiDAR-based Bird's Eye View Object Detection using Energy-efficient Spiking Neural Networks](https://arxiv.org/abs/2605.25293) — `detection` `autonomous driving` `efficiency`
 - [On the Efficacy of Self-Supervised Point Cloud Encoders for Efficient 3D Large Language Models](https://arxiv.org/abs/2607.29136) — `registration` `self-supervised` `efficiency`
 - [Parameter-Efficient Fine-Tuning for Spiking Point Cloud Models](https://arxiv.org/abs/2607.29048) — `efficiency`
 - [Position Anchor Tuning: Towards Efficient Adaptation of Pre-Trained Point Cloud Transformers](https://arxiv.org/abs/2609.18056) — `pre-training` `efficiency`
 - [Provisioning Robust and Efficient LiDAR Perception for Autonomous Driving](https://arxiv.org/abs/2610.27617) — `detection` `autonomous driving` `robustness` `efficiency`
+- [Real-Time LiDAR Point Cloud Densification for Low-Latency Spatial Data Transmission](https://arxiv.org/abs/2601.01210) — `upsampling` `efficiency`
+- [RegFormer++: An Efficient Large-Scale 3D LiDAR Point Registration Network with Projection-Aware 2D Transformer](https://arxiv.org/abs/2603.14290) — `registration` `efficiency`
 - [RoughSense: Lightweight Terrain-Induced Rover Vibration Prediction Using Point Clouds and IMU Feedback](https://arxiv.org/abs/2609.03720) — `detection` `efficiency`
+- [Send Less, Perceive More: Masked Quantized Point Cloud Communication for Loss-Tolerant Collaborative Perception](https://arxiv.org/abs/2602.21667) — `efficiency`
 - [SpaceCache: Intermediate Feature Reuse for Efficient Semantic Segmentation on Point Cloud Streams](https://arxiv.org/abs/2610.21207) — `segmentation` `autonomous driving` `efficiency`
 - [TFTrack: A Template-Free Framework for Efficient 3D Point Cloud Tracking](https://arxiv.org/abs/2609.07738) — `tracking` `efficiency`
 - [Tri-Efficient Transfer Learning for Point Cloud Videos](https://arxiv.org/abs/2606.24175) — `efficiency`
+- [TriBand-BEV: Real-Time LiDAR-Only 3D Pedestrian Detection via Height-Aware BEV and High-Resolution Feature Fusion](https://arxiv.org/abs/2605.12220) — `detection` `BEV` `efficiency`
 ## 2025
 
+- [MAMBA4D: Efficient Long-Sequence Point Cloud Video Understanding with Disentangled Spatial-Temporal State Space Models](https://arxiv.org/abs/2405.14338) — `efficiency`
+- [PMA: Towards Parameter-Efficient Point Cloud Understanding via Point Mamba Adapter](https://arxiv.org/abs/2505.20941) — `efficiency`
+- [Efficient Spiking Point Mamba for Point Cloud Analysis](https://arxiv.org/abs/2504.14371) — `efficiency`
 - [ERNet: Efficient Non-Rigid Registration Network for Point Sequences](https://arxiv.org/abs/2510.15800) — `registration` `efficiency`
 - [Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/abs/2507.04047) — `reconstruction` `efficiency`
 - [Rethinking Backbone Design for Lightweight 3D Object Detection in LiDAR](https://arxiv.org/abs/2508.00744) — `detection` `autonomous driving` `efficiency` — Workshop
 - [Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge](https://arxiv.org/abs/2507.04123) — `detection` `autonomous driving` `efficiency`
 - [TurboReg: TurboClique for Robust and Efficient Point Cloud Registration](https://arxiv.org/abs/2507.01439) — `registration` `robustness` `efficiency`
 - [VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions](https://arxiv.org/abs/2506.23236) — `efficiency`
+- [On Geometry-Enhanced Parameter-Efficient Fine-Tuning for 3D Scene Segmentation](https://arxiv.org/abs/2505.22444) — `segmentation` `efficiency` — [code](https://github.com/LiyaoTang/GEM)
+- [EPiC: Efficient Video Camera Control Learning with Precise Anchor-Video Guidance](https://arxiv.org/abs/2505.21876) — `generation` `efficiency`
+- [DC-PCN: Point Cloud Completion Network with Dual-Codebook Guided Quantization](https://arxiv.org/abs/2501.10966) — `completion` `efficiency`
 - [Efficient 3D Recognition with Event-driven Spike Sparse Convolution](https://arxiv.org/abs/2412.07360) — `efficiency`
+- [Noise-Injected Spiking Graph Convolution for Energy-Efficient 3D Point Cloud Denoising](https://arxiv.org/abs/2502.19660) — `classification` `denoising` `efficiency`
+- [UniPCGC: Towards Practical Point Cloud Geometry Compression via an Efficient Unified Approach](https://arxiv.org/abs/2503.18541) — `compression` `efficiency`
 - [Generating real-time detailed ground visualisations from sparse aerial point clouds](https://arxiv.org/abs/2507.18664) — `efficiency`
 - [GFT: Graph Feature Tuning for Efficient Point Cloud Analysis](https://arxiv.org/abs/2511.10799) — `efficiency`
+- [MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling](https://arxiv.org/abs/2501.16384) — `completion` `reconstruction` `efficiency` — Workshop
 - [MEGA-PCC: A Mamba-based Efficient Approach for Joint Geometry and Attribute Point Cloud Compression](https://arxiv.org/abs/2512.22463) — `compression` `efficiency`
 - [Beyond Frame-wise Tracking: A Trajectory-based Paradigm for Efficient Point Cloud Tracking](https://arxiv.org/abs/2509.11453) — `tracking` `efficiency`
 - [LiLa-Net: Lightweight Latent LiDAR Autoencoder for 3D Point Cloud Reconstruction](https://arxiv.org/abs/2510.02028) — `reconstruction` `efficiency`
+- [MFSeg: Efficient Multi-frame 3D Semantic Segmentation](https://arxiv.org/abs/2505.04408) — `segmentation` `upsampling` `efficiency`
 - [PlaneHEC: Efficient Hand-Eye Calibration for Multi-view Robotic Arm via Any Point Cloud Plane Detection](https://arxiv.org/abs/2507.19851) — `detection` `efficiency`
+- [Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots](https://arxiv.org/abs/2502.06123) — `compression` `efficiency`
+- [You Only Estimate Once: Unified, One-stage, Real-Time Category-level Articulated Object 6D Pose Estimation for Robotic Grasping](https://arxiv.org/abs/2506.05719) — `efficiency`
 - [Label-Efficient Grasp Joint Prediction with Point-JEPA](https://arxiv.org/abs/2509.13349) — `self-supervised` `efficiency` — Workshop
+- [Label-Efficient LiDAR Panoptic Segmentation](https://arxiv.org/abs/2503.02372) — `segmentation` `efficiency`
+- [Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM](https://arxiv.org/abs/2503.11145) — `slam` `localization` `robustness` `efficiency`
 - [OREN: Octree Residual Network for Real-Time Euclidean Signed Distance Mapping](https://arxiv.org/abs/2510.18999) — `localization` `reconstruction` `efficiency`
 - [RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles](https://arxiv.org/abs/2507.00937) — `multi-modal` `efficiency`
 - [Real-Time Adaptive Motion Planning via Point Cloud-Guided, Energy-Based Diffusion and Potential Fields](https://arxiv.org/abs/2507.09383) — `generation` `efficiency`
 - [A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features](https://arxiv.org/abs/2511.13115) — `detection` `anomaly detection` `efficiency`
 - [PointSlice: Accurate and Efficient Slice-Based Representation for 3D Object Detection from Point Clouds](https://arxiv.org/abs/2509.01487) — `segmentation` `detection` `autonomous driving` `efficiency`
 - [A Bag of Tricks for Efficient Implicit Neural Point Clouds](https://arxiv.org/abs/2508.19140) — `efficiency`
+- [A Novel Benchmark and Dataset for Efficient 3D Gaussian Splatting with Gaussian Point Cloud Compression](https://arxiv.org/abs/2505.18197) — `gaussian-splatting` `compression` `autonomous driving` `efficiency`
 - [A Real-Time Multi-Model Parametric Representation of Point Clouds](https://arxiv.org/abs/2509.14773) — `detection` `efficiency`
 - [Accurate and Efficient Surface Reconstruction from Point Clouds via Geometry-Aware Local Adaptation](https://arxiv.org/abs/2511.08233) — `reconstruction` `efficiency`
 - [Bidirectional Feature-aligned Motion Transformation for Efficient Dynamic Point Cloud Compression](https://arxiv.org/abs/2509.14591) — `compression` `efficiency`
+- [Computation-Efficient and Recognition-Friendly 3D Point Cloud Privacy Protection](https://arxiv.org/abs/2503.15818) — `autonomous driving` `efficiency`
 - [CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering](https://arxiv.org/abs/2511.16349) — `registration` `localization` `efficiency`
 - [Data-Efficient Point Cloud Semantic Segmentation Pipeline for Unimproved Roads](https://arxiv.org/abs/2508.20135) — `segmentation` `efficiency`
 - [DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration](https://arxiv.org/abs/2509.06285) — `registration` `efficiency`
 - [DensifyBeforehand: LiDAR-assisted Content-aware Densification for Efficient and Quality 3D Gaussian Splatting](https://arxiv.org/abs/2511.19294) — `gaussian-splatting` `monocular` `efficiency`
+- [EEPNet-V2: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image](https://arxiv.org/abs/2503.15285) — `registration` `efficiency`
+- [Efficient and Distributed Large-Scale Point Cloud Bundle Adjustment via Majorization-Minimization](https://arxiv.org/abs/2502.18801) — `efficiency`
+- [Efficient Continuous Group Convolutions for Local SE(3) Equivariance in 3D Point Clouds](https://arxiv.org/abs/2502.07505) — `efficiency`
+- [Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space](https://arxiv.org/abs/2504.14471) — `compression` `efficiency`
+- [Efficient LiDAR Reflectance Compression via Scanning Serialization](https://arxiv.org/abs/2505.09433) — `compression` `efficiency`
 - [Efficient Model-Based Purification Against Adversarial Attacks for LiDAR Segmentation](https://arxiv.org/abs/2508.19290) — `segmentation` `generation` `robustness` `efficiency`
+- [Efficient Point Clouds Upsampling via Flow Matching](https://arxiv.org/abs/2501.15286) — `upsampling` `efficiency`
 - [FLaTEC: Frequency-Disentangled Latent Triplanes for Efficient Compression of LiDAR Point Clouds](https://arxiv.org/abs/2511.20065) — `reconstruction` `compression` `efficiency`
 - [FractalCloud: A Fractal-Inspired Architecture for Efficient Large-Scale Point Cloud Processing](https://arxiv.org/abs/2511.07665) — `autonomous driving` `efficiency` — [code](https://github.com/Yuzhe-Fu/FractalCloud)
+- [From Images to Point Clouds: An Efficient Solution for Cross-media Blind Quality Assessment without Annotated Training](https://arxiv.org/abs/2501.13387) — `efficiency`
 - [GeMS: Efficient Gaussian Splatting for Extreme Motion Blur](https://arxiv.org/abs/2508.14682) — `generation` `gaussian-splatting` `efficiency`
 - [GMOR: A Lightweight Robust Point Cloud Registration Framework via Geometric Maximum Overlapping](https://arxiv.org/abs/2508.17427) — `registration` `robustness` `efficiency`
 - [Guided Model-based LiDAR Super-Resolution for Resource-Efficient Automotive scene Segmentation](https://arxiv.org/abs/2509.01317) — `segmentation` `upsampling` `autonomous driving` `efficiency`
+- [High Efficiency Wiener Filter-based Point Cloud Quality Enhancement for MPEG G-PCC](https://arxiv.org/abs/2503.17467) — `compression` `efficiency`
+- [HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder](https://arxiv.org/abs/2505.01938) — `generation` `gaussian-splatting` `compression` `efficiency`
+- [Label-Efficient LiDAR Semantic Segmentation with 2D-3D Vision Transformer Adapters](https://arxiv.org/abs/2503.03299) — `segmentation` `efficiency`
 - [Label-Efficient Point Cloud Segmentation with Active Learning](https://arxiv.org/abs/2512.05759) — `segmentation` `efficiency`
+- [Less is More: Efficient Point Cloud Reconstruction via Multi-Head Decoders](https://arxiv.org/abs/2505.19057) — `reconstruction` `efficiency`
+- [LiDAR-based Object Detection with Real-time Voice Specifications](https://arxiv.org/abs/2504.02920) — `detection` `efficiency`
+- [LIR-LIVO: A Lightweight,Robust LiDAR/Vision/Inertial Odometry with Illumination-Resilient Deep Features](https://arxiv.org/abs/2502.08676) — `slam` `robustness` `efficiency`
+- [NUC-Net: Non-uniform Cylindrical Partition Network for Efficient LiDAR Semantic Segmentation](https://arxiv.org/abs/2505.24634) — `segmentation` `autonomous driving` `efficiency` — [code](https://github.com/alanWXZ/NUC-Net)
 - [OG-PCL: Efficient Sparse Point Cloud Processing for Human Activity Recognition](https://arxiv.org/abs/2511.08910) — `efficiency`
+- [Open-source automatic pipeline for efficient conversion of large-scale point clouds to IFC format](https://arxiv.org/abs/2503.11498) — `reconstruction` `efficiency`
 - [OT-MeanFlow3D: Bridging Optimal Transport and Meanflow for Efficient 3D Point Cloud Generation](https://arxiv.org/abs/2509.22592) — `generation` `efficiency`
+- [Point-LN: A Lightweight Framework for Efficient Point Cloud Classification Using Non-Parametric Positional Encoding](https://arxiv.org/abs/2501.14238) — `classification` `efficiency`
 - [PointLAMA: Latent Attention meets Mamba for Efficient Point Cloud Pretraining](https://arxiv.org/abs/2507.17296) — `pre-training` `efficiency`
 - [PointNet4D: A Lightweight 4D Point Cloud Video Backbone for Online and Offline Perception in Robotic Applications](https://arxiv.org/abs/2512.01383) — `efficiency`
+- [PointODE: Lightweight Point Cloud Learning with Neural Ordinary Differential Equations on Edge](https://arxiv.org/abs/2506.00438) — `efficiency`
+- [QLIO: Quantized LiDAR-Inertial Odometry](https://arxiv.org/abs/2503.07949) — `efficiency`
+- [QuickGrasp: Lightweight Antipodal Grasp Planning with Point Clouds](https://arxiv.org/abs/2504.19716) — `efficiency`
 - [Re-Densification Meets Cross-Scale Propagation: Real-Time Neural Compression of LiDAR Point Clouds](https://arxiv.org/abs/2508.20466) — `compression` `efficiency`
+- [Real-time Neural Rendering of LiDAR Point Clouds](https://arxiv.org/abs/2502.11618) — `efficiency`
 - [Real-time Point Cloud Data Transmission via L4S for 5G-Edge-Assisted Robotics](https://arxiv.org/abs/2511.15677) — `detection` `efficiency`
+- [RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds](https://arxiv.org/abs/2503.12382) — `compression` `efficiency`
 - [SHIELD: Spherical-Projection Hybrid-Frontier Integration for Efficient LiDAR-based Drone Exploration](https://arxiv.org/abs/2512.23972) — `efficiency`
 - [Spira: Exploiting Voxel Data Structural Properties for Efficient Sparse Convolution in Point Cloud Networks](https://arxiv.org/abs/2511.20834) — `autonomous driving` `efficiency`
+- [SRKD: Towards Efficient 3D Point Cloud Segmentation via Structure- and Relation-aware Knowledge Distillation](https://arxiv.org/abs/2506.17290) — `segmentation` `efficiency`
 - [SSCATeR: Sparse Scatter-Based Convolution Algorithm with Temporal Data Recycling for Real-Time 3D Object Detection in LiDAR Point Clouds](https://arxiv.org/abs/2512.08557) — `detection` `efficiency`
 - [StripDet: Strip Attention-Based Lightweight 3D Object Detection from Point Cloud](https://arxiv.org/abs/2509.05954) — `detection` `efficiency`
+- [Token Adaptation via Side Graph Convolution for Efficient Fine-tuning of 3D Point Cloud Transformers](https://arxiv.org/abs/2502.14142) — `efficiency`
+- [Topology-Guided Knowledge Distillation for Efficient Point Cloud Processing](https://arxiv.org/abs/2505.08101) — `autonomous driving` `efficiency`
 ## 2024
 
 - [D$^2$-World: An Efficient World Model through Decoupled Dynamic Flow](https://arxiv.org/abs/2411.17027) — `BEV` `efficiency`
+- [Dr$^2$Net: Dynamic Reversible Dual-Residual Networks for Memory-Efficient Finetuning](https://arxiv.org/abs/2401.04105) — `detection` `efficiency`
+- [Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis](https://arxiv.org/abs/2403.01439) — `efficiency` — [code](https://github.com/LMD0311/DAPT)
+- [LSK3DNet: Towards Effective and Efficient 3D Perception with Large Sparse Kernels](https://arxiv.org/abs/2403.15173) — `efficiency` — [code](https://github.com/FengZicai/LSK3DNet)
 - [PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection](https://arxiv.org/abs/2312.08371) — `detection` `efficiency` — [code](https://github.com/kuanchihhuang/PTT)
 - [DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields](https://arxiv.org/abs/2311.12063) — `segmentation` `generation` `efficiency`
+- [ScatterFormer: Efficient Voxel Transformer with Scattered Linear Attention](https://arxiv.org/abs/2401.00912) — `efficiency`
+- [Duoduo CLIP: Efficient 3D Understanding with Multi-View Images](https://arxiv.org/abs/2406.11579) — `efficiency`
+- [LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection](https://arxiv.org/abs/2401.15865) — `detection` `compression` `efficiency`
 - [MIRACLE3D: Memory-efficient Integrated Robust Approach for Continual Learning on Point Clouds via Shape Model Construction](https://arxiv.org/abs/2410.06418) — `classification` `robustness` `efficiency`
+- [MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection](https://arxiv.org/abs/2401.16305) — `detection` `efficiency` — [code](https://github.com/BraveGroup/PointSAM-for-MixSup)
+- [3D Geometric Shape Assembly via Efficient Point Cloud Matching](https://arxiv.org/abs/2407.10542) — `efficiency`
+- [Locality-Sensitive Hashing-Based Efficient Point Transformer with Applications in High-Energy Physics](https://arxiv.org/abs/2402.12535) — `efficiency`
 - [A Pioneering Neural Network Method for Efficient and Robust Fluid Simulation](https://arxiv.org/abs/2412.10748) — `robustness` `efficiency`
 - [EPCL: Frozen CLIP Transformer is An Efficient Point Cloud Encoder](https://arxiv.org/abs/2212.04098) — `efficiency`
 - [iDet3D: Towards Efficient Interactive Object Detection for LiDAR Point Clouds](https://arxiv.org/abs/2312.15449) — `detection` `efficiency`
 - [ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers](https://arxiv.org/abs/2409.01216) — `compression` `efficiency`
 - [ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling](https://arxiv.org/abs/2410.06963) — `generation` `upsampling` `efficiency`
 - [Positional Prompt Tuning for Efficient 3D Representation Learning](https://arxiv.org/abs/2408.11567) — `efficiency`
+- [Data-Efficient 3D Visual Grounding via Order-Aware Referring](https://arxiv.org/abs/2403.16539) — `efficiency`
 - [3D Point Cloud Network Pruning: When Some Weights Do not Matter](https://arxiv.org/abs/2408.14601) — `efficiency`
 - [Efficient LiDAR Bundle Adjustment for Multi-Scan Alignment Utilizing Continuous-Time Trajectories](https://arxiv.org/abs/2412.11760) — `localization` `efficiency`
+- [Parameter-efficient Prompt Learning for 3D Point Cloud Understanding](https://arxiv.org/abs/2402.15823) — `efficiency`
+- [Realtime Robust Shape Estimation of Deformable Linear Object](https://arxiv.org/abs/2403.16146) — `tracking` `robustness` `efficiency`
+- [Reg-NF: Efficient Registration of Implicit Surfaces within Neural Fields](https://arxiv.org/abs/2402.09722) — `registration` `efficiency`
+- [3D Branch Point Cloud Completion for Robotic Pruning in Apple Orchards](https://arxiv.org/abs/2404.05953) — `completion` `efficiency`
 - [Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds](https://arxiv.org/abs/2411.18443) — `detection` `efficiency`
 - [Exploiting Local Features and Range Images for Small Data Real-Time Point Cloud Semantic Segmentation](https://arxiv.org/abs/2410.10510) — `segmentation` `autonomous driving` `efficiency`
+- [Finding safe 3D robot grasps through efficient haptic exploration with unscented Bayesian optimization and collision penalty](https://arxiv.org/abs/2402.07024) — `efficiency`
 - [EPIC: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios](https://arxiv.org/abs/2410.14203) — `efficiency` — [code](https://github.com/SYSU-STAR/EPIC)
+- [Label-Efficient Semantic Segmentation of LiDAR Point Clouds in Adverse Weather Conditions](https://arxiv.org/abs/2406.09906) — `segmentation` `detection` `efficiency`
 - [RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration](https://arxiv.org/abs/2410.15682) — `registration` `efficiency`
+- [Multi-Modal Data-Efficient 3D Scene Understanding for Autonomous Driving](https://arxiv.org/abs/2405.05258) — `segmentation` `autonomous driving` `multi-modal` `efficiency`
 - [Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning](https://arxiv.org/abs/2410.08114) — `efficiency` — [code](https://github.com/jerryfeng2003/PointGST)
+- [Rethinking Efficient and Effective Point-based Networks for Event Camera Classification and Regression: EventMamba](https://arxiv.org/abs/2405.06116) — `classification` `efficiency`
+- [A Galois theorem for machine learning: Functions on symmetric matrices and point clouds via lightweight invariant features](https://arxiv.org/abs/2405.08097) — `efficiency`
+- [A Point-Based Approach to Efficient LiDAR Multi-Task Perception](https://arxiv.org/abs/2404.12798) — `efficiency`
 - [Calibrated and Efficient Sampling-Free Confidence Estimation for LiDAR Scene Semantic Segmentation](https://arxiv.org/abs/2411.11935) — `segmentation` `autonomous driving` `efficiency`
 - [CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling](https://arxiv.org/abs/2408.04901) — `localization` `efficiency`
 - [EADReg: Probabilistic Correspondence Generation with Efficient Autoregressive Diffusion Model for Outdoor Point Cloud Registration](https://arxiv.org/abs/2411.15271) — `registration` `generation` `efficiency`
+- [EasyTrack: Efficient and Compact One-stream 3D Point Clouds Tracker](https://arxiv.org/abs/2404.05960) — `tracking` `efficiency`
 - [EEPNet: Efficient Edge Pixel-based Matching Network for Cross-Modal Dynamic Registration between LiDAR and Camera](https://arxiv.org/abs/2409.19305) — `registration` `efficiency`
 - [Efficient 3D Perception on Multi-Sweep Point Cloud with Gumbel Spatial Pruning](https://arxiv.org/abs/2411.07742) — `efficiency`
+- [Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression](https://arxiv.org/abs/2404.06936) — `compression` `efficiency`
+- [Efficient and Robust Point Cloud Registration via Heuristics-guided Parameter Search](https://arxiv.org/abs/2404.06155) — `registration` `robustness` `efficiency`
 - [Efficient and Scalable Point Cloud Generation with Sparse Point-Voxel Diffusion Models](https://arxiv.org/abs/2408.06145) — `generation` `efficiency`
+- [Efficient Global Navigational Planning in 3D Structures based on Point Cloud Tomography](https://arxiv.org/abs/2403.07631) — `generation` `efficiency`
 - [Efficient Point Cloud Classification via Offline Distillation Framework and Negative-Weight Self-Distillation Technique](https://arxiv.org/abs/2409.02020) — `classification` `compression` `efficiency`
+- [Efficient Point Transformer with Dynamic Token Aggregating for LiDAR Point Cloud Processing](https://arxiv.org/abs/2405.15827) — `efficiency`
+- [Eidos: Efficient, Imperceptible Adversarial 3D Point Clouds](https://arxiv.org/abs/2405.14210) — `classification` `autonomous driving` `robustness` `efficiency`
+- [ELiTe: Efficient Image-to-LiDAR Knowledge Transfer for Semantic Segmentation](https://arxiv.org/abs/2405.04121) — `segmentation` `efficiency`
+- [GSDeformer: Direct, Real-time and Extensible Cage-based Deformation for 3D Gaussian Splatting](https://arxiv.org/abs/2405.15491) — `gaussian-splatting` `efficiency`
 - [LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR](https://arxiv.org/abs/2408.16370) — `efficiency`
+- [LVCP: LiDAR-Vision Tightly Coupled Collaborative Real-time Relative Positioning](https://arxiv.org/abs/2407.10782) — `monocular` `efficiency`
 - [Memory-Efficient Point Cloud Registration via Overlapping Region Sampling](https://arxiv.org/abs/2410.21753) — `registration` `efficiency`
 - [Micro-Structures Graph-Based Point Cloud Registration for Balancing Efficiency and Accuracy](https://arxiv.org/abs/2410.21857) — `registration` `efficiency`
+- [MVSBoost: An Efficient Point Cloud-based 3D Reconstruction](https://arxiv.org/abs/2406.13515) — `reconstruction` `efficiency`
 - [NARVis: Neural Accelerated Rendering for Real-Time Scientific Point Cloud Visualization](https://arxiv.org/abs/2407.19097) — `efficiency`
+- [PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction](https://arxiv.org/abs/2406.06521) — `reconstruction` `gaussian-splatting` `efficiency`
 - [PMT-MAE: Dual-Branch Self-Supervised Learning with Distillation for Efficient Point Cloud Classification](https://arxiv.org/abs/2409.02007) — `classification` `self-supervised` `efficiency`
+- [PointCore: Efficient Unsupervised Point Cloud Anomaly Detector Using Local-Global Features](https://arxiv.org/abs/2403.01804) — `detection` `autonomous driving` `efficiency`
+- [PointGL: A Simple Global-Local Framework for Efficient Point Cloud Analysis](https://arxiv.org/abs/2401.11650) — `efficiency`
 - [PointMT: Efficient Point Cloud Analysis with Hybrid MLP-Transformer Architecture](https://arxiv.org/abs/2408.05508) — `efficiency`
+- [PointRWKV: Efficient RWKV-Like Model for Hierarchical Point Cloud Learning](https://arxiv.org/abs/2405.15214) — `efficiency`
+- [PointViG: A Lightweight GNN-based Model for Efficient Point Cloud Analysis](https://arxiv.org/abs/2407.00921) — `efficiency`
+- [PRENet: A Plane-Fit Redundancy Encoding Point Cloud Sequence Network for Real-Time 3D Action Recognition](https://arxiv.org/abs/2405.06929) — `efficiency`
 - [RadarPillars: Efficient Object Detection from 4D Radar Point Clouds](https://arxiv.org/abs/2408.05020) — `detection` `multi-modal` `efficiency`
+- [RadCloud: Real-Time High-Resolution Point Cloud Generation Using Low-Cost Radars for Aerial and Ground Vehicles](https://arxiv.org/abs/2403.05964) — `generation` `efficiency`
 - [Real-Time 3D Object Detection Using InnovizOne LiDAR and Low-Power Hailo-8 AI Accelerator](https://arxiv.org/abs/2412.05594) — `detection` `autonomous driving` `efficiency`
+- [RiEMann: Near Real-Time SE(3)-Equivariant Robot Manipulation without Point Cloud Segmentation](https://arxiv.org/abs/2403.19460) — `segmentation` `efficiency`
+- [SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition](https://arxiv.org/abs/2407.08260) — `localization` `efficiency`
+- [SegNet4D: Efficient Instance-Aware 4D Semantic Segmentation for LiDAR Point Cloud](https://arxiv.org/abs/2406.16279) — `segmentation` `efficiency`
 - [SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments](https://arxiv.org/abs/2409.08681) — `efficiency` — [code](https://github.com/HKUST-Aerial-Robotics/SLIM)
+- [SWCF-Net: Similarity-weighted Convolution and Local-global Fusion for Efficient Large-scale Point Cloud Semantic Segmentation](https://arxiv.org/abs/2406.11441) — `segmentation` `efficiency`
+- [T3DNet: Compressing Point Cloud Models for Lightweight 3D Recognition](https://arxiv.org/abs/2402.19264) — `compression` `autonomous driving` `efficiency`
 - [Tensor-Train Point Cloud Compression and Efficient Approximate Nearest-Neighbor Search](https://arxiv.org/abs/2410.04462) — `compression` `efficiency`
 - [TOPGN: Real-time Transparent Obstacle Detection using Lidar Point Cloud Intensity for Autonomous Robot Navigation](https://arxiv.org/abs/2408.05608) — `detection` `efficiency`
 - [TractShapeNet: Efficient Multi-Shape Learning with 3D Tractography Point Clouds](https://arxiv.org/abs/2410.22099) — `efficiency`
 - [TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://arxiv.org/abs/2410.13240) — `tracking` `slam` `localization` `efficiency`
 ## 2023
 
+- [Binarizing Sparse Convolutional Networks for Efficient Point Cloud Analysis](https://arxiv.org/abs/2303.15493) — `efficiency`
+- [CP$^3$: Channel Pruning Plug-in for Point-based Networks](https://arxiv.org/abs/2303.13097) — `efficiency`
 - [DynStatF: An Efficient Feature Fusion Strategy for LiDAR 3D Object Detection](https://arxiv.org/abs/2305.15219) — `detection` `efficiency` — Workshop
 - [E2PN: Efficient SE(3)-Equivariant Point Network](https://arxiv.org/abs/2206.05398) — `efficiency` — [code](https://github.com/minghanz/E2PN)
+- [FlatFormer: Flattened Window Attention for Efficient Point Cloud Transformer](https://arxiv.org/abs/2301.08739) — `efficiency`
+- [MSF: Motion-guided Sequential Fusion for Efficient 3D Object Detection from Point Cloud Sequences](https://arxiv.org/abs/2303.08316) — `detection` `autonomous driving` `efficiency`
 - [Ada3D : Exploiting the Spatial Redundancy with Adaptive Inference for Efficient 3D Object Detection](https://arxiv.org/abs/2307.08209) — `detection` `autonomous driving` `efficiency`
 - [DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds](https://arxiv.org/abs/2308.04383) — `scene flow` `efficiency` — [code](https://github.com/IRMVLab/DELFlow)
 - [Efficient 3D Semantic Segmentation with Superpoint Transformer](https://arxiv.org/abs/2306.08045) — `segmentation` `efficiency`
 - [PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaption on Point Clouds with Rectified Pseudo-label](https://arxiv.org/abs/2309.16936) — `self-supervised` `efficiency`
+- [RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration](https://arxiv.org/abs/2303.12384) — `registration` `efficiency` — [code](https://github.com/IRMVLab/RegFormer)
 - [SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition](https://arxiv.org/abs/2310.07189) — `efficiency`
+- [Efficient Graph Field Integrators Meet Point Clouds](https://arxiv.org/abs/2302.00942) — `efficiency`
+- [Shared Information-Based Safe And Efficient Behavior Planning For Connected Autonomous Vehicles](https://arxiv.org/abs/2302.04321) — `efficiency` — Workshop
+- [Voxel or Pillar: Exploring Efficient Point Cloud Representation for 3D Object Detection](https://arxiv.org/abs/2304.02867) — `detection` `efficiency`
 - [A Data-efficient Framework for Robotics Large-scale LiDAR Scene Parsing](https://arxiv.org/abs/2312.02208) — `efficiency`
+- [Efficient Implicit Neural Reconstruction Using LiDAR](https://arxiv.org/abs/2302.14363) — `registration` `reconstruction` `efficiency`
+- [Real-Time Simultaneous Localization and Mapping with LiDAR intensity](https://arxiv.org/abs/2301.09257) — `localization` `efficiency` — [code](https://github.com/SnowCarter/Intensity_based_LiDAR_SLAM.git)
+- [SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing](https://arxiv.org/abs/2303.05252) — `slam` `localization` `efficiency`
+- [ViPFormer: Efficient Vision-and-Pointcloud Transformer for Unsupervised Pointcloud Understanding](https://arxiv.org/abs/2303.14376) — `self-supervised` `efficiency`
 - [Point2Point : A Framework for Efficient Deep Learning on Hilbert sorted Point Clouds with applications in Spatio-Temporal Occupancy Prediction](https://arxiv.org/abs/2306.16306) — `occupancy prediction` `efficiency`
 - [RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation](https://arxiv.org/abs/2312.07337) — `efficiency`
 - [A Survey of Label-Efficient Deep Learning for 3D Point Clouds](https://arxiv.org/abs/2305.19812) — `efficiency`
 - [A Review and A Robust Framework of Data-Efficient 3D Scene Parsing with Traditional/Learned 3D Descriptors](https://arxiv.org/abs/2312.01262) — `segmentation` `detection` `robustness` `efficiency`
+- [An Efficient Convex Hull-based Vehicle Pose Estimation Method for 3D LiDAR](https://arxiv.org/abs/2302.01034) — `autonomous driving` `efficiency`
+- [An Efficient Plane Extraction Approach for Bundle Adjustment on LiDAR Point clouds](https://arxiv.org/abs/2305.00287) — `efficiency`
+- [An Efficient Semi-Automated Scheme for Infrastructure LiDAR Annotation](https://arxiv.org/abs/2301.10732) — `autonomous driving` `efficiency`
 - [Bidirectional Knowledge Reconfiguration for Lightweight Point Cloud Analysis](https://arxiv.org/abs/2310.05125) — `efficiency`
 - [DIPR: Efficient Point Cloud Registration via Dynamic Iteration](https://arxiv.org/abs/2312.02877) — `registration` `efficiency`
 - [Efficient and Deterministic Search Strategy Based on Residual Projections for Point Cloud Registration with Correspondences](https://arxiv.org/abs/2305.11716) — `registration` `efficiency`
@@ -145,25 +272,35 @@
 - [LiLO: Lightweight and low-bias LiDAR Odometry method based on spherical range image filtering](https://arxiv.org/abs/2311.07291) — `efficiency`
 - [LMD: Light-weight Prediction Quality Estimation for Object Detection in Lidar Point Clouds](https://arxiv.org/abs/2306.07835) — `detection` `autonomous driving` `efficiency`
 - [Mesh-LOAM: Real-time Mesh-Based LiDAR Odometry and Mapping](https://arxiv.org/abs/2312.15630) — `reconstruction` `efficiency`
+- [MLGCN: An Ultra Efficient Graph Convolution Neural Model For 3D Point Cloud Analysis](https://arxiv.org/abs/2303.17748) — `efficiency`
+- [Moby: Empowering 2D Models for Efficient Point Cloud Analytics on the Edge](https://arxiv.org/abs/2302.09221) — `detection` `autonomous driving` `efficiency`
 - [MOVIN: Real-time Motion Capture using a Single LiDAR](https://arxiv.org/abs/2309.09314) — `tracking` `efficiency`
 - [Multi-Session, Localization-oriented and Lightweight LiDAR Mapping Using Semantic Lines and Planes](https://arxiv.org/abs/2307.07126) — `localization` `efficiency`
 - [NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM](https://arxiv.org/abs/2307.08221) — `detection` `slam` `localization` `efficiency`
 - [OAAFormer: Robust and Efficient Point Cloud Registration Through Overlapping-Aware Attention in Transformer](https://arxiv.org/abs/2310.09817) — `registration` `robustness` `efficiency`
+- [PCPNet: An Efficient and Semantic-Enhanced Transformer Network for Point Cloud Prediction](https://arxiv.org/abs/2304.07773) — `efficiency`
 - [PointeNet: A Lightweight Framework for Effective and Efficient Point Cloud Analysis](https://arxiv.org/abs/2312.12743) — `efficiency`
+- [Real-time LIDAR localization in natural and urban environments](https://arxiv.org/abs/2301.13583) — `localization` `efficiency`
 - [Select-and-Combine (SAC): A Novel Multi-Stereo Depth Fusion Algorithm for Point Cloud Generation via Efficient Local Markov Netlets](https://arxiv.org/abs/2308.12138) — `generation` `reconstruction` `efficiency`
+- [TT-SDF2PC: Registration of Point Cloud and Compressed SDF Directly in the Memory-Efficient Tensor Train Domain](https://arxiv.org/abs/2304.05342) — `registration` `compression` `efficiency`
 - [TTPOINT: A Tensorized Point Cloud Network for Lightweight Action Recognition with Event Cameras](https://arxiv.org/abs/2308.09993) — `efficiency`
 ## 2022
 
 - [Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds](https://arxiv.org/abs/2203.11139) — `detection` `efficiency` — [code](https://github.com/yifanzhang713/IA-SSD)
 - [SC^2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration](https://arxiv.org/abs/2203.14453) — `registration` `robustness` `efficiency`
 - [Analyzing Deep Learning Representations of Point Clouds for Real-Time In-Vehicle LiDAR Perception](https://arxiv.org/abs/2210.14612) — `efficiency` — Workshop
+- [Sparse Cross-scale Attention Network for Efficient LiDAR Panoptic Segmentation](https://arxiv.org/abs/2201.05972) — `segmentation` `efficiency`
 - [SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition](https://arxiv.org/abs/2105.00149) — `slam` `localization` `efficiency`
 - [Efficient Human Pose Estimation via 3D Event Point Cloud](https://arxiv.org/abs/2206.04511) — `efficiency` — [code](https://github.com/MasterHow/EventPointPose)
+- [Hierarchical Point Cloud Encoding and Decoding with Lightweight Self-Attention based Model](https://arxiv.org/abs/2202.06407) — `efficiency`
+- [CVFNet: Real-time 3D Object Detection by Learning Cross View Features](https://arxiv.org/abs/2203.06585) — `detection` `efficiency`
 - [LiSnowNet: Real-time Snow Removal for LiDAR Point Cloud](https://arxiv.org/abs/2211.10023) — `autonomous driving` `efficiency`
 - [Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking](https://arxiv.org/abs/2209.00522) — `completion` `tracking` `localization` `efficiency`
 - [Real-time Neural Dense Elevation Mapping for Urban Terrain with Uncertainty Estimations](https://arxiv.org/abs/2208.03467) — `reconstruction` `efficiency`
 - [3DVerifier: Efficient Robustness Verification for 3D Point Cloud Models](https://arxiv.org/abs/2207.07539) — `robustness` `efficiency`
 - [A Light-Weight LiDAR-Inertial SLAM System with Loop Closing](https://arxiv.org/abs/2212.05743) — `slam` `efficiency`
+- [A Lightweight and Detector-free 3D Single Object Tracker on Point Clouds](https://arxiv.org/abs/2203.04232) — `detection` `tracking` `efficiency`
+- [An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs](https://arxiv.org/abs/2203.05763) — `registration` `slam` `localization` `efficiency`
 - [An Efficient FPGA Accelerator for Point Cloud](https://arxiv.org/abs/2210.07803) — `autonomous driving` `efficiency`
 - [APP-Net: Auxiliary-point-based Push and Pull Operations for Efficient Point Cloud Classification](https://arxiv.org/abs/2205.00847) — `classification` `efficiency`
 - [CENet: Toward Concise and Efficient LiDAR Semantic Segmentation for Autonomous Driving](https://arxiv.org/abs/2207.12691) — `segmentation` `autonomous driving` `efficiency`
@@ -174,6 +311,7 @@
 - [ECM-OPCC: Efficient Context Model for Octree-based Point Cloud Compression](https://arxiv.org/abs/2211.10916) — `compression` `efficiency`
 - [Eff-3DPSeg: 3D organ-level plant shoot segmentation using annotation-efficient point clouds](https://arxiv.org/abs/2212.10263) — `segmentation` `efficiency`
 - [Efficient and Consistent Bundle Adjustment on Lidar Point Clouds](https://arxiv.org/abs/2209.08854) — `efficiency`
+- [Efficient divide-and-conquer registration of UAV and ground LiDAR point clouds through canopy shape context](https://arxiv.org/abs/2201.11296) — `registration` `detection` `efficiency`
 - [Efficient dynamic point cloud coding using Slice-Wise Segmentation](https://arxiv.org/abs/2208.08061) — `segmentation` `compression` `efficiency`
 - [Efficient Extrinsic Calibration of Multi-Sensor 3D LiDAR Systems for Autonomous Vehicles using Static Objects Information](https://arxiv.org/abs/2211.02614) — `efficiency`
 - [Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention](https://arxiv.org/abs/2208.12573) — `compression` `efficiency`
@@ -183,9 +321,12 @@
 - [LESS: Label-Efficient Semantic Segmentation for LiDAR Point Clouds](https://arxiv.org/abs/2210.08064) — `segmentation` `autonomous driving` `efficiency`
 - [LiDAR Road-Atlas: An Efficient Map Representation for General 3D Urban Environment](https://arxiv.org/abs/2204.05727) — `efficiency`
 - [LiDAR-MIMO: Efficient Uncertainty Estimation for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2206.00214) — `detection` `efficiency`
+- [LighTN: Light-weight Transformer Network for Performance-overhead Tradeoff in Point Cloud Downsampling](https://arxiv.org/abs/2202.06263) — `efficiency`
 - [LOCUS 2.0: Robust and Computationally Efficient Lidar Odometry for Real-Time Underground 3D Mapping](https://arxiv.org/abs/2205.11784) — `localization` `robustness` `efficiency`
 - [MARSIM: A light-weight point-realistic simulator for LiDAR-based UAVs](https://arxiv.org/abs/2211.10716) — `efficiency`
 - [OST: Efficient One-stream Network for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2210.08518) — `tracking` `efficiency`
+- [Projection-based Point Convolution for Efficient Point Cloud Segmentation](https://arxiv.org/abs/2202.01991) — `segmentation` `efficiency`
+- [Real-time Rail Recognition Based on 3D Point Clouds](https://arxiv.org/abs/2201.02726) — `efficiency`
 - [RMS-FlowNet: Efficient and Robust Multi-Scale Scene Flow Estimation for Large-Scale Point Clouds](https://arxiv.org/abs/2204.00354) — `scene flow` `robustness` `efficiency`
 - [Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection](https://arxiv.org/abs/2210.10263) — `detection` `localization` `generation` `efficiency`
 - [TorchSparse: Efficient Point Cloud Inference Engine](https://arxiv.org/abs/2204.10319) — `autonomous driving` `efficiency`

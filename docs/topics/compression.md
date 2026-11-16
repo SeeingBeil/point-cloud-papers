@@ -1,85 +1,167 @@
 # Compression · `compression`
 
-共 **115** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **200** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2026
 
 - [AnyPcc: Compressing Any Point Cloud with a Single Universal Model](https://arxiv.org/abs/2510.20331) — `compression`
+- [Velox: Learning Representations of 4D Geometry and Appearance](https://arxiv.org/abs/2605.04527) — `compression`
 - [CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking](https://arxiv.org/abs/2511.15580) — `tracking` `compression` `autonomous driving`
+- [DeepRAHT: Learning Predictive RAHT for Point Cloud Attribute Compression](https://arxiv.org/abs/2601.12255) — `reconstruction` `compression`
+- [D-Compress: Detail-Preserving LiDAR Range Image Compression for Real-Time Streaming on Resource-Constrained Robots](https://arxiv.org/abs/2603.13699) — `compression` `efficiency`
+- [Blind Quality Enhancement for G-PCC Compressed Dynamic Point Clouds](https://arxiv.org/abs/2603.24026) — `reconstruction` `compression`
+- [DALD-PCAC: Density-Adaptive Learning Descriptor for Point Cloud Lossless Attribute Compression](https://arxiv.org/abs/2601.12261) — `compression`
+- [Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain](https://arxiv.org/abs/2601.04551) — `slam` `localization` `compression` `efficiency`
+- [DUGAE: Unified Geometry and Attribute Enhancement via Spatiotemporal Correlations for G-PCC Compressed Dynamic Point Clouds](https://arxiv.org/abs/2603.26183) — `compression`
 - [Geometry-Based Compression of Plenoptic Point Clouds](https://arxiv.org/abs/2608.11273) — `compression`
 - [H3DNAS: Hardware-Aware ONNX-Native 3D Point Cloud Model Compression](https://arxiv.org/abs/2609.02684) — `compression`
 - [Hierarchical Frequency-Domain Compression of Implicit Geometric Representations for Large-Scale Point Clouds](https://arxiv.org/abs/2609.32789) — `compression`
+- [Hybrid-PCGC: Hybrid Point Cloud Geometry Compression Bridging Generalization-based Model and Implicit Neural Representation](https://arxiv.org/abs/2602.21662) — `compression` `autonomous driving`
+- [Inter-LPCM: Learning-based Inter-Frame Predictive Coding for LiDAR Point Cloud Compression](https://arxiv.org/abs/2605.18006) — `compression`
+- [LiZIP: An Auto-Regressive Compression Framework for LiDAR Point Clouds](https://arxiv.org/abs/2603.23162) — `compression`
+- [Octree-based Learned Point Cloud Geometry Compression: A Lossy Perspective](https://arxiv.org/abs/2603.28095) — `compression`
+- [Overview and Comparison of AVS Point Cloud Compression Standard](https://arxiv.org/abs/2602.08613) — `compression` `autonomous driving`
+- [PACE: Post-Causal Entropy Modeling for Learned LiDAR Point Cloud Compression](https://arxiv.org/abs/2605.01320) — `compression`
 - [Proteus: A Truncation-Robust Entropy Model for Progressive LiDAR Compression](https://arxiv.org/abs/2608.00687) — `compression` `robustness`
 - [ResPCC: A Loss-Resilient Neural Point Cloud Codec over Lossy Networks](https://arxiv.org/abs/2608.11845) — `compression`
 - [SPEM: Scan-Prior Entropy Modeling for LiDAR Point Cloud Compression](https://arxiv.org/abs/2611.16212) — `compression`
+- [SurfelSoup: Learned Point Cloud Geometry Compression With a Probablistic SurfelTree Representation](https://arxiv.org/abs/2602.00186) — `compression`
+- [TAFA-GSGC: Group-wise Scalable Point Cloud Geometry Compression with Progressive Residual Refinement](https://arxiv.org/abs/2604.28045) — `compression`
+- [Task-Oriented Wireless Transmission of 3D Point Clouds: Geometric Versus Semantic Robustness](https://arxiv.org/abs/2603.13560) — `reconstruction` `compression` `robustness`
+- [Towards Practical Lossless Neural Compression for LiDAR Point Clouds](https://arxiv.org/abs/2603.25260) — `compression`
 - [Transform-Aligned Learned Features for Lossy Point Cloud Attribute Compression](https://arxiv.org/abs/2609.34834) — `compression`
 ## 2025
 
 - [LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression](https://arxiv.org/abs/2507.15686) — `compression`
 - [Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers](https://arxiv.org/abs/2510.07316) — `generation` `compression` `monocular`
+- [UniPCGC: Towards Practical Point Cloud Geometry Compression via an Efficient Unified Approach](https://arxiv.org/abs/2503.18541) — `compression` `efficiency`
 - [MEGA-PCC: A Mamba-based Efficient Approach for Joint Geometry and Attribute Point Cloud Compression](https://arxiv.org/abs/2512.22463) — `compression` `efficiency`
+- [Real-Time LiDAR Point Cloud Compression and Transmission for Resource-constrained Robots](https://arxiv.org/abs/2502.06123) — `compression` `efficiency`
 - [Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression](https://arxiv.org/abs/2510.08512) — `compression`
+- [A Novel Benchmark and Dataset for Efficient 3D Gaussian Splatting with Gaussian Point Cloud Compression](https://arxiv.org/abs/2505.18197) — `gaussian-splatting` `compression` `autonomous driving` `efficiency`
 - [A Novel Grouping-Based Hybrid Color Correction Algorithm for Color Point Clouds](https://arxiv.org/abs/2511.02397) — `compression`
+- [Adaptive Voxelization for Transform coding of 3D Gaussian splatting data](https://arxiv.org/abs/2506.00271) — `gaussian-splatting` `compression`
 - [Been There, Scanned That: Nostalgia-Driven LiDAR Compression for Self-Driving Cars](https://arxiv.org/abs/2511.00652) — `compression` `autonomous driving`
 - [Bidirectional Feature-aligned Motion Transformation for Efficient Dynamic Point Cloud Compression](https://arxiv.org/abs/2509.14591) — `compression` `efficiency`
 - [Deep Unrolling of Sparsity-Induced RDO for 3D Point Cloud Attribute Coding](https://arxiv.org/abs/2509.08685) — `compression`
+- [Deep-JGAC: End-to-End Deep Joint Geometry and Attribute Compression for Dense Colored Point Clouds](https://arxiv.org/abs/2502.17939) — `compression`
+- [Denoising Diffusion Probabilistic Model for Point Cloud Compression at Low Bit-Rates](https://arxiv.org/abs/2505.13316) — `reconstruction` `compression` `denoising`
+- [DetVPCC: RoI-based Point Cloud Sequence Compression for 3D Object Detection](https://arxiv.org/abs/2502.04804) — `detection` `compression`
+- [Efficient Implicit Neural Compression of Point Clouds via Learnable Activation in Latent Space](https://arxiv.org/abs/2504.14471) — `compression` `efficiency`
+- [Efficient LiDAR Reflectance Compression via Scanning Serialization](https://arxiv.org/abs/2505.09433) — `compression` `efficiency`
 - [FLaTEC: Frequency-Disentangled Latent Triplanes for Efficient Compression of LiDAR Point Clouds](https://arxiv.org/abs/2511.20065) — `reconstruction` `compression` `efficiency`
+- [Generalized Gaussian Entropy Model for Point Cloud Attribute Compression with Dynamic Likelihood Intervals](https://arxiv.org/abs/2506.09510) — `compression`
+- [Hierarchical Attention Networks for Lossless Point Cloud Attribute Compression](https://arxiv.org/abs/2504.00481) — `compression`
+- [High Efficiency Wiener Filter-based Point Cloud Quality Enhancement for MPEG G-PCC](https://arxiv.org/abs/2503.17467) — `compression` `efficiency`
 - [Hint: hierarchical inter-frame correlation for one-shot point cloud sequence compression](https://arxiv.org/abs/2509.14859) — `compression`
+- [HybridGS: High-Efficiency Gaussian Splatting Data Compression using Dual-Channel Sparse Representation and Point Cloud Encoder](https://arxiv.org/abs/2505.01938) — `generation` `gaussian-splatting` `compression` `efficiency`
 - [J-SGFT: Joint Spatial and Graph Fourier Domain Learning for Point Cloud Attribute Deblocking](https://arxiv.org/abs/2511.05047) — `compression` `autonomous driving` — Workshop
+- [Low-Complexity Patch-based No-Reference Point Cloud Quality Metric exploiting Weighted Structure and Texture Features](https://arxiv.org/abs/2503.15001) — `compression` — [code](https://github.com/michaelneri/PST-PCQA)
+- [LPCM: Learning-based Predictive Coding for LiDAR Point Cloud Compression](https://arxiv.org/abs/2505.20059) — `compression`
+- [No-reference geometry quality assessment for colorless point clouds via list-wise rank learning](https://arxiv.org/abs/2502.11726) — `reconstruction` `compression`
 - [On the Impact of LiDAR Point Cloud Compression on Remote Semantic Segmentation](https://arxiv.org/abs/2509.23341) — `segmentation` `detection` `compression`
+- [PCE-GAN: A Generative Adversarial Network for Point Cloud Attribute Quality Enhancement based on Optimal Transport](https://arxiv.org/abs/2503.00047) — `generation` `reconstruction` `compression` `robustness`
 - [Point Cloud Compression and Objective Quality Assessment: A Survey](https://arxiv.org/abs/2506.22902) — `compression` `autonomous driving`
 - [PVINet: Point-Voxel Interlaced Network for Point Cloud Compression](https://arxiv.org/abs/2509.01097) — `compression`
+- [Range Image-Based Implicit Neural Compression for LiDAR Point Clouds](https://arxiv.org/abs/2504.17229) — `detection` `compression`
 - [Rate-distortion Optimized Point Cloud Preprocessing for Geometry-based Point Cloud Compression](https://arxiv.org/abs/2508.01633) — `compression`
+- [RBFIM: Perceptual Quality Assessment for Compressed Point Clouds Using Radial Basis Function Interpolation](https://arxiv.org/abs/2503.14154) — `compression`
 - [Re-Densification Meets Cross-Scale Propagation: Real-Time Neural Compression of LiDAR Point Clouds](https://arxiv.org/abs/2508.20466) — `compression` `efficiency`
+- [Reflectance Prediction-based Knowledge Distillation for Robust 3D Object Detection in Compressed Point Clouds](https://arxiv.org/abs/2505.17442) — `detection` `compression` `robustness`
+- [RENO: Real-Time Neural Compression for 3D LiDAR Point Clouds](https://arxiv.org/abs/2503.12382) — `compression` `efficiency`
+- [ROI-Guided Point Cloud Geometry Compression Towards Human and Machine Vision](https://arxiv.org/abs/2504.14240) — `compression` `autonomous driving`
+- [SEDD-PCC: A Single Encoder-Dual Decoder Framework For End-To-End Learned Point Cloud Compression](https://arxiv.org/abs/2505.16709) — `compression`
 - [STQE: Spatial-Temporal Attribute Quality Enhancement for G-PCC Compressed Dynamic Point Clouds](https://arxiv.org/abs/2507.17522) — `compression`
+- [Teleoperated Driving: a New Challenge for 3D Object Detection in Compressed Point Clouds](https://arxiv.org/abs/2506.11804) — `detection` `compression`
 - [TeSO: Representing and Compressing 3D Point Cloud Scenes with Textured Surfel Octree](https://arxiv.org/abs/2508.07083) — `compression`
 - [UGAE: Unified Geometry and Attribute Enhancement for G-PCC Compressed Point Clouds](https://arxiv.org/abs/2510.23009) — `compression`
+- [Unified Geometry and Color Compression Framework for Point Clouds via Generative Diffusion Priors](https://arxiv.org/abs/2503.18083) — `generation` `compression`
+- [UVG-VPC: Voxelized Point Cloud Dataset for Visual Volumetric Video-based Coding](https://arxiv.org/abs/2504.05888) — `compression` `dataset`
+- [Voxel-based Point Cloud Geometry Compression with Space-to-Channel Context](https://arxiv.org/abs/2503.18283) — `compression`
 ## 2024
 
 - [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](https://arxiv.org/abs/2408.02966) — `compression` — [code](https://github.com/hxu160/CRCIR_for_PCGC)
+- [HAC++: Towards 100X Compression of 3D Gaussian Splatting](https://arxiv.org/abs/2501.12255) — `gaussian-splatting` `compression` — [code](https://github.com/YihangChen-ee/HAC-plus)
+- [HAC: Hash-grid Assisted Context for 3D Gaussian Splatting Compression](https://arxiv.org/abs/2403.14530) — `gaussian-splatting` `compression` — [code](https://github.com/YihangChen-ee/HAC)
+- [LiDAR-PTQ: Post-Training Quantization for Point Cloud 3D Object Detection](https://arxiv.org/abs/2401.15865) — `detection` `compression` `efficiency`
 - [ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers](https://arxiv.org/abs/2409.01216) — `compression` `efficiency`
+- [PIVOT-Net: Heterogeneous Point-Voxel-Tree-based Framework for Point Cloud Compression](https://arxiv.org/abs/2402.07243) — `compression`
 - [Can We Remove the Ground? Obstacle-aware Point Cloud Compression for Remote Object Detection](https://arxiv.org/abs/2410.00582) — `detection` `compression`
+- [VOLoc: Visual Place Recognition by Querying Compressed Lidar Map](https://arxiv.org/abs/2402.15961) — `localization` `compression`
 - [Point Cloud Compression with Bits-back Coding](https://arxiv.org/abs/2410.18115) — `compression`
+- [3D Point Cloud Compression with Recurrent Neural Network and Image Compression Methods](https://arxiv.org/abs/2402.11680) — `slam` `compression` — [code](https://github.com/ika-rwth-aachen/Point-Cloud-Compression)
+- [Assessing objective quality metrics for JPEG and MPEG point cloud coding](https://arxiv.org/abs/2403.00410) — `compression`
 - [Att2CPC: Attention-Guided Lossy Attribute Compression of Point Clouds](https://arxiv.org/abs/2410.17823) — `compression`
+- [Bits-to-Photon: End-to-End Learned Scalable Point Cloud Compression for Direct Rendering](https://arxiv.org/abs/2406.05915) — `compression`
 - [Color Enhancement for V-PCC Compressed Point Cloud via 2D Attribute Map Optimization](https://arxiv.org/abs/2412.14449) — `compression`
 - [Compression of Large-Scale 3D Point Clouds Based on Joint Optimization of Point Sampling and Feature Extraction](https://arxiv.org/abs/2412.07302) — `compression`
 - [Diff-PCC: Diffusion-based Neural Compression for 3D Point Clouds](https://arxiv.org/abs/2408.10543) — `compression`
 - [DiffCom: Decoupled Sparse Priors Guided Diffusion Compression for Point Clouds](https://arxiv.org/abs/2411.13860) — `reconstruction` `compression`
+- [Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression](https://arxiv.org/abs/2404.06936) — `compression` `efficiency`
 - [Efficient Point Cloud Classification via Offline Distillation Framework and Negative-Weight Self-Distillation Technique](https://arxiv.org/abs/2409.02020) — `classification` `compression` `efficiency`
 - [End-to-end learned Lossy Dynamic Point Cloud Attribute Compression](https://arxiv.org/abs/2408.10665) — `compression`
+- [Enhancing context models for point cloud geometry compression with context feature residuals and multi-loss](https://arxiv.org/abs/2407.08520) — `compression`
+- [Enhancing octree-based context models for point cloud geometry compression with attention-based child node number prediction](https://arxiv.org/abs/2407.08528) — `classification` `compression`
+- [Full reference point cloud quality assessment using support vector regression](https://arxiv.org/abs/2406.10520) — `compression` — [code](https://github.com/STAC-USC/FRSVR-PCQA)
+- [Full-reference Point Cloud Quality Assessment Using Spectral Graph Wavelets](https://arxiv.org/abs/2406.09762) — `compression` `denoising`
 - [Graph-based Scalable Sampling of 3D Point Cloud Attributes](https://arxiv.org/abs/2410.01027) — `compression`
+- [Hierarchical Prior-based Super Resolution for Point Cloud Geometry Compression](https://arxiv.org/abs/2402.11250) — `compression`
 - [Implicit Neural Compression of Point Clouds](https://arxiv.org/abs/2412.10433) — `compression`
 - [Learned Compression for Images and Point Clouds](https://arxiv.org/abs/2409.08376) — `classification` `generation` `compression` `upsampling`
 - [Learned Compression of Point Cloud Geometry and Attributes in a Single Model through Multimodal Rate-Control](https://arxiv.org/abs/2408.00599) — `reconstruction` `compression` `multi-modal`
 - [LLM-PCGC: Large Language Model-based Point Cloud Geometry Compression](https://arxiv.org/abs/2408.08682) — `generation` `compression` `vision-language`
+- [PCAC-GAN: A Sparse-Tensor-Based Generative Adversarial Network for 3D Point Cloud Attribute Compression](https://arxiv.org/abs/2407.05677) — `generation` `compression` `robustness`
+- [Performance analysis of Deep Learning-based Lossy Point Cloud Geometry Compression Coding Solutions](https://arxiv.org/abs/2402.05192) — `compression`
+- [Point Cloud Compression via Constrained Optimal Transport](https://arxiv.org/abs/2403.08236) — `generation` `compression`
+- [Point Cloud Compression with Implicit Neural Representations: A Unified Framework](https://arxiv.org/abs/2405.11493) — `compression`
 - [Point Cloud-Assisted Neural Image Compression](https://arxiv.org/abs/2412.11771) — `compression`
+- [PointCompress3D: A Point Cloud Compression Framework for Roadside LiDARs in Intelligent Transportation Systems](https://arxiv.org/abs/2405.01750) — `detection` `compression`
+- [Pointsoup: High-Performance and Extremely Low-Decoding-Latency Learned Geometry Codec for Large-Scale Point Cloud Scenes](https://arxiv.org/abs/2404.13550) — `compression`
 - [PVContext: Hybrid Context Model for Point Cloud Compression](https://arxiv.org/abs/2409.12724) — `compression`
 - [Rendering-Oriented 3D Point Cloud Attribute Compression using Sparse Tensor-based Transformer](https://arxiv.org/abs/2411.07899) — `compression`
+- [Scalable Human-Machine Point Cloud Compression](https://arxiv.org/abs/2402.12532) — `compression`
 - [SPAC: Sampling-based Progressive Attribute Compression for Dense Point Clouds](https://arxiv.org/abs/2409.10293) — `compression`
 - [Sparse Point Clouds Assisted Learned Image Compression](https://arxiv.org/abs/2412.15752) — `compression` `autonomous driving`
+- [Subjective performance evaluation of bitrate allocation strategies for MPEG and JPEG Pleno point cloud compression](https://arxiv.org/abs/2402.04760) — `compression`
+- [T3DNet: Compressing Point Cloud Models for Lightweight 3D Recognition](https://arxiv.org/abs/2402.19264) — `compression` `autonomous driving` `efficiency`
 - [Tensor-Train Point Cloud Compression and Efficient Approximate Nearest-Neighbor Search](https://arxiv.org/abs/2410.04462) — `compression` `efficiency`
+- [Towards Point Cloud Compression for Machine Perception: A Simple and Strong Baseline by Learning the Octree Depth Level Predictor](https://arxiv.org/abs/2406.00791) — `compression`
 - [U-Motion: Learned Point Cloud Video Compression with U-Structured Temporal Context Generation](https://arxiv.org/abs/2411.14501) — `generation` `compression`
 ## 2023
 
+- [GQE-Net: A Graph-based Quality Enhancement Network for Point Cloud Color Attribute](https://arxiv.org/abs/2303.13764) — `compression`
 - [4DSR-GCN: 4D Video Point Cloud Upsampling using Graph Convolutional Networks](https://arxiv.org/abs/2306.01081) — `compression` `upsampling`
 - [Activating Frequency and ViT for 3D Point Cloud Quality Assessment without Reference](https://arxiv.org/abs/2312.05972) — `compression`
 - [Aggressive saliency-aware point cloud compression](https://arxiv.org/abs/2307.10741) — `compression`
+- [BASICS: Broad quality Assessment of Static point clouds In Compression Scenarios](https://arxiv.org/abs/2302.04796) — `compression`
+- [BIRD-PCC: Bi-directional Range Image-based Deep LiDAR Point Cloud Compression](https://arxiv.org/abs/2303.04027) — `compression`
 - [Deep Learning-based Compressed Domain Multimedia for Man and Machine: A Taxonomy and Application to Point Cloud Classification](https://arxiv.org/abs/2310.18849) — `classification` `compression`
+- [Deep probabilistic model for lossless scalable point cloud attribute compression](https://arxiv.org/abs/2303.06517) — `compression`
 - [DiffPMAE: Diffusion Masked Autoencoders for Point Cloud Reconstruction](https://arxiv.org/abs/2312.03298) — `reconstruction` `compression`
+- [Dynamic Point Cloud Geometry Compression Using Multiscale Inter Conditional Coding](https://arxiv.org/abs/2301.12165) — `reconstruction` `compression`
+- [Geometric Prior Based Deep Human Point Cloud Geometry Compression](https://arxiv.org/abs/2305.01309) — `compression`
+- [gpcgc: a green point cloud geometry coding method](https://arxiv.org/abs/2302.06062) — `compression`
 - [Learned Nonlinear Predictor for Critically Sampled 3D Point Cloud Attribute Compression](https://arxiv.org/abs/2311.13539) — `compression`
 - [Learned Point Cloud Compression for Classification](https://arxiv.org/abs/2308.05959) — `segmentation` `detection` `classification` `compression`
 - [Learning Dynamic Point Cloud Compression via Hierarchical Inter-frame Block Matching](https://arxiv.org/abs/2305.05356) — `compression`
 - [Lightweight super resolution network for point cloud geometry compression](https://arxiv.org/abs/2311.00970) — `reconstruction` `compression` `upsampling` `efficiency`
+- [Lossless Point Cloud Attribute Compression Using Cross-scale, Cross-group, and Cross-color Prediction](https://arxiv.org/abs/2303.12917) — `compression`
+- [Lossless Point Cloud Geometry and Attribute Compression Using a Learned Conditional Probability Model](https://arxiv.org/abs/2303.06519) — `compression` `autonomous driving`
 - [Poster: Making Edge-assisted LiDAR Perceptions Robust to Lossy Point Cloud Compression](https://arxiv.org/abs/2309.04549) — `detection` `localization` `compression` `robustness`
+- [Reduced Reference Quality Assessment for Point Cloud Compression](https://arxiv.org/abs/2301.01009) — `compression`
 - [SCP: Spherical-Coordinate-based Learned Point Cloud Compression](https://arxiv.org/abs/2308.12535) — `compression`
 - [Simple Baselines for Projection-based Full-reference and No-reference Point Cloud Quality Assessment](https://arxiv.org/abs/2310.17147) — `compression`
+- [TT-SDF2PC: Registration of Point Cloud and Compressed SDF Directly in the Memory-Efficient Tensor Train Domain](https://arxiv.org/abs/2304.05342) — `registration` `compression` `efficiency`
+- [Volumetric Attribute Compression for 3D Point Clouds using Feedforward Network with Geometric Attention](https://arxiv.org/abs/2304.00335) — `reconstruction` `compression`
 ## 2022
 
 - [Density-preserving Deep Point Cloud Compression](https://arxiv.org/abs/2204.12684) — `compression`
 - [RIDDLE: Lidar Data Compression with Range Image Deep Delta Encoding](https://arxiv.org/abs/2206.01738) — `compression` `autonomous driving`
+- [OctAttention: Octree-Based Large-Scale Contexts Model for Point Cloud Compression](https://arxiv.org/abs/2202.06028) — `compression`
 - [GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression](https://arxiv.org/abs/2209.04401) — `compression` — Workshop
+- [Variable Rate Compression for Raw 3D Point Clouds](https://arxiv.org/abs/2202.13862) — `compression`
 - [Composite Convolution: a Flexible Operator for Deep Learning on 3D Point Clouds](https://arxiv.org/abs/2209.11796) — `compression`
 - [3DAC: Learning Attribute Compression for Point Clouds](https://arxiv.org/abs/2203.09931) — `compression`
 - [4DAC: Learning Attribute Compression for Dynamic Point Clouds](https://arxiv.org/abs/2204.11723) — `compression`
@@ -93,6 +175,7 @@
 - [Efficient dynamic point cloud coding using Slice-Wise Segmentation](https://arxiv.org/abs/2208.08061) — `segmentation` `compression` `efficiency`
 - [Efficient LiDAR Point Cloud Geometry Compression Through Neighborhood Point Attention](https://arxiv.org/abs/2208.12573) — `compression` `efficiency`
 - [Evaluating Point Cloud from Moving Camera Videos: A No-Reference Metric](https://arxiv.org/abs/2208.14085) — `compression`
+- [Fractional Motion Estimation for Point Cloud Compression](https://arxiv.org/abs/2202.00172) — `compression`
 - [GPA-Net:No-Reference Point Cloud Quality Assessment with Multi-task Graph Convolutional Network](https://arxiv.org/abs/2210.16478) — `compression`
 - [Inter-Frame Compression for Dynamic Point Cloud Geometry Coding](https://arxiv.org/abs/2207.12554) — `compression` `autonomous driving`
 - [IPDAE: Improved Patch-Based Deep Autoencoder for Lossy Point Cloud Geometry Compression](https://arxiv.org/abs/2208.02519) — `compression` `autonomous driving`
@@ -103,9 +186,11 @@
 - [Motion estimation and filtered prediction for dynamic point cloud attribute compression](https://arxiv.org/abs/2210.08262) — `compression`
 - [Multiscale Latent-Guided Entropy Model for LiDAR Point Cloud Compression](https://arxiv.org/abs/2209.12512) — `compression`
 - [PCQA-GRAPHPOINT: Efficients Deep-Based Graph Metric For Point Cloud Quality Assessment](https://arxiv.org/abs/2211.02459) — `compression`
+- [Point Cloud Compression for Efficient Data Broadcasting: A Performance Comparison](https://arxiv.org/abs/2202.00719) — `detection` `tracking` `generation` `compression`
 - [Point Cloud Compression with Sibling Context and Surface Priors](https://arxiv.org/abs/2205.00760) — `compression`
 - [Rate-Distortion Modeling for Bit Rate Constrained Point Cloud Compression](https://arxiv.org/abs/2211.10646) — `compression`
 - [Rate-Distortion Optimal Transform Coefficient Selection for Unoccupied Regions in Video-Based Point Cloud Compression](https://arxiv.org/abs/2206.12186) — `compression`
+- [Sampling color and geometry point clouds from ShapeNet dataset](https://arxiv.org/abs/2201.06935) — `compression` `dataset`
 - [Sparse Tensor-based Point Cloud Attribute Compression](https://arxiv.org/abs/2204.01023) — `compression`
 - [The use of Octree in point cloud analysis with application to cultural heritage](https://arxiv.org/abs/2301.06936) — `compression`
 ## 2021

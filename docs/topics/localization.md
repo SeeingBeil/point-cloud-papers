@@ -1,80 +1,160 @@
 # Localization & Place Recognition · `localization`
 
-共 **160** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **264** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2026
 
+- [A Semantically Disentangled Unified Model for Multi-category 3D Anomaly Detection](https://arxiv.org/abs/2603.25159) — `detection` `localization` `reconstruction` `anomaly detection`
+- [Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal](https://arxiv.org/abs/2603.28224) — `detection` `localization` `autonomous driving` `dataset`
+- [Towards Foundation Models for 3D Scene Understanding: Instance-Aware Self-Supervised Learning for Point Clouds](https://arxiv.org/abs/2603.25165) — `localization` `self-supervised`
+- [VLM-Loc: Localization in Point Cloud Maps via Vision-Language Models](https://arxiv.org/abs/2603.09826) — `localization` `vision-language`
+- [Depth-Guided Privacy-Preserving Visual Localization Using 3D Sphere Clouds](https://arxiv.org/abs/2605.00562) — `localization`
+- [Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection](https://arxiv.org/abs/2605.04541) — `registration` `localization`
+- [Dr-PoGO: Direct Radar Pose-Graph Optimization](https://arxiv.org/abs/2605.04806) — `slam` `localization` `multi-modal`
+- [PIRATR: Parametric Object Inference for Robotic Applications with Transformers in 3D Point Clouds](https://arxiv.org/abs/2602.05557) — `detection` `localization`
+- [PROBE: Probabilistic Occupancy BEV Encoding with Analytical Translation Robustness for 3D Place Recognition](https://arxiv.org/abs/2603.05965) — `localization` `BEV` `robustness`
 - [Aerial-ground LiDAR place recognition with patch-level self-supervised learning and expanded reciprocal re-ranking](https://arxiv.org/abs/2606.18583) — `localization` `self-supervised`
 - [Bayesian methods and Markov chain Monte Carlo algorithms for curve reconstruction and point cloud data analysis](https://arxiv.org/abs/2608.26490) — `localization` `reconstruction`
+- [Beyond the Vehicle: Cooperative Localization by Fusing Point Clouds for GPS-Challenged Urban Scenarios](https://arxiv.org/abs/2602.03908) — `registration` `localization`
+- [Discrete Fourier Transform-based Point Cloud Compression for Efficient SLAM in Featureless Terrain](https://arxiv.org/abs/2601.04551) — `slam` `localization` `compression` `efficiency`
 - [DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving](https://arxiv.org/abs/2608.26589) — `registration` `localization` `autonomous driving`
 - [From LiDAR Maps to Visual Localization: Unified Visual Association for Robust Point-Line-Plane Pose Estimation](https://arxiv.org/abs/2609.27363) — `localization` `robustness`
 - [GeoISF: Instance Semantic Forest Inspired Large-Scale Cross-View Geo-Localization via Ground LiDAR-to-Satellite Image](https://arxiv.org/abs/2606.28371) — `localization`
 - [Implementation of Tightly-Coupled SLAM Fusion of GPS, IMU, and LiDAR for Autonomous Vehicles](https://arxiv.org/abs/2609.20321) — `slam` `localization`
+- [LEAR: Learning Edge-Aware Representations for Event-to-LiDAR Localization](https://arxiv.org/abs/2603.01839) — `localization`
+- [Learning Point Cloud Geometry as a Statistical Manifold: Theory and Practice](https://arxiv.org/abs/2605.10456) — `localization`
+- [Leveraging Previous-Traversal Point Cloud Map Priors for Camera-Based 3D Object Detection and Tracking](https://arxiv.org/abs/2604.25405) — `detection` `tracking` `localization` `autonomous driving`
 - [MB-Loc: Multi-planar Bird's-eye-view Localization in outdoor LiDAR scenes](https://arxiv.org/abs/2606.08744) — `localization` `BEV`
+- [MirrorDrift: Actuated Mirror-Based Attacks on LiDAR SLAM](https://arxiv.org/abs/2603.11364) — `slam` `localization`
 - [Online Geometric Consistency Assessment of LiDAR Measurements via Recursive Bayesian Comparison](https://arxiv.org/abs/2611.10566) — `registration` `localization`
+- [Point Cloud Registration for Fusion between SPECT MPI and CTA Images](https://arxiv.org/abs/2604.24524) — `registration` `localization`
+- [PointSLAM++: Robust Dense Neural Gaussian Point Cloud-based SLAM](https://arxiv.org/abs/2601.11617) — `slam` `localization` `reconstruction` `robustness`
 - [Self-supervised Geometry Reasoning for LiDAR Simultaneous Localization and Mapping](https://arxiv.org/abs/2606.30166) — `slam` `localization` `self-supervised`
+- [Super-Resolution of Airborne Laser Scanning Point Clouds for Forest Inventory](https://arxiv.org/abs/2605.02201) — `localization` `upsampling`
+- [TreeLoc++: Robust 6-DoF LiDAR Localization in Forests with a Compact Digital Forest Inventory](https://arxiv.org/abs/2603.03695) — `localization` `robustness`
 - [Unsigned Distance Maps on 2D Point Cloud Registration](https://arxiv.org/abs/2609.25932) — `registration` `slam` `localization` — [code](https://github.com/INESCTEC/ricoslam)
 - [UQ-Loc: Uncertainty-Aware LiDAR Scene Coordinate Regression](https://arxiv.org/abs/2608.06307) — `localization`
 - [VTLoc: Learning-based Tactile Contact Localization in Visual Point Clouds](https://arxiv.org/abs/2607.16146) — `localization`
 - [When Point Clouds Outperform Pixels: Rethinking Zero-Shot Multimodal Anomaly Detection](https://arxiv.org/abs/2609.25793) — `detection` `localization` `open-vocabulary` `multi-modal`
+- [WHU-PCPR: A cross-platform heterogeneous point cloud dataset for place recognition in complex urban scenes](https://arxiv.org/abs/2601.06442) — `localization` `autonomous driving` `dataset`
 ## 2025
 
+- [CMMLoc: Advancing Text-to-PointCloud Localization with Cauchy-Mixture-Model Based Framework](https://arxiv.org/abs/2503.02593) — `localization`
+- [HOTFormerLoc: Hierarchical Octree Transformer for Versatile Lidar Place Recognition Across Ground and Aerial Views](https://arxiv.org/abs/2503.08140) — `localization`
+- [Egocentric Action-aware Inertial Localization in Point Clouds with Vision-Language Guidance](https://arxiv.org/abs/2505.14346) — `localization` `vision-language`
+- [PlaceIt3D: Language-Guided Object Placement in Real 3D Scenes](https://arxiv.org/abs/2505.05288) — `localization`
+- [L2RSI: Cross-view LiDAR-based Place Recognition for Large-scale Urban Scenes via Remote Sensing Imagery](https://arxiv.org/abs/2503.11245) — `localization`
 - [PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model](https://arxiv.org/abs/2511.09724) — `localization` `pre-training`
+- [Diffusion Based Robust LiDAR Place Recognition](https://arxiv.org/abs/2504.12412) — `localization` `robustness`
+- [Introspective Loop Closure for SLAM with 4D Imaging Radar](https://arxiv.org/abs/2503.02383) — `slam` `localization` `multi-modal`
+- [TDFANet: Encoding Sequential 4D Radar Point Clouds Using Trajectory-Guided Deformable Feature Aggregation for Place Recognition](https://arxiv.org/abs/2504.05103) — `localization` `multi-modal`
 - [DAMM-LOAM: Degeneracy Aware Multi-Metric LiDAR Odometry and Mapping](https://arxiv.org/abs/2510.13287) — `slam` `localization` `reconstruction` — Workshop
 - [EAROL: Environmental Augmented Perception-Aware Planning and Robust Odometry via Downward-Mounted Tilted LiDAR](https://arxiv.org/abs/2508.14554) — `localization` `robustness`
+- [Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM](https://arxiv.org/abs/2503.11145) — `slam` `localization` `robustness` `efficiency`
 - [mmWave Radar-Based Non-Line-of-Sight Pedestrian Localization at T-Junctions Utilizing Road Layout Extraction via Camera](https://arxiv.org/abs/2508.02348) — `detection` `localization` `autonomous driving` `multi-modal`
 - [OREN: Octree Residual Network for Real-Time Euclidean Signed Distance Mapping](https://arxiv.org/abs/2510.18999) — `localization` `reconstruction` `efficiency`
 - [Radar-Based NLoS Pedestrian Localization for Darting-Out Scenarios Near Parked Vehicles with Camera-Assisted Point Cloud Interpretation](https://arxiv.org/abs/2508.04033) — `detection` `localization` `multi-modal`
 - [Breaking the Static Assumption: A Dynamic-Aware LIO Framework Via Spatio-Temporal Normal Analysis](https://arxiv.org/abs/2510.22313) — `localization`
+- [GOTPR: General Outdoor Text-based Place Recognition Using Scene Graph Retrieval with OpenStreetMap](https://arxiv.org/abs/2501.08575) — `localization`
 - [HOTFLoc++: End-to-End Hierarchical LiDAR Place Recognition, Re-Ranking, and 6-DoF Metric Localisation in Forests](https://arxiv.org/abs/2511.09170) — `localization`
 - [Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language](https://arxiv.org/abs/2511.15308) — `localization`
+- [A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments](https://arxiv.org/abs/2505.18340) — `localization`
 - [AEOS: Active Environment-aware Optimal Scanning Control for UAV LiDAR-Inertial Odometry in Complex Scenes](https://arxiv.org/abs/2509.09141) — `localization`
+- [An Iterative Task-Driven Framework for Resilient LiDAR Place Recognition in Adverse Weather](https://arxiv.org/abs/2504.14806) — `localization`
 - [Bench-RNR: Dataset for Benchmarking Repetitive and Non-repetitive Scanning LiDAR for Infrastructure-based Vehicle Localization](https://arxiv.org/abs/2509.15583) — `localization` `dataset`
 - [CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering](https://arxiv.org/abs/2511.16349) — `registration` `localization` `efficiency`
 - [CURL-SLAM: Continuous and Compact LiDAR Mapping](https://arxiv.org/abs/2506.21077) — `slam` `localization`
 - [Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images](https://arxiv.org/abs/2507.15496) — `completion` `slam` `localization`
 - [DisorientLiDAR: Physical Attacks on LiDAR-based Localization](https://arxiv.org/abs/2509.12595) — `localization` `autonomous driving`
+- [Efficiently Closing Loops in LiDAR-Based SLAM Using Point Cloud Density Maps](https://arxiv.org/abs/2501.07399) — `detection` `slam` `localization`
+- [Fast 3D point clouds retrieval for Large-scale 3D Place Recognition](https://arxiv.org/abs/2502.21067) — `localization`
+- [FlexCloud: Direct, Modular Georeferencing and Drift-Correction of Point Cloud Maps](https://arxiv.org/abs/2502.00395) — `slam` `localization` `generation` `autonomous driving`
+- [ImLPR: Image-based LiDAR Place Recognition using Vision Foundation Models](https://arxiv.org/abs/2505.18364) — `localization`
+- [LiDAR Registration with Visual Foundation Models](https://arxiv.org/abs/2502.19374) — `registration` `localization`
 - [Lidar Variability: A Novel Dataset and Comparative Study of Solid-State and Spinning Lidars](https://arxiv.org/abs/2507.04321) — `localization` `reconstruction` `dataset`
+- [LiDARDustX: A LiDAR Dataset for Dusty Unstructured Road Environments](https://arxiv.org/abs/2505.21914) — `localization` `autonomous driving` `dataset`
 - [LifelongPR: Lifelong point cloud place recognition based on sample replay and prompt learning](https://arxiv.org/abs/2507.10034) — `localization` `autonomous driving`
+- [LiM-Loc: Visual Localization with Dense and Accurate 3D Reference Maps Directly Corresponding 2D Keypoints to 3D LiDAR Point Clouds](https://arxiv.org/abs/2503.23664) — `localization` `reconstruction`
+- [LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments](https://arxiv.org/abs/2501.02580) — `registration` `slam` `localization` `robustness`
+- [Mapping and Localization Using LiDAR Fiducial Markers](https://arxiv.org/abs/2502.03510) — `localization`
+- [MinkUNeXt-SI: Improving point cloud-based place recognition including spherical coordinates and LiDAR intensity](https://arxiv.org/abs/2505.17591) — `localization`
 - [Multi-Mapcher: Loop Closure Detection-Free Heterogeneous LiDAR Multi-Session SLAM Leveraging Outlier-Robust Registration for Autonomous Vehicles](https://arxiv.org/abs/2511.00635) — `registration` `detection` `slam` `localization`
+- [OpenLiDARMap: Zero-Drift Point Cloud Mapping using Map Priors](https://arxiv.org/abs/2501.11111) — `slam` `localization`
 - [PCR-ORB: Enhanced ORB-SLAM3 with Point Cloud Refinement Using Deep Learning-Based Dynamic Object Filtering](https://arxiv.org/abs/2512.23318) — `tracking` `localization`
 - [Pole-Image: A Self-Supervised Pole-Anchored Descriptor for Long-Term LiDAR Localization and Map Maintenance](https://arxiv.org/abs/2510.17237) — `detection` `localization` `self-supervised`
+- [PSA-SSL: Pose and Size-aware Self-Supervised Learning on LiDAR Point Clouds](https://arxiv.org/abs/2503.13914) — `localization` `self-supervised`
 - [Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching](https://arxiv.org/abs/2512.01850) — `registration` `localization` `generation` `reconstruction`
+- [Tiny LiDARs for Manipulator Self-Awareness: Sensor Characterization and Initial Localization Experiments](https://arxiv.org/abs/2503.03449) — `localization`
 - [TopoRec: Point Cloud Recognition Using Topological Data Analysis](https://arxiv.org/abs/2506.18725) — `localization` `reconstruction` `autonomous driving`
 - [UniLGL: Learning Uniform Place Recognition for FOV-limited/Panoramic LiDAR Global Localization](https://arxiv.org/abs/2507.12194) — `localization`
+- [Vehicle-Scene Interaction: A Text-Driven 3D Lidar Place Recognition Method for Autonomous Driving](https://arxiv.org/abs/2503.18035) — `localization` `autonomous driving`
+- [WLTCL: Wide Field-of-View 3-D LiDAR Truck Compartment Automatic Localization System](https://arxiv.org/abs/2504.18870) — `localization`
 ## 2024
 
+- [3D LiDAR Mapping in Dynamic Environments Using a 4D Implicit Neural Representation](https://arxiv.org/abs/2405.03388) — `localization`
+- [RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method](https://arxiv.org/abs/2403.19501) — `localization` `multi-modal` `dataset`
 - [Text2Loc: 3D Point Cloud Localization from Natural Language](https://arxiv.org/abs/2311.15977) — `localization`
 - [Localization and Expansion: A Decoupled Framework for Point Cloud Few-shot Semantic Segmentation](https://arxiv.org/abs/2408.13752) — `segmentation` `classification` `localization`
 - [Efficient LiDAR Bundle Adjustment for Multi-Scan Alignment Utilizing Continuous-Time Trajectories](https://arxiv.org/abs/2412.11760) — `localization` `efficiency`
 - [Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces](https://arxiv.org/abs/2410.10277) — `registration` `localization`
+- [LHMap-loc: Cross-Modal Monocular Localization Using LiDAR Point Cloud Heat Map](https://arxiv.org/abs/2403.05002) — `localization` `autonomous driving` `monocular`
+- [Prepared for the Worst: A Learning-Based Adversarial Attack for Resilience Analysis of the ICP Algorithm](https://arxiv.org/abs/2403.05666) — `localization` `robustness`
+- [RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments](https://arxiv.org/abs/2402.18934) — `registration` `localization`
+- [SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints](https://arxiv.org/abs/2404.12339) — `localization`
+- [That's My Point: Compact Object-centric LiDAR Pose Estimation for Large-scale Outdoor Localisation](https://arxiv.org/abs/2403.04755) — `localization`
+- [VOLoc: Visual Place Recognition by Querying Compressed Lidar Map](https://arxiv.org/abs/2402.15961) — `localization` `compression`
 - [CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration](https://arxiv.org/abs/2408.02394) — `registration` `localization`
+- [BeautyMap: Binary-Encoded Adaptable Ground Matrix for Dynamic Points Removal in Global Maps](https://arxiv.org/abs/2405.07283) — `localization`
 - [Point Cloud Structural Similarity-based Underwater Sonar Loop Detection](https://arxiv.org/abs/2409.14020) — `detection` `localization`
 - [PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion](https://arxiv.org/abs/2410.04939) — `localization` `autonomous driving` `multi-modal` `robustness`
 - [A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM](https://arxiv.org/abs/2412.07513) — `registration` `slam` `localization` `autonomous driving`
+- [CMRNext: Camera to LiDAR Matching in the Wild for Localization and Extrinsic Calibration](https://arxiv.org/abs/2402.00129) — `localization` `monocular`
 - [Cross-Modal Visual Relocalization in Prior LiDAR Maps Utilizing Intensity Textures](https://arxiv.org/abs/2412.01299) — `localization`
 - [CTE-MLO: Continuous-time and Efficient Multi-LiDAR Odometry with Localizability-aware Point Cloud Sampling](https://arxiv.org/abs/2408.04901) — `localization` `efficiency`
+- [DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization](https://arxiv.org/abs/2406.11266) — `segmentation` `localization`
 - [Evaluating and Improving the Robustness of LiDAR Odometry and Localization Under Real-World Corruptions](https://arxiv.org/abs/2409.10824) — `localization` `autonomous driving` `robustness`
 - [FlashMix: Fast Map-Free LiDAR Localization via Feature Mixing and Contrastive-Constrained Accelerated Training](https://arxiv.org/abs/2410.00702) — `localization`
+- [GlORIE-SLAM: Globally Optimized RGB-only Implicit Encoding Point Cloud SLAM](https://arxiv.org/abs/2403.19549) — `slam` `localization`
 - [Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild](https://arxiv.org/abs/2408.11809) — `registration` `slam` `localization`
+- [Instance-free Text to Point Cloud Localization with Relative Position Awareness](https://arxiv.org/abs/2404.17845) — `localization`
+- [LiDAR-based HD Map Localization using Semantic Generalized ICP with Road Marking Detection](https://arxiv.org/abs/2407.02061) — `registration` `detection` `localization` `autonomous driving`
 - [LVBA: LiDAR-Visual Bundle Adjustment for RGB Point Cloud Mapping](https://arxiv.org/abs/2409.10868) — `localization`
+- [MinkUNeXt: Point Cloud-based Large-scale Place Recognition using 3D Sparse Convolutions](https://arxiv.org/abs/2403.07593) — `localization`
 - [Monocular Visual Place Recognition in LiDAR Maps via Cross-Modal State Space Model and Multi-View Matching](https://arxiv.org/abs/2410.06285) — `slam` `localization` `monocular`
+- [NIV-SSD: Neighbor IoU-Voting Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2401.12447) — `detection` `classification` `localization`
+- [OverlapMamba: Novel Shift State Space Model for LiDAR-based Place Recognition](https://arxiv.org/abs/2405.07966) — `detection` `slam` `localization`
+- [RecNet: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction](https://arxiv.org/abs/2402.02192) — `localization` `reconstruction`
 - [Reliable-loc: Robust sequential LiDAR global localization in large-scale street scenes based on verifiable cues](https://arxiv.org/abs/2411.07815) — `localization` `robustness`
 - [SaliencyI2PLoc: saliency-guided image-point cloud localization using contrastive learning](https://arxiv.org/abs/2412.15577) — `localization` `self-supervised`
+- [SALSA: Swift Adaptive Lightweight Self-Attention for Enhanced LiDAR Place Recognition](https://arxiv.org/abs/2407.08260) — `localization` `efficiency`
+- [SD-SLAM: A Semantic SLAM Approach for Dynamic Scenes Based on LiDAR Point Clouds](https://arxiv.org/abs/2402.18318) — `slam` `localization`
 - [SLAM2REF: Advancing Long-Term Mapping with 3D LiDAR and Reference Map Integration for Precise 6-DoF Trajectory Estimation and Map Extension](https://arxiv.org/abs/2408.15948) — `localization`
+- [Towards Explainable LiDAR Point Cloud Semantic Segmentation via Gradient Based Target Localization](https://arxiv.org/abs/2402.12098) — `segmentation` `localization` `autonomous driving`
 - [TRLO: An Efficient LiDAR Odometry with 3D Dynamic Object Tracking and Removal](https://arxiv.org/abs/2410.13240) — `tracking` `slam` `localization` `efficiency`
 - [Visual Localization in 3D Maps: Comparing Point Cloud, Mesh, and NeRF Representations](https://arxiv.org/abs/2408.11966) — `localization` `nerf`
+- [Voxel-Based Point Cloud Localization for Smart Spaces Management](https://arxiv.org/abs/2406.15110) — `registration` `localization`
 ## 2023
 
 - [NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization](https://arxiv.org/abs/2211.11177) — `localization`
+- [OrienterNet: Visual Localization in 2D Public Maps with Neural Matching](https://arxiv.org/abs/2304.02009) — `localization`
+- [BEVPlace: Learning LiDAR-based Place Recognition using Bird's Eye View Images](https://arxiv.org/abs/2302.14325) — `slam` `localization`
 - [CASSPR: Cross Attention Single Scan Place Recognition](https://arxiv.org/abs/2211.12542) — `localization` `autonomous driving`
 - [EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization](https://arxiv.org/abs/2309.07471) — `localization`
+- [Point-SLAM: Dense Neural Point Cloud-based SLAM](https://arxiv.org/abs/2304.04278) — `tracking` `slam` `localization` `monocular`
 - [Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization](https://arxiv.org/abs/2306.09012) — `localization`
+- [Text to Point Cloud Localization with Relation-Enhanced Transformer](https://arxiv.org/abs/2301.05372) — `localization`
 - [Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR](https://arxiv.org/abs/2211.16951) — `localization` `monocular`
+- [GMCR: Graph-based Maximum Consensus Estimation for Point Cloud Registration](https://arxiv.org/abs/2303.04032) — `registration` `localization`
+- [Real-Time Simultaneous Localization and Mapping with LiDAR intensity](https://arxiv.org/abs/2301.09257) — `localization` `efficiency` — [code](https://github.com/SnowCarter/Intensity_based_LiDAR_SLAM.git)
+- [SLAMesh: Real-time LiDAR Simultaneous Localization and Meshing](https://arxiv.org/abs/2303.05252) — `slam` `localization` `efficiency`
+- [Slice Transformer and Self-supervised Learning for 6DoF Localization in 3D Point Cloud Maps](https://arxiv.org/abs/2301.08957) — `localization` `self-supervised`
+- [BPT: Binary Point Cloud Transformer for Place Recognition](https://arxiv.org/abs/2303.01166) — `slam` `localization`
 - [Deep Robust Multi-Robot Re-localisation in Natural Environments](https://arxiv.org/abs/2307.13950) — `localization` `robustness`
+- [I2P-Rec: Recognizing Images on Large-scale Point Cloud Maps through Bird's Eye View Projections](https://arxiv.org/abs/2303.01043) — `localization`
 - [Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison](https://arxiv.org/abs/2306.15416) — `detection` `localization`
+- [(LC)$^2$: LiDAR-Camera Loop Constraints For Cross-Modal Place Recognition](https://arxiv.org/abs/2304.08660) — `detection` `localization` `multi-modal`
 - [CoFiI2P: Coarse-to-Fine Correspondences for Image-to-Point Cloud Registration](https://arxiv.org/abs/2309.14660) — `registration` `localization`
 - [D2S: Representing sparse descriptors and 3D coordinates for camera relocalization](https://arxiv.org/abs/2307.15250) — `localization`
 - [LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition](https://arxiv.org/abs/2311.03198) — `localization` `multi-modal`
@@ -82,20 +162,30 @@
 - [3D-BBS: Global Localization for 3D Point Cloud Scan Matching Using Branch-and-Bound Algorithm](https://arxiv.org/abs/2310.10023) — `localization`
 - [A Dynamic Points Removal Benchmark in Point Cloud Maps](https://arxiv.org/abs/2307.07260) — `localization` `dataset` — [code](https://github.com/KTH-RPL/DynamicMap_Benchmark.git)
 - [Adaptive Denoising-Enhanced LiDAR Odometry for Degeneration Resilience in Diverse Terrains](https://arxiv.org/abs/2309.14641) — `slam` `localization` `denoising`
+- [BEVFusion4D: Learning LiDAR-Camera Fusion Under Bird's-Eye-View via Cross-Modality Guidance and Temporal Aggregation](https://arxiv.org/abs/2303.17099) — `detection` `localization` `autonomous driving` `BEV`
 - [Camera-LiDAR Fusion with Latent Contact for Place Recognition in Challenging Cross-Scenes](https://arxiv.org/abs/2310.10371) — `localization` `multi-modal`
 - [Correcting Motion Distortion for LIDAR HD-Map Localization](https://arxiv.org/abs/2308.13694) — `localization`
+- [CVTNet: A Cross-View Transformer Network for Place Recognition Using LiDAR Data](https://arxiv.org/abs/2302.01665) — `localization`
 - [DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors](https://arxiv.org/abs/2312.02684) — `slam` `localization`
 - [Detection and Classification of Pole-like Landmarks for Domain-invariant 3D Point Cloud Map Matching](https://arxiv.org/abs/2305.06845) — `detection` `classification` `localization`
 - [Efficient Real-time Smoke Filtration with 3D LiDAR for Search and Rescue with Autonomous Heterogeneous Robotic Systems](https://arxiv.org/abs/2308.07264) — `localization` `efficiency`
+- [Eigen-Factors a Bilevel Optimization for Plane SLAM of 3D Point Clouds](https://arxiv.org/abs/2304.01055) — `slam` `localization`
 - [End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization](https://arxiv.org/abs/2306.11346) — `registration` `localization` — [code](https://github.com/IRMVLab/I2PNet)
+- [FRAME: Fast and Robust Autonomous 3D point cloud Map-merging for Egocentric multi-robot exploration](https://arxiv.org/abs/2301.09213) — `detection` `localization` `robustness`
+- [HybridPoint: Point Cloud Registration Based on Hybrid Point Sampling and Matching](https://arxiv.org/abs/2303.16526) — `registration` `localization`
 - [InstaLoc: One-shot Global Lidar Localisation in Indoor Environments through Instance Learning](https://arxiv.org/abs/2305.09552) — `localization`
 - [LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation](https://arxiv.org/abs/2309.10436) — `registration` `detection` `slam` `localization`
 - [Light-LOAM: A Lightweight LiDAR Odometry and Mapping based on Graph-Matching](https://arxiv.org/abs/2310.04162) — `slam` `localization` `efficiency`
 - [Multi-Session, Localization-oriented and Lightweight LiDAR Mapping Using Semantic Lines and Planes](https://arxiv.org/abs/2307.07126) — `localization` `efficiency`
 - [NDT-Map-Code: A 3D global descriptor for real-time loop closure detection in lidar SLAM](https://arxiv.org/abs/2307.08221) — `detection` `slam` `localization` `efficiency`
+- [Photometric LiDAR and RGB-D Bundle Adjustment](https://arxiv.org/abs/2303.16878) — `slam` `localization`
+- [PointFISH -- learning point cloud representations for RNA localization patterns](https://arxiv.org/abs/2302.10923) — `detection` `localization`
 - [Poster: Making Edge-assisted LiDAR Perceptions Robust to Lossy Point Cloud Compression](https://arxiv.org/abs/2309.04549) — `detection` `localization` `compression` `robustness`
+- [Quadric Representations for LiDAR Odometry, Mapping and Localization](https://arxiv.org/abs/2304.14190) — `localization` `autonomous driving`
+- [Real-time LIDAR localization in natural and urban environments](https://arxiv.org/abs/2301.13583) — `localization` `efficiency`
 - [Roadside LiDAR Assisted Cooperative Localization for Connected Autonomous Vehicles](https://arxiv.org/abs/2311.07913) — `registration` `localization`
 - [Robust Lifelong Indoor LiDAR Localization using the Area Graph](https://arxiv.org/abs/2308.05593) — `localization` `robustness`
+- [Robust Multi-Modal Multi-LiDAR-Inertial Odometry and Mapping for Indoor Environments](https://arxiv.org/abs/2303.02684) — `slam` `localization` `multi-modal` `robustness`
 - [Self-Supervised Learning for Point Clouds Data: A Survey](https://arxiv.org/abs/2305.11881) — `detection` `localization` `self-supervised`
 - [SelFLoc: Selective Feature Fusion for Large-scale Point Cloud-based Place Recognition](https://arxiv.org/abs/2306.01205) — `localization`
 - [VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition](https://arxiv.org/abs/2308.12870) — `slam` `localization`
@@ -106,10 +196,15 @@
 - [Is Geometry Enough for Matching in Visual Localization?](https://arxiv.org/abs/2203.12979) — `localization`
 - [RPR-Net: A Point Cloud-based Rotation-aware Large Scale Place Recognition Network](https://arxiv.org/abs/2108.12790) — `slam` `localization` — Workshop
 - [SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition](https://arxiv.org/abs/2105.00149) — `slam` `localization` `efficiency`
+- [A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments](https://arxiv.org/abs/2203.06612) — `registration` `localization` `robustness`
 - [HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud](https://arxiv.org/abs/2204.05481) — `detection` `slam` `localization`
+- [Translation Invariant Global Estimation of Heading Angle Using Sinogram of LiDAR Point Cloud](https://arxiv.org/abs/2203.00924) — `registration` `localization`
 - [An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds](https://arxiv.org/abs/2212.05705) — `slam` `localization`
 - [BoxGraph: Semantic Place Recognition and Pose Estimation from 3D LiDAR](https://arxiv.org/abs/2206.15154) — `segmentation` `localization`
+- [CGiS-Net: Aggregating Colour, Geometry and Implicit Semantic Features for Indoor Place Recognition](https://arxiv.org/abs/2202.02070) — `segmentation` `localization`
+- [Drift Reduced Navigation with Deep Explainable Features](https://arxiv.org/abs/2203.06897) — `slam` `localization`
 - [Gravity-constrained point cloud registration](https://arxiv.org/abs/2203.13799) — `registration` `slam` `localization`
+- [InCloud: Incremental Learning for Point Cloud Place Recognition](https://arxiv.org/abs/2203.00807) — `localization`
 - [PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM](https://arxiv.org/abs/2208.14848) — `registration` `slam` `localization`
 - [Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking](https://arxiv.org/abs/2209.00522) — `completion` `tracking` `localization` `efficiency`
 - [Point Cloud Change Detection With Stereo V-SLAM:Dataset, Metrics and Baseline](https://arxiv.org/abs/2207.00246) — `detection` `slam` `localization` `dataset`
@@ -118,21 +213,30 @@
 - [CroCo: Cross-Modal Contrastive learning for localization of Earth Observation data](https://arxiv.org/abs/2204.07052) — `localization` `self-supervised`
 - [Accurate Fruit Localisation for Robotic Harvesting using High Resolution LiDAR-Camera Fusion](https://arxiv.org/abs/2205.00404) — `localization` `multi-modal`
 - [AdaSplats: Adaptive Splatting of Point Clouds for Accurate 3D Modeling and Real-time High-Fidelity LiDAR Simulation](https://arxiv.org/abs/2203.09155) — `segmentation` `detection` `tracking` `localization`
+- [An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs](https://arxiv.org/abs/2203.05763) — `registration` `slam` `localization` `efficiency`
 - [Attention-Enhanced Cross-modal Localization Between 360 Images and Point Clouds](https://arxiv.org/abs/2212.02757) — `localization` `autonomous driving`
 - [CloudVision: DNN-based Visual Localization of Autonomous Robots using Prebuilt LiDAR Point Cloud](https://arxiv.org/abs/2209.01605) — `slam` `localization`
 - [Contrastive Learning of Features between Images and LiDAR](https://arxiv.org/abs/2206.12071) — `localization` `self-supervised`
 - [CorAl: Introspection for Robust Radar and Lidar Perception in Diverse Environments Using Differential Entropy](https://arxiv.org/abs/2205.05975) — `localization` `multi-modal` `robustness`
 - [Data-driven Loop Closure Detection in Bathymetric Point Clouds for Underwater SLAM](https://arxiv.org/abs/2209.08578) — `detection` `slam` `localization`
+- [Deep Camera Pose Regression Using Pseudo-LiDAR](https://arxiv.org/abs/2203.00080) — `localization`
 - [DL-SLOT: Dynamic LiDAR SLAM and object tracking based on collaborative graph optimization](https://arxiv.org/abs/2212.02077) — `tracking` `slam` `localization` `autonomous driving`
+- [DL-SLOT: Dynamic Lidar SLAM and Object Tracking Based On Graph Optimization](https://arxiv.org/abs/2202.11431) — `tracking` `slam` `localization` `autonomous driving`
 - [Efficient Stereo Depth Estimation for Pseudo LiDAR: A Self-Supervised Approach Based on Multi-Input ResNet Encoder](https://arxiv.org/abs/2205.08089) — `localization` `self-supervised` `efficiency`
+- [FAST-LIVO: Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry](https://arxiv.org/abs/2203.00893) — `slam` `localization`
 - [Fiducial Tag Localization on a 3D LiDAR Prior Map](https://arxiv.org/abs/2209.01072) — `localization`
 - [FreSCo: Frequency-Domain Scan Context for LiDAR-based Place Recognition with Translation and Rotation Invariance](https://arxiv.org/abs/2206.12628) — `detection` `localization`
+- [Improving Point Cloud Based Place Recognition with Ranking-based Loss and Large Batch Training](https://arxiv.org/abs/2203.00972) — `localization`
 - [Learning Dense Features for Point Cloud Registration Using a Graph Attention Network](https://arxiv.org/abs/2206.06731) — `registration` `tracking` `localization` `reconstruction`
+- [LIDAR data based Segmentation and Localization using Open Street Maps for Rural Roads](https://arxiv.org/abs/2202.07049) — `segmentation` `localization`
 - [LOCUS 2.0: Robust and Computationally Efficient Lidar Odometry for Real-Time Underground 3D Mapping](https://arxiv.org/abs/2205.11784) — `localization` `robustness` `efficiency`
+- [Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms](https://arxiv.org/abs/2203.03454) — `localization` `multi-modal` `dataset`
+- [Multiview point cloud registration with anisotropic and space-varying localization noise](https://arxiv.org/abs/2201.00708) — `registration` `localization` `reconstruction`
 - [Object Scan Context: Object-centric Spatial Descriptor for Place Recognition within 3D Point Cloud Map](https://arxiv.org/abs/2206.03062) — `slam` `localization`
 - [Online Pole Segmentation on Range Images for Long-term LiDAR Localization in Urban Environments](https://arxiv.org/abs/2208.07364) — `segmentation` `localization`
 - [PlaneSLAM: Plane-based LiDAR SLAM for Motion Planning in Structured 3D Environments](https://arxiv.org/abs/2209.08248) — `slam` `localization`
 - [Point Cloud Registration-Driven Robust Feature Matching for 3D Siamese Object Tracking](https://arxiv.org/abs/2209.06395) — `registration` `tracking` `localization` `robustness`
+- [SC-LiDAR-SLAM: a Front-end Agnostic Versatile LiDAR SLAM System](https://arxiv.org/abs/2201.06423) — `detection` `slam` `localization` `generation`
 - [Semantic Geometric Fusion Multi-object Tracking and Lidar Odometry in Dynamic Environment](https://arxiv.org/abs/2204.11621) — `detection` `tracking` `slam` `localization`
 - [Semantic localization on BIM-generated maps using a 3D LiDAR sensor](https://arxiv.org/abs/2205.00816) — `localization`
 - [Time and Cost-Efficient Bathymetric Mapping System using Sparse Point Cloud Generation and Automatic Object Detection](https://arxiv.org/abs/2210.10263) — `detection` `localization` `generation` `efficiency`

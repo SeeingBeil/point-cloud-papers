@@ -1,18 +1,22 @@
 # Shape Completion · `completion`
 
-共 **132** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **188** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2026
 
+- [ComPose: A Unified Completion-Pose Framework for Robust Category-Level Object Pose Estimation](https://arxiv.org/abs/2605.25553) — `completion` `robustness`
 - [UBone3D: Physics-Rectified Conditional Flow Matching for Anatomical 3D Shape Completion from Ultrasound](https://arxiv.org/abs/2609.11506) — `segmentation` `completion`
+- [SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion](https://arxiv.org/abs/2605.01466) — `completion`
 - [DANCE: Density-agnostic and Class-aware Network for Point Cloud Completion](https://arxiv.org/abs/2511.07978) — `completion`
 - [DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion](https://arxiv.org/abs/2511.20278) — `completion`
 - [LiNeXt: Revisiting LiDAR Completion with Efficient Non-Diffusion Architectures](https://arxiv.org/abs/2511.10209) — `completion` `reconstruction` `efficiency`
 - [Rethinking Multimodal Point Cloud Completion: A Completion-by-Correction Perspective](https://arxiv.org/abs/2511.12170) — `completion` `multi-modal`
+- [TOSC: Task-Oriented Shape Completion for Open-World Dexterous Grasp Generation from Partial Point Clouds](https://arxiv.org/abs/2601.05499) — `completion` `generation`
 - [ProjFormer: Point Cloud Completion via Geometric-Projective Transformer and Cross-Modal Semantic Constraints](https://arxiv.org/abs/2608.15104) — `completion`
 - [Hyper^2: Unleashing Hyperbolic Geometry's Full Potential via Dual-Space Consistency](https://arxiv.org/abs/2608.22238) — `completion`
+- [PPC-MT: Parallel Point Cloud Completion with Mamba-Transformer Hybrid Architecture](https://arxiv.org/abs/2603.00870) — `completion` `reconstruction`
 - [A Three-Dimensional Reverse-Projection Method for Sparse Point Cloud Completion and Its Application to High-Speed Train Nose Reconstruction](https://arxiv.org/abs/2610.05758) — `completion` `reconstruction`
 - [Boundary-Enhanced Segmentation of Pig Point Clouds in Commercial Housing Environments](https://arxiv.org/abs/2608.11697) — `segmentation` `completion`
 - [BRICE: Brain-inspired Recurrent Illusory Contour Encoder for Point Cloud Completion](https://arxiv.org/abs/2610.23001) — `completion`
@@ -21,9 +25,12 @@
 - [Denoising-Aware Temporal Point Cloud Completion for 3D Crop Architecture Recovery and Phenotypic Trait Extraction](https://arxiv.org/abs/2608.28343) — `completion` `reconstruction` `denoising`
 - [Exploring Easy Boosts for Lidar Semantic Scene Completion](https://arxiv.org/abs/2606.03992) — `completion` `occupancy prediction`
 - [FPSGen: Flexible Point Cloud Scene Generation with BEV-Supported Transport Flows](https://arxiv.org/abs/2607.26645) — `completion` `generation` `BEV`
+- [LiFlow: Flow Matching for 3D LiDAR Scene Completion](https://arxiv.org/abs/2602.02232) — `completion` `denoising` `autonomous driving`
 - [MAGE: View-guided Point Cloud Completion with Efficient Modality Alignment and Adaptive Geometry Enhancement](https://arxiv.org/abs/2607.02568) — `completion` `efficiency`
 - [MedPCFM: Improving Medical Point Cloud Completion by Integrating Point Transformers and Flow Matching](https://arxiv.org/abs/2606.24433) — `completion` `generation` `reconstruction`
+- [MGPC: Multimodal Network for Generalizable Point Cloud Completion With Modality Dropout and Progressive Decoding](https://arxiv.org/abs/2601.03660) — `completion` `generation` `multi-modal` — [code](https://github.com/L-J-Yuan/MGPC)
 - [Multi-Path Mamba Diffusion for 3D Point Cloud Semantic Scene Completion](https://arxiv.org/abs/2611.04583) — `completion` `generation` `occupancy prediction`
+- [REVNET: Rotation-Equivariant Point Cloud Completion via Vector Neuron Anchor Transformer](https://arxiv.org/abs/2601.08558) — `completion`
 - [Robust LIDAR Sensor-to-Sensor Domain Generalization via Accumulated-Point Scene Completion](https://arxiv.org/abs/2610.39516) — `segmentation` `completion` `robustness`
 - [ScaleBlind: Point Cloud Completion under Unknown Scale](https://arxiv.org/abs/2609.23404) — `completion` `reconstruction`
 - [Shape-Prior-Based Point Cloud Completion for Single-Stage Fully Sparse 3D Object Detection](https://arxiv.org/abs/2606.00688) — `detection` `completion` `autonomous driving`
@@ -32,14 +39,26 @@
 - [ZVeC: A Zero-Shot Framework for Instance-Level Vehicle Extraction and Generative Point Cloud Completion](https://arxiv.org/abs/2609.24825) — `completion` `generation` `reconstruction` `open-vocabulary`
 ## 2025
 
+- [GenPC: Zero-shot Point Cloud Completion via 3D Generative Priors](https://arxiv.org/abs/2502.19896) — `completion` `generation` `open-vocabulary`
+- [Parametric Point Cloud Completion for Polygonal Surface Reconstruction](https://arxiv.org/abs/2503.08363) — `completion` `reconstruction`
+- [ProtoDepth: Unsupervised Continual Depth Completion with Prototypes](https://arxiv.org/abs/2503.12745) — `completion` `reconstruction`
+- [Self-Supervised Large Scale Point Cloud Completion for Archaeological Site Restoration](https://arxiv.org/abs/2503.04030) — `completion` `self-supervised`
+- [SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization](https://arxiv.org/abs/2503.14558) — `completion` `generation` `reconstruction` `upsampling`
 - [PointMAC: Meta-Learned Adaptation for Robust Test-Time Point Cloud Completion](https://arxiv.org/abs/2510.10365) — `completion` `robustness`
+- [Point-based Instance Completion with Scene Constraints](https://arxiv.org/abs/2504.05698) — `completion`
 - [DAPoinTr: Domain Adaptive Point Transformer for Point Cloud Completion](https://arxiv.org/abs/2412.19062) — `completion`
+- [DC-PCN: Point Cloud Completion Network with Dual-Codebook Guided Quantization](https://arxiv.org/abs/2501.10966) — `completion` `efficiency`
 - [Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion](https://arxiv.org/abs/2412.08326) — `completion`
 - [PointCFormer: a Relation-based Progressive Feature Extraction Network for Point Cloud Completion](https://arxiv.org/abs/2412.08421) — `segmentation` `detection` `completion`
 - [Position-aware Guided Point Cloud Completion with CLIP Model](https://arxiv.org/abs/2412.08271) — `completion`
 - [Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion](https://arxiv.org/abs/2511.16161) — `completion`
+- [SymmCompletion: High-Fidelity and High-Consistency Point Cloud Completion with Symmetry Guidance](https://arxiv.org/abs/2503.18007) — `completion` — [code](https://github.com/HongyuYann/SymmCompletion)
 - [RWKV-PCSSC: Exploring RWKV Model for Point Cloud Semantic Scene Completion](https://arxiv.org/abs/2511.09878) — `completion` `occupancy prediction`
+- [MambaTron: Efficient Cross-Modal Point Cloud Enhancement using Aggregate Selective State Space Modeling](https://arxiv.org/abs/2501.16384) — `completion` `reconstruction` `efficiency` — Workshop
+- [Flexible-weighted Chamfer Distance: Enhanced Objective Function for Point Cloud Completion](https://arxiv.org/abs/2505.14218) — `completion` — [code](https://github.com/Carroll-Li/FCD)
 - [A Multi-View High-Resolution Foot-Ankle Complex Point Cloud Dataset During Gait for Occlusion-Robust 3D Completion](https://arxiv.org/abs/2507.11037) — `completion` `robustness` `dataset`
+- [A Point Cloud Completion Approach for the Grasping of Partially Occluded Objects and Its Applications in Robotic Strawberry Harvesting](https://arxiv.org/abs/2506.14066) — `segmentation` `detection` `completion`
+- [A Strong View-Free Baseline Approach for Single-View Image Guided Point Cloud Completion](https://arxiv.org/abs/2506.15747) — `completion`
 - [APML: Adaptive Probabilistic Matching Loss for Robust 3D Point Cloud Reconstruction](https://arxiv.org/abs/2509.08104) — `completion` `generation` `reconstruction` `robustness`
 - [Benefit from Reference: Retrieval-Augmented Cross-modal Point Cloud Completion](https://arxiv.org/abs/2507.14485) — `completion` `generation`
 - [CasPoinTr: Point Cloud Completion with Cascaded Networks and Knowledge Distillation](https://arxiv.org/abs/2509.23375) — `completion` `reconstruction`
@@ -47,22 +66,40 @@
 - [Dense-depth map guided deep Lidar-Visual Odometry with Sparse Point Clouds and Images](https://arxiv.org/abs/2507.15496) — `completion` `slam` `localization`
 - [DFG-PCN: Point Cloud Completion with Degree-Flexible Point Graph](https://arxiv.org/abs/2509.23703) — `completion` `reconstruction`
 - [DiffPCN: Latent Diffusion Model Based on Multi-view Depth Images for Point Cloud Completion](https://arxiv.org/abs/2509.23723) — `completion` `generation`
+- [Evaluation of Intra-operative Patient-specific Methods for Point Cloud Completion for Minimally Invasive Liver Interventions](https://arxiv.org/abs/2503.11969) — `registration` `completion`
 - [HGACNet: Hierarchical Graph Attention Network for Cross-Modal Point Cloud Completion](https://arxiv.org/abs/2509.13692) — `completion` `reconstruction`
 - [LDRFusion: A LiDAR-Dominant multimodal refinement framework for 3D object detection](https://arxiv.org/abs/2507.16224) — `detection` `completion` `multi-modal`
 - [Manifold-Aware Point Cloud Completion via Geodesic-Attentive Hierarchical Feature Learning](https://arxiv.org/abs/2512.05710) — `completion` `reconstruction`
 - [Memory-Guided Point Cloud Completion for Dental Reconstruction](https://arxiv.org/abs/2512.03598) — `completion` `reconstruction`
+- [PointSFDA: Source-free Domain Adaptation for Point Cloud Completion](https://arxiv.org/abs/2503.15144) — `completion` `domain adaptation`
+- [RefComp: A Reference-guided Unified Framework for Unpaired Point Cloud Completion](https://arxiv.org/abs/2504.13788) — `completion`
 - [Rethinking the Detail-Preserved Completion of Complex Tubular Structures based on Point Cloud: a Dataset and a Benchmark](https://arxiv.org/abs/2508.17658) — `segmentation` `detection` `completion` `dataset`
 - [RL-AD-Net: Reinforcement Learning Guided Adaptive Displacement in Latent Space for Refined Point Cloud Completion](https://arxiv.org/abs/2511.17054) — `completion` `denoising`
 - [Self-Supervised Point Cloud Completion based on Multi-View Augmentations of Single Partial Point Cloud](https://arxiv.org/abs/2509.22132) — `completion` `self-supervised`
 - [SurfFill: Completion of LiDAR Point Clouds via Gaussian Surfel Splatting](https://arxiv.org/abs/2512.03010) — `completion` `reconstruction`
+- [Three-dimentional reconstruction of complex, dynamic population canopy architecture for crops with a novel point cloud completion model: A case study in Brassica napus rapeseed](https://arxiv.org/abs/2506.18292) — `completion` `reconstruction`
+- [Toward Patient-specific Partial Point Cloud to Surface Completion for Pre- to Intra-operative Registration in Image-guided Liver Interventions](https://arxiv.org/abs/2505.19518) — `registration` `completion`
 ## 2024
 
+- [FaceCom: Towards High-fidelity 3D Facial Shape Completion via Optimization and Inpainting Guidance](https://arxiv.org/abs/2406.02074) — `completion` `generation`
+- [Tri-Perspective View Decomposition for Geometry-Aware Depth Completion](https://arxiv.org/abs/2403.15008) — `completion` `reconstruction` `autonomous driving`
 - [CF-PRNet: Coarse-to-Fine Prototype Refining Network for Point Cloud Completion and Reconstruction](https://arxiv.org/abs/2409.08443) — `completion` `reconstruction`
+- [Explicitly Guided Information Interaction Network for Cross-modal Point Cloud Completion](https://arxiv.org/abs/2407.02887) — `completion`
+- [T-CorresNet: Template Guided 3D Point Cloud Completion with Correspondence Pooling Query Generation Strategy](https://arxiv.org/abs/2407.05008) — `completion` `generation` `autonomous driving`
+- [Transferable 3D Adversarial Shape Completion using Diffusion Models](https://arxiv.org/abs/2407.10077) — `completion` `robustness`
+- [CRA-PCN: Point Cloud Completion with Intra- and Inter-level Cross-Resolution Transformers](https://arxiv.org/abs/2401.01552) — `completion` `generation`
 - [Robust 3D Tracking with Quality-Aware Shape Completion](https://arxiv.org/abs/2312.10608) — `completion` `tracking` `robustness`
 - [Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence](https://arxiv.org/abs/2312.08054) — `completion`
+- [3D Branch Point Cloud Completion for Robotic Pruning in Apple Orchards](https://arxiv.org/abs/2404.05953) — `completion` `efficiency`
 - [DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2409.18092) — `completion` `denoising` `autonomous driving`
 - [Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance](https://arxiv.org/abs/2409.06171) — `detection` `completion`
+- [Unsupervised 3D Point Cloud Completion via Multi-view Adversarial Learning](https://arxiv.org/abs/2407.09786) — `completion` `reconstruction` `self-supervised` `robustness`
+- [Gap Completion in Point Cloud Scene occluded by Vehicles using SGC-Net](https://arxiv.org/abs/2407.08290) — `completion`
+- [3DMambaComplete: Exploring Structured State Space Model for Point Cloud Completion](https://arxiv.org/abs/2404.07106) — `completion` `reconstruction`
+- [Building-PCC: Building Point Cloud Completion Benchmarks](https://arxiv.org/abs/2404.15644) — `completion`
 - [Diffusion-Occ: 3D Point Cloud Completion via Occupancy Diffusion](https://arxiv.org/abs/2408.14846) — `completion`
+- [DMF-Net: Image-Guided Point Cloud Completion with Dual-Channel Modality Fusion and Shape-Aware Upsampling Transformer](https://arxiv.org/abs/2406.17319) — `completion` `upsampling`
+- [DuInNet: Dual-Modality Feature Interaction for Point Cloud Completion](https://arxiv.org/abs/2407.07374) — `completion`
 - [Enhancing Performance of Point Cloud Completion Networks with Consistency Loss](https://arxiv.org/abs/2410.07298) — `completion`
 - [ES-Gaussian: Gaussian Splatting Mapping via Error Space-Based Gaussian Completion](https://arxiv.org/abs/2410.06613) — `completion` `reconstruction` `gaussian-splatting`
 - [GeoFormer: Learning Point Cloud Completion with Tri-Plane Integrated Transformer](https://arxiv.org/abs/2408.06596) — `completion`
@@ -71,19 +108,29 @@
 - [PCDreamer: Point Cloud Completion Through Multi-view Diffusion Priors](https://arxiv.org/abs/2411.19036) — `completion`
 - [PointCG: Self-supervised Point Cloud Learning via Joint Completion and Generation](https://arxiv.org/abs/2411.06041) — `completion` `generation` `self-supervised`
 - [Revisiting Point Cloud Completion: Are We Ready For The Real-World?](https://arxiv.org/abs/2411.17580) — `completion`
+- [Scaling Diffusion Models to Real-World 3D LiDAR Scene Completion](https://arxiv.org/abs/2403.13470) — `completion`
 - [SPAC-Net: Rethinking Point Cloud Completion with Structural Prior](https://arxiv.org/abs/2411.15066) — `completion`
 - [Unsupervised Point Cloud Completion through Unbalanced Optimal Transport](https://arxiv.org/abs/2410.02671) — `completion`
 ## 2023
 
+- [3DQD: Generalized Deep 3D Shape Prior via Part-Discretized Diffusion Process](https://arxiv.org/abs/2303.10406) — `completion` `generation`
+- [ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion](https://arxiv.org/abs/2303.01979) — `completion` `self-supervised`
+- [ProxyFormer: Proxy Alignment Assisted Point Cloud Completion with Missing Part Sensitive Transformer](https://arxiv.org/abs/2302.14435) — `completion`
+- [SCoDA: Domain Adaptive Shape Completion for Real Scans](https://arxiv.org/abs/2304.10179) — `completion`
+- [SCPNet: Semantic Scene Completion on Point Cloud](https://arxiv.org/abs/2303.06884) — `completion` `occupancy prediction`
 - [UltraLiDAR: Learning Compact Representations for LiDAR Completion and Generation](https://arxiv.org/abs/2311.01448) — `completion` `generation`
 - [P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds](https://arxiv.org/abs/2307.14726) — `completion` `self-supervised`
 - [PG-RCNN: Semantic Surface Point Generation for 3D Object Detection](https://arxiv.org/abs/2307.12637) — `detection` `completion` `generation`
+- [PointSea: Point Cloud Completion via Self-structure Augmentation](https://arxiv.org/abs/2502.17053) — `completion`
 - [SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator](https://arxiv.org/abs/2307.08492) — `completion` `generation`
 - [Adaptive Local Basis Functions for Shape Completion](https://arxiv.org/abs/2307.08348) — `completion`
+- [Are All Point Clouds Suitable for Completion? Weakly Supervised Quality Evaluation Network for Point Cloud Completion](https://arxiv.org/abs/2303.01804) — `completion`
 - [LiDAR Data Synthesis with Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2309.09256) — `completion` `generation` `denoising`
+- [LODE: Locally Conditioned Eikonal Implicit Scene Completion from Sparse LiDAR](https://arxiv.org/abs/2302.14052) — `completion` `autonomous driving` — [code](https://github.com/AIR-DISCOVER/LODE)
 - [SCP: Scene Completion Pre-training for 3D Object Detection](https://arxiv.org/abs/2309.06199) — `detection` `completion` `autonomous driving` `pre-training`
 - [Rotation-Invariant Completion Network](https://arxiv.org/abs/2308.11979) — `completion`
 - [Automated spacing measurement of formwork system members with 3D point cloud data](https://arxiv.org/abs/2305.19275) — `completion`
+- [Context-Aware Transformer for 3D Point Cloud Automatic Annotation](https://arxiv.org/abs/2303.14893) — `segmentation` `completion`
 - [DualGenerator: Information Interaction-based Generative Network for Point Cloud Completion](https://arxiv.org/abs/2305.09132) — `completion` `generation`
 - [Fine-grained Text and Image Guided Point Cloud Completion with CLIP Model](https://arxiv.org/abs/2308.08754) — `completion`
 - [GRJointNET: Synergistic Completion and Part Segmentation on 3D Incomplete Point Clouds](https://arxiv.org/abs/2311.13997) — `segmentation` `completion`
@@ -101,6 +148,7 @@
 - [Learning a Structured Latent Space for Unsupervised Point Cloud Completion](https://arxiv.org/abs/2203.15580) — `completion`
 - [Learning Local Displacements for Point Cloud Completion](https://arxiv.org/abs/2203.16600) — `completion`
 - [Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion](https://arxiv.org/abs/2203.09780) — `detection` `completion`
+- [Towards realistic symmetry-based completion of previously unseen point clouds](https://arxiv.org/abs/2201.01858) — `completion` `reconstruction`
 - [FBNet: Feedback Network for Point Cloud Completion](https://arxiv.org/abs/2210.03974) — `completion` — [code](https://github.com/hikvision-research/3DVision)
 - [SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer](https://arxiv.org/abs/2207.10315) — `completion` `generation` `upsampling`
 - [Cross-modal Learning for Image-Guided Point Cloud Shape Completion](https://arxiv.org/abs/2209.09552) — `completion` `reconstruction`
@@ -108,18 +156,23 @@
 - [PointCA: Evaluating the Robustness of 3D Point Cloud Completion Models Against Adversarial Examples](https://arxiv.org/abs/2211.12294) — `segmentation` `completion` `robustness`
 - [Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion](https://arxiv.org/abs/2204.09186) — `completion` `reconstruction`
 - [Shape Completion with Points in the Shadow](https://arxiv.org/abs/2209.08345) — `completion`
+- [GASCN: Graph Attention Shape Completion Network](https://arxiv.org/abs/2201.07937) — `completion`
 - [Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion](https://arxiv.org/abs/2211.06820) — `completion` `generation`
+- [Temporal Point Cloud Completion with Pose Disturbance](https://arxiv.org/abs/2202.03084) — `completion`
 - [Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking](https://arxiv.org/abs/2209.00522) — `completion` `tracking` `localization` `efficiency`
 - [CompleteDT: Point Cloud Completion with Dense Augment Inference Transformers](https://arxiv.org/abs/2205.14999) — `completion`
 - [CasFusionNet: A Cascaded Network for Point Cloud Semantic Scene Completion by Dense Feature Fusion](https://arxiv.org/abs/2211.13702) — `completion` `occupancy prediction`
 - [Completing Partial Point Clouds with Outliers by Collaborative Completion and Segmentation](https://arxiv.org/abs/2203.09772) — `segmentation` `completion`
 - [Completing point cloud from few points by Wasserstein GAN and Transformers](https://arxiv.org/abs/2211.12746) — `completion`
+- [Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis](https://arxiv.org/abs/2203.03311) — `completion` `generation`
 - [CP3: Unifying Point Cloud Completion by Pretrain-Prompt-Predict Paradigm](https://arxiv.org/abs/2207.05359) — `completion` `generation` `pre-training`
 - [CSDN: Cross-modal Shape-transfer Dual-refinement Network for Point Cloud Completion](https://arxiv.org/abs/2208.00751) — `completion`
 - [LAKe-Net: Topology-Aware Point Cloud Completion by Localizing Aligned Keypoints](https://arxiv.org/abs/2203.16771) — `completion`
 - [Leveraging Single-View Images for Unsupervised 3D Point Cloud Completion](https://arxiv.org/abs/2212.00564) — `completion`
 - [PCKRF: Point Cloud Completion and Keypoint Refinement With Fusion Data for 6D Pose Estimation](https://arxiv.org/abs/2210.03437) — `registration` `completion`
+- [Point cloud completion via structured feature maps using a feedback network](https://arxiv.org/abs/2202.08583) — `completion`
 - [Point Cloud Scene Completion with Joint Color and Semantic Estimation from Single RGB-D Image](https://arxiv.org/abs/2210.05891) — `segmentation` `completion` `reconstruction`
+- [PointAttN: You Only Need Attention for Point Cloud Completion](https://arxiv.org/abs/2203.08485) — `completion`
 - [Prototype-Aware Heterogeneous Task for Point Cloud Completion](https://arxiv.org/abs/2209.01733) — `completion`
 - [Self-supervised Point Cloud Completion on Real Traffic Scenes via Scene-concerned Bottom-up Mechanism](https://arxiv.org/abs/2203.10569) — `completion` `self-supervised`
 - [SoftPool++: An Encoder-Decoder Network for Point Cloud Completion](https://arxiv.org/abs/2205.03899) — `completion`
@@ -129,11 +182,14 @@
 - [Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding](https://arxiv.org/abs/2103.07838) — `completion`
 - [Denoise and Contrast for Category Agnostic Shape Completion](https://arxiv.org/abs/2103.16671) — `completion` `denoising`
 - [Diffusion Probabilistic Models for 3D Point Cloud Generation](https://arxiv.org/abs/2103.01458) — `completion` `generation` `upsampling`
+- [PMP-Net++: Point Cloud Completion by Transformer-Enhanced Multi-step Point Moving Paths](https://arxiv.org/abs/2202.09507) — `completion` `generation`
 - [Variational Relational Point Completion Network](https://arxiv.org/abs/2104.10154) — `completion`
 - [View-Guided Point Cloud Completion](https://arxiv.org/abs/2104.05666) — `completion`
+- [AdaPoinTr: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers](https://arxiv.org/abs/2301.04545) — `completion` — [code](https://github.com/yuxumin/PoinTr)
 - [ME-PCN: Point Completion Conditioned on Mask Emptiness](https://arxiv.org/abs/2108.08187) — `completion`
 - [Multi-View Partial (MVP) Point Cloud Challenge 2021 on Completion and Registration: Methods and Results](https://arxiv.org/abs/2112.12053) — `registration` `completion` `reconstruction` — [code](https://github.com/paul007pl/MVP_Benchmark) Workshop
 - [PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers](https://arxiv.org/abs/2108.08839) — `completion`
+- [Snowflake Point Deconvolution for Point Cloud Completion and Generation with Skip-Transformer](https://arxiv.org/abs/2202.09367) — `completion` `generation`
 - [SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer](https://arxiv.org/abs/2108.04444) — `completion`
 - [Vis2Mesh: Efficient Mesh Reconstruction from Unstructured Point Clouds of Large Scenes with Learned Virtual View Visibility](https://arxiv.org/abs/2108.08378) — `completion` `generation` `reconstruction` `efficiency`
 - [Voxel-based Network for Shape Completion by Leveraging Edge Generation](https://arxiv.org/abs/2108.09936) — `completion` `generation`

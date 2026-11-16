@@ -1,43 +1,61 @@
 # Registration & Matching · `registration`
 
-共 **286** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **425** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2026
 
+- [C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion](https://arxiv.org/abs/2604.16680) — `registration` `generation`
 - [FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement](https://arxiv.org/abs/2512.09373) — `registration`
+- [Hg-I2P: Bridging Modalities for Generalizable Image-to-Point-Cloud Registration via Heterogeneous Graphs](https://arxiv.org/abs/2603.27969) — `registration`
 - [DRS-VPT: Directly Relocalizing in a Scan with Vision Point Transformers](https://arxiv.org/abs/2609.12557) — `registration` — [code](https://github.com/ori-drs/drs-vpt)
 - [Unsupervised Point Cloud Registration via Training-Time Semantic Guidance](https://arxiv.org/abs/2609.15228) — `registration`
 - [MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers](https://arxiv.org/abs/2610.12624) — `registration`
 - [Register Anything Model for Generalizable and Robust Point Cloud Registration](https://arxiv.org/abs/2610.28821) — `registration` `robustness` — [code](https://github.com/qinzheng93/RegisterAnything)
+- [AvAtar: Learning to Align via Active Optimal Transport](https://arxiv.org/abs/2605.24395) — `registration`
 - [Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration](https://arxiv.org/abs/2511.05965) — `registration` `detection`
 - [SAGE: Semantic-Augmented Geometric Experts for Point Cloud Registration](https://arxiv.org/abs/2610.36658) — `registration` `reconstruction`
+- [End-to-End LiDAR optimization for 3D point cloud registration](https://arxiv.org/abs/2602.10492) — `registration`
 - [ReFineR: Single image to dense point cloud registration at pixel level with point splatting](https://arxiv.org/abs/2611.16583) — `registration` `detection`
+- [Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection](https://arxiv.org/abs/2605.04541) — `registration` `localization`
+- [PC2Model: ISPRS benchmark on 3D point cloud to model registration](https://arxiv.org/abs/2604.19596) — `registration` `autonomous driving` `dataset`
 - [A Differentiable Optimization Framework for Registering Sequential Bounding Boxes with Point Cloud Stream](https://arxiv.org/abs/2609.34103) — `registration`
 - [Adaptive Depth-Map-Guided Bundle Adjustment for Correspondence-Free Multi-View Point Cloud Registration](https://arxiv.org/abs/2609.01089) — `registration` `reconstruction`
+- [Beyond the Vehicle: Cooperative Localization by Fusing Point Clouds for GPS-Challenged Urban Scenarios](https://arxiv.org/abs/2602.03908) — `registration` `localization`
+- [BIEVR-LIO: Robust LiDAR-Inertial Odometry through Bump-Image-Enhanced Voxel Maps](https://arxiv.org/abs/2604.14421) — `registration` `robustness`
+- [CMHANet: A Cross-Modal Hybrid Attention Network for Point Cloud Registration](https://arxiv.org/abs/2603.12721) — `registration` `reconstruction`
 - [Cross-Coordinate Correspondence Pruning for Image-to-Point Cloud Registration](https://arxiv.org/abs/2607.17200) — `registration` `detection` `efficiency`
 - [CUFormer: Modality-Aware CT-Ultrasound Point Cloud Registration for Orthopedic Navigation](https://arxiv.org/abs/2611.01536) — `registration`
 - [CVSD-Reg: Cross-Modal Visual Semantic Prior Distillation for Robust LiDAR Registration](https://arxiv.org/abs/2608.19536) — `registration` `robustness`
+- [DC-Reg: Globally Optimal Point Cloud Registration via Tight Bounding with Difference of Convex Programming](https://arxiv.org/abs/2603.25442) — `registration`
+- [Deep learning based Non-Rigid Volume-to-Surface Registration for Brain Shift compensation Using Point Cloud](https://arxiv.org/abs/2604.17389) — `registration`
 - [DINE: Distance Is Not Enough -- Learning Global Deformation Priors for Robust Soft-Tissue Point Cloud Registration](https://arxiv.org/abs/2607.14946) — `registration` `robustness`
 - [DPA-I2P: Depth-Guided Projective Alignment for Image-to-Point-Cloud Registration in Autonomous Driving](https://arxiv.org/abs/2608.26589) — `registration` `localization` `autonomous driving`
 - [FlashReg: GPU-Accelerated 3-Clique Point Cloud Registration for Real-Time Correspondence-to-Pose Estimation](https://arxiv.org/abs/2608.21804) — `registration` `efficiency`
 - [FLIP: Real-Time and Resilient Formation Planning for Large-Scale DIstributed Swarms via Point Cloud Registration](https://arxiv.org/abs/2605.29704) — `registration` `efficiency`
+- [GeGS-PCR: Effective and Robust 3D Point Cloud Registration with Two-Stage Color-Enhanced Geometric-3DGS Fusion](https://arxiv.org/abs/2604.17721) — `registration` `gaussian-splatting` `robustness`
 - [Generalized-CVO: Fast and Correspondence-Free Local Point Cloud Registration with Second Order Riemannian Optimization](https://arxiv.org/abs/2606.10019) — `registration`
 - [Geometry-Constrained Bidirectional Point Cloud Registration for Thin, Sheet-Like Heritage Artifacts](https://arxiv.org/abs/2610.07793) — `registration` `reconstruction`
 - [GRIP: Gaussian Rendering as a Cross-Modal Bridge for Image-to-Point Cloud Registration](https://arxiv.org/abs/2609.25966) — `registration`
+- [IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration](https://arxiv.org/abs/2603.12719) — `registration` `autonomous driving`
 - [Image-to-Point Cloud Registration Made Easy with Rectified Flow-based LiDAR Upsampling](https://arxiv.org/abs/2607.14639) — `registration` `upsampling`
+- [Iterative Differential Entropy Minimization (IDEM) method for fine rigid pairwise 3D Point Cloud Registration: A Focus on the Metric](https://arxiv.org/abs/2601.09601) — `registration`
 - [Mask 2D-3D: Adaptive Dual-Masked Autoencoder Network for Image-to-Point Cloud Registration](https://arxiv.org/abs/2609.18088) — `registration` `detection` `self-supervised`
 - [On Maximum Clique and Maximum Consensus Formulations in Point Cloud Registration](https://arxiv.org/abs/2610.27275) — `registration`
 - [On the Efficacy of Self-Supervised Point Cloud Encoders for Efficient 3D Large Language Models](https://arxiv.org/abs/2607.29136) — `registration` `self-supervised` `efficiency`
 - [Online Geometric Consistency Assessment of LiDAR Measurements via Recursive Bayesian Comparison](https://arxiv.org/abs/2611.10566) — `registration` `localization`
 - [PARTE: Plane-Assisted Robust Transformation Estimation for Point Cloud Registration](https://arxiv.org/abs/2609.25375) — `registration` `robustness`
 - [PESTO: Formally Correct Registration of LiDAR Point Clouds with Limited Overlap](https://arxiv.org/abs/2609.18082) — `registration`
+- [Point Cloud Registration for Fusion between SPECT MPI and CTA Images](https://arxiv.org/abs/2604.24524) — `registration` `localization`
+- [Point Cloud Registration via Probabilistic Self-Update Local Correspondence and Line Vector Sets](https://arxiv.org/abs/2604.26318) — `registration`
 - [Point-Wise Geometry-Aware Transformer for Partial-to-Full Point Cloud Registration in Computer-Assisted Surgery](https://arxiv.org/abs/2606.13488) — `registration`
 - [PointVGGT: Zero-Shot Multiview RGB-D Point Cloud Registration with Visual Geometry Foundation Priors](https://arxiv.org/abs/2610.11612) — `registration` `open-vocabulary`
+- [RegFormer++: An Efficient Large-Scale 3D LiDAR Point Registration Network with Projection-Aware 2D Transformer](https://arxiv.org/abs/2603.14290) — `registration` `efficiency`
 - [Robust Single-Parameter Point Cloud Registration using Truncated Lp Functions](https://arxiv.org/abs/2610.34271) — `registration` `robustness`
 - [Semantic-weighted ICP for LiDAR Odometry: Class-Aware Residual Reweighting for Robust Scan Registration](https://arxiv.org/abs/2606.03905) — `registration` `robustness`
 - [SHReg: Strictly Rotation-Equivariant Point Cloud Registration via Spherical Harmonics](https://arxiv.org/abs/2607.23096) — `registration`
+- [Simultaneous Monitoring of Shape and Surface Color via 4D Point Clouds: A Registration-free Approach](https://arxiv.org/abs/2605.08753) — `registration`
 - [Sinkhorn-CPD: Robust point cloud registration via unbalanced entropic optimal transport](https://arxiv.org/abs/2606.16672) — `registration` `robustness`
 - [Spectral Consistency-Guided Multiview Point Cloud Registration for Low-Overlap Scenes](https://arxiv.org/abs/2609.12417) — `registration`
 - [Test Time Adaptation Methods for Point Cloud Registration in Laparoscopic Surgery](https://arxiv.org/abs/2608.02883) — `registration`
@@ -46,69 +64,138 @@
 ## 2025
 
 - [AutoURDF: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration](https://arxiv.org/abs/2412.05507) — `registration`
+- [ColabSfM: Collaborative Structure-from-Motion by Point Cloud Registration](https://arxiv.org/abs/2503.17093) — `registration`
+- [Unlocking Generalization Power in LiDAR Point Cloud Registration](https://arxiv.org/abs/2503.10149) — `registration` `autonomous driving`
+- [BUFFER-X: Towards Zero-Shot Point Cloud Registration in Diverse Scenes](https://arxiv.org/abs/2503.07940) — `registration` `open-vocabulary`
 - [CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection](https://arxiv.org/abs/2506.21364) — `registration` `detection`
 - [Diff$^2$I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior](https://arxiv.org/abs/2507.06651) — `registration`
 - [ERNet: Efficient Non-Rigid Registration Network for Point Sequences](https://arxiv.org/abs/2510.15800) — `registration` `efficiency`
 - [Guiding Diffusion-Based Articulated Object Generation by Partial Point Cloud Alignment and Physical Plausibility Constraints](https://arxiv.org/abs/2508.00558) — `registration` `generation`
+- [HyperGCT: A Dynamic Hyper-GNN-Learned Geometric Constraint for 3D Registration](https://arxiv.org/abs/2503.02195) — `registration`
 - [MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP](https://arxiv.org/abs/2507.15257) — `registration`
+- [Toward Zero-Shot Point Cloud Registration Across Diverse Scales, Scenes, and Sensor Setups](https://arxiv.org/abs/2601.02759) — `registration` `open-vocabulary`
 - [TurboReg: TurboClique for Robust and Efficient Point Cloud Registration](https://arxiv.org/abs/2507.01439) — `registration` `robustness` `efficiency`
+- [PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration](https://arxiv.org/abs/2407.10142) — `registration` `robustness`
+- [Rectified Point Flow: Generic Point Cloud Pose Estimation](https://arxiv.org/abs/2506.05282) — `registration` `generation`
+- [Occlusion-aware Non-Rigid Point Cloud Registration via Unsupervised Neural Deformation Correntropy](https://arxiv.org/abs/2502.10704) — `registration` `reconstruction` — [code](https://github.com/zikai1/OAReg)
 - [Geometry-to-Image Synthesis-Driven Generative Point Cloud Registration](https://arxiv.org/abs/2512.09407) — `registration` `generation`
+- [Bridge 2D-3D: Uncertainty-aware Hierarchical Registration Network with Domain Alignment](https://arxiv.org/abs/2504.01641) — `registration`
 - [Cross-PCR: A Robust Cross-Source Point Cloud Registration Framework](https://arxiv.org/abs/2412.18873) — `registration` `robustness`
+- [PSReg: Prior-guided Sparse Mixture of Experts for Point Cloud Registration](https://arxiv.org/abs/2501.07762) — `registration`
 - [GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration](https://arxiv.org/abs/2507.14452) — `registration` `robustness`
+- [Fully-Geometric Cross-Attention for Point Cloud Registration](https://arxiv.org/abs/2502.08285) — `registration`
+- [Para-Lane: Multi-Lane Dataset Registering Parallel Scans for Benchmarking Novel View Synthesis](https://arxiv.org/abs/2502.15635) — `registration` `autonomous driving` `dataset`
 - [ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance](https://arxiv.org/abs/2511.22908) — `registration` `robustness`
+- [SANDRO: a Robust Solver with a Splitting Strategy for Point Cloud Registration](https://arxiv.org/abs/2503.07743) — `registration` `robustness`
+- [A Direct Semi-Exhaustive Search Method for Robust, Partial-to-Full Point Cloud Registration](https://arxiv.org/abs/2502.00115) — `registration` `robustness`
+- [Correspondence-Free Multiview Point Cloud Registration via Depth-Guided Joint Optimisation](https://arxiv.org/abs/2506.18922) — `registration`
 - [PKSS-Align: Robust Point Cloud Registration on Pre-Kendall Shape Space](https://arxiv.org/abs/2508.04286) — `registration` `robustness`
+- [Cross-modal feature fusion for robust point cloud registration with ambiguous geometry](https://arxiv.org/abs/2505.13088) — `registration` `robustness`
 - [L2M-Reg: Building-level Uncertainty-aware Registration of Outdoor LiDAR Point Clouds and Semantic 3D City Models](https://arxiv.org/abs/2509.16832) — `registration` `detection`
 - [3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering](https://arxiv.org/abs/2507.13110) — `registration` `detection` `anomaly detection`
 - [A Survey of Medical Point Cloud Shape Learning: Registration, Reconstruction and Variation](https://arxiv.org/abs/2508.03057) — `registration` `reconstruction`
 - [Advancing Precision in Multi-Point Cloud Fusion Environments](https://arxiv.org/abs/2508.03179) — `registration`
 - [An Adaptive ICP LiDAR Odometry Based on Reliable Initial Pose](https://arxiv.org/abs/2509.22058) — `registration` `detection` `autonomous driving`
+- [BEV-LIO(LC): BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure](https://arxiv.org/abs/2502.19242) — `registration` `BEV`
 - [Calibrated Keyframe-Segment Selection for Descriptor-Agnostic LiDAR Loop Closure in Repetitive Environments](https://arxiv.org/abs/2512.09447) — `registration` `segmentation`
 - [CRISTAL: Real-time Camera Registration in Static LiDAR Scans using Neural Rendering](https://arxiv.org/abs/2511.16349) — `registration` `localization` `efficiency`
 - [Cross3DReg: Towards a Large-scale Real-world Cross-source Point Cloud Registration Benchmark](https://arxiv.org/abs/2509.06456) — `registration` `dataset`
 - [DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration](https://arxiv.org/abs/2509.06285) — `registration` `efficiency`
 - [Decision PCR: Decision version of the Point Cloud Registration task](https://arxiv.org/abs/2507.14965) — `registration`
+- [DefTransNet: A Transformer-based Method for Non-Rigid Point Cloud Registration in the Simulation of Soft Tissue Deformation](https://arxiv.org/abs/2502.06336) — `registration`
 - [DINOReg: Strong Point Cloud Registration with Vision Foundation Model](https://arxiv.org/abs/2509.24370) — `registration` `pre-training`
+- [EdgeRegNet: Edge Feature-based Multimodal Registration Network between Images and LiDAR Point Clouds](https://arxiv.org/abs/2503.15284) — `registration` `autonomous driving` `multi-modal`
+- [EEPNet-V2: Patch-to-Pixel Solution for Efficient Cross-Modal Registration between LiDAR Point Cloud and Camera Image](https://arxiv.org/abs/2503.15285) — `registration` `efficiency`
+- [Evaluation of Intra-operative Patient-specific Methods for Point Cloud Completion for Minimally Invasive Liver Interventions](https://arxiv.org/abs/2503.11969) — `registration` `completion`
+- [FACT: Multinomial Misalignment Classification for Point Cloud Registration](https://arxiv.org/abs/2504.06627) — `registration` `classification`
 - [Fast globally optimal Truncated Least Squares point cloud registration with fixed rotation axis](https://arxiv.org/abs/2508.15613) — `registration`
 - [Geo-Registration of Terrestrial LiDAR Point Clouds with Satellite Images without GNSS](https://arxiv.org/abs/2507.05999) — `registration`
 - [GMOR: A Lightweight Robust Point Cloud Registration Framework via Geometric Maximum Overlapping](https://arxiv.org/abs/2508.17427) — `registration` `robustness` `efficiency`
 - [Human-Interpretable Uncertainty Explanations for Point Cloud Registration](https://arxiv.org/abs/2509.18786) — `registration`
+- [HybridReg: Robust 3D Point Cloud Registration with Hybrid Motions](https://arxiv.org/abs/2503.07019) — `registration` `robustness`
 - [iMatcher: Improve matching in point cloud registration via local-to-global geometric consistency learning](https://arxiv.org/abs/2509.08982) — `registration`
 - [LAHNet: Local Attentive Hashing Network for Point Cloud Registration](https://arxiv.org/abs/2512.00927) — `registration`
+- [LiDAR Registration with Visual Foundation Models](https://arxiv.org/abs/2502.19374) — `registration` `localization`
+- [LP-ICP: General Localizability-Aware Point Cloud Registration for Robust Localization in Extreme Unstructured Environments](https://arxiv.org/abs/2501.02580) — `registration` `slam` `localization` `robustness`
+- [LPRnet: A self-supervised registration network for LiDAR and photogrammetric point clouds](https://arxiv.org/abs/2501.05669) — `registration` `self-supervised`
+- [Matching Distance and Geometric Distribution Aided Learning Multiview Point Cloud Registration](https://arxiv.org/abs/2505.03692) — `registration`
 - [MCI-Net: A Robust Multi-Domain Context Integration Network for Point Cloud Registration](https://arxiv.org/abs/2512.23472) — `registration` `robustness`
+- [MRG: A Multi-Robot Manufacturing Digital Scene Generation Method Using Multi-Instance Point Cloud Registration](https://arxiv.org/abs/2501.02041) — `registration` `segmentation` `generation`
+- [MT-PCR: Hybrid Mamba-Transformer Network with Spatial Serialization for Point Cloud Registration](https://arxiv.org/abs/2506.13183) — `registration`
+- [MT-PCR: Leveraging Modality Transformation for Large-Scale Point Cloud Registration with Limited Overlap](https://arxiv.org/abs/2503.12833) — `registration` `BEV`
 - [Multi-Mapcher: Loop Closure Detection-Free Heterogeneous LiDAR Multi-Session SLAM Leveraging Outlier-Robust Registration for Autonomous Vehicles](https://arxiv.org/abs/2511.00635) — `registration` `detection` `slam` `localization`
+- [Multiview Point Cloud Registration Based on Minimum Potential Energy for Free-Form Blade Measurement](https://arxiv.org/abs/2502.07680) — `registration` `reconstruction`
+- [Multiview Point Cloud Registration via Optimization in an Autoencoder Latent Space](https://arxiv.org/abs/2504.21467) — `registration` `generation`
 - [NeuralBoneReg: An Instance-Specific Label-Free Point Cloud-Based Method for Multi-Modal Bone Surface Registration](https://arxiv.org/abs/2511.14286) — `registration` `multi-modal`
 - [Quality-controlled registration of urban MLS point clouds reducing drift effects by adaptive fragmentation](https://arxiv.org/abs/2510.23416) — `registration`
 - [RARE: Refine Any Registration of Pairwise Point Clouds via Zero-Shot Learning](https://arxiv.org/abs/2507.19950) — `registration` `open-vocabulary`
 - [Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching](https://arxiv.org/abs/2512.01850) — `registration` `localization` `generation` `reconstruction`
 - [Registering the 4D Millimeter Wave Radar Point Clouds Via Generalized Method of Moments](https://arxiv.org/abs/2508.02187) — `registration` `multi-modal`
 - [Registration-Free Monitoring of Unstructured Point Cloud Data via Intrinsic Geometrical Properties](https://arxiv.org/abs/2511.05623) — `registration` — [code](https://github.com/franci2312/RFM)
+- [Robust Human Registration with Body Part Segmentation on Noisy Point Clouds](https://arxiv.org/abs/2504.03602) — `registration` `segmentation` `robustness`
 - [Robust Partial 3D Point Cloud Registration via Confidence Estimation under Global Context](https://arxiv.org/abs/2509.24275) — `registration` `robustness`
 - [Self-Supervised Cross-Modal Learning for Image-to-Point Cloud Registration](https://arxiv.org/abs/2509.15882) — `registration` `self-supervised`
+- [SemICP: Semantic Non-Rigid Point Cloud Registration with Elastic Energy Regularization](https://arxiv.org/abs/2503.00972) — `registration`
 - [Skeleton-based Robust Registration Framework for Corrupted 3D Point Clouds](https://arxiv.org/abs/2509.24273) — `registration` `reconstruction` `autonomous driving` `robustness`
+- [Tightly Coupled Range Inertial Odometry and Mapping with Exact Point Cloud Downsampling](https://arxiv.org/abs/2505.01017) — `registration`
+- [Toward Patient-specific Partial Point Cloud to Surface Completion for Pre- to Intra-operative Registration in Image-guided Liver Interventions](https://arxiv.org/abs/2505.19518) — `registration` `completion`
 ## 2024
 
+- [Extend Your Own Correspondences: Unsupervised Distant Point Cloud Registration by Progressive Distance Extension](https://arxiv.org/abs/2403.03532) — `registration`
+- [FastMAC: Stochastic Spectral Sampling of Correspondence Graph](https://arxiv.org/abs/2403.08770) — `registration` — [code](https://github.com/Forrest-110/FastMAC)
 - [Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning](https://arxiv.org/abs/2407.20223) — `registration`
+- [GaussReg: Fast 3D Registration with Gaussian Splatting](https://arxiv.org/abs/2407.05254) — `registration` `reconstruction` `nerf` `gaussian-splatting`
+- [GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation](https://arxiv.org/abs/2407.13537) — `registration` — [code](https://github.com/wu-cvgl/GlobalPointer)
+- [ML-SemReg: Boosting Point Cloud Registration with Multi-level Semantic Consistency](https://arxiv.org/abs/2407.09862) — `registration`
 - [NICP: Neural ICP for 3D Human Registration at Scale](https://arxiv.org/abs/2312.14024) — `registration` `reconstruction`
+- [PCR-99: A Practical Method for Point Cloud Registration with 99 Percent Outliers](https://arxiv.org/abs/2402.16598) — `registration` — Workshop
+- [PointRegGPT: Boosting 3D Point Cloud Registration using Generative Point-Cloud Pairs for Training](https://arxiv.org/abs/2407.14054) — `registration` `generation`
+- [Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer](https://arxiv.org/abs/2404.14351) — `registration` `reconstruction`
 - [UMERegRobust - Universal Manifold Embedding Compatible Features for Robust Point Cloud Registration](https://arxiv.org/abs/2408.12380) — `registration` `robustness`
 - [3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration](https://arxiv.org/abs/2411.07740) — `registration`
 - [A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration](https://arxiv.org/abs/2410.10295) — `registration`
+- [PosDiffNet: Positional Neural Diffusion for Point Cloud Registration in a Large Field of View with Perturbations](https://arxiv.org/abs/2401.03167) — `registration`
 - [SPEAL: Skeletal Prior Embedded Attention Learning for Cross-Source Point Cloud Registration](https://arxiv.org/abs/2312.08664) — `registration`
 - [XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration](https://arxiv.org/abs/2411.18377) — `registration` `tracking` `multi-modal`
 - [Unsupervised Point Cloud Registration with Self-Distillation](https://arxiv.org/abs/2409.07558) — `registration` `autonomous driving`
 - [A Robust Probability-based Joint Registration Method of Multiple Point Clouds Considering Local Consistency](https://arxiv.org/abs/2409.09682) — `registration` `robustness`
+- [Benchmarking Classical and Learning-Based Multibeam Point Cloud Registration](https://arxiv.org/abs/2405.06279) — `registration`
+- [DMSA -- Dense Multi Scan Adjustment for LiDAR Inertial Odometry and Global Optimization](https://arxiv.org/abs/2402.19044) — `registration`
 - [Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces](https://arxiv.org/abs/2410.10277) — `registration` `localization`
 - [LiPO: LiDAR Inertial Odometry for ICP Comparison](https://arxiv.org/abs/2410.08097) — `registration`
+- [Multi-Model 3D Registration: Finding Multiple Moving Objects in Cluttered Point Clouds](https://arxiv.org/abs/2402.10865) — `registration`
+- [Reg-NF: Efficient Registration of Implicit Surfaces within Neural Fields](https://arxiv.org/abs/2402.09722) — `registration` `efficiency`
+- [RELEAD: Resilient Localization with Enhanced LiDAR Odometry in Adverse Environments](https://arxiv.org/abs/2402.18934) — `registration` `localization`
 - [CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration](https://arxiv.org/abs/2408.02394) — `registration` `localization`
+- [PROSPECT: Precision Robot Spectroscopy Exploration and Characterization Tool](https://arxiv.org/abs/2403.17232) — `registration`
+- [SGOR: Outlier Removal by Leveraging Semantic and Geometric Information for Robust Point Cloud Registration](https://arxiv.org/abs/2407.06297) — `registration` `generation` `robustness`
+- [Iterative Feedback Network for Unsupervised Point Cloud Registration](https://arxiv.org/abs/2401.04357) — `registration`
 - [RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration](https://arxiv.org/abs/2410.15682) — `registration` `efficiency`
+- [3D Landmark Detection on Human Point Clouds: A Benchmark and A Dual Cascade Point Transformer Framework](https://arxiv.org/abs/2401.07251) — `registration` `detection` `dataset`
 - [A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM](https://arxiv.org/abs/2412.07513) — `registration` `slam` `localization` `autonomous driving`
 - [Automatic marker-free registration based on similar tetrahedras for single-tree point clouds](https://arxiv.org/abs/2411.13069) — `registration`
+- [BiEquiFormer: Bi-Equivariant Representations for Global Point Cloud Registration](https://arxiv.org/abs/2407.08729) — `registration`
+- [Deep Learning-based Point Cloud Registration for Augmented Reality-guided Surgery](https://arxiv.org/abs/2405.03314) — `registration`
+- [Deep Learning-Based Point Cloud Registration: A Comprehensive Survey and Taxonomy](https://arxiv.org/abs/2404.13830) — `registration` `autonomous driving`
+- [Deep-PE: A Learning-Based Pose Evaluator for Point Cloud Registration](https://arxiv.org/abs/2405.16085) — `registration`
 - [EADReg: Probabilistic Correspondence Generation with Efficient Autoregressive Diffusion Model for Outdoor Point Cloud Registration](https://arxiv.org/abs/2411.15271) — `registration` `generation` `efficiency`
 - [EEPNet: Efficient Edge Pixel-based Matching Network for Cross-Modal Dynamic Registration between LiDAR and Camera](https://arxiv.org/abs/2409.19305) — `registration` `efficiency`
+- [Efficient and Robust Point Cloud Registration via Heuristics-guided Parameter Search](https://arxiv.org/abs/2404.06155) — `registration` `robustness` `efficiency`
 - [Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration](https://arxiv.org/abs/2410.05729) — `registration` `reconstruction`
+- [F2M-Reg: Unsupervised RGB-D Point Cloud Registration with Frame-to-Model Optimization](https://arxiv.org/abs/2405.00507) — `registration`
+- [FPGA-Accelerated Correspondence-free Point Cloud Registration with PointNet Features](https://arxiv.org/abs/2404.01237) — `registration` `reconstruction`
+- [GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields](https://arxiv.org/abs/2407.05597) — `registration` `reconstruction` `nerf`
+- [Global Point Cloud Registration Network for Large Transformations](https://arxiv.org/abs/2403.18040) — `registration`
+- [GMMCalib: Extrinsic Calibration of LiDAR Sensors using GMM-based Joint Registration](https://arxiv.org/abs/2404.03427) — `registration`
 - [GS-Matching: Reconsidering Feature Matching task in Point Cloud Registration](https://arxiv.org/abs/2412.04855) — `registration`
+- [Incremental Multiview Point Cloud Registration](https://arxiv.org/abs/2407.05021) — `registration` `reconstruction`
+- [Incremental Multiview Point Cloud Registration with Two-stage Candidate Retrieval](https://arxiv.org/abs/2407.07525) — `registration`
 - [Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild](https://arxiv.org/abs/2408.11809) — `registration` `slam` `localization`
 - [KISS-Matcher: Fast and Robust Point Cloud Registration Revisited](https://arxiv.org/abs/2409.15615) — `registration` `robustness`
+- [L-PR: Exploiting LiDAR Fiducial Marker for Unordered Low Overlap Multiview Point Cloud Registration](https://arxiv.org/abs/2406.03298) — `registration`
+- [Learning Instance-Aware Correspondences for Robust Multi-Instance Point Cloud Registration in Cluttered Scenes](https://arxiv.org/abs/2404.04557) — `registration` `robustness`
 - [LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features](https://arxiv.org/abs/2410.02961) — `registration` `slam`
+- [LiDAR-based HD Map Localization using Semantic Generalized ICP with Road Marking Detection](https://arxiv.org/abs/2407.02061) — `registration` `detection` `localization` `autonomous driving`
 - [LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues](https://arxiv.org/abs/2410.22213) — `registration` `slam` `reconstruction` `robustness`
 - [LoGDesc: Local geometric features aggregation for robust point cloud registration](https://arxiv.org/abs/2410.02420) — `registration` `robustness`
 - [MaFreeI2P: A Matching-Free Image-to-Point Cloud Registration Paradigm with Active Camera Pose Retrieval](https://arxiv.org/abs/2408.02392) — `registration`
@@ -119,38 +206,63 @@
 - [MICAS: Multi-grained In-Context Adaptive Sampling for 3D Point Cloud Processing](https://arxiv.org/abs/2411.16773) — `registration` `segmentation` `reconstruction` `denoising`
 - [Micro-Structures Graph-Based Point Cloud Registration for Balancing Efficiency and Accuracy](https://arxiv.org/abs/2410.21857) — `registration` `efficiency`
 - [Mining and Transferring Feature-Geometry Coherence for Unsupervised Point Cloud Registration](https://arxiv.org/abs/2411.01870) — `registration`
+- [Multiway Point Cloud Mosaicking with Diffusion and Global Optimization](https://arxiv.org/abs/2404.00429) — `registration`
+- [NV-LIO: LiDAR-Inertial Odometry using Normal Vectors Towards Robust SLAM in Multifloor Environments](https://arxiv.org/abs/2405.12563) — `registration` `slam` `robustness`
+- [Point cloud-based registration and image fusion between cardiac SPECT MPI and CTA](https://arxiv.org/abs/2402.06841) — `registration`
+- [Point Tree Transformer for Point Cloud Registration](https://arxiv.org/abs/2406.17530) — `registration`
+- [PointDifformer: Robust Point Cloud Registration With Neural Diffusion and Transformer](https://arxiv.org/abs/2404.14034) — `registration` `autonomous driving` `robustness`
+- [PSS-BA: LiDAR Bundle Adjustment with Progressive Spatial Smoothing](https://arxiv.org/abs/2403.06124) — `registration`
 - [QuadricsReg: Large-Scale Point Cloud Registration using Quadric Primitives](https://arxiv.org/abs/2412.02998) — `registration`
 - [Registration between Point Cloud Streams and Sequential Bounding Boxes via Gradient Descent](https://arxiv.org/abs/2409.09312) — `registration`
+- [Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes](https://arxiv.org/abs/2404.05164) — `registration` `detection` `monocular`
 - [Resolving the Ambiguity of Complete-to-Partial Point Cloud Registration for Image-Guided Liver Surgery with Patches-to-Partial Matching](https://arxiv.org/abs/2412.19328) — `registration`
+- [RGBD-Glue: General Feature Combination for Robust RGB-D Point Cloud Registration](https://arxiv.org/abs/2405.07594) — `registration` `robustness`
+- [RKHS-BA: A Robust Correspondence-Free Multi-View Registration Framework with Semantic Point Clouds](https://arxiv.org/abs/2403.01254) — `registration` `robustness`
 - [Robust Point Cloud Registration in Robotic Inspection with Locally Consistent Gaussian Mixture Model](https://arxiv.org/abs/2407.17183) — `registration` `robustness`
 - [SE3ET: SE(3)-Equivariant Transformer for Low-Overlap Point Cloud Registration](https://arxiv.org/abs/2407.16823) — `registration`
 - [Sight View Constraint for Robust Point Cloud Registration](https://arxiv.org/abs/2409.05065) — `registration` `robustness`
+- [Speak the Same Language: Global LiDAR Registration on BIM Using Pose Hough Transform](https://arxiv.org/abs/2405.03969) — `registration` `detection`
 - [SynBench: A Synthetic Benchmark for Non-rigid 3D Point Cloud Registration](https://arxiv.org/abs/2409.14474) — `registration` `dataset`
 - [TFCT-I2P: Three stream fusion network with color aware transformer for image-to-point cloud registration](https://arxiv.org/abs/2410.00360) — `registration`
 - [Towards Explaining Uncertainty Estimates in Point Cloud Registration](https://arxiv.org/abs/2412.20612) — `registration`
 - [UniRiT: Towards Few-Shot Non-Rigid Point Cloud Registration](https://arxiv.org/abs/2410.22909) — `registration`
+- [Voxel-Based Point Cloud Localization for Smart Spaces Management](https://arxiv.org/abs/2406.15110) — `registration` `localization`
+- [VRHCF: Cross-Source Point Cloud Registration via Voxel Representation and Hierarchical Correspondence Filtering](https://arxiv.org/abs/2403.10085) — `registration`
 - [YOCO: You Only Calibrate Once for Accurate Extrinsic Parameter in LiDAR-Camera Systems](https://arxiv.org/abs/2407.18043) — `registration` `multi-modal`
 ## 2023
 
 - [3D Registration with Maximal Cliques](https://arxiv.org/abs/2305.10854) — `registration` `generation`
+- [Deep Graph-based Spatial Consistency for Robust Non-rigid Point Cloud Registration](https://arxiv.org/abs/2303.09950) — `registration` `robustness` — [code](https://github.com/qinzheng93/GraphSCNet)
 - [DeepMapping2: Self-Supervised Large-Scale LiDAR Map Optimization](https://arxiv.org/abs/2212.06331) — `registration` `self-supervised` `autonomous driving`
 - [PWR-Align: Leveraging Part-Whole Relationships for Part-wise Rigid Point Cloud Registration in Mixed Reality Applications](https://arxiv.org/abs/2306.06717) — `registration`
+- [Robust Multiview Point Cloud Registration with Reliable Pose Graph Initialization and History Reweighting](https://arxiv.org/abs/2304.00467) — `registration` `robustness` — [code](https://github.com/WHU-USI3DV/SGHR)
+- [Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration](https://arxiv.org/abs/2303.13290) — `registration`
 - [2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds](https://arxiv.org/abs/2308.05667) — `registration` `detection`
 - [AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration](https://arxiv.org/abs/2309.11170) — `registration`
 - [Density-invariant Features for Distant Point Cloud Registration](https://arxiv.org/abs/2307.09788) — `registration` `self-supervised`
 - [Point-TTA: Test-Time Adaptation for Point Cloud Registration Using Multitask Meta-Auxiliary Learning](https://arxiv.org/abs/2308.16481) — `registration`
 - [PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration](https://arxiv.org/abs/2308.04782) — `registration`
+- [RegFormer: An Efficient Projection-Aware Transformer Network for Large-Scale Point Cloud Registration](https://arxiv.org/abs/2303.12384) — `registration` `efficiency` — [code](https://github.com/IRMVLab/RegFormer)
 - [E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning](https://arxiv.org/abs/2311.18433) — `registration`
 - [SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation](https://arxiv.org/abs/2310.17359) — `registration` `generation` `denoising` `robustness`
 - [FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators](https://arxiv.org/abs/2310.03420) — `registration` `monocular` `pre-training`
 - [Rethinking Rotation Invariance with Point Cloud Registration](https://arxiv.org/abs/2301.00149) — `registration`
+- [APR: Online Distant Point Cloud Registration Through Aggregated Point Cloud Reconstruction](https://arxiv.org/abs/2305.02893) — `registration` `reconstruction`
 - [Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud](https://arxiv.org/abs/2311.07357) — `registration` `reconstruction`
+- [3D Spectral Domain Registration-Based Visual Servoing](https://arxiv.org/abs/2303.15857) — `registration`
+- [A Unified BEV Model for Joint Learning of 3D Local Features and Overlap Estimation](https://arxiv.org/abs/2302.14511) — `registration` `BEV`
+- [Boosting 3D Point Cloud Registration by Transferring Multi-modality Knowledge](https://arxiv.org/abs/2302.05210) — `registration`
 - [COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry](https://arxiv.org/abs/2310.01235) — `registration`
+- [Efficient Implicit Neural Reconstruction Using LiDAR](https://arxiv.org/abs/2302.14363) — `registration` `reconstruction` `efficiency`
 - [FF-LOGO: Cross-Modality Point Cloud Registration with Feature Filtering and Local to Global Optimization](https://arxiv.org/abs/2309.08966) — `registration`
+- [GMCR: Graph-based Maximum Consensus Estimation for Point Cloud Registration](https://arxiv.org/abs/2303.04032) — `registration` `localization`
 - [Converting Depth Images and Point Clouds for Feature-based Pose Estimation](https://arxiv.org/abs/2310.14924) — `registration`
 - [CoFiI2P: Coarse-to-Fine Correspondences for Image-to-Point Cloud Registration](https://arxiv.org/abs/2309.14660) — `registration` `localization`
 - [Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration](https://arxiv.org/abs/2311.01202) — `registration` `self-supervised`
+- [Learnable Graph Matching: A Practical Paradigm for Data Association](https://arxiv.org/abs/2303.15414) — `registration` `tracking`
+- [Robust affine point matching via quadratic assignment on Grassmannians](https://arxiv.org/abs/2303.02698) — `registration` `robustness` — [code](https://github.com/sashakolpakov/roam)
 - [Nothing Stands Still: A Spatiotemporal Benchmark on 3D Point Cloud Registration Under Large Geometric and Temporal Change](https://arxiv.org/abs/2311.09346) — `registration` `dataset`
+- [Point Cloud Registration for LiDAR and Photogrammetric Data: a Critical Synthesis and Performance Analysis on Classic and Deep Learning Algorithms](https://arxiv.org/abs/2302.07184) — `registration`
 - [6D Assembly Pose Estimation by Point Cloud Registration for Robot Manipulation](https://arxiv.org/abs/2312.02593) — `registration` `detection`
 - [A denoised Mean Teacher for domain adaptive point cloud registration](https://arxiv.org/abs/2306.14749) — `registration`
 - [A Strong Baseline for Point Cloud Registration via Direct Superpoints Matching](https://arxiv.org/abs/2307.01362) — `registration`
@@ -167,12 +279,17 @@
 - [ELiOT : End-to-end Lidar Odometry using Transformer Framework](https://arxiv.org/abs/2307.11998) — `registration`
 - [End-to-end 2D-3D Registration between Image and LiDAR Point Cloud for Vehicle Localization](https://arxiv.org/abs/2306.11346) — `registration` `localization` — [code](https://github.com/IRMVLab/I2PNet)
 - [Exact Point Cloud Downsampling for Fast and Accurate Global Trajectory Optimization](https://arxiv.org/abs/2307.02948) — `registration`
+- [Graph Matching Optimization Network for Point Cloud Registration](https://arxiv.org/abs/2302.05844) — `registration`
+- [GraphReg: Dynamical Point Cloud Registration with Geometry-aware Graph Signal Processing](https://arxiv.org/abs/2302.01109) — `registration`
 - [HD2Reg: Hierarchical Descriptors and Detectors for Point Cloud Registration](https://arxiv.org/abs/2305.03487) — `registration`
 - [HDMNet: A Hierarchical Matching Network with Double Attention for Large-scale Outdoor LiDAR Point Cloud Registration](https://arxiv.org/abs/2310.18874) — `registration`
 - [HumanReg: Self-supervised Non-rigid Registration of Human Point Cloud](https://arxiv.org/abs/2312.05462) — `registration` `self-supervised`
+- [HybridFusion: LiDAR and Vision Cross-Source Point Cloud Fusion](https://arxiv.org/abs/2304.04508) — `registration`
+- [HybridPoint: Point Cloud Registration Based on Hybrid Point Sampling and Matching](https://arxiv.org/abs/2303.16526) — `registration` `localization`
 - [Joint Intrinsic and Extrinsic LiDAR-Camera Calibration in Targetless Environments Using Plane-Constrained Bundle Adjustment](https://arxiv.org/abs/2308.12629) — `registration` `multi-modal`
 - [KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping](https://arxiv.org/abs/2309.15394) — `registration` `detection`
 - [LiDAR-Generated Images Derived Keypoints Assisted Point Cloud Registration Scheme in Odometry Estimation](https://arxiv.org/abs/2309.10436) — `registration` `detection` `slam` `localization`
+- [Non-rigid Point Cloud Registration for Middle Ear Diagnostics with Endoscopic Optical Coherence Tomography](https://arxiv.org/abs/2304.13618) — `registration`
 - [OAAFormer: Robust and Efficient Point Cloud Registration Through Overlapping-Aware Attention in Transformer](https://arxiv.org/abs/2310.09817) — `registration` `robustness` `efficiency`
 - [One-Nearest Neighborhood Guides Inlier Estimation for Unsupervised Point Cloud Registration](https://arxiv.org/abs/2307.14019) — `registration` `self-supervised`
 - [Overlap Bias Matching is Necessary for Point Cloud Registration](https://arxiv.org/abs/2308.09364) — `registration`
@@ -182,41 +299,58 @@
 - [Q-REG: End-to-End Trainable Point Cloud Registration with Surface Curvature](https://arxiv.org/abs/2309.16023) — `registration`
 - [Quantity-Aware Coarse-to-Fine Correspondence for Image-to-Point Cloud Registration](https://arxiv.org/abs/2307.07142) — `registration`
 - [Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM](https://arxiv.org/abs/2311.00928) — `registration` `segmentation` `slam` `robustness`
+- [RDMNet: Reliable Dense Matching Based Point Cloud Registration for Autonomous Driving](https://arxiv.org/abs/2303.18084) — `registration` `autonomous driving`
+- [RegHEC: Hand-Eye Calibration via Simultaneous Multi-view Point Clouds Registration of Arbitrary Object](https://arxiv.org/abs/2304.14092) — `registration`
 - [Reinforcement Learning-Driven Linker Design via Fast Attention-based Point Cloud Alignment](https://arxiv.org/abs/2306.08166) — `registration`
 - [Roadside LiDAR Assisted Cooperative Localization for Connected Autonomous Vehicles](https://arxiv.org/abs/2311.07913) — `registration` `localization`
 - [Robust-DefReg: A Robust Deformable Point Cloud Registration Method based on Graph Convolutional Neural Networks](https://arxiv.org/abs/2306.04701) — `registration` `robustness`
+- [RoCNet: 3D Robust Registration of Point-Clouds using Deep Learning](https://arxiv.org/abs/2303.07963) — `registration` `robustness`
+- [SDFReg: Learning Signed Distance Functions for Point Cloud Registration](https://arxiv.org/abs/2304.08929) — `registration`
+- [Segregator: Global Point Cloud Registration with Semantic and Geometric Cues](https://arxiv.org/abs/2301.07425) — `registration`
 - [SGNet: Salient Geometric Network for Point Cloud Registration](https://arxiv.org/abs/2309.06207) — `registration`
 - [SphereNet: Learning a Noise-Robust and General Descriptor for Point Cloud Registration](https://arxiv.org/abs/2307.09351) — `registration` `robustness`
 - [TractCloud: Registration-free tractography parcellation with a novel local-global streamline point cloud representation](https://arxiv.org/abs/2307.09000) — `registration`
 - [Transformation Decoupling Strategy based on Screw Theory for Deterministic Point Cloud Registration with Gravity Prior](https://arxiv.org/abs/2311.01432) — `registration`
+- [TT-SDF2PC: Registration of Point Cloud and Compressed SDF Directly in the Memory-Efficient Tensor Train Domain](https://arxiv.org/abs/2304.05342) — `registration` `compression` `efficiency`
 - [ZeroReg: Zero-Shot Point Cloud Registration with Foundation Models](https://arxiv.org/abs/2312.03032) — `registration` `open-vocabulary`
 ## 2022
 
+- [Geometric Transformer for Fast and Robust Point Cloud Registration](https://arxiv.org/abs/2202.06688) — `registration` `detection` `robustness` — [code](https://github.com/qinzheng93/GeoTransformer)
 - [GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer](https://arxiv.org/abs/2308.03768) — `registration` `detection` `robustness`
 - [RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds](https://arxiv.org/abs/2205.11028) — `registration` `scene flow`
 - [REGTR: End-to-end Point Cloud Correspondences with Transformers](https://arxiv.org/abs/2203.14517) — `registration`
 - [SC^2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration](https://arxiv.org/abs/2203.14453) — `registration` `robustness` `efficiency`
 - [Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation](https://arxiv.org/abs/2208.14893) — `registration`
 - [MatchNorm: Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World](https://arxiv.org/abs/2203.15309) — `registration`
+- [PCR-CG: Point Cloud Registration via Deep Explicit Color and Geometry](https://arxiv.org/abs/2302.14418) — `registration` — [code](https://github.com/Gardlin/PCR-CG)
 - [SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud](https://arxiv.org/abs/2208.01925) — `registration` `segmentation` `self-supervised`
 - [Non-rigid Point Cloud Registration with Neural Deformation Pyramid](https://arxiv.org/abs/2205.12796) — `registration` — [code](https://github.com/rabbityl/DeformationPyramid)
 - [Stress-Testing Point Cloud Registration on Automotive LiDAR](https://arxiv.org/abs/2204.07719) — `registration` `autonomous driving` — [code](https://github.com/AmnonDrory/LidarRegistration) Workshop
 - [End-to-end Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration](https://arxiv.org/abs/2110.15250) — `registration` `robustness`
+- [Reliable Inlier Evaluation for Unsupervised Point Cloud Registration](https://arxiv.org/abs/2202.11292) — `registration`
 - [Overlap-guided Gaussian Mixture Models for Point Cloud Registration](https://arxiv.org/abs/2210.09836) — `registration`
 - [Challenging the Universal Representation of Deep Models for 3D Point Cloud Registration](https://arxiv.org/abs/2211.16301) — `registration` — Workshop
+- [A Single Correspondence Is Enough: Robust Global Registration to Avoid Degeneracy in Urban Environments](https://arxiv.org/abs/2203.06612) — `registration` `localization` `robustness`
 - [Coarse-to-Fine Point Cloud Registration with SE(3)-Equivariant Representations](https://arxiv.org/abs/2210.02045) — `registration`
+- [Translation Invariant Global Estimation of Heading Angle Using Sinogram of LiDAR Point Cloud](https://arxiv.org/abs/2203.00924) — `registration` `localization`
 - [Gravity-constrained point cloud registration](https://arxiv.org/abs/2203.13799) — `registration` `slam` `localization`
 - [PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM](https://arxiv.org/abs/2208.14848) — `registration` `slam` `localization`
 - [GMF: General Multimodal Fusion Framework for Correspondence Outlier Rejection](https://arxiv.org/abs/2211.00207) — `registration` `multi-modal`
 - [GraffMatch: Global Matching of 3D Lines and Planes for Wide Baseline LiDAR Registration](https://arxiv.org/abs/2212.12745) — `registration` `detection`
 - [PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration Using Panoptic Attention](https://arxiv.org/abs/2209.09699) — `registration` `segmentation` `detection` `slam`
 - [Robust Point Cloud Registration Framework Based on Deep Graph Matching(TPAMI Version)](https://arxiv.org/abs/2211.04696) — `registration` `robustness`
+- [A Graph-Matching Approach for Cross-view Registration of Over-view 2 and Street-view based Point Clouds](https://arxiv.org/abs/2202.06857) — `registration`
+- [3D Point Cloud Registration with Learning-based Matching Algorithm](https://arxiv.org/abs/2202.02149) — `registration`
+- [A multi-organ point cloud registration algorithm for abdominal CT registration](https://arxiv.org/abs/2203.08041) — `registration` `tracking`
 - [A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration](https://arxiv.org/abs/2205.07404) — `registration`
 - [A Representation Separation Perspective to Correspondences-free Unsupervised 3D Point Cloud Registration](https://arxiv.org/abs/2203.13239) — `registration`
 - [Accurate Ground-Truth Depth Image Generation via Overfit Training of Point Cloud Registration using Local Frame Sets](https://arxiv.org/abs/2207.07016) — `registration` `generation`
+- [An Efficient Accelerator for Deep Learning-based Point Cloud Registration on FPGAs](https://arxiv.org/abs/2203.05763) — `registration` `slam` `localization` `efficiency`
 - [Category-Level Global Camera Pose Estimation with Multi-Hypothesis Point Cloud Correspondences](https://arxiv.org/abs/2209.14419) — `registration`
 - [CorrI2P: Deep Image-to-Point Cloud Registration via Dense Correspondence](https://arxiv.org/abs/2207.05483) — `registration`
+- [Efficient divide-and-conquer registration of UAV and ground LiDAR point clouds through canopy shape context](https://arxiv.org/abs/2201.11296) — `registration` `detection` `efficiency`
 - [Evolutionary Multitasking with Solution Space Cutting for Point Cloud Registration](https://arxiv.org/abs/2212.05679) — `registration`
+- [Fast Semantic-Assisted Outlier Removal for Large-scale Point Cloud Registration](https://arxiv.org/abs/2202.10579) — `registration`
 - [GiNGR: Generalized Iterative Non-Rigid Point Cloud and Surface Registration Using Gaussian Process Regression](https://arxiv.org/abs/2203.09986) — `registration`
 - [Global Consistent Point Cloud Registration Based on Lie-algebraic Cohomology](https://arxiv.org/abs/2208.07103) — `registration`
 - [ImLoveNet: Misaligned Image-supported Registration Network for Low-overlap Point Cloud Pairs](https://arxiv.org/abs/2207.00826) — `registration`
@@ -224,15 +358,20 @@
 - [KSS-ICP: Point Cloud Registration based on Kendall Shape Space](https://arxiv.org/abs/2211.02807) — `registration` `reconstruction`
 - [Learning Dense Features for Point Cloud Registration Using a Graph Attention Network](https://arxiv.org/abs/2206.06731) — `registration` `tracking` `localization` `reconstruction`
 - [Learning Feature Descriptors for Pre- and Intra-operative Point Cloud Matching for Laparoscopic Liver Registration](https://arxiv.org/abs/2211.03688) — `registration`
+- [Leveraging Inlier Correspondences Proportion for Point Cloud Registration](https://arxiv.org/abs/2201.12094) — `registration`
+- [LiDAR Point--to--point Correspondences for Rigorous Registration of Kinematic Scanning in Dynamic Networks](https://arxiv.org/abs/2201.00596) — `registration`
 - [LinK3D: Linear Keypoints Representation for 3D LiDAR Point Cloud](https://arxiv.org/abs/2206.05927) — `registration` `detection`
 - [Multi-view Point Cloud Registration based on Evolutionary Multitasking with Bi-Channel Knowledge Sharing Mechanism](https://arxiv.org/abs/2205.02996) — `registration` `reconstruction`
+- [Multiview point cloud registration with anisotropic and space-varying localization noise](https://arxiv.org/abs/2201.00708) — `registration` `localization` `reconstruction`
 - [PCKRF: Point Cloud Completion and Keypoint Refinement With Fusion Data for 6D Pose Estimation](https://arxiv.org/abs/2210.03437) — `registration` `completion`
+- [PCRP: Unsupervised Point Cloud Object Retrieval and Pose Estimation](https://arxiv.org/abs/2202.07843) — `registration`
 - [Point Cloud Registration of non-rigid objects in sparse 3D Scans with applications in Mixed Reality](https://arxiv.org/abs/2212.03856) — `registration`
 - [Point Cloud Registration-Driven Robust Feature Matching for 3D Siamese Object Tracking](https://arxiv.org/abs/2209.06395) — `registration` `tracking` `localization` `robustness`
 - [PointCLM: A Contrastive Learning-based Framework for Multi-instance Point Cloud Registration](https://arxiv.org/abs/2209.00219) — `registration` `self-supervised`
 - [Points2NeRF: Generating Neural Radiance Fields from 3D point cloud](https://arxiv.org/abs/2206.01290) — `registration` `nerf`
 - [RIGA: Rotation-Invariant and Globally-Aware Descriptors for Point Cloud Registration](https://arxiv.org/abs/2209.13252) — `registration`
 - [SARNet: Semantic Augmented Registration of Large-Scale Urban Point Clouds](https://arxiv.org/abs/2206.13117) — `registration`
+- [Self-Supervised Point Cloud Registration with Deep Versatile Descriptors](https://arxiv.org/abs/2201.10034) — `registration` `self-supervised`
 - [UTOPIC: Uncertainty-aware Overlap Prediction Network for Partial Point Cloud Registration](https://arxiv.org/abs/2208.02712) — `registration`
 - [VRNet: Learning the Rectified Virtual Corresponding Points for 3D Point Cloud Registration](https://arxiv.org/abs/2203.13241) — `registration`
 - [X-ICP: Localizability-Aware LiDAR Registration for Robust Localization in Extreme Environments](https://arxiv.org/abs/2211.16335) — `registration` `localization` `robustness`

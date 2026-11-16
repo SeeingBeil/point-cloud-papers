@@ -1,25 +1,32 @@
 # Normal Estimation · `normal estimation`
 
-共 **20** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **27** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2025
 
+- [LiSu: A Dataset and Method for LiDAR Surface Normal Estimation](https://arxiv.org/abs/2503.08601) — `normal estimation` `dataset`
 - [Learning Normals of Noisy Points by Local Gradient-Aware Surface Filtering](https://arxiv.org/abs/2507.03394) — `normal estimation`
 - [PFF-Net: Patch Feature Fitting for Point Cloud Normal Estimation](https://arxiv.org/abs/2511.21365) — `normal estimation`
 - [MambaH-Fit: Rethinking Hyper-surface Fitting-based Point Cloud Normal Estimation via State Space Modelling](https://arxiv.org/abs/2510.09088) — `normal estimation`
 ## 2024
 
 - [CMG-Net: Robust Normal Estimation for Point Clouds via Chamfer Normal Distance and Multi-scale Geometry](https://arxiv.org/abs/2312.09154) — `normal estimation` `robustness`
+- [Asymmetrical Siamese Network for Point Clouds Normal Estimation](https://arxiv.org/abs/2406.09681) — `normal estimation`
 - [OCMG-Net: Neural Oriented Normal Refinement for Unstructured Point Clouds](https://arxiv.org/abs/2409.01100) — `normal estimation`
+- [Refining 3D Point Cloud Normal Estimation via Sample Selection](https://arxiv.org/abs/2406.18541) — `normal estimation`
 ## 2023
 
 - [Learning Signed Hyper Surfaces for Oriented Point Cloud Normal Estimation](https://arxiv.org/abs/2305.05873) — `normal estimation` — [code](https://github.com/LeoQLi/SHS-Net)
+- [Pointersect: Neural Rendering with Cloud-Ray Intersection](https://arxiv.org/abs/2304.12390) — `normal estimation`
+- [Rethinking the Approximation Error in 3D Surface Fitting for Point Cloud Normal Estimation](https://arxiv.org/abs/2303.17167) — `normal estimation` — [code](https://github.com/hikvision-research/3DVision)
 - [NeuralGF: Unsupervised Point Normal Estimation by Learning Neural Gradient Function](https://arxiv.org/abs/2311.00389) — `normal estimation`
 - [NeAF: Learning Neural Angle Fields for Point Normal Estimation](https://arxiv.org/abs/2211.16869) — `normal estimation` — [code](https://github.com/lisj575/NeAF)
 - [Neural Gradient Learning and Optimization for Oriented Point Normal Estimation](https://arxiv.org/abs/2309.09211) — `normal estimation`
 - [MSECNet: Accurate and Robust Normal Estimation for 3D Point Clouds by Multi-Scale Edge Conditioning](https://arxiv.org/abs/2308.02237) — `reconstruction` `normal estimation` `robustness`
+- [Globally Consistent Normal Orientation for Point Clouds by Regularizing the Winding-Number Field](https://arxiv.org/abs/2304.11605) — `normal estimation`
+- [PointNorm-Net: Self-Supervised Normal Prediction of 3D Point Clouds via Multi-Modal Distribution Estimation](https://arxiv.org/abs/2304.04884) — `self-supervised` `normal estimation` `multi-modal`
 - [Robust Estimation of Surface Curvature Information from Point Cloud Data](https://arxiv.org/abs/2306.00299) — `normal estimation` `robustness`
 - [Weighted Point Cloud Normal Estimation](https://arxiv.org/abs/2305.04007) — `normal estimation`
 ## 2022

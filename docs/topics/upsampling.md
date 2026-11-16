@@ -1,47 +1,73 @@
 # Upsampling & Super-resolution · `upsampling`
 
-共 **55** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **82** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
 ## 2026
 
 - [ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling](https://arxiv.org/abs/2610.21190) — `generation` `upsampling`
+- [A Comprehensive Survey on Deep Learning-Based LiDAR Super-Resolution for Autonomous Driving](https://arxiv.org/abs/2602.15904) — `upsampling` `autonomous driving`
 - [Fast and Accurate Outlier-Aware LiDAR Super-Resolution for SLAM Applications](https://arxiv.org/abs/2606.28607) — `slam` `upsampling`
 - [Image-to-Point Cloud Registration Made Easy with Rectified Flow-based LiDAR Upsampling](https://arxiv.org/abs/2607.14639) — `registration` `upsampling`
 - [Local-Global Joint Modeling for Point Cloud Super-Resolution Guided by Multi-Scale Spatial Priors](https://arxiv.org/abs/2611.02786) — `upsampling`
 - [Optimizing 3D Gaussian Splatting via Point Cloud Upsampling](https://arxiv.org/abs/2606.00450) — `reconstruction` `gaussian-splatting` `upsampling`
 - [PC$^2$-AD: Point Cloud Upsampling to Safeguard 3D Anomaly Detection with Resolution-constrained Edge Devices](https://arxiv.org/abs/2609.14722) — `detection` `upsampling` `anomaly detection` — [code](https://github.com/gyutong406-commits/PC2-AD)
+- [Physics-Aware Diffusion for LiDAR Point Cloud Densification](https://arxiv.org/abs/2603.26759) — `generation` `upsampling`
 - [Point Cloud Upsampling through Patch-based Frequency Superposition](https://arxiv.org/abs/2606.14355) — `upsampling`
+- [Real-Time LiDAR Point Cloud Densification for Low-Latency Spatial Data Transmission](https://arxiv.org/abs/2601.01210) — `upsampling` `efficiency`
 - [SUMI: Scalable Unified Model for 3D Point Cloud Inference](https://arxiv.org/abs/2608.08115) — `completion` `reconstruction` `upsampling`
+- [Super-Resolution of Airborne Laser Scanning Point Clouds for Forest Inventory](https://arxiv.org/abs/2605.02201) — `localization` `upsampling`
 ## 2025
 
+- [SuperPC: A Single Diffusion Model for Point Cloud Completion, Upsampling, Denoising, and Colorization](https://arxiv.org/abs/2503.14558) — `completion` `generation` `reconstruction` `upsampling`
 - [PU-Gaussian: Point Cloud Upsampling using 3D Gaussian Representation](https://arxiv.org/abs/2509.20207) — `upsampling` — Workshop
+- [MFSeg: Efficient Multi-frame 3D Semantic Segmentation](https://arxiv.org/abs/2505.04408) — `segmentation` `upsampling` `efficiency`
+- [R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model](https://arxiv.org/abs/2503.17097) — `generation` `upsampling` `BEV` `multi-modal`
+- [Efficient Point Clouds Upsampling via Flow Matching](https://arxiv.org/abs/2501.15286) — `upsampling` `efficiency`
+- [Enhancing Lidar Point Cloud Sampling via Colorization and Super-Resolution of Lidar Imagery](https://arxiv.org/abs/2505.02049) — `generation` `upsampling`
+- [GP-GS: Gaussian Processes Densification for 3D Gaussian Splatting](https://arxiv.org/abs/2502.02283) — `gaussian-splatting` `upsampling`
 - [Guided Model-based LiDAR Super-Resolution for Resource-Efficient Automotive scene Segmentation](https://arxiv.org/abs/2509.01317) — `segmentation` `upsampling` `autonomous driving` `efficiency`
+- [Med-PU: Point Cloud Upsampling for High-Fidelity 3D Medical Shape Reconstruction](https://arxiv.org/abs/2501.16716) — `segmentation` `reconstruction` `upsampling`
+- [Non-uniform Point Cloud Upsampling via Local Manifold Distribution](https://arxiv.org/abs/2504.11701) — `upsampling`
 - [PUFM++: Point Cloud Upsampling via Enhanced Flow Matching](https://arxiv.org/abs/2512.20988) — `generation` `reconstruction` `upsampling`
 - [PVNet: Point-Voxel Interaction LiDAR Scene Upsampling Via Diffusion Models](https://arxiv.org/abs/2508.17050) — `upsampling`
+- [Representation Learning of Point Cloud Upsampling in Global and Local Inputs](https://arxiv.org/abs/2501.07076) — `reconstruction` `upsampling`
+- [SPU-IMR: Self-supervised Arbitrary-scale Point Cloud Upsampling via Iterative Mask-recovery Network](https://arxiv.org/abs/2502.19452) — `self-supervised` `upsampling`
+- [SRMamba: Mamba for Super-Resolution of LiDAR Point Clouds](https://arxiv.org/abs/2505.10601) — `upsampling`
 - [SRMambaV2: Biomimetic Attention for Sparse Point Cloud Upsampling in Autonomous Driving](https://arxiv.org/abs/2507.17479) — `upsampling` `autonomous driving`
 ## 2024
 
 - [TULIP: Transformer for Upsampling of LiDAR Point Clouds](https://arxiv.org/abs/2312.06733) — `upsampling`
+- [Arbitrary-Scale Point Cloud Upsampling by Voxel-Based Network with Latent Geometric-Consistent Learning](https://arxiv.org/abs/2403.05117) — `upsampling` — [code](https://github.com/hikvision-research/3DVision)
 - [Learning Continuous Implicit Field with Local Distance Indicator for Arbitrary-Scale Point Cloud Upsampling](https://arxiv.org/abs/2312.15133) — `upsampling`
 - [ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling](https://arxiv.org/abs/2410.06963) — `generation` `upsampling` `efficiency`
+- [Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data](https://arxiv.org/abs/2404.06012) — `upsampling` `multi-modal`
 - [Analysis of Deep Learning-Based Colorization and Super-Resolution Techniques for Lidar Imagery](https://arxiv.org/abs/2409.11532) — `upsampling`
+- [DMF-Net: Image-Guided Point Cloud Completion with Dual-Channel Modality Fusion and Shape-Aware Upsampling Transformer](https://arxiv.org/abs/2406.17319) — `completion` `upsampling`
 - [EGP3D: Edge-guided Geometric Preserving 3D Point Cloud Super-resolution for RGB-D camera](https://arxiv.org/abs/2412.11680) — `reconstruction` `upsampling`
+- [Enhanced 3D Urban Scene Reconstruction and Point Cloud Densification using Gaussian Splatting and Google Earth Imagery](https://arxiv.org/abs/2405.11021) — `reconstruction` `gaussian-splatting` `upsampling`
+- [Fast LiDAR Upsampling using Conditional Diffusion Models](https://arxiv.org/abs/2405.04889) — `generation` `upsampling`
 - [Gait Sequence Upsampling using Diffusion Models for Single LiDAR Sensors](https://arxiv.org/abs/2410.08680) — `upsampling`
 - [GaussianPU: A Hybrid 2D-3D Upsampling Framework for Enhancing Color Point Clouds via 3D Gaussian Splatting](https://arxiv.org/abs/2409.01581) — `gaussian-splatting` `upsampling`
 - [Joint Point Cloud Upsampling and Cleaning with Octree-based CNNs](https://arxiv.org/abs/2410.17001) — `upsampling`
 - [Learned Compression for Images and Point Clouds](https://arxiv.org/abs/2409.08376) — `classification` `generation` `compression` `upsampling`
 - [MBPU: A Plug-and-Play State Space Model for Point Cloud Upsamping with Fast Point Rendering](https://arxiv.org/abs/2410.15941) — `upsampling`
 - [PLATYPUS: Progressive Local Surface Estimator for Arbitrary-Scale Point Cloud Upsampling](https://arxiv.org/abs/2411.00432) — `upsampling` `autonomous driving`
+- [Rethinking Data Input for Point Cloud Upsampling](https://arxiv.org/abs/2407.04476) — `segmentation` `reconstruction` `upsampling`
+- [Soft Masked Transformer for Point Cloud Processing with Skip Attention-Based Upsampling](https://arxiv.org/abs/2403.14124) — `upsampling`
 ## 2023
 
+- [Grad-PU: Arbitrary-Scale Point Cloud Upsampling via Gradient Descent with Learned Distance Functions](https://arxiv.org/abs/2304.11846) — `upsampling` — [code](https://github.com/yunhe20/Grad-PU)
 - [Test-Time Adaptation for Point Cloud Upsampling Using Meta-Learning](https://arxiv.org/abs/2308.16484) — `upsampling`
+- [Lidar Upsampling with Sliced Wasserstein Distance](https://arxiv.org/abs/2301.13558) — `upsampling` `autonomous driving`
 - [4DSR-GCN: 4D Video Point Cloud Upsampling using Graph Convolutional Networks](https://arxiv.org/abs/2306.01081) — `compression` `upsampling`
 - [A Conditional Denoising Diffusion Probabilistic Model for Point Cloud Upsampling](https://arxiv.org/abs/2312.02719) — `classification` `reconstruction` `upsampling` `denoising`
 - [Arbitrary point cloud upsampling via Dual Back-Projection Network](https://arxiv.org/abs/2307.08992) — `upsampling`
 - [iPUNet:Iterative Cross Field Guided Point Cloud Upsampling](https://arxiv.org/abs/2310.09092) — `upsampling`
+- [Joint Geometry and Attribute Upsampling of Point Clouds Using Frequency-Selective Models with Overlapped Support](https://arxiv.org/abs/2301.11630) — `upsampling` `autonomous driving`
 - [Lightweight super resolution network for point cloud geometry compression](https://arxiv.org/abs/2311.00970) — `reconstruction` `compression` `upsampling` `efficiency`
+- [PU-EdgeFormer: Edge Transformer for Dense Prediction in Point Cloud Upsampling](https://arxiv.org/abs/2305.01148) — `upsampling`
 - [PU-Ray: Domain-Independent Point Cloud Upsampling via Ray Marching on Neural Implicit Surface](https://arxiv.org/abs/2310.08755) — `upsampling`
 - [Semantic Segmentation on 3D Point Clouds with High Density Variations](https://arxiv.org/abs/2307.01489) — `segmentation` `upsampling`
 ## 2022
@@ -56,6 +82,7 @@
 - [Frequency-Selective Mesh-to-Mesh Resampling for Color Upsampling of Point Clouds](https://arxiv.org/abs/2203.09224) — `upsampling`
 - [Point Cloud Upsampling via Cascaded Refinement Network](https://arxiv.org/abs/2210.03942) — `upsampling` — [code](https://github.com/hikvision-research/3DVision)
 - [PU-EVA: An Edge Vector based Approximation Solution for Flexible-scale Point Cloud Upsampling](https://arxiv.org/abs/2204.10750) — `reconstruction` `upsampling`
+- [PUFA-GAN: A Frequency-Aware Generative Adversarial Network for 3D Point Cloud Upsampling](https://arxiv.org/abs/2203.00914) — `generation` `upsampling` `robustness`
 - [Self-Supervised Arbitrary-Scale Point Clouds Upsampling via Implicit Neural Representation](https://arxiv.org/abs/2204.08196) — `self-supervised` `upsampling`
 - [Upsampling Autoencoder for Self-Supervised Point Cloud Learning](https://arxiv.org/abs/2203.10768) — `self-supervised` `upsampling`
 ## 2021
