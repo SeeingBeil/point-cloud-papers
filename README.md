@@ -11,8 +11,7 @@
 [![Update](https://img.shields.io/badge/last_update-2026-11-16-lightgrey)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> 本列表由 `scripts/build.py` 从 [`data/entries.json`](data/entries.json) 自动生成，**请勿直接编辑本文件**。
-> This README is generated. Add papers by editing `data/entries.json` (see [CONTRIBUTING.md](CONTRIBUTING.md)).
+
 
 ## 目录 / Contents
 
