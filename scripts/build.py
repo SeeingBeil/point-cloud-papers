@@ -138,8 +138,13 @@ def render_readme(entries, tags) -> str:
         L.append(f"| `{tid}` | {n} | [查看](docs/topics/{slug(tid)}.md) |")
     L += ["", "---", "", "## 论文 / Papers", ""]
 
-    # ---- per year ----
+    # ---- per year: the two newest years inline, older ones on their own page ----
+    INLINE_YEARS = set(years[:2])
     for y in years:
+        if y not in INLINE_YEARS:
+            L += [f"### {y} <sub>({len(by_year[y])})</sub>", "",
+                  f"→ [查看 {y} 年完整列表](docs/year/{y}.md)", ""]
+            continue
         L += [f"### {y} <sub>({len(by_year[y])})</sub>", ""]
         by_venue = defaultdict(list)
         for e in by_year[y]:
@@ -154,6 +159,10 @@ def render_readme(entries, tags) -> str:
 
     L += [
         "---",
+        "",
+        f"### 更早年份 / Earlier years",
+        "",
+        " | ".join(f"[{y}](docs/year/{y}.md)" for y in years if y not in INLINE_YEARS),
         "",
         "## 说明 / Notes",
         "",
@@ -194,6 +203,30 @@ def write_topics(entries, tags):
         open(os.path.join(TOPICS, f"{slug(tid)}.md"), "w", encoding="utf-8").write("\n".join(L))
         rows.append((tid, len(items)))
     return rows
+
+
+def write_year_pages(entries):
+    """docs/year/<year>.md — full list for one year, grouped by venue."""
+    outdir = os.path.join(ROOT, "docs", "year")
+    os.makedirs(outdir, exist_ok=True)
+    for f in os.listdir(outdir):
+        os.remove(os.path.join(outdir, f))
+    by_year = defaultdict(list)
+    for e in entries:
+        by_year[int(e["year"])].append(e)
+    for y in sorted(by_year, reverse=True):
+        items = sorted(by_year[y], key=sort_key)
+        by_venue = defaultdict(list)
+        for e in items:
+            by_venue[e["venue"]].append(e)
+        L = [f"# {y}", "", f"共 **{len(items)}** 篇 · 返回 [索引](../../README.md#-papers)", "", "---", ""]
+        for v in sorted(by_venue, key=venue_rank):
+            L += [f"## {v} <sub>({len(by_venue[v])})</sub>", ""]
+            for e in by_venue[v]:
+                L.append(entry_line(e))
+            L.append("")
+        open(os.path.join(outdir, f"{y}.md"), "w", encoding="utf-8").write("\n".join(L))
+    return len(by_year)
 
 
 def write_published(entries):
@@ -244,6 +277,7 @@ def main() -> int:
 
     open(README, "w", encoding="utf-8").write(readme)
     rows = write_topics(entries, tags)
+    write_year_pages(entries)
     n_pub = write_published(entries)
     print(f"[ok] README.md: {len(entries)} papers, {len(rows)} topics, {n_pub} peer-reviewed")
     return 0
