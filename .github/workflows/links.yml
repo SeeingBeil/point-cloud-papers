@@ -1,0 +1,32 @@
+name: link-check
+
+on:
+  schedule:
+    - cron: "0 3 * * 1"        # 每周一 UTC 03:00
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Check links
+        id: check
+        continue-on-error: true
+        run: python scripts/check_links.py --fail --out link-report.md
+
+      - name: Open or update issue
+        if: steps.check.outcome == 'failure'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "🔗 失效链接报告"
+          content-filepath: link-report.md
+          labels: link-rot

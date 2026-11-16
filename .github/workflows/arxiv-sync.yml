@@ -1,0 +1,64 @@
+name: arxiv-sync
+
+# 每日抓取 arXiv 上新发的点云论文，自动开一个 PR。
+# 这是本仓库与静态论文列表的核心区别：机器维护，不靠人肉。
+
+on:
+  schedule:
+    - cron: "17 2 * * *"      # UTC 02:17 = 北京时间 10:17
+  workflow_dispatch:
+    inputs:
+      days:
+        description: "回看天数"
+        default: "3"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Crawl arXiv
+        run: |
+          DAYS="${{ github.event.inputs.days || '3' }}"
+          python scripts/crawl_arxiv.py \
+            --out data/arxiv_new.json \
+            --max 400 \
+            --since "${DAYS}d"
+
+      - name: Curate and rebuild
+        run: |
+          python scripts/curate.py --raw data/arxiv_new.json --merge data/entries.json
+          python scripts/build.py
+
+      - name: Count additions
+        id: diff
+        run: |
+          N=$(git diff --numstat data/entries.json | awk '{print $1}')
+          echo "added=${N:-0}" >> "$GITHUB_OUTPUT"
+
+      - name: Create pull request
+        if: steps.diff.outputs.added != '0'
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: "chore: 同步 arXiv 新增 ${{ steps.diff.outputs.added }} 条"
+          title: "📡 arXiv sync: ${{ steps.diff.outputs.added }} 条新增"
+          body: |
+            由 `.github/workflows/arxiv-sync.yml` 自动生成。
+
+            请人工过目：
+            - [ ] 标题/年份/会议是否合理（会议信息来自 arXiv comment，可能有误）
+            - [ ] 标签是否需要调整
+            - [ ] 是否有非点云论文混入
+
+            合并后 README 会自动按新数据重新生成。
+          branch: arxiv-sync/auto
+          delete-branch: true

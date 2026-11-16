@@ -1,0 +1,18 @@
+# crawl artifacts
+data/raw_*.json
+data/arxiv_raw.json
+data/arxiv_new.json
+data/backfill.log
+link-report.md
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

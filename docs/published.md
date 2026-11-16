@@ -1,0 +1,1187 @@
+# 已正式发表 / Peer-reviewed only
+
+共 **1106** 篇（另有 1649 篇为 arXiv 预印本，见 [README](../../README.md)）。
+按会议/期刊分组，组内按年份倒序。
+
+---
+
+## CVPR <sub>(176)</sub>
+
+- 2026 — [3D sans 3D Scans: Scalable Pre-training from Video-Generated Point Clouds](https://arxiv.org/abs/2512.23042) — `self-supervised` `pre-training`
+- 2026 — [AnyPcc: Compressing Any Point Cloud with a Single Universal Model](https://arxiv.org/abs/2510.20331) — `compression`
+- 2026 — [Edge Prediction for Roof Wireframe Reconstruction with Transformers](https://arxiv.org/abs/2606.02406) — `reconstruction` — Workshop
+- 2026 — [FUSER: Feed-Forward MUltiview 3D Registration Transformer and SE(3)$^N$ Diffusion Refinement](https://arxiv.org/abs/2512.09373) — `registration`
+- 2026 — [GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation](https://arxiv.org/abs/2512.23180) — `generation` `BEV` `multi-modal`
+- 2026 — [Geometric-Aware Hypergraph Reasoning for Novel Class Discovery in Point Cloud Segmentation](https://arxiv.org/abs/2606.07280) — `segmentation`
+- 2026 — [LitePT: Lighter Yet Stronger Point Transformer](https://arxiv.org/abs/2512.13689)
+- 2026 — [MASER: Modality-Adaptive Specialist Routing for Embodied 3D Spatial Intelligence](https://arxiv.org/abs/2606.02463) — Workshop
+- 2026 — [QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer](https://arxiv.org/abs/2605.31124) — `efficiency`
+- 2026 — [S2AM3D: Scale-controllable Part Segmentation of 3D Point Clouds](https://arxiv.org/abs/2512.00995) — `segmentation`
+- 2026 — [Text-guided Feature Disentanglement for Cross-modal Gait Recognition](https://arxiv.org/abs/2605.30784)
+- 2025 — [AutoURDF: Unsupervised Robot Modeling from Point Cloud Frames Using Cluster Registration](https://arxiv.org/abs/2412.05507) — `registration`
+- 2025 — [PerLA: Perceptive 3D Language Assistant](https://arxiv.org/abs/2411.19774)
+- 2025 — [Semantic-Free Procedural 3D Shapes Are Surprisingly Good Teachers](https://arxiv.org/abs/2411.17467) — `self-supervised`
+- 2025 — [Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives](https://arxiv.org/abs/2412.00578) — `reconstruction` `gaussian-splatting`
+- 2025 — [V2X-R: Cooperative LiDAR-4D Radar Fusion with Denoising Diffusion for 3D Object Detection](https://arxiv.org/abs/2411.08402) — `detection` `denoising` `multi-modal`
+- 2025 — [Video-3D LLM: Learning Position-Aware Video Representation for 3D Scene Understanding](https://arxiv.org/abs/2412.00493) — `vision-language`
+- 2024 — [Beyond the Label Itself: Latent Labels Enhance Semi-supervised Point Cloud Panoptic Segmentation](https://arxiv.org/abs/2312.08234) — `segmentation`
+- 2024 — [CrossSDF: 3D Reconstruction of Thin Structures From Cross-Sections](https://arxiv.org/abs/2412.04120) — `reconstruction`
+- 2024 — [D$^2$-World: An Efficient World Model through Decoupled Dynamic Flow](https://arxiv.org/abs/2411.17027) — `BEV` `efficiency`
+- 2024 — [DGC-GNN: Leveraging Geometry and Color Cues for Visual Descriptor-Free 2D-3D Matching](https://arxiv.org/abs/2306.12547)
+- 2024 — [Geometrically-driven Aggregation for Zero-shot 3D Point Cloud Understanding](https://arxiv.org/abs/2312.02244) — `open-vocabulary`
+- 2024 — [LoopDraw: a Loop-Based Autoregressive Model for Shape Synthesis and Editing](https://arxiv.org/abs/2212.04981) — Workshop
+- 2024 — [Low Latency Point Cloud Rendering with Learned Splatting](https://arxiv.org/abs/2409.16504) — Workshop
+- 2024 — [Multimodal Industrial Anomaly Detection by Crossmodal Feature Mapping](https://arxiv.org/abs/2312.04521) — `detection` `multi-modal` `anomaly detection`
+- 2024 — [Neural Point Cloud Diffusion for Disentangled 3D Shape and Appearance Generation](https://arxiv.org/abs/2312.14124) — `generation`
+- 2024 — [OmniVec2 -- A Novel Transformer based Network for Large Scale Multimodal and Multitask Learning](https://arxiv.org/abs/2507.13364) — `multi-modal`
+- 2024 — [Paved2Paradise: Cost-Effective and Scalable LiDAR Simulation by Factoring the Real World](https://arxiv.org/abs/2312.01117) — Workshop
+- 2024 — [Point Transformer V3: Simpler, Faster, Stronger](https://arxiv.org/abs/2312.10035) — [code](https://github.com/Pointcept/PointTransformerV3)
+- 2024 — [PTT: Point-Trajectory Transformer for Efficient Temporal 3D Object Detection](https://arxiv.org/abs/2312.08371) — `detection` `efficiency` — [code](https://github.com/kuanchihhuang/PTT)
+- 2024 — [Sculpting Holistic 3D Representation in Contrastive Language-Image-3D Pre-training](https://arxiv.org/abs/2311.01734) — `self-supervised` `pre-training`
+- 2024 — [Selectively Dilated Convolution for Accuracy-Preserving Sparse Pillar-based Embedded 3D Object Detection](https://arxiv.org/abs/2408.13798) — `detection` `autonomous driving` — Workshop
+- 2024 — [SurfaceAug: Closing the Gap in Multimodal Ground Truth Sampling](https://arxiv.org/abs/2312.03808) — `multi-modal`
+- 2024 — [TetraSphere: A Neural Descriptor for O(3)-Invariant Point Cloud Analysis](https://arxiv.org/abs/2211.14456)
+- 2024 — [Text2Loc: 3D Point Cloud Localization from Natural Language](https://arxiv.org/abs/2311.15977) — `localization`
+- 2024 — [TULIP: Transformer for Upsampling of LiDAR Point Clouds](https://arxiv.org/abs/2312.06733) — `upsampling`
+- 2024 — [UniRepLKNet: A Universal Perception Large-Kernel ConvNet for Audio, Video, Point Cloud, Time-Series and Image Recognition](https://arxiv.org/abs/2311.15599) — [code](https://github.com/AILab-CVC/UniRepLKNet)
+- 2024 — [Zero-Shot Dual-Path Integration Framework for Open-Vocabulary 3D Instance Segmentation](https://arxiv.org/abs/2408.08591) — `segmentation` `open-vocabulary` — Workshop
+- 2023 — [3D Human Keypoints Estimation From Point Clouds in the Wild Without Human Labels](https://arxiv.org/abs/2306.04745) — `detection`
+- 2023 — [3D Registration with Maximal Cliques](https://arxiv.org/abs/2305.10854) — `registration` `generation`
+- 2023 — [ALSO: Automotive Lidar Self-supervision by Occupancy estimation](https://arxiv.org/abs/2212.05867) — `reconstruction` `self-supervised`
+- 2023 — [Building Rearticulable Models for Arbitrary 3D Objects from 4D Point Clouds](https://arxiv.org/abs/2306.00979)
+- 2023 — [DeepMapping2: Self-Supervised Large-Scale LiDAR Map Optimization](https://arxiv.org/abs/2212.06331) — `registration` `self-supervised` `autonomous driving`
+- 2023 — [DiffRF: Rendering-Guided 3D Radiance Field Diffusion](https://arxiv.org/abs/2212.01206) — `denoising`
+- 2023 — [Diffusion 3D Features (Diff3F): Decorating Untextured Shapes with Distilled Semantic Features](https://arxiv.org/abs/2311.17024)
+- 2023 — [DynStatF: An Efficient Feature Fusion Strategy for LiDAR 3D Object Detection](https://arxiv.org/abs/2305.15219) — `detection` `efficiency` — Workshop
+- 2023 — [E2PN: Efficient SE(3)-Equivariant Point Network](https://arxiv.org/abs/2206.05398) — `efficiency` — [code](https://github.com/minghanz/E2PN)
+- 2023 — [EDA: Explicit Text-Decoupling and Dense Alignment for 3D Visual Grounding](https://arxiv.org/abs/2209.14941)
+- 2023 — [EventNeRF: Neural Radiance Fields from a Single Colour Event Camera](https://arxiv.org/abs/2206.11896) — `reconstruction` `nerf`
+- 2023 — [GD-MAE: Generative Decoder for MAE Pre-training on LiDAR Point Clouds](https://arxiv.org/abs/2212.03010) — `generation` `pre-training`
+- 2023 — [GeoMAE: Masked Geometric Target Prediction for Self-supervised Point Cloud Pre-Training](https://arxiv.org/abs/2305.08808) — `reconstruction` `self-supervised` `pre-training`
+- 2023 — [GLiDR: Topologically Regularized Graph Generative Network for Sparse LiDAR Point Clouds](https://arxiv.org/abs/2312.00068) — `generation`
+- 2023 — [GraVoS: Voxel Selection for 3D Point-Cloud Detection](https://arxiv.org/abs/2208.08780) — `detection`
+- 2023 — [GrowSP: Unsupervised Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/2305.16404) — `segmentation` — [code](https://github.com/vLAR-group/GrowSP)
+- 2023 — [LaserMix for Semi-Supervised LiDAR Semantic Segmentation](https://arxiv.org/abs/2207.00026) — `segmentation` — [code](https://github.com/ldkong1205/LaserMix)
+- 2023 — [Learning Signed Hyper Surfaces for Oriented Point Cloud Normal Estimation](https://arxiv.org/abs/2305.05873) — `normal estimation` — [code](https://github.com/LeoQLi/SHS-Net)
+- 2023 — [LidarGait: Benchmarking 3D Gait Recognition with Point Clouds](https://arxiv.org/abs/2211.10598)
+- 2023 — [LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network](https://arxiv.org/abs/2306.12525) — Workshop
+- 2023 — [MoDAR: Using Motion Forecasting for 3D Object Detection in Point Cloud Sequences](https://arxiv.org/abs/2306.03206) — `detection`
+- 2023 — [NeuMap: Neural Coordinate Mapping by Auto-Transdecoder for Camera Localization](https://arxiv.org/abs/2211.11177) — `localization`
+- 2023 — [Neural Kernel Surface Reconstruction](https://arxiv.org/abs/2305.19590) — `reconstruction`
+- 2023 — [On Deep Learning for Geometric and Semantic Scene Understanding Using On-Vehicle 3D LiDAR](https://arxiv.org/abs/2411.00600) — `segmentation` `autonomous driving`
+- 2023 — [PartSLIP: Low-Shot Part Segmentation for 3D Point Clouds via Pretrained Image-Language Models](https://arxiv.org/abs/2212.01558) — `segmentation` `pre-training`
+- 2023 — [PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds](https://arxiv.org/abs/2305.04925) — `detection`
+- 2023 — [PointCMP: Contrastive Mask Prediction for Self-supervised Learning on Point Cloud Videos](https://arxiv.org/abs/2305.04075) — `self-supervised`
+- 2023 — [PointConvFormer: Revenge of the Point-based Convolution](https://arxiv.org/abs/2208.02879)
+- 2023 — [PointVector: A Vector Representation In Point Cloud Analysis](https://arxiv.org/abs/2205.10528)
+- 2023 — [PVT-SSD: Single-Stage 3D Object Detector with Point-Voxel Transformer](https://arxiv.org/abs/2305.06621) — `detection`
+- 2023 — [PWR-Align: Leveraging Part-Whole Relationships for Part-wise Rigid Point Cloud Registration in Mixed Reality Applications](https://arxiv.org/abs/2306.06717) — `registration`
+- 2023 — [Reassembling Broken Objects using Breaking Curves](https://arxiv.org/abs/2306.02782) — Workshop
+- 2023 — [Reviewing 3D Object Detectors in the Context of High-Resolution 3+1D Radar](https://arxiv.org/abs/2308.05478) — `detection` `multi-modal` — Workshop
+- 2023 — [SCOOP: Self-Supervised Correspondence and Optimization-Based Scene Flow](https://arxiv.org/abs/2211.14020) — `self-supervised` `scene flow`
+- 2023 — [Towards Better Gradient Consistency for Neural Signed Distance Functions via Level Set Alignment](https://arxiv.org/abs/2305.11601) — [code](https://github.com/mabaorui/TowardsBetterGradient)
+- 2023 — [Towards Unsupervised Object Detection From LiDAR Point Clouds](https://arxiv.org/abs/2311.02007) — `detection` `autonomous driving`
+- 2023 — [ULIP: Learning a Unified Representation of Language, Images, and Point Clouds for 3D Understanding](https://arxiv.org/abs/2212.05171)
+- 2023 — [UltraLiDAR: Learning Compact Representations for LiDAR Completion and Generation](https://arxiv.org/abs/2311.01448) — `completion` `generation`
+- 2023 — [Weakly and Self-Supervised Class-Agnostic Motion Prediction for Autonomous Driving](https://arxiv.org/abs/2509.13116) — `self-supervised` `autonomous driving`
+- 2022 — [3D-SPS: Single-Stage 3D Visual Grounding via Referred Point Progressive Selection](https://arxiv.org/abs/2204.06272) — `detection`
+- 2022 — [3D-VField: Adversarial Augmentation of Point Clouds for Domain Generalization in 3D Object Detection](https://arxiv.org/abs/2112.04764) — `detection` `robustness`
+- 2022 — [3DeformRS: Certifying Spatial Deformations on Point Clouds](https://arxiv.org/abs/2204.05687) — `autonomous driving`
+- 2022 — [AziNorm: Exploiting the Radial Symmetry of Point Cloud for Azimuth-Normalized 3D Perception](https://arxiv.org/abs/2203.13090)
+- 2022 — [Boosting 3D Object Detection by Simulating Multimodality on Point Clouds](https://arxiv.org/abs/2206.14971) — `detection`
+- 2022 — [Bridged Transformer for Vision and Point Cloud 3D Object Detection](https://arxiv.org/abs/2210.01391) — `detection`
+- 2022 — [CAT-Det: Contrastively Augmented Transformer for Multi-modal 3D Object Detection](https://arxiv.org/abs/2204.00325) — `detection` `autonomous driving` `multi-modal`
+- 2022 — [Critical Regularizations for Neural Surface Reconstruction in the Wild](https://arxiv.org/abs/2206.03087) — `reconstruction`
+- 2022 — [Deformation and Correspondence Aware Unsupervised Synthetic-to-Real Scene Flow Estimation for Point Clouds](https://arxiv.org/abs/2203.16895) — `scene flow` `autonomous driving`
+- 2022 — [Density-preserving Deep Point Cloud Compression](https://arxiv.org/abs/2204.12684) — `compression`
+- 2022 — [Equivariant Point Cloud Analysis via Learning Orientations for Message Passing](https://arxiv.org/abs/2203.14486)
+- 2022 — [Fast Point Transformer](https://arxiv.org/abs/2112.04702)
+- 2022 — [Focal Sparse Convolutional Networks for 3D Object Detection](https://arxiv.org/abs/2204.12463) — `detection` — [code](http://github.com/dvlab-research/FocalsConv)
+- 2022 — [GeoTransformer: Fast and Robust Point Cloud Registration with Geometric Transformer](https://arxiv.org/abs/2308.03768) — `registration` `detection` `robustness`
+- 2022 — [IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment](https://arxiv.org/abs/2203.11590)
+- 2022 — [Image-to-Lidar Self-Supervised Distillation for Autonomous Driving Data](https://arxiv.org/abs/2203.16258) — `segmentation` `detection` `self-supervised` `autonomous driving`
+- 2022 — [Investigating the Impact of Multi-LiDAR Placement on Object Detection for Autonomous Driving](https://arxiv.org/abs/2105.00373) — `detection` `autonomous driving`
+- 2022 — [Learning a Structured Latent Space for Unsupervised Point Cloud Completion](https://arxiv.org/abs/2203.15580) — `completion`
+- 2022 — [Learning Local Displacements for Point Cloud Completion](https://arxiv.org/abs/2203.16600) — `completion`
+- 2022 — [Learning Multi-View Aggregation In the Wild for Large-Scale 3D Semantic Segmentation](https://arxiv.org/abs/2204.07548) — `segmentation` — [code](https://github.com/drprojects/DeepViewAgg)
+- 2022 — [LiDAR Snowfall Simulation for Robust 3D Object Detection](https://arxiv.org/abs/2203.15118) — `detection` `autonomous driving` `robustness`
+- 2022 — [Multi-View Transformer for 3D Visual Grounding](https://arxiv.org/abs/2204.02174)
+- 2022 — [Neural Points: Point Cloud Representation with Neural Fields for Arbitrary Upsampling](https://arxiv.org/abs/2112.04148) — `upsampling`
+- 2022 — [No Pain, Big Gain: Classify Dynamic Point Cloud Sequences with Static Models by Fitting Feature-level Space-time Surfaces](https://arxiv.org/abs/2203.11113) — `classification` `tracking` `scene flow` — [code](https://github.com/jx-zhong-for-academic-purpose/Kinet)
+- 2022 — [Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds](https://arxiv.org/abs/2203.11139) — `detection` `efficiency` — [code](https://github.com/yifanzhang713/IA-SSD)
+- 2022 — [NPBG++: Accelerating Neural Point-Based Graphics](https://arxiv.org/abs/2203.13318)
+- 2022 — [OccAM's Laser: Occlusion-based Attribution Maps for 3D Object Detectors on LiDAR Data](https://arxiv.org/abs/2204.06577) — `detection` — [code](https://github.com/dschinagl/occam)
+- 2022 — [Point Cloud Color Constancy](https://arxiv.org/abs/2111.11280)
+- 2022 — [Point-BERT: Pre-training 3D Point Cloud Transformers with Masked Point Modeling](https://arxiv.org/abs/2111.14819) — `pre-training`
+- 2022 — [Point-to-Voxel Knowledge Distillation for LiDAR Semantic Segmentation](https://arxiv.org/abs/2206.02099) — `segmentation` — [code](https://github.com/cardwing/Codes-for-PVKD)
+- 2022 — [Point2Cyl: Reverse Engineering 3D Objects from Point Clouds to Extrusion Cylinders](https://arxiv.org/abs/2112.09329)
+- 2022 — [Point2Seq: Detecting 3D Objects as Sequences](https://arxiv.org/abs/2203.13394) — `detection`
+- 2022 — [RCP: Recurrent Closest Point for Scene Flow Estimation on 3D Point Clouds](https://arxiv.org/abs/2205.11028) — `registration` `scene flow`
+- 2022 — [Reconstructing Surfaces for Sparse Point Clouds with On-Surface Priors](https://arxiv.org/abs/2204.10603) — `reconstruction`
+- 2022 — [REGTR: End-to-end Point Cloud Correspondences with Transformers](https://arxiv.org/abs/2203.14517) — `registration`
+- 2022 — [Revealing Occlusions with 4D Neural Fields](https://arxiv.org/abs/2204.10916) — `monocular`
+- 2022 — [RIDDLE: Lidar Data Compression with Range Image Deep Delta Encoding](https://arxiv.org/abs/2206.01738) — `compression` `autonomous driving`
+- 2022 — [SAR-Net: Shape Alignment and Recovery Network for Category-level 6D Object Pose and Size Estimation](https://arxiv.org/abs/2106.14193)
+- 2022 — [SC^2-PCR: A Second Order Spatial Compatibility for Efficient and Robust Point Cloud Registration](https://arxiv.org/abs/2203.14453) — `registration` `robustness` `efficiency`
+- 2022 — [Self-Supervised 3D Scene Flow Estimation and Motion Prediction using Local Rigidity Prior](https://arxiv.org/abs/2310.11284) — `self-supervised` `scene flow`
+- 2022 — [SemAffiNet: Semantic-Affine Transformation for Point Cloud Segmentation](https://arxiv.org/abs/2205.13490) — `segmentation`
+- 2022 — [Sparse Fuse Dense: Towards High Quality 3D Detection with Depth Completion](https://arxiv.org/abs/2203.09780) — `detection` `completion`
+- 2022 — [Stratified Transformer for 3D Point Cloud Segmentation](https://arxiv.org/abs/2203.14508) — `segmentation` — [code](https://github.com/dvlab-research/Stratified-Transformer)
+- 2022 — [Surface Reconstruction from Point Clouds by Learning Predictive Context Priors](https://arxiv.org/abs/2204.11015) — `reconstruction`
+- 2022 — [Surface Representation for Point Clouds](https://arxiv.org/abs/2205.05740) — [code](https://github.com/hancyran/RepSurf)
+- 2022 — [TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers](https://arxiv.org/abs/2203.11496) — `detection` `autonomous driving` `multi-modal` `robustness` — [code](https://github.com/XuyangBai/TransFusion)
+- 2022 — [Uni6D: A Unified CNN Framework without Projection Breakdown for 6D Pose Estimation](https://arxiv.org/abs/2203.14531)
+- 2022 — [UNIST: Unpaired Neural Implicit Shape Translation Network](https://arxiv.org/abs/2112.05381)
+- 2022 — [VISTA: Boosting 3D Object Detection via Dual Cross-VIew SpaTial Attention](https://arxiv.org/abs/2203.09704) — `detection` `autonomous driving` `BEV`
+- 2022 — [Voxel Set Transformer: A Set-to-Set Approach to 3D Object Detection from Point Clouds](https://arxiv.org/abs/2203.10314) — `detection`
+- 2022 — [WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation](https://arxiv.org/abs/2203.12917) — `generation` `robustness`
+- 2022 — [ZZ-Net: A Universal Rotation Equivariant Architecture for 2D Point Clouds](https://arxiv.org/abs/2111.15341)
+- 2021 — [3D Spatial Recognition without Spatially Labeled 3D](https://arxiv.org/abs/2105.06461) — `segmentation` `detection` `generation`
+- 2021 — [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472) — `segmentation` `autonomous driving`
+- 2021 — [AFDetV2: Rethinking the Necessity of the Second Stage for Object Detection from Point Clouds](https://arxiv.org/abs/2112.09205) — `detection`
+- 2021 — [Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds](https://arxiv.org/abs/2104.06114) — `detection`
+- 2021 — [Bidirectional Projection Network for Cross Dimension Scene Understanding](https://arxiv.org/abs/2103.14326)
+- 2021 — [Cloud Sphere: A 3D Shape Representation via Progressive Deformation](https://arxiv.org/abs/2112.11133)
+- 2021 — [Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding](https://arxiv.org/abs/2103.07838) — `completion`
+- 2021 — [DeepI2P: Image-to-Point Cloud Registration via Deep Classification](https://arxiv.org/abs/2104.03501) — `registration` `classification`
+- 2021 — [Denoise and Contrast for Category Agnostic Shape Completion](https://arxiv.org/abs/2103.16671) — `completion` `denoising`
+- 2021 — [Diffusion Probabilistic Models for 3D Point Cloud Generation](https://arxiv.org/abs/2103.01458) — `completion` `generation` `upsampling`
+- 2021 — [Equivariant Point Network for 3D Point Cloud Analysis](https://arxiv.org/abs/2103.14147)
+- 2021 — [FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds](https://arxiv.org/abs/2104.00798) — `scene flow` `autonomous driving`
+- 2021 — [HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding](https://arxiv.org/abs/2105.07751) — `scene flow`
+- 2021 — [High-level camera-LiDAR fusion for 3D object detection with machine learning](https://arxiv.org/abs/2105.11060) — `segmentation` `detection` `autonomous driving` `monocular` — Workshop
+- 2021 — [How Privacy-Preserving are Line Clouds? Recovering Scene Details from 3D Lines](https://arxiv.org/abs/2103.05086) — `localization`
+- 2021 — [HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection](https://arxiv.org/abs/2104.00902) — `detection`
+- 2021 — [Inferring CAD Modeling Sequences Using Zone Graphs](https://arxiv.org/abs/2104.03900)
+- 2021 — [K-Lane: Lidar Lane Dataset and Benchmark for Urban Roads and Highways](https://arxiv.org/abs/2110.11048) — `detection` `autonomous driving` `dataset`
+- 2021 — [Learning Parallel Dense Correspondence from Spatio-Temporal Descriptors for Efficient and Robust 4D Reconstruction](https://arxiv.org/abs/2103.16341) — `reconstruction` `robustness` `efficiency`
+- 2021 — [Lepard: Learning partial point cloud matching in rigid and deformable scenes](https://arxiv.org/abs/2111.12591) — [code](https://github.com/rabbityl/lepard)
+- 2021 — [LiDAR R-CNN: An Efficient and Universal 3D Object Detector](https://arxiv.org/abs/2103.15297) — `detection` `autonomous driving` `efficiency`
+- 2021 — [Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration](https://arxiv.org/abs/2104.08160) — `registration`
+- 2021 — [MetaSets: Meta-Learning on Point Sets for Generalizable Representations](https://arxiv.org/abs/2204.07311)
+- 2021 — [Multi-instance Point Cloud Registration by Efficient Correspondence Clustering](https://arxiv.org/abs/2111.14582) — `registration` `efficiency`
+- 2021 — [Omni-supervised Point Cloud Segmentation via Gradual Receptive Field Component Reasoning](https://arxiv.org/abs/2105.10203) — `segmentation`
+- 2021 — [One Thing One Click: A Self-Training Approach for Weakly Supervised 3D Semantic Segmentation](https://arxiv.org/abs/2104.02246) — `segmentation`
+- 2021 — [PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds](https://arxiv.org/abs/2103.14635)
+- 2021 — [Panoptic-PolarNet: Proposal-free LiDAR Point Cloud Panoptic Segmentation](https://arxiv.org/abs/2103.14962) — `segmentation` `detection`
+- 2021 — [Person-MinkUNet: 3D Person Detection with LiDAR Point Cloud](https://arxiv.org/abs/2107.06780) — `detection` — Workshop
+- 2021 — [Point Cloud Upsampling via Disentangled Refinement](https://arxiv.org/abs/2106.04779) — `upsampling`
+- 2021 — [PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency](https://arxiv.org/abs/2103.05465) — `registration` `robustness`
+- 2021 — [PointGuard: Provably Robust 3D Point Cloud Classification](https://arxiv.org/abs/2103.03046) — `classification` `autonomous driving` `robustness`
+- 2021 — [ReAgent: Point Cloud Registration using Imitation and Reinforcement Learning](https://arxiv.org/abs/2103.15231) — `registration`
+- 2021 — [Regularization Strategy for Point Cloud via Rigidly Mixed Sample](https://arxiv.org/abs/2102.01929)
+- 2021 — [Robust Point Cloud Registration Framework Based on Deep Graph Matching](https://arxiv.org/abs/2103.04256) — `registration` `robustness` — [code](https://github.com/fukexue/RGM)
+- 2021 — [RPSRNet: End-to-End Trainable Rigid Point Set Registration Network using Barnes-Hut $2^D$-Tree Representation](https://arxiv.org/abs/2104.05328) — `registration`
+- 2021 — [SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2104.09804) — `detection`
+- 2021 — [Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk](https://arxiv.org/abs/2105.08248) — `self-supervised` `scene flow`
+- 2021 — [Self-Supervised Pillar Motion Learning for Autonomous Driving](https://arxiv.org/abs/2104.08683) — `self-supervised` `autonomous driving`
+- 2021 — [Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion](https://arxiv.org/abs/2103.07074) — `segmentation`
+- 2021 — [SeqNetVLAD vs PointNetVLAD: Image Sequence vs 3D Point Clouds for Day-Night Place Recognition](https://arxiv.org/abs/2106.11481) — `localization` — Workshop
+- 2021 — [ST3D: Self-training for Unsupervised Domain Adaptation on 3D Object Detection](https://arxiv.org/abs/2103.05346) — `detection` `domain adaptation`
+- 2021 — [StablePose: Learning 6D Object Poses from Geometrically Stable Patches](https://arxiv.org/abs/2102.09334)
+- 2021 — [TPCN: Temporal Point Cloud Networks for Motion Forecasting](https://arxiv.org/abs/2103.03067)
+- 2021 — [Variational Relational Point Completion Network](https://arxiv.org/abs/2104.10154) — `completion`
+- 2021 — [View-Guided Point Cloud Completion](https://arxiv.org/abs/2104.05666) — `completion`
+- 2021 — [VoxelContext-Net: An Octree based Framework for Point Cloud Compression](https://arxiv.org/abs/2105.02158) — `compression`
+
+## ICCV <sub>(147)</sub>
+
+- 2025 — [All in One: Visual-Description-Guided Unified Point Cloud Segmentation](https://arxiv.org/abs/2507.05211) — `segmentation`
+- 2025 — [Blended Point Cloud Diffusion for Localized Text-guided Shape Editing](https://arxiv.org/abs/2507.15399)
+- 2025 — [CA-I2P: Channel-Adaptive Registration Network with Global Optimal Selection](https://arxiv.org/abs/2506.21364) — `registration` `detection`
+- 2025 — [Curve-Aware Gaussian Splatting for 3D Parametric Curve Reconstruction](https://arxiv.org/abs/2506.21401) — `reconstruction` `gaussian-splatting` — [code](https://github.com/zhirui-gao/Curve-Gaussian)
+- 2025 — [Describe, Adapt and Combine: Empowering CLIP Encoders for Open-set 3D Object Retrieval](https://arxiv.org/abs/2507.21489)
+- 2025 — [Diff$^2$I2P: Differentiable Image-to-Point Cloud Registration with Diffusion Prior](https://arxiv.org/abs/2507.06651) — `registration`
+- 2025 — [Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds](https://arxiv.org/abs/2508.11265) — `segmentation`
+- 2025 — [DoppDrive: Doppler-Driven Temporal Aggregation for Improved Radar Object Detection](https://arxiv.org/abs/2508.12330) — `detection` `autonomous driving` `multi-modal`
+- 2025 — [ERNet: Efficient Non-Rigid Registration Network for Point Sequences](https://arxiv.org/abs/2510.15800) — `registration` `efficiency`
+- 2025 — [Exploiting Vision Language Model for Training-Free 3D Point Cloud OOD Detection via Graph Score Propagation](https://arxiv.org/abs/2506.22375) — `detection`
+- 2025 — [FastPoint: Accelerating 3D Point Cloud Model Inference via Sample Point Distance Prediction](https://arxiv.org/abs/2507.23480)
+- 2025 — [From Binary to Semantic: Utilizing Large-Scale Binary Occupancy Data for 3D Semantic Occupancy Prediction](https://arxiv.org/abs/2507.13387) — `autonomous driving` `occupancy prediction` — Workshop
+- 2025 — [GAP: Gaussianize Any Point Clouds with Text Guidance](https://arxiv.org/abs/2508.05631) — `gaussian-splatting`
+- 2025 — [Guiding Diffusion-Based Articulated Object Generation by Partial Point Cloud Alignment and Physical Plausibility Constraints](https://arxiv.org/abs/2508.00558) — `registration` `generation`
+- 2025 — [Harnessing Text-to-Image Diffusion Models for Point Cloud Self-Supervised Learning](https://arxiv.org/abs/2507.09102) — `generation` `self-supervised`
+- 2025 — [Learning Normals of Noisy Points by Local Gradient-Aware Surface Filtering](https://arxiv.org/abs/2507.03394) — `normal estimation`
+- 2025 — [Learning Point Cloud Representations with Pose Continuity for Depth-Based Category-Level 6D Object Pose Estimation](https://arxiv.org/abs/2508.14358) — Workshop
+- 2025 — [LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression](https://arxiv.org/abs/2507.15686) — `compression`
+- 2025 — [MinCD-PnP: Learning 2D-3D Correspondences with Approximate Blind PnP](https://arxiv.org/abs/2507.15257) — `registration`
+- 2025 — [MonoMVSNet: Monocular Priors Guided Multi-View Stereo Network](https://arxiv.org/abs/2507.11333) — `monocular`
+- 2025 — [Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/abs/2507.04047) — `reconstruction` `efficiency`
+- 2025 — [Open-Vocabulary Octree-Graph for 3D Scene Understanding](https://arxiv.org/abs/2411.16253) — `segmentation` `open-vocabulary`
+- 2025 — [OpenM3D: Open Vocabulary Multi-view Indoor 3D Object Detection without Human Annotations](https://arxiv.org/abs/2508.20063) — `detection` `open-vocabulary`
+- 2025 — [Point Cloud Self-supervised Learning via 3D to Multi-view Masked Learner](https://arxiv.org/abs/2311.10887) — `self-supervised`
+- 2025 — [PointGAC: Geometric-Aware Codebook for Masked Point Cloud Modeling](https://arxiv.org/abs/2507.04801)
+- 2025 — [PU-Gaussian: Point Cloud Upsampling using 3D Gaussian Representation](https://arxiv.org/abs/2509.20207) — `upsampling` — Workshop
+- 2025 — [PUMPS: Skeleton-Agnostic Point-based Universal Motion Pre-Training for Synthesis in Human Motion Tasks](https://arxiv.org/abs/2507.20170) — `pre-training`
+- 2025 — [RayletDF: Raylet Distance Fields for Generalizable 3D Surface Reconstruction from Point Clouds or Gaussians](https://arxiv.org/abs/2508.09830) — `reconstruction` `gaussian-splatting` — [code](https://github.com/vLAR-group/RayletDF)
+- 2025 — [Rethinking Backbone Design for Lightweight 3D Object Detection in LiDAR](https://arxiv.org/abs/2508.00744) — `detection` `autonomous driving` `efficiency` — Workshop
+- 2025 — [Robust 3D Object Detection using Probabilistic Point Clouds from Single-Photon LiDARs](https://arxiv.org/abs/2508.00169) — `detection` `robustness`
+- 2025 — [SAM4D: Segment Anything in Camera and LiDAR Streams](https://arxiv.org/abs/2506.21547) — `segmentation`
+- 2025 — [Self-supervised Learning of Hybrid Part-aware 3D Representations of 2D Gaussians and Superquadrics](https://arxiv.org/abs/2408.10789) — `self-supervised` — [code](https://github.com/zhirui-gao/PartGS)
+- 2025 — [StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning](https://arxiv.org/abs/2506.21541) — `self-supervised`
+- 2025 — [Symmetry Understanding of 3D Shapes via Chirality Disentanglement](https://arxiv.org/abs/2508.05505)
+- 2025 — [Towards Accurate and Efficient 3D Object Detection for Autonomous Driving: A Mixture of Experts Computing System on Edge](https://arxiv.org/abs/2507.04123) — `detection` `autonomous driving` `efficiency`
+- 2025 — [Towards More Diverse and Challenging Pre-training for Point Cloud Learning: Self-Supervised Cross Reconstruction with Decoupled Views](https://arxiv.org/abs/2509.01250) — `generation` `reconstruction` `self-supervised` `pre-training`
+- 2025 — [TurboReg: TurboClique for Robust and Efficient Point Cloud Registration](https://arxiv.org/abs/2507.01439) — `registration` `robustness` `efficiency`
+- 2025 — [UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis](https://arxiv.org/abs/2507.18997) — `robustness`
+- 2025 — [UST-SSM: Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling](https://arxiv.org/abs/2508.14604)
+- 2025 — [VolumetricSMPL: A Neural Volumetric Body Model for Efficient Interactions, Contacts, and Collisions](https://arxiv.org/abs/2506.23236) — `efficiency`
+- 2023 — [2D-3D Interlaced Transformer for Point Cloud Segmentation with Scene-Level Supervision](https://arxiv.org/abs/2310.12817) — `segmentation`
+- 2023 — [2D3D-MATR: 2D-3D Matching Transformer for Detection-free Registration between Images and Point Clouds](https://arxiv.org/abs/2308.05667) — `registration` `detection`
+- 2023 — [3D Implicit Transporter for Temporally Consistent Keypoint Discovery](https://arxiv.org/abs/2309.05098) — `detection`
+- 2023 — [3DHacker: Spectrum-based Decision Boundary Generation for Hard-label 3D Point Cloud Attack](https://arxiv.org/abs/2308.07546) — `generation` `autonomous driving`
+- 2023 — [Ada3D : Exploiting the Spatial Redundancy with Adaptive Inference for Efficient 3D Object Detection](https://arxiv.org/abs/2307.08209) — `detection` `autonomous driving` `efficiency`
+- 2023 — [APNet: Urban-level Scene Segmentation of Aerial Images and Point Clouds](https://arxiv.org/abs/2309.17162) — `segmentation` — Workshop
+- 2023 — [AutoSynth: Learning to Generate 3D Training Data for Object Point Cloud Registration](https://arxiv.org/abs/2309.11170) — `registration`
+- 2023 — [CASSPR: Cross Attention Single Scan Place Recognition](https://arxiv.org/abs/2211.12542) — `localization` `autonomous driving`
+- 2023 — [CLIP2Point: Transfer CLIP to Point Cloud Classification with Image-Depth Pre-training](https://arxiv.org/abs/2210.01055) — `classification` `pre-training`
+- 2023 — [Clustering based Point Cloud Representation Learning for 3D Analysis](https://arxiv.org/abs/2307.14605) — `segmentation` `detection` — [code](https://github.com/FengZicai/Cluster3Dseg)
+- 2023 — [CPCM: Contextual Point Cloud Modeling for Weakly-supervised Point Cloud Semantic Segmentation](https://arxiv.org/abs/2307.10316) — `segmentation`
+- 2023 — [DELFlow: Dense Efficient Learning of Scene Flow for Large-Scale Point Clouds](https://arxiv.org/abs/2308.04383) — `scene flow` `efficiency` — [code](https://github.com/IRMVLab/DELFlow)
+- 2023 — [Density-invariant Features for Distant Point Cloud Registration](https://arxiv.org/abs/2307.09788) — `registration` `self-supervised`
+- 2023 — [DetZero: Rethinking Offboard 3D Object Detection with Long-term Sequential Point Clouds](https://arxiv.org/abs/2306.06023) — `detection` `tracking`
+- 2023 — [Distilling Coarse-to-Fine Semantic Matching Knowledge for Weakly Supervised 3D Visual Grounding](https://arxiv.org/abs/2307.09267)
+- 2023 — [Efficient 3D Semantic Segmentation with Superpoint Transformer](https://arxiv.org/abs/2306.08045) — `segmentation` `efficiency`
+- 2023 — [EP2P-Loc: End-to-End 3D Point to 2D Pixel Localization for Large-Scale Visual Localization](https://arxiv.org/abs/2309.07471) — `localization`
+- 2023 — [GaPro: Box-Supervised 3D Point Cloud Instance Segmentation Using Gaussian Processes as Pseudo Labelers](https://arxiv.org/abs/2307.13251) — `segmentation`
+- 2023 — [Generalized Few-Shot Point Cloud Segmentation Via Geometric Words](https://arxiv.org/abs/2309.11222) — `segmentation`
+- 2023 — [GeoUDF: Surface Reconstruction from 3D Point Clouds via Geometry-guided Distance Representation](https://arxiv.org/abs/2211.16762) — `reconstruction`
+- 2023 — [GPA-3D: Geometry-aware Prototype Alignment for Unsupervised Domain Adaptive 3D Object Detection from Point Clouds](https://arxiv.org/abs/2308.08140) — `detection`
+- 2023 — [GridPull: Towards Scalability in Learning Implicit Representations from 3D Point Clouds](https://arxiv.org/abs/2308.13175) — `reconstruction`
+- 2023 — [Hierarchical Point-based Active Learning for Semi-supervised Point Cloud Semantic Segmentation](https://arxiv.org/abs/2308.11166) — `segmentation`
+- 2023 — [KECOR: Kernel Coding Rate Maximization for Active 3D Object Detection](https://arxiv.org/abs/2307.07942) — `detection` `autonomous driving`
+- 2023 — [LiDAR-Camera Panoptic Segmentation via Geometry-Consistent and Semantic-Aware Alignment](https://arxiv.org/abs/2308.01686) — `segmentation` `multi-modal`
+- 2023 — [Masked Spatio-Temporal Structure Prediction for Self-supervised Learning on Point Cloud Videos](https://arxiv.org/abs/2308.09245) — `classification` `self-supervised`
+- 2023 — [MemorySeg: Online LiDAR Semantic Segmentation with a Latent Memory](https://arxiv.org/abs/2311.01556) — `segmentation`
+- 2023 — [P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds](https://arxiv.org/abs/2307.14726) — `completion` `self-supervised`
+- 2023 — [PARTNER: Level up the Polar Representation for LiDAR 3D Object Detection](https://arxiv.org/abs/2308.03982) — `detection`
+- 2023 — [PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaption on Point Clouds with Rectified Pseudo-label](https://arxiv.org/abs/2309.16936) — `self-supervised` `efficiency`
+- 2023 — [PG-RCNN: Semantic Surface Point Generation for 3D Object Detection](https://arxiv.org/abs/2307.12637) — `detection` `completion` `generation`
+- 2023 — [Point Contrastive Prediction with Semantic Clustering for Self-Supervised Learning on Point Cloud Videos](https://arxiv.org/abs/2308.09247) — `self-supervised`
+- 2023 — [Point-TTA: Test-Time Adaptation for Point Cloud Registration Using Multitask Meta-Auxiliary Learning](https://arxiv.org/abs/2308.16481) — `registration`
+- 2023 — [PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration](https://arxiv.org/abs/2308.04782) — `registration`
+- 2023 — [Retro-FPN: Retrospective Feature Pyramid Network for Point Cloud Semantic Segmentation](https://arxiv.org/abs/2308.09314) — `segmentation`
+- 2023 — [RPEFlow: Multimodal Fusion of RGB-PointCloud-Event for Joint Optical Flow and Scene Flow Estimation](https://arxiv.org/abs/2309.15082) — `scene flow` `multi-modal` — [code](https://github.com/danqu130/RPEFlow)
+- 2023 — [Sample-adaptive Augmentation for Point Cloud Recognition Against Real-world Corruptions](https://arxiv.org/abs/2309.10431) — [code](https://github.com/Roywangj/AdaptPoint)
+- 2023 — [SC3K: Self-supervised and Coherent 3D Keypoints Estimation from Rotated, Noisy, and Decimated Point Cloud Data](https://arxiv.org/abs/2308.05410) — `self-supervised` — [code](https://github.com/IITPAVIS/SC3K)
+- 2023 — [See More and Know More: Zero-shot Point Cloud Segmentation via Multi-modal Visual Data](https://arxiv.org/abs/2307.10782) — `segmentation` `open-vocabulary` `multi-modal`
+- 2023 — [Sketch and Text Guided Diffusion Model for Colored Point Cloud Generation](https://arxiv.org/abs/2308.02874) — `generation`
+- 2023 — [SVDFormer: Complementing Point Cloud via Self-view Augmentation and Self-structure Dual-generator](https://arxiv.org/abs/2307.08492) — `completion` `generation`
+- 2023 — [Take-A-Photo: 3D-to-2D Generative Pre-training of Point Cloud Models](https://arxiv.org/abs/2307.14971) — `generation` `pre-training`
+- 2023 — [U-RED: Unsupervised 3D Shape Retrieval and Deformation for Partial Point Clouds](https://arxiv.org/abs/2308.06383) — `classification`
+- 2023 — [UniSeg: A Unified Multi-Modal LiDAR Segmentation Network and the OpenPCSeg Codebase](https://arxiv.org/abs/2309.05573) — `segmentation` `multi-modal` — [code](https://github.com/PJLab-ADG/PCSeg)
+- 2023 — [Yes, we CANN: Constrained Approximate Nearest Neighbors for local feature-based visual localization](https://arxiv.org/abs/2306.09012) — `localization`
+- 2021 — [(Just) A Spoonful of Refinements Helps the Registration Error Go Down](https://arxiv.org/abs/2108.03257) — `registration`
+- 2021 — [4D-Net for Learned Multi-Modal Alignment](https://arxiv.org/abs/2109.01066) — `detection` `multi-modal`
+- 2021 — [A Robust Loss for Point Cloud Registration](https://arxiv.org/abs/2108.11682) — `registration` `robustness`
+- 2021 — [A Technical Survey and Evaluation of Traditional Point Cloud Clustering Methods for LiDAR Panoptic Segmentation](https://arxiv.org/abs/2108.09522) — `segmentation` `autonomous driving` — [code](https://github.com/placeforyiming/ICCVW21-LiDAR-Panoptic-Segmentation-TradiCV-Survey-of-Point-Cloud-Cluster) Workshop
+- 2021 — [AdaFit: Rethinking Learning-based Normal Estimation on Point Clouds](https://arxiv.org/abs/2108.05836) — `normal estimation`
+- 2021 — [Adaptive Graph Convolution for Point Cloud Analysis](https://arxiv.org/abs/2108.08035)
+- 2021 — [An End-to-End Transformer Model for 3D Object Detection](https://arxiv.org/abs/2109.08141) — `detection`
+- 2021 — [Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds](https://arxiv.org/abs/2108.04728) — `tracking`
+- 2021 — [CAPTRA: CAtegory-level Pose Tracking for Rigid and Articulated Objects from Point Clouds](https://arxiv.org/abs/2104.03437) — `tracking`
+- 2021 — [CPFN: Cascaded Primitive Fitting Networks for High-Resolution Point Clouds](https://arxiv.org/abs/2109.00113)
+- 2021 — [CSG-Stump: A Learning Friendly CSG-Like Representation for Interpretable Shape Parsing](https://arxiv.org/abs/2108.11305)
+- 2021 — [Deep Hough Voting for Robust Global Registration](https://arxiv.org/abs/2109.04310) — `registration` `robustness`
+- 2021 — [Deep Hybrid Self-Prior for Full 3D Mesh Generation](https://arxiv.org/abs/2108.08017) — `generation` `reconstruction`
+- 2021 — [Deep Models with Fusion Strategies for MVP Point Cloud Registration](https://arxiv.org/abs/2110.09129) — `registration` — Workshop
+- 2021 — [DeepCAD: A Deep Generative Network for Computer-Aided Design Models](https://arxiv.org/abs/2105.09492) — `generation`
+- 2021 — [DRINet: A Dual-Representation Iterative Learning Network for Point Cloud Segmentation](https://arxiv.org/abs/2108.04023) — `segmentation`
+- 2021 — [Dynamical Pose Estimation](https://arxiv.org/abs/2103.06182) — `registration` — [code](https://github.com/hankyang94/DAMP)
+- 2021 — [Exploring Simple 3D Multi-Object Tracking for Autonomous Driving](https://arxiv.org/abs/2108.10312) — `detection` `tracking` `autonomous driving`
+- 2021 — [Fog Simulation on Real LiDAR Point Clouds for 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2108.05249) — `detection`
+- 2021 — [Fooling LiDAR Perception via Adversarial Trajectory Perturbation](https://arxiv.org/abs/2103.15326) — `robustness`
+- 2021 — [Guided Point Contrastive Learning for Semi-supervised Point Cloud Semantic Segmentation](https://arxiv.org/abs/2110.08188) — `segmentation` `self-supervised`
+- 2021 — [Hierarchical Aggregation for 3D Instance Segmentation](https://arxiv.org/abs/2108.02350) — `segmentation`
+- 2021 — [HPNet: Deep Primitive Segmentation Using Hybrid Representations](https://arxiv.org/abs/2105.10620) — `segmentation`
+- 2021 — [HRegNet: A Hierarchical Network for Large-scale Outdoor LiDAR Point Cloud Registration](https://arxiv.org/abs/2107.11992) — `registration`
+- 2021 — [Improving 3D Object Detection with Channel-wise Transformer](https://arxiv.org/abs/2108.10723) — `detection`
+- 2021 — [InstanceRefer: Cooperative Holistic Understanding for Visual Grounding on Point Clouds through Instance Multi-level Contextual Referring](https://arxiv.org/abs/2103.01128) — `localization` — [code](https://github.com/CurryYuan/InstanceRefer)
+- 2021 — [Learning Inner-Group Relations on Point Clouds](https://arxiv.org/abs/2108.12468)
+- 2021 — [Learning with Noisy Labels for Robust Point Cloud Segmentation](https://arxiv.org/abs/2107.14230) — `segmentation` `robustness`
+- 2021 — [LIGA-Stereo: Learning LiDAR Geometry Aware Representations for Stereo-based 3D Detector](https://arxiv.org/abs/2108.08258) — `detection`
+- 2021 — [LSG-CPD: Coherent Point Drift with Local Surface Geometry for Point Cloud Registration](https://arxiv.org/abs/2103.15039) — `registration`
+- 2021 — [MCTS with Refinement for Proposals Selection Games in Scene Understanding](https://arxiv.org/abs/2207.03204) — `reconstruction` — [code](https://github.com/vevenom/MonteScene)
+- 2021 — [ME-PCN: Point Completion Conditioned on Mask Emptiness](https://arxiv.org/abs/2108.08187) — `completion`
+- 2021 — [MonteFloor: Extending MCTS for Reconstructing Accurate Large-Scale Floor Plans](https://arxiv.org/abs/2103.11161) — `reconstruction`
+- 2021 — [Multi-View Partial (MVP) Point Cloud Challenge 2021 on Completion and Registration: Methods and Results](https://arxiv.org/abs/2112.12053) — `registration` `completion` `reconstruction` — [code](https://github.com/paul007pl/MVP_Benchmark) Workshop
+- 2021 — [Out-of-Core Surface Reconstruction via Global $TGV$ Minimization](https://arxiv.org/abs/2107.14790) — `reconstruction`
+- 2021 — [P2-Net: Joint Description and Detection of Local Features for Pixel and Point Matching](https://arxiv.org/abs/2103.01055) — `detection`
+- 2021 — [PCAM: Product of Cross-Attention Matrices for Rigid Registration of Point Clouds](https://arxiv.org/abs/2110.01269) — `registration`
+- 2021 — [PICCOLO: Point Cloud-Centric Omnidirectional Localization](https://arxiv.org/abs/2108.06545) — `localization`
+- 2021 — [Point Cloud Augmentation with Weighted Local Transformations](https://arxiv.org/abs/2110.05379)
+- 2021 — [Point-Based Modeling of Human Clothing](https://arxiv.org/abs/2104.08230)
+- 2021 — [Point-set Distances for Learning Representations of 3D Point Clouds](https://arxiv.org/abs/2102.04014)
+- 2021 — [PointBA: Towards Backdoor Attacks in 3D Point Cloud](https://arxiv.org/abs/2103.16074)
+- 2021 — [PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers](https://arxiv.org/abs/2108.08839) — `completion`
+- 2021 — [Progressive Seed Generation Auto-encoder for Unsupervised Point Cloud Learning](https://arxiv.org/abs/2112.05213) — `generation` `reconstruction`
+- 2021 — [Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection](https://arxiv.org/abs/2109.02499) — `detection`
+- 2021 — [RandomRooms: Unsupervised Pre-training from Synthetic Shapes and Randomized Layouts for 3D Object Detection](https://arxiv.org/abs/2108.07794) — `detection` `pre-training`
+- 2021 — [ReDAL: Region-based and Diversity-aware Active Learning for Point Cloud Semantic Segmentation](https://arxiv.org/abs/2107.11769) — `segmentation` — [code](https://github.com/tsunghan-wu/ReDAL)
+- 2021 — [Robustness Certification for Point Cloud Models](https://arxiv.org/abs/2103.16652) — `autonomous driving` `robustness`
+- 2021 — [SA-ConvONet: Sign-Agnostic Optimization of Convolutional Occupancy Networks](https://arxiv.org/abs/2105.03582) — `reconstruction`
+- 2021 — [Sampling Network Guided Cross-Entropy Method for Unsupervised Point Cloud Registration](https://arxiv.org/abs/2109.06619) — `registration`
+- 2021 — [SAT: 2D Semantics Assisted Training for 3D Visual Grounding](https://arxiv.org/abs/2105.11450)
+- 2021 — [Score-Based Point Cloud Denoising](https://arxiv.org/abs/2107.10981) — `reconstruction` `denoising`
+- 2021 — [SnowflakeNet: Point Cloud Completion by Snowflake Point Deconvolution with Skip-Transformer](https://arxiv.org/abs/2108.04444) — `completion`
+- 2021 — [Sparse-to-dense Feature Matching: Intra and Inter domain Cross-modal Learning in Domain Adaptation for 3D Semantic Segmentation](https://arxiv.org/abs/2107.14724) — `segmentation` `domain adaptation`
+- 2021 — [Spatio-temporal Self-Supervised Representation Learning for 3D Point Clouds](https://arxiv.org/abs/2109.00179) — `self-supervised`
+- 2021 — [Temporally-Coherent Surface Reconstruction via Metric-Consistent Atlases](https://arxiv.org/abs/2104.06950) — `reconstruction`
+- 2021 — [Towards Efficient Point Cloud Graph Neural Networks Through Architectural Simplification](https://arxiv.org/abs/2108.06317) — `efficiency` — Workshop
+- 2021 — [Unsupervised Learning of Fine Structure Generation for 3D Point Clouds by 2D Projection Matching](https://arxiv.org/abs/2108.03746) — `generation` — [code](https://github.com/chenchao15/2D)
+- 2021 — [Vis2Mesh: Efficient Mesh Reconstruction from Unstructured Point Clouds of Large Scenes with Learned Virtual View Visibility](https://arxiv.org/abs/2108.08378) — `completion` `generation` `reconstruction` `efficiency`
+- 2021 — [Voxel Transformer for 3D Object Detection](https://arxiv.org/abs/2109.02497) — `detection` `localization`
+- 2021 — [Voxel-based Network for Shape Completion by Leveraging Edge Generation](https://arxiv.org/abs/2108.09936) — `completion` `generation`
+- 2021 — [Walk in the Cloud: Learning Curves for Point Clouds Shape Analysis](https://arxiv.org/abs/2105.01288)
+
+## ECCV <sub>(117)</sub>
+
+- 2026 — [4D-RaDiff: Latent Point Diffusion for 4D Radar Point Cloud Generation](https://arxiv.org/abs/2512.14235) — `generation` `multi-modal`
+- 2026 — [Benchmarking Federated Learning and Knowledge Distillation for Point Cloud Classification](https://arxiv.org/abs/2607.01272) — `classification`
+- 2026 — [Bootstrapping a 4D LiDAR Annotation Tool from Video Foundation Models](https://arxiv.org/abs/2608.25418) — `segmentation` — Workshop
+- 2026 — [C2E: Boosting Ego-Only 3D Object Detection via Multi-Teacher Contrastive Knowledge Distillation](https://arxiv.org/abs/2607.01827) — `detection` `autonomous driving`
+- 2026 — [CL4D: Contrastive Language-4D Pretraining for Vision-Language Reasoning in Dynamic Scenes](https://arxiv.org/abs/2608.18734) — `pre-training` `vision-language`
+- 2026 — [Comprehensive Robustness Analysis of LiDAR-based 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2607.02074) — `detection` `autonomous driving` `robustness`
+- 2026 — [Coordinate Frame Recovery, Per Class NMS and Null Return Modelling for Sim2Real V2X LiDAR Detection](https://arxiv.org/abs/2611.03940) — `detection` — [code](https://github.com/amanupg/urbantwin-sim2real-v2x) Workshop
+- 2026 — [DRS-VPT: Directly Relocalizing in a Scan with Vision Point Transformers](https://arxiv.org/abs/2609.12557) — `registration` — [code](https://github.com/ori-drs/drs-vpt)
+- 2026 — [Explainability-Aware Frustum Attack: Exposing Structural Vulnerabilities in LiDAR-Based 3D Object Detectors](https://arxiv.org/abs/2606.29963) — `detection`
+- 2026 — [FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors](https://arxiv.org/abs/2608.23549) — `generation` `nerf` `gaussian-splatting`
+- 2026 — [Geometric Refinement and Distributional Alignment for Sim2Real Roadside LiDAR Detection](https://arxiv.org/abs/2611.03936) — `detection` — [code](https://github.com/amanupg/urbantwin-sim2real-lumpi) Workshop
+- 2026 — [GhostPoint: Self-Supervised Representation Learning by Hallucinating Occluded LiDAR Structure](https://arxiv.org/abs/2608.14428) — `segmentation` `detection` `self-supervised` `autonomous driving`
+- 2026 — [Hyper-Network Neural Functional Maps for Unsupervised Robust 3D Shape Matching](https://arxiv.org/abs/2606.30131) — `robustness`
+- 2026 — [Learning to Tessellate: Point Cloud Generation via Recursive Spectral Partitioning](https://arxiv.org/abs/2608.02432) — `generation`
+- 2026 — [Mind2Cloud: EEG-to-Point Cloud Generation with Two-Granularity Diffusion Decoding](https://arxiv.org/abs/2609.13991) — `generation` `reconstruction` `denoising`
+- 2026 — [mmIR: Frequency-Space Inverse Rendering for 3D Millimeter-Wave Radar ADC Synthesis](https://arxiv.org/abs/2608.28913) — `multi-modal`
+- 2026 — [NoPA: Non-Parametric Online 3D Scene Graph Generation](https://arxiv.org/abs/2607.00529) — `generation`
+- 2026 — [OmniX: Any-view and Any-time 4D Reconstruction via Feed-forward Trajectory Fields](https://arxiv.org/abs/2607.10840) — `reconstruction`
+- 2026 — [One Video, One World: Turning Monocular Video into Physical 4D Scenes](https://arxiv.org/abs/2606.31388) — `reconstruction` `monocular`
+- 2026 — [P-CORE: Self-Supervised Surface Consistency for Point-Based Neural Editing](https://arxiv.org/abs/2609.03349) — `reconstruction` `self-supervised`
+- 2026 — [Point Ladder Tuning: Parameter-Efficient Hierarchical Adaptation for 3D Point Cloud Understanding](https://arxiv.org/abs/2607.19171) — `efficiency` — [code](https://github.com/JunLinChang/ECCV2026-PLT)
+- 2026 — [PointLAM: Local Attentive Mamba for Efficient Point-based 3D Object Detection](https://arxiv.org/abs/2609.21780) — `detection` `efficiency`
+- 2026 — [PrintAnything: Learning an Intermediate Representation for 3D printing G-code Generation](https://arxiv.org/abs/2607.27729) — `generation`
+- 2026 — [RadarGen: Automotive Radar Point Cloud Generation from Cameras](https://arxiv.org/abs/2512.17897) — `generation` `BEV` `multi-modal`
+- 2026 — [RAF: Reliability-Aware Fusion of Camera, LiDAR, and 4D RADAR for Robust 3D Object Detection in Adverse Weather](https://arxiv.org/abs/2607.04587) — `detection` `multi-modal` `robustness`
+- 2026 — [Reducing the Gap Between Spatial and Space-Filling Curve Neighbors in 3D Point Cloud Segmentation](https://arxiv.org/abs/2610.19530) — `segmentation` — Workshop
+- 2026 — [RESOLVE: A Multi-Resolution and Multi-Modal Dataset for Roadside Cooperative Perception](https://arxiv.org/abs/2606.31895) — `multi-modal` `dataset`
+- 2026 — [Scale Matters: Adaptive Granularity Selection for Cross-Species 3D Plant Organ Segmentation](https://arxiv.org/abs/2608.17803) — `segmentation` — Workshop
+- 2026 — [Sen-Cap: Sensor-Flexible and Noise-Resilient Human Motion Capture via LiDAR-Camera Integration](https://arxiv.org/abs/2608.02285) — `multi-modal`
+- 2026 — [TopoField: Technical Report for ECCV 2026 SceneFun3D Challenge](https://arxiv.org/abs/2610.37218) — `segmentation` — Workshop
+- 2026 — [UBone3D: Physics-Rectified Conditional Flow Matching for Anatomical 3D Shape Completion from Ultrasound](https://arxiv.org/abs/2609.11506) — `segmentation` `completion`
+- 2026 — [Unsupervised Point Cloud Registration via Training-Time Semantic Guidance](https://arxiv.org/abs/2609.15228) — `registration`
+- 2026 — [White Aggregation and Restoration for Few-shot 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2509.13907) — `segmentation`
+- 2025 — [UniFlow: Zero-Shot LiDAR Scene Flow for Autonomous Vehicles](https://arxiv.org/abs/2511.18254) — `scene flow` `open-vocabulary`
+- 2024 — [3D Single-object Tracking in Point Clouds with High Temporal Variation](https://arxiv.org/abs/2408.02049) — `tracking`
+- 2024 — [Bayesian Self-Training for Semi-Supervised 3D Segmentation](https://arxiv.org/abs/2409.08102) — `segmentation`
+- 2024 — [BelHouse3D: A Benchmark Dataset for Assessing Occlusion Robustness in 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2411.13251) — `segmentation` `robustness` `dataset` — Workshop
+- 2024 — [CF-PRNet: Coarse-to-Fine Prototype Refining Network for Point Cloud Completion and Reconstruction](https://arxiv.org/abs/2409.08443) — `completion` `reconstruction`
+- 2024 — [CloudFixer: Test-Time Adaptation for 3D Point Clouds via Diffusion-Guided Geometric Transformation](https://arxiv.org/abs/2407.16193)
+- 2024 — [Correspondence-Free SE(3) Point Cloud Registration in RKHS via Unsupervised Equivariant Learning](https://arxiv.org/abs/2407.20223) — `registration`
+- 2024 — [Cultural Heritage 3D Reconstruction with Diffusion Networks](https://arxiv.org/abs/2410.10927) — `generation` `reconstruction` — Workshop
+- 2024 — [D-SCo: Dual-Stream Conditional Diffusion for Monocular Hand-Held Object Reconstruction](https://arxiv.org/abs/2311.14189) — `generation` `reconstruction` `denoising` `monocular`
+- 2024 — [DatasetNeRF: Efficient 3D-aware Data Factory with Generative Radiance Fields](https://arxiv.org/abs/2311.12063) — `segmentation` `generation` `efficiency`
+- 2024 — [Diff3DETR:Agent-based Diffusion Model for Semi-supervised 3D Object Detection](https://arxiv.org/abs/2408.00286) — `detection` `generation`
+- 2024 — [Fast Point Cloud Geometry Compression with Context-based Residual Coding and INR-based Refinement](https://arxiv.org/abs/2408.02966) — `compression` — [code](https://github.com/hxu160/CRCIR_for_PCGC)
+- 2024 — [FastPCI: Motion-Structure Guided Fast Point Cloud Frame Interpolation](https://arxiv.org/abs/2410.19573) — `scene flow`
+- 2024 — [Formula-Supervised Visual-Geometric Pre-training](https://arxiv.org/abs/2409.13535) — `pre-training`
+- 2024 — [Image-to-Lidar Relational Distillation for Autonomous Driving Data](https://arxiv.org/abs/2409.00845) — `autonomous driving`
+- 2024 — [Learning Local Pattern Modularization for Point Cloud Reconstruction from Unseen Classes](https://arxiv.org/abs/2408.14279) — `reconstruction`
+- 2024 — [LEROjD: Lidar Extended Radar-Only Object Detection](https://arxiv.org/abs/2409.05564) — `detection` `multi-modal`
+- 2024 — [Localization and Expansion: A Decoupled Framework for Point Cloud Few-shot Semantic Segmentation](https://arxiv.org/abs/2408.13752) — `segmentation` `classification` `localization`
+- 2024 — [milliFlow: Scene Flow Estimation on mmWave Radar Point Cloud for Human Motion Sensing](https://arxiv.org/abs/2306.17010) — `scene flow` `multi-modal` — [code](https://github.com/Toytiny/milliFlow)
+- 2024 — [NICP: Neural ICP for 3D Human Registration at Scale](https://arxiv.org/abs/2312.14024) — `registration` `reconstruction`
+- 2024 — [OpenIns3D: Snap and Lookup for 3D Open-vocabulary Instance Segmentation](https://arxiv.org/abs/2309.00616) — `segmentation` `open-vocabulary`
+- 2024 — [P2P-Bridge: Diffusion Bridges for 3D Point Cloud Denoising](https://arxiv.org/abs/2408.16325) — `denoising`
+- 2024 — [PointLLM: Empowering Large Language Models to Understand Point Clouds](https://arxiv.org/abs/2308.16911)
+- 2024 — [Progressive Classifier and Feature Extractor Adaptation for Unsupervised Domain Adaptation on Point Clouds](https://arxiv.org/abs/2311.16474) — `domain adaptation`
+- 2024 — [Rethinking LiDAR Domain Generalization: Single Source as Multiple Density Domains](https://arxiv.org/abs/2312.12098)
+- 2024 — [RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions for 3D Point Cloud Classification and Segmentation](https://arxiv.org/abs/2408.06110) — `segmentation` `classification`
+- 2024 — [SelfGeo: Self-supervised and Geodesic-consistent Estimation of Keypoints on Deformable Shapes](https://arxiv.org/abs/2408.02291) — `self-supervised`
+- 2024 — [Subspace Prototype Guidance for Mitigating Class Imbalance in Point Cloud Semantic Segmentation](https://arxiv.org/abs/2408.10537) — `segmentation`
+- 2024 — [T-MAE: Temporal Masked Autoencoders for Point Cloud Representation Learning](https://arxiv.org/abs/2312.10217) — `self-supervised`
+- 2024 — [UMERegRobust - Universal Manifold Embedding Compatible Features for Robust Point Cloud Registration](https://arxiv.org/abs/2408.12380) — `registration` `robustness`
+- 2024 — [WindPoly: Polygonal Mesh Reconstruction via Winding Numbers](https://arxiv.org/abs/2407.19208) — `reconstruction`
+- 2022 — [2DPASS: 2D Priors Assisted Semantic Segmentation on LiDAR Point Clouds](https://arxiv.org/abs/2207.04397) — `segmentation` `autonomous driving`
+- 2022 — [3D Siamese Transformer Network for Single Object Tracking on Point Clouds](https://arxiv.org/abs/2207.11995) — `tracking`
+- 2022 — [A Closer Look at Invariances in Self-supervised Pre-training for 3D Vision](https://arxiv.org/abs/2207.04997) — `self-supervised` `pre-training`
+- 2022 — [AutoAlignV2: Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection](https://arxiv.org/abs/2207.10316) — `detection` `localization` `autonomous driving` `multi-modal`
+- 2022 — [Autoregressive Uncertainty Modeling for 3D Bounding Box Prediction](https://arxiv.org/abs/2210.07424)
+- 2022 — [Bi-PointFlowNet: Bidirectional Learning for Point Cloud Based Scene Flow Estimation](https://arxiv.org/abs/2207.07522) — `scene flow`
+- 2022 — [Bottom Up Top Down Detection Transformers for Language Grounding in Images and Point Clouds](https://arxiv.org/abs/2112.08879) — `detection`
+- 2022 — [Capturing, Reconstructing, and Simulating: the UrbanScene3D Dataset](https://arxiv.org/abs/2107.04286) — `reconstruction` `dataset`
+- 2022 — [CATRE: Iterative Point Clouds Alignment for Category-level Object Pose Refinement](https://arxiv.org/abs/2207.08082)
+- 2022 — [CenterFormer: Center-based Transformer for 3D Object Detection](https://arxiv.org/abs/2209.05588) — `detection`
+- 2022 — [CoSMix: Compositional Semantic Mix for Domain Adaptation in 3D LiDAR Segmentation](https://arxiv.org/abs/2207.09778) — `segmentation` `autonomous driving` `domain adaptation`
+- 2022 — [CPO: Change Robust Panorama to Point Cloud Localization](https://arxiv.org/abs/2207.05317) — `localization` `generation` `robustness`
+- 2022 — [diffConv: Analyzing Irregular Point Clouds with an Irregular View](https://arxiv.org/abs/2111.14658)
+- 2022 — [Domain Randomization-Enhanced Depth Simulation and Restoration for Perceiving and Grasping Specular and Transparent Objects](https://arxiv.org/abs/2208.03792)
+- 2022 — [Dual Adaptive Transformations for Weakly Supervised Point Cloud Segmentation](https://arxiv.org/abs/2207.09084) — `segmentation`
+- 2022 — [Dynamic 3D Scene Analysis by Point Cloud Accumulation](https://arxiv.org/abs/2207.12394) — `segmentation` `reconstruction`
+- 2022 — [ExtrudeNet: Unsupervised Inverse Sketch-and-Extrude for Shape Parsing](https://arxiv.org/abs/2209.15632)
+- 2022 — [FBNet: Feedback Network for Point Cloud Completion](https://arxiv.org/abs/2210.03974) — `completion` — [code](https://github.com/hikvision-research/3DVision)
+- 2022 — [Few 'Zero Level Set'-Shot Learning of Shape Signed Distance Functions in Feature Space](https://arxiv.org/abs/2207.04161) — `reconstruction`
+- 2022 — [Geodesic-Former: a Geodesic-Guided Few-shot 3D Point Cloud Instance Segmenter](https://arxiv.org/abs/2207.10859) — `segmentation`
+- 2022 — [GIPSO: Geometrically Informed Propagation for Online Adaptation in 3D LiDAR Segmentation](https://arxiv.org/abs/2207.09763) — `segmentation` `autonomous driving`
+- 2022 — [Homogeneous Multi-modal Feature Fusion and Interaction for 3D Object Detection](https://arxiv.org/abs/2210.09615) — `detection` `autonomous driving` `multi-modal`
+- 2022 — [Improving RGB-D Point Cloud Registration by Learning Multi-scale Local Linear Transformation](https://arxiv.org/abs/2208.14893) — `registration`
+- 2022 — [Is Geometry Enough for Matching in Visual Localization?](https://arxiv.org/abs/2203.12979) — `localization`
+- 2022 — [Label-Guided Auxiliary Training Improves 3D Object Detector](https://arxiv.org/abs/2207.11753) — `detection`
+- 2022 — [Learning to Generate Realistic LiDAR Point Clouds](https://arxiv.org/abs/2209.03954) — `generation` `denoising`
+- 2022 — [LiDAR Distillation: Bridging the Beam-Induced Domain Gap for 3D Object Detection](https://arxiv.org/abs/2203.14956) — `detection` `domain adaptation` — [code](https://github.com/weiyithu/LiDAR-Distillation)
+- 2022 — [Lidar Point Cloud Guided Monocular 3D Object Detection](https://arxiv.org/abs/2104.09035) — `detection` `autonomous driving` `monocular`
+- 2022 — [LidarNAS: Unifying and Searching Neural Architectures for 3D Point Clouds](https://arxiv.org/abs/2210.05018) — `autonomous driving`
+- 2022 — [Masked Discrimination for Self-Supervised Learning on Point Clouds](https://arxiv.org/abs/2203.11183) — `self-supervised` — [code](https://github.com/haotian-liu/MaskPoint)
+- 2022 — [MatchNorm: Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World](https://arxiv.org/abs/2203.15309) — `registration`
+- 2022 — [MeshMAE: Masked Autoencoders for 3D Mesh Data Analysis](https://arxiv.org/abs/2207.10228) — `self-supervised`
+- 2022 — [MonteBoxFinder: Detecting and Filtering Primitives to Fit a Noisy Point Cloud](https://arxiv.org/abs/2207.14268) — `detection` — [code](https://github.com/MichaelRamamonjisoa/MonteBoxFinder)
+- 2022 — [MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection](https://arxiv.org/abs/2205.05979) — `detection` `autonomous driving`
+- 2022 — [Open-world Semantic Segmentation for LIDAR Point Clouds](https://arxiv.org/abs/2207.01452) — `segmentation` `autonomous driving`
+- 2022 — [Point Primitive Transformer for Long-Term 4D Point Cloud Video Understanding](https://arxiv.org/abs/2208.00281)
+- 2022 — [Point Scene Understanding via Disentangled Instance Mesh Reconstruction](https://arxiv.org/abs/2203.16832) — `reconstruction`
+- 2022 — [PointInst3D: Segmenting 3D Instances by Points](https://arxiv.org/abs/2204.11402) — `segmentation` — [code](https://github.com/tonghe90/PointInst3D)
+- 2022 — [PointMixer: MLP-Mixer for Point Cloud Understanding](https://arxiv.org/abs/2111.11187)
+- 2022 — [PointTree: Transformation-Robust Point Cloud Encoder with Relaxed K-D Trees](https://arxiv.org/abs/2208.05962) — `robustness`
+- 2022 — [ProposalContrast: Unsupervised Pre-training for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2207.12654) — `detection` `pre-training` — [code](https://github.com/yinjunbo/ProposalContrast)
+- 2022 — [PseudoAugment: Learning to Use Unlabeled Data for Data Augmentation in Point Clouds](https://arxiv.org/abs/2210.13428) — `detection`
+- 2022 — [RBP-Pose: Residual Bounding Box Projection for Category-Level Pose Estimation](https://arxiv.org/abs/2208.00237)
+- 2022 — [RFNet-4D++: Joint Object Reconstruction and Flow Estimation from 4D Point Clouds with Cross-Attention Spatio-Temporal Features](https://arxiv.org/abs/2203.16482) — `reconstruction`
+- 2022 — [RPR-Net: A Point Cloud-based Rotation-aware Large Scale Place Recognition Network](https://arxiv.org/abs/2108.12790) — `slam` `localization` — Workshop
+- 2022 — [Salient Object Detection for Point Clouds](https://arxiv.org/abs/2207.11889) — `detection`
+- 2022 — [SeedFormer: Patch Seeds based Point Cloud Completion with Upsample Transformer](https://arxiv.org/abs/2207.10315) — `completion` `generation` `upsampling`
+- 2022 — [SLiDE: Self-supervised LiDAR De-snowing through Reconstruction Difficulty](https://arxiv.org/abs/2208.04043) — `segmentation` `reconstruction` `self-supervised`
+- 2022 — [SPE-Net: Boosting Point Cloud Analysis via Rotation Robustness Enhancement](https://arxiv.org/abs/2211.08250) — `robustness` — [code](https://github.com/ZhaofanQiu/SPE-Net)
+- 2022 — [SQN: Weakly-Supervised Semantic Segmentation of Large-Scale 3D Point Clouds](https://arxiv.org/abs/2104.04891) — `segmentation`
+- 2022 — [SuperLine3D: Self-supervised Line Segmentation and Description for LiDAR Point Cloud](https://arxiv.org/abs/2208.01925) — `registration` `segmentation` `self-supervised`
+- 2022 — [SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2210.07372) — `detection` `autonomous driving`
+- 2022 — [What Matters for 3D Scene Flow Network](https://arxiv.org/abs/2207.09143) — `scene flow`
+
+## NeurIPS <sub>(94)</sub>
+
+- 2026 — [ControlFlow3D: Distilling Multi-View Knowledge into Latent Flow Matching for Point Cloud Upsampling](https://arxiv.org/abs/2610.21190) — `generation` `upsampling`
+- 2026 — [FIND: Frequency Invariance Disentanglement for Test-Time Adaptation in LiDAR 3D Detection](https://arxiv.org/abs/2611.09170) — `detection`
+- 2026 — [LiFi: LiDAR Generation from Multi-View Images via Geometric and Semantic Collaborative Guidance](https://arxiv.org/abs/2610.19786) — `generation`
+- 2026 — [MemReg: Streaming Outdoor LiDAR Point Cloud Registration with Hybrid Memory Buffers](https://arxiv.org/abs/2610.12624) — `registration`
+- 2026 — [Register Anything Model for Generalizable and Robust Point Cloud Registration](https://arxiv.org/abs/2610.28821) — `registration` `robustness` — [code](https://github.com/qinzheng93/RegisterAnything)
+- 2026 — [Rethinking Radar 3D Perception: Representation Learning from Raw Spectra](https://arxiv.org/abs/2611.12334) — `multi-modal`
+- 2026 — [SIEVE: Overcoming Topological Obstruction in Equivariant Self-Supervised Learning](https://arxiv.org/abs/2610.21087) — `self-supervised`
+- 2026 — [Towards Generalizable 3D Anomaly Detection via Relational Inconsistency Modeling](https://arxiv.org/abs/2609.35059) — `detection` `anomaly detection` — [code](https://github.com/VisualScienceLab-KHU/GRIM)
+- 2025 — [Avi: Action from Volumetric Inference](https://arxiv.org/abs/2510.21746) — `generation` — Workshop
+- 2025 — [CosmoBench: A Multiscale, Multiview, Multitask Cosmology Benchmark for Geometric Deep Learning](https://arxiv.org/abs/2507.03707) — `dataset`
+- 2025 — [How Many Tokens Do 3D Point Cloud Transformer Architectures Really Need?](https://arxiv.org/abs/2511.05449) — `segmentation` `reconstruction`
+- 2025 — [Novel Class Discovery for Point Cloud Segmentation via Joint Learning of Causal Representation and Reasoning](https://arxiv.org/abs/2510.13307) — `segmentation`
+- 2025 — [Online Segment Any 3D Thing as Instance Tracking](https://arxiv.org/abs/2512.07599) — `segmentation` `tracking` — [code](https://github.com/AutoLab-SAI-SJTU/AutoSeg3D)
+- 2025 — [Pixel-Perfect Depth with Semantics-Prompted Diffusion Transformers](https://arxiv.org/abs/2510.07316) — `generation` `compression` `monocular`
+- 2025 — [PointMAC: Meta-Learned Adaptation for Robust Test-Time Point Cloud Completion](https://arxiv.org/abs/2510.10365) — `completion` `robustness`
+- 2025 — [Reconstructing the local density field with combined convolutional and point cloud architecture](https://arxiv.org/abs/2510.08573) — `reconstruction` — Workshop
+- 2025 — [RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes](https://arxiv.org/abs/2509.15123)
+- 2025 — [SCENEFORGE: Enhancing 3D-text alignment with Structured Scene Compositions](https://arxiv.org/abs/2509.15693) — `self-supervised`
+- 2025 — [See&Trek: Training-Free Spatial Prompting for Multimodal Large Language Model](https://arxiv.org/abs/2509.16087) — `multi-modal`
+- 2025 — [TriFusion-AE: Language-Guided Depth and LiDAR Fusion for Robust Point Cloud Processing](https://arxiv.org/abs/2509.18743) — `reconstruction` `denoising` `autonomous driving` `robustness` — Workshop
+- 2025 — [U-CAN: Unsupervised Point Cloud Denoising with Consistency-Aware Noise2Noise Matching](https://arxiv.org/abs/2510.25210) — `reconstruction` `denoising`
+- 2024 — [3D Focusing-and-Matching Network for Multi-Instance Point Cloud Registration](https://arxiv.org/abs/2411.07740) — `registration`
+- 2024 — [A Consistency-Aware Spot-Guided Transformer for Versatile and Hierarchical Point Cloud Registration](https://arxiv.org/abs/2410.10295) — `registration`
+- 2024 — [A Cosmic-Scale Benchmark for Symmetry-Preserving Data Processing](https://arxiv.org/abs/2410.20516) — `dataset` — Workshop
+- 2024 — [ImOV3D: Learning Open-Vocabulary Point Clouds 3D Object Detection from Only 2D Images](https://arxiv.org/abs/2410.24001) — `detection` `open-vocabulary` — [code](https://github.com/yangtiming/ImOV3D)
+- 2024 — [Multi-hypotheses Conditioned Point Cloud Diffusion for 3D Human Reconstruction from Occluded Images](https://arxiv.org/abs/2409.18364) — `reconstruction`
+- 2024 — [Multi-Object 3D Grounding with Dynamic Modules and Language-Informed Spatial Attention](https://arxiv.org/abs/2410.22306)
+- 2024 — [MultiPull: Detailing Signed Distance Functions by Pulling Multi-Level Queries at Multi-Step](https://arxiv.org/abs/2411.01208) — `reconstruction`
+- 2024 — [One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection](https://arxiv.org/abs/2411.01584) — `detection`
+- 2024 — [PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding](https://arxiv.org/abs/2411.00632)
+- 2024 — [Point Cloud Synthesis Using Inner Product Transforms](https://arxiv.org/abs/2410.18987) — `generation` — [code](https://github.com/aidos-lab/inner-product-transforms)
+- 2024 — [Point-PRC: A Prompt Learning Based Regulation Framework for Generalizable Point Cloud Analysis](https://arxiv.org/abs/2410.20406)
+- 2024 — [RG-SAN: Rule-Guided Spatial Awareness Network for End-to-End 3D Referring Expression Segmentation](https://arxiv.org/abs/2412.02402) — `segmentation` — [code](https://github.com/sosppxo/RG-SAN)
+- 2024 — [Target-Guided Adversarial Point Cloud Transformer Towards Recognition Against Real-world Corruptions](https://arxiv.org/abs/2411.00462) — `robustness` — [code](https://github.com/Roywangj/APCT)
+- 2024 — [Training an Open-Vocabulary Monocular 3D Object Detection Model without 3D Data](https://arxiv.org/abs/2411.15657) — `detection` `autonomous driving` `monocular` `open-vocabulary`
+- 2024 — [Unlearnable 3D Point Clouds: Class-wise Transformation Is All You Need](https://arxiv.org/abs/2410.03644)
+- 2023 — [AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset](https://arxiv.org/abs/2306.00612) — `self-supervised` `autonomous driving` `pre-training` `dataset`
+- 2023 — [Annotator: A Generic Active Learning Baseline for LiDAR Semantic Segmentation](https://arxiv.org/abs/2310.20293) — `segmentation`
+- 2023 — [CityRefer: Geography-aware 3D Visual Grounding Dataset on City-scale Point Cloud Data](https://arxiv.org/abs/2310.18773) — `dataset`
+- 2023 — [ConDaFormer: Disassembled Transformer with Local Structure Enhancement for 3D Point Cloud Understanding](https://arxiv.org/abs/2312.11112) — [code](https://github.com/LHDuan/ConDaFormer)
+- 2023 — [Diffusion-SS3D: Diffusion Model for Semi-supervised 3D Object Detection](https://arxiv.org/abs/2312.02966) — `detection` `generation` — [code](https://github.com/luluho1208/Diffusion-SS3D)
+- 2023 — [E2PNet: Event to Point Cloud Registration with Spatio-Temporal Representation Learning](https://arxiv.org/abs/2311.18433) — `registration`
+- 2023 — [Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion](https://arxiv.org/abs/2307.16532) — `detection` `generation` `autonomous driving` `multi-modal`
+- 2023 — [HEDNet: A Hierarchical Encoder-Decoder Network for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2310.20234) — `detection` `autonomous driving`
+- 2023 — [HOH: Markerless Multimodal Human-Object-Human Handover Dataset with Large Object Count](https://arxiv.org/abs/2310.00723) — `multi-modal` `dataset`
+- 2023 — [MiliPoint: A Point Cloud Dataset for mmWave Radar](https://arxiv.org/abs/2309.13425) — `multi-modal` `dataset`
+- 2023 — [NeuralGF: Unsupervised Point Normal Estimation by Learning Neural Gradient Function](https://arxiv.org/abs/2311.00389) — `normal estimation`
+- 2023 — [Persistent Homology for High-dimensional Data Based on Spectral Methods](https://arxiv.org/abs/2311.03087)
+- 2023 — [Provable Adversarial Robustness for Group Equivariant Tasks: Graphs, Point Clouds, Molecules, and More](https://arxiv.org/abs/2312.02708) — `segmentation` `robustness`
+- 2023 — [Robustifying Generalizable Implicit Shape Networks with a Tunable Non-Parametric Model](https://arxiv.org/abs/2311.12967) — `reconstruction`
+- 2023 — [SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation](https://arxiv.org/abs/2310.17359) — `registration` `generation` `denoising` `robustness`
+- 2023 — [Segment Any Point Cloud Sequences by Distilling Vision Foundation Models](https://arxiv.org/abs/2306.09347) — `segmentation` — [code](https://github.com/youquanl/Segment-Any-Point-Cloud)
+- 2023 — [Semantic segmentation of sparse irregular point clouds for leaf/wood discrimination](https://arxiv.org/abs/2305.16963) — `segmentation` `detection`
+- 2023 — [Spherical Frustum Sparse Convolution Network for LiDAR Point Cloud Semantic Segmentation](https://arxiv.org/abs/2311.17491) — `segmentation`
+- 2023 — [Spiking PointNet: Spiking Neural Networks for Point Clouds](https://arxiv.org/abs/2310.06232)
+- 2023 — [Transient Neural Radiance Fields for Lidar View Synthesis and 3D Reconstruction](https://arxiv.org/abs/2307.09555) — `reconstruction` `nerf`
+- 2023 — [Uni3DETR: Unified 3D Detection Transformer](https://arxiv.org/abs/2310.05699) — `detection`
+- 2022 — [3DOS: Towards 3D Open Set Learning -- Benchmarking and Understanding Semantic Novelty Detection on Point Clouds](https://arxiv.org/abs/2207.11554) — `segmentation` `detection` `classification` — [code](https://github.com/antoalli/3D_OS)
+- 2022 — [A Benchmark for Out of Distribution Detection in Point Cloud 3D Semantic Segmentation](https://arxiv.org/abs/2211.06241) — `segmentation` `detection` `autonomous driving` `dataset` — Workshop
+- 2022 — [Analyzing Deep Learning Representations of Point Clouds for Real-Time In-Vehicle LiDAR Perception](https://arxiv.org/abs/2210.14612) — `efficiency` — Workshop
+- 2022 — [BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework](https://arxiv.org/abs/2205.13790) — `detection` `multi-modal` `robustness`
+- 2022 — [CAP-UDF: Learning Unsigned Distance Functions Progressively from Raw Point Clouds with Consistency-Aware Field Optimization](https://arxiv.org/abs/2210.02757) — `reconstruction` — [code](https://github.com/junshengzhou/CAP-UDF)
+- 2022 — [Contrastive Self-Supervised Learning for Skeleton Representations](https://arxiv.org/abs/2211.05304) — `self-supervised` — Workshop
+- 2022 — [Cross-modal Learning for Image-Guided Point Cloud Shape Completion](https://arxiv.org/abs/2209.09552) — `completion` `reconstruction`
+- 2022 — [Diffusion Curvature for Estimating Local Curvature in High Dimensional Data](https://arxiv.org/abs/2206.03977)
+- 2022 — [Do graph neural networks learn traditional jet substructure?](https://arxiv.org/abs/2211.09912) — Workshop
+- 2022 — [Fully Convolutional One-Stage 3D Object Detection on LiDAR Range Images](https://arxiv.org/abs/2205.13764) — `detection` `autonomous driving` `BEV`
+- 2022 — [HSurf-Net: Normal Estimation for 3D Point Clouds by Learning Hyper Surfaces](https://arxiv.org/abs/2210.07158) — `normal estimation`
+- 2022 — [LION: Latent Point Diffusion Models for 3D Shape Generation](https://arxiv.org/abs/2210.06978) — `generation` `denoising`
+- 2022 — [Look Around and Refer: 2D Synthetic Semantics Knowledge Distillation for 3D Visual Grounding](https://arxiv.org/abs/2211.14241)
+- 2022 — [Non-rigid Point Cloud Registration with Neural Deformation Pyramid](https://arxiv.org/abs/2205.12796) — `registration` — [code](https://github.com/rabbityl/DeformationPyramid)
+- 2022 — [OGC: Unsupervised 3D Object Segmentation from Rigid Dynamics of Point Clouds](https://arxiv.org/abs/2210.04458) — `segmentation` — [code](https://github.com/vLAR-group/OGC)
+- 2022 — [P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting](https://arxiv.org/abs/2208.02812) — `pre-training`
+- 2022 — [Point Transformer V2: Grouped Vector Attention and Partition-based Pooling](https://arxiv.org/abs/2210.05666)
+- 2022 — [Point-M2AE: Multi-scale Masked Autoencoders for Hierarchical Point Cloud Pre-training](https://arxiv.org/abs/2205.14401) — `self-supervised` `pre-training`
+- 2022 — [PointNeXt: Revisiting PointNet++ with Improved Training and Scaling Strategies](https://arxiv.org/abs/2206.04670) — [code](https://github.com/guochengqian/pointnext)
+- 2022 — [Prototypical VoteNet for Few-Shot 3D Point Cloud Object Detection](https://arxiv.org/abs/2210.05593) — `detection`
+- 2022 — [Rethinking the compositionality of point clouds through regularization in the hyperbolic space](https://arxiv.org/abs/2209.10318)
+- 2022 — [SageMix: Saliency-Guided Mixup for Point Clouds](https://arxiv.org/abs/2210.06944)
+- 2022 — [SCONE: Surface Coverage Optimization in Unknown Environments by Volumetric Integration](https://arxiv.org/abs/2208.10449) — `reconstruction` — [code](https://github.com/Anttwo/SCONE)
+- 2022 — [SNAKE: Shape-aware Neural 3D Keypoint Field](https://arxiv.org/abs/2206.01724) — `detection` `reconstruction` — [code](https://github.com/zhongcl-thu/SNAKE)
+- 2022 — [Sparse2Dense: Learning to Densify 3D Features for 3D Object Detection](https://arxiv.org/abs/2211.13067) — `detection` — [code](https://github.com/stevewongv/Sparse2Dense)
+- 2022 — [Stress-Testing Point Cloud Registration on Automotive LiDAR](https://arxiv.org/abs/2204.07719) — `registration` `autonomous driving` — [code](https://github.com/AmnonDrory/LidarRegistration) Workshop
+- 2021 — [3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds](https://arxiv.org/abs/2111.04426) — `tracking` `localization` `BEV`
+- 2021 — [Accurate Point Cloud Registration with Robust Optimal Transport](https://arxiv.org/abs/2111.00648) — `registration` `robustness`
+- 2021 — [ASSANet: An Anisotropic Separable Set Abstraction for Efficient Point Cloud Representation Learning](https://arxiv.org/abs/2110.10538) — `efficiency` — [code](https://github.com/guochengqian/ASSANet)
+- 2021 — [CoFiNet: Reliable Coarse-to-fine Correspondences for Robust Point Cloud Registration](https://arxiv.org/abs/2110.14076) — `registration` `robustness`
+- 2021 — [Density-aware Chamfer Distance as a Comprehensive Metric for Point Cloud Completion](https://arxiv.org/abs/2111.12702) — `completion`
+- 2021 — [Garment4D: Garment Reconstruction from Point Cloud Sequences](https://arxiv.org/abs/2112.04159) — `reconstruction` — [code](https://github.com/hongfz16/Garment4D)
+- 2021 — [Instance Segmentation GNNs for One-Shot Conformal Tracking at the LHC](https://arxiv.org/abs/2103.06509) — `segmentation` `detection` `tracking` — Workshop
+- 2021 — [Multimodal Virtual Point 3D Detection](https://arxiv.org/abs/2111.06881) — `detection` `autonomous driving` `multi-modal`
+- 2021 — [Object DGCNN: 3D Object Detection using Dynamic Graphs](https://arxiv.org/abs/2110.06923) — `detection`
+- 2021 — [PolarStream: Streaming Lidar Object Detection and Segmentation with Polar Pillars](https://arxiv.org/abs/2106.07545) — `segmentation` `detection` — [code](https://github.com/motional/polarstream)
+- 2021 — [Shape As Points: A Differentiable Poisson Solver](https://arxiv.org/abs/2106.03452) — `reconstruction` — [code](https://github.com/autonomousvision/shape_as_points)
+
+## AAAI <sub>(91)</sub>
+
+- 2026 — [3D-ANC: Adaptive Neural Collapse for Robust 3D Point Cloud Recognition](https://arxiv.org/abs/2511.07040) — `robustness`
+- 2026 — [Adapt-As-You-Walk Through the Clouds: Training-Free Online Test-Time Adaptation of 3D Vision-Language Foundation Models](https://arxiv.org/abs/2511.15311) — `open-vocabulary` `vision-language`
+- 2026 — [Adaptive Agent Selection and Interaction Network for Image-to-point cloud Registration](https://arxiv.org/abs/2511.05965) — `registration` `detection`
+- 2026 — [BEVDilation: LiDAR-Centric Multi-Modal Fusion for 3D Object Detection](https://arxiv.org/abs/2512.02972) — `detection` `BEV` `multi-modal`
+- 2026 — [CASL: Curvature-Augmented Self-supervised Learning for 3D Anomaly Detection](https://arxiv.org/abs/2511.12909) — `detection` `self-supervised` `anomaly detection`
+- 2026 — [Certified L2-Norm Robustness of 3D Point Cloud Recognition in the Frequency Domain](https://arxiv.org/abs/2511.07029) — `classification` `autonomous driving` `robustness`
+- 2026 — [CompTrack: Information Bottleneck-Guided Low-Rank Dynamic Token Compression for Point Cloud Tracking](https://arxiv.org/abs/2511.15580) — `tracking` `compression` `autonomous driving`
+- 2026 — [DANCE: Density-agnostic and Class-aware Network for Point Cloud Completion](https://arxiv.org/abs/2511.07978) — `completion`
+- 2026 — [DAPointMamba: Domain Adaptive Point Mamba for Point Cloud Completion](https://arxiv.org/abs/2511.20278) — `completion`
+- 2026 — [DriveLiDAR4D: Sequential and Controllable LiDAR Scene Generation for Autonomous Driving](https://arxiv.org/abs/2511.13309) — `generation` `autonomous driving`
+- 2026 — [Enhancing Rotation-Invariant 3D Learning with Global Pose Awareness and Attention Mechanisms](https://arxiv.org/abs/2511.08833)
+- 2026 — [EPSegFZ: Efficient Point Cloud Semantic Segmentation for Few- and Zero-Shot Scenarios with Language Guidance](https://arxiv.org/abs/2511.11700) — `segmentation` `open-vocabulary` `efficiency`
+- 2026 — [Hierarchical Direction Perception via Atomic Dot-Product Operators for Rotation-Invariant Point Clouds Learning](https://arxiv.org/abs/2511.08240) — [code](https://github.com/wxszreal0/DiPVNet)
+- 2026 — [LiNeXt: Revisiting LiDAR Completion with Efficient Non-Diffusion Architectures](https://arxiv.org/abs/2511.10209) — `completion` `reconstruction` `efficiency`
+- 2026 — [MR-COSMO: Visual-Text Memory Recall and Direct CrOSs-MOdal Alignment Method for Query-Driven 3D Segmentation](https://arxiv.org/abs/2506.20991) — `segmentation`
+- 2026 — [Point Cloud Quantization through Multimodal Prompting for 3D Understanding](https://arxiv.org/abs/2511.12079) — `multi-modal` `efficiency`
+- 2026 — [Real-Time 3D Object Detection with Inference-Aligned Learning](https://arxiv.org/abs/2511.16140) — `detection` `efficiency`
+- 2026 — [Rethinking Multimodal Point Cloud Completion: A Completion-by-Correction Perspective](https://arxiv.org/abs/2511.12170) — `completion` `multi-modal`
+- 2026 — [Retrieving Objects from 3D Scenes with Box-Guided Open-Vocabulary Instance Segmentation](https://arxiv.org/abs/2512.19088) — `segmentation` `open-vocabulary` — Workshop
+- 2026 — [Understanding Dynamic Scenes in Ego Centric 4D Point Clouds](https://arxiv.org/abs/2508.07251)
+- 2025 — [A New Adversarial Perspective for LiDAR-based 3D Object Detection](https://arxiv.org/abs/2412.13017) — `detection` `robustness`
+- 2025 — [CAD-GPT: Synthesising CAD Construction Sequence with Spatial Reasoning-Enhanced Multimodal LLMs](https://arxiv.org/abs/2412.19663) — `multi-modal`
+- 2025 — [CloudMamba: Grouped Selective State Spaces for Point Cloud Analysis](https://arxiv.org/abs/2511.07823)
+- 2025 — [Cross-PCR: A Robust Cross-Source Point Cloud Registration Framework](https://arxiv.org/abs/2412.18873) — `registration` `robustness`
+- 2025 — [DAPoinTr: Domain Adaptive Point Transformer for Point Cloud Completion](https://arxiv.org/abs/2412.19062) — `completion`
+- 2025 — [Digging into Intrinsic Contextual Information for High-fidelity 3D Point Cloud Completion](https://arxiv.org/abs/2412.08326) — `completion`
+- 2025 — [DOS: Distilling Observable Softmaps of Zipfian Prototypes for Self-Supervised Point Representation](https://arxiv.org/abs/2512.11465) — `reconstruction` `self-supervised`
+- 2025 — [Efficient 3D Recognition with Event-driven Spike Sparse Convolution](https://arxiv.org/abs/2412.07360) — `efficiency`
+- 2025 — [FlowMamba: Learning Point Cloud Scene Flow with Global Motion Propagation](https://arxiv.org/abs/2412.17366) — `scene flow`
+- 2025 — [GaussianPainter: Painting Point Cloud into 3D Gaussians with Normal Guidance](https://arxiv.org/abs/2412.17715) — `gaussian-splatting`
+- 2025 — [Generalized Zero-Shot Learning for Point Cloud Segmentation with Evidence-Based Dynamic Calibration](https://arxiv.org/abs/2509.08280) — `segmentation` `open-vocabulary`
+- 2025 — [HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection](https://arxiv.org/abs/2412.11489) — `detection` `generation` `autonomous driving` `multi-modal`
+- 2025 — [Hyperbolic-constraint Point Cloud Reconstruction from Single RGB-D Images](https://arxiv.org/abs/2412.09055) — `reconstruction`
+- 2025 — [L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection](https://arxiv.org/abs/2408.03677) — `detection` `robustness`
+- 2025 — [LiON: Learning Point-wise Abstaining Penalty for LiDAR Outlier DetectioN Using Diverse Synthetic Data](https://arxiv.org/abs/2309.10230) — `detection` `classification` `autonomous driving` — [code](https://github.com/Daniellli/LiON)
+- 2025 — [Multi-Modal Assistance for Unsupervised Domain Adaptation on Point Cloud 3D Object Detection](https://arxiv.org/abs/2511.07966) — `detection` `multi-modal` `domain adaptation`
+- 2025 — [ObjVariantEnsemble: Advancing Point Cloud LLM Evaluation in Challenging Scenes with Subtly Distinguished Objects](https://arxiv.org/abs/2412.14837) — `vision-language`
+- 2025 — [OLiDM: Object-aware LiDAR Diffusion Models for Autonomous Driving](https://arxiv.org/abs/2412.17226) — `autonomous driving`
+- 2025 — [PointCFormer: a Relation-based Progressive Feature Extraction Network for Point Cloud Completion](https://arxiv.org/abs/2412.08421) — `segmentation` `detection` `completion`
+- 2025 — [PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis](https://arxiv.org/abs/2412.08504)
+- 2025 — [Position-aware Guided Point Cloud Completion with CLIP Model](https://arxiv.org/abs/2412.08271) — `completion`
+- 2025 — [Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation](https://arxiv.org/abs/2412.13454) — `autonomous driving` `pre-training` `robustness`
+- 2025 — [Preserving Topological and Geometric Embeddings for Point Cloud Recovery](https://arxiv.org/abs/2507.19121)
+- 2025 — [RaLiFlow: Scene Flow Estimation with 4D Radar and LiDAR Point Clouds](https://arxiv.org/abs/2512.10376) — `scene flow` `multi-modal`
+- 2025 — [RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection](https://arxiv.org/abs/2412.12799) — `detection` `multi-modal`
+- 2025 — [RI-MAE: Rotation-Invariant Masked AutoEncoders for Self-Supervised Point Cloud Representation Learning](https://arxiv.org/abs/2409.00353) — `self-supervised`
+- 2025 — [Riemann-based Multi-scale Attention Reasoning Network for Text-3D Retrieval](https://arxiv.org/abs/2408.13712)
+- 2025 — [SCKD: Semi-Supervised Cross-Modality Knowledge Distillation for 4D Radar Object Detection](https://arxiv.org/abs/2412.14571) — `detection` `multi-modal`
+- 2025 — [Sharpening Neural Implicit Functions with Frequency Consolidation Priors](https://arxiv.org/abs/2412.19720)
+- 2025 — [Simba: Towards High-Fidelity and Geometrically-Consistent Point Cloud Completion via Transformation Diffusion](https://arxiv.org/abs/2511.16161) — `completion`
+- 2025 — [Weighted Poisson-disk Resampling on Large-Scale Point Clouds](https://arxiv.org/abs/2412.09177)
+- 2024 — [A Pioneering Neural Network Method for Efficient and Robust Fluid Simulation](https://arxiv.org/abs/2412.10748) — `robustness` `efficiency`
+- 2024 — [BEV-MAE: Bird's Eye View Masked Autoencoders for Point Cloud Pre-training in Autonomous Driving Scenarios](https://arxiv.org/abs/2212.05758) — `detection` `self-supervised` `autonomous driving` `BEV`
+- 2024 — [CMG-Net: Robust Normal Estimation for Point Clouds via Chamfer Normal Distance and Multi-scale Geometry](https://arxiv.org/abs/2312.09154) — `normal estimation` `robustness`
+- 2024 — [EPCL: Frozen CLIP Transformer is An Efficient Point Cloud Encoder](https://arxiv.org/abs/2212.04098) — `efficiency`
+- 2024 — [iDet3D: Towards Efficient Interactive Object Detection for LiDAR Point Clouds](https://arxiv.org/abs/2312.15449) — `detection` `efficiency`
+- 2024 — [Learning Continuous Implicit Field with Local Distance Indicator for Arbitrary-Scale Point Cloud Upsampling](https://arxiv.org/abs/2312.15133) — `upsampling`
+- 2024 — [M3SOT: Multi-frame, Multi-field, Multi-space 3D Single Object Tracking](https://arxiv.org/abs/2312.06117) — `tracking` `autonomous driving`
+- 2024 — [NuScenes-QA: A Multi-modal Visual Question Answering Benchmark for Autonomous Driving Scenario](https://arxiv.org/abs/2305.14836) — `autonomous driving` `multi-modal` `dataset`
+- 2024 — [Point Cloud Part Editing: Segmentation, Generation, Assembly, and Selection](https://arxiv.org/abs/2312.11867) — `segmentation` `generation`
+- 2024 — [PointDGMamba: Domain Generalization of Point Cloud Classification via Generalized State Space Model](https://arxiv.org/abs/2408.13574) — `classification`
+- 2024 — [Robust 3D Tracking with Quality-Aware Shape Completion](https://arxiv.org/abs/2312.10608) — `completion` `tracking` `robustness`
+- 2024 — [Semantic Complete Scene Forecasting from a 4D Dynamic Point Cloud Sequence](https://arxiv.org/abs/2312.08054) — `completion`
+- 2024 — [SPEAL: Skeletal Prior Embedded Attention Learning for Cross-Source Point Cloud Registration](https://arxiv.org/abs/2312.08664) — `registration`
+- 2024 — [Towards Compact 3D Representations via Point Feature Enhancement Masked Autoencoders](https://arxiv.org/abs/2312.10726) — `self-supervised`
+- 2024 — [When Should We Prefer State-to-Visual DAgger Over Visual Reinforcement Learning?](https://arxiv.org/abs/2412.13662)
+- 2023 — [Contrastive Predictive Autoencoders for Dynamic Point Cloud Self-Supervised Learning](https://arxiv.org/abs/2305.12959) — `generation` `reconstruction` `self-supervised`
+- 2023 — [GLT-T: Global-Local Transformer Voting for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2211.10927) — `tracking` — [code](https://github.com/haooozi/GLT-T)
+- 2023 — [LWSIS: LiDAR-guided Weakly Supervised Instance Segmentation for Autonomous Driving](https://arxiv.org/abs/2212.03504) — `segmentation` `autonomous driving`
+- 2023 — [NeAF: Learning Neural Angle Fields for Point Normal Estimation](https://arxiv.org/abs/2211.16869) — `normal estimation` — [code](https://github.com/lisj575/NeAF)
+- 2023 — [Rethinking Rotation Invariance with Point Cloud Registration](https://arxiv.org/abs/2301.00149) — `registration`
+- 2023 — [SSDA3D: Semi-supervised Domain Adaptation for 3D Object Detection from Point Cloud](https://arxiv.org/abs/2212.02845) — `detection` `autonomous driving` `domain adaptation`
+- 2023 — [Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR](https://arxiv.org/abs/2211.16951) — `localization` `monocular`
+- 2022 — [Attention-based Transformation from Latent Features to Point Clouds](https://arxiv.org/abs/2112.05324) — `completion` `generation`
+- 2022 — [Behind the Curtain: Learning Occluded Shapes for 3D Object Detection](https://arxiv.org/abs/2112.02205) — `detection`
+- 2022 — [Boosting Point Clouds Rendering via Radiance Mapping](https://arxiv.org/abs/2210.15107) — `nerf`
+- 2022 — [End-to-end Learning the Partial Permutation Matrix for Robust 3D Point Cloud Registration](https://arxiv.org/abs/2110.15250) — `registration` `robustness`
+- 2022 — [MGTANet: Encoding Sequential LiDAR Points Using Long Short-Term Motion-Guided Temporal Attention for 3D Object Detection](https://arxiv.org/abs/2212.00442) — `detection`
+- 2022 — [PointCA: Evaluating the Robustness of 3D Point Cloud Completion Models Against Adversarial Examples](https://arxiv.org/abs/2211.12294) — `segmentation` `completion` `robustness`
+- 2022 — [Self-Supervised Robust Scene Flow Estimation via the Alignment of Probability Density Functions](https://arxiv.org/abs/2203.12193) — `self-supervised` `scene flow` `robustness`
+- 2022 — [Semantic Segmentation for Point Cloud Scenes via Dilated Graph Feature Aggregation and Pyramid Decoders](https://arxiv.org/abs/2204.04944) — `segmentation` — Workshop
+- 2022 — [SVT-Net: Super Light-Weight Sparse Voxel Transformer for Large Scale Place Recognition](https://arxiv.org/abs/2105.00149) — `slam` `localization` `efficiency`
+- 2022 — [Transfer Learning from Synthetic to Real LiDAR Point Cloud for Semantic Segmentation](https://arxiv.org/abs/2107.05399) — `segmentation`
+- 2021 — [Adversarial Attack for Asynchronous Event-based Data](https://arxiv.org/abs/2112.13534) — `autonomous driving` `robustness`
+- 2021 — [Boundary-Aware Geometric Encoding for Semantic Segmentation of Point Clouds](https://arxiv.org/abs/2101.02381) — `segmentation`
+- 2021 — [DeepDT: Learning Geometry From Delaunay Triangulation for Surface Reconstruction](https://arxiv.org/abs/2101.10353) — `reconstruction`
+- 2021 — [DetarNet: Decoupling Translation and Rotation by Siamese Network for Point Cloud Registration](https://arxiv.org/abs/2112.14059) — `registration`
+- 2021 — [Investigate Indistinguishable Points in Semantic Segmentation of 3D Point Cloud](https://arxiv.org/abs/2103.10339) — `segmentation`
+- 2021 — [SCTN: Sparse Convolution-Transformer Network for Scene Flow Estimation](https://arxiv.org/abs/2105.04447) — `scene flow`
+- 2021 — [SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations](https://arxiv.org/abs/2112.04680) — `pre-training`
+- 2021 — [SSPC-Net: Semi-supervised Semantic 3D Point Cloud Segmentation Network](https://arxiv.org/abs/2104.07861) — `segmentation` — [code](https://github.com/MMCheng/SSPC-Net)
+
+## IROS <sub>(76)</sub>
+
+- 2026 — [3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance](https://arxiv.org/abs/2606.31329) — [code](https://github.com/DAVIAN-Robotics/3D_HAMSTER)
+- 2026 — [DeeperRadar: End-to-End MIMO Radar Design and Multi-Modal Fusion for Autonomous Vehicle Perception](https://arxiv.org/abs/2607.17351) — `detection` `multi-modal`
+- 2026 — [DiFF: Doppler-informed Flow Matching for Human Motion Flow](https://arxiv.org/abs/2609.39098) — `generation` `scene flow` — [code](https://github.com/keroseus/DiFF)
+- 2026 — [FIRE-LIVWO: Robust LiDAR-Inertial-Visual-Wheel Odometry via Failure-Immune mmWave Radar Enhancement](https://arxiv.org/abs/2609.05325) — `slam` `multi-modal` `robustness`
+- 2026 — [Hydra++: Real-Time Hierarchical 3D Scene Graph Construction With Object-Level Shape Estimation](https://arxiv.org/abs/2607.09455) — `efficiency`
+- 2026 — [Leveraging Vision-Based Point Cloud Map Priors for Camera-Based 3D Object Detection and Online Vectorized HD Mapping](https://arxiv.org/abs/2609.26325) — `detection` `autonomous driving` — Workshop
+- 2026 — [NIDAR: NIR-Guided Intrinsic Decomposition for Scalable Scene-Agnostic LiDAR Intensity Reconstruction](https://arxiv.org/abs/2609.36878) — `reconstruction`
+- 2026 — [Two-Stage Extrinsic Calibration of a Static Line-Scanning Lidar with a Rotary Platform](https://arxiv.org/abs/2607.18578)
+- 2026 — [Vernata: Self-Supervised Learning of LiDAR Point Representations](https://arxiv.org/abs/2608.06919) — `self-supervised` — [code](https://github.com/rai-opensource/vernata)
+- 2025 — [CLAIM: Camera-LiDAR Alignment with Intensity and Monodepth](https://arxiv.org/abs/2512.14001) — `multi-modal`
+- 2025 — [CORENet: Cross-Modal 4D Radar Denoising Network with LiDAR Supervision for Autonomous Driving](https://arxiv.org/abs/2508.13485) — `detection` `denoising` `autonomous driving` `multi-modal`
+- 2025 — [DAMM-LOAM: Degeneracy Aware Multi-Metric LiDAR Odometry and Mapping](https://arxiv.org/abs/2510.13287) — `slam` `localization` `reconstruction` — Workshop
+- 2025 — [DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation](https://arxiv.org/abs/2510.23525) — `segmentation` `domain adaptation`
+- 2025 — [EAROL: Environmental Augmented Perception-Aware Planning and Robust Odometry via Downward-Mounted Tilted LiDAR](https://arxiv.org/abs/2508.14554) — `localization` `robustness`
+- 2025 — [Estimating Continuum Robot Shape under External Loading using Spatiotemporal Neural Networks](https://arxiv.org/abs/2510.22339)
+- 2025 — [GBlobs: Local LiDAR Geometry for Improved Sensor Placement Generalization](https://arxiv.org/abs/2510.18539) — `detection`
+- 2025 — [Label-Efficient Grasp Joint Prediction with Point-JEPA](https://arxiv.org/abs/2509.13349) — `self-supervised` `efficiency` — Workshop
+- 2025 — [LiHRA: A LiDAR-Based HRI Dataset for Automated Risk Monitoring Methods](https://arxiv.org/abs/2509.06597) — `dataset`
+- 2025 — [mmWave Radar-Based Non-Line-of-Sight Pedestrian Localization at T-Junctions Utilizing Road Layout Extraction via Camera](https://arxiv.org/abs/2508.02348) — `detection` `localization` `autonomous driving` `multi-modal`
+- 2025 — [OREN: Octree Residual Network for Real-Time Euclidean Signed Distance Mapping](https://arxiv.org/abs/2510.18999) — `localization` `reconstruction` `efficiency`
+- 2025 — [Radar-Based NLoS Pedestrian Localization for Darting-Out Scenarios Near Parked Vehicles with Camera-Assisted Point Cloud Interpretation](https://arxiv.org/abs/2508.04033) — `detection` `localization` `multi-modal`
+- 2025 — [RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles](https://arxiv.org/abs/2507.00937) — `multi-modal` `efficiency`
+- 2025 — [TopoLiDM: Topology-Aware LiDAR Diffusion Models for Interpretable and Realistic LiDAR Point Cloud Generation](https://arxiv.org/abs/2507.22454) — `generation` `autonomous driving` — [code](https://github.com/IRMVLab/TopoLiDM)
+- 2025 — [TWC-SLAM: Multi-Agent Cooperative SLAM with Text Semantics and WiFi Features Integration for Similar Indoor Environments](https://arxiv.org/abs/2510.22754) — `slam`
+- 2024 — [Are We Ready for Real-Time LiDAR Semantic Segmentation in Autonomous Driving?](https://arxiv.org/abs/2410.08365) — `segmentation` `detection` `reconstruction` `autonomous driving` — Workshop
+- 2024 — [CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration](https://arxiv.org/abs/2408.02394) — `registration` `localization`
+- 2024 — [Cross-Modal Self-Supervised Learning with Effective Contrastive Units for LiDAR Point Clouds](https://arxiv.org/abs/2409.06827) — `self-supervised` `autonomous driving`
+- 2024 — [DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2409.18092) — `completion` `denoising` `autonomous driving`
+- 2024 — [DSLO: Deep Sequence LiDAR Odometry Based on Inconsistent Spatio-temporal Propagation](https://arxiv.org/abs/2409.00744)
+- 2024 — [Efficient Dynamic LiDAR Odometry for Mobile Robots with Structured Point Clouds](https://arxiv.org/abs/2411.18443) — `detection` `efficiency`
+- 2024 — [Exploiting Local Features and Range Images for Small Data Real-Time Point Cloud Semantic Segmentation](https://arxiv.org/abs/2410.10510) — `segmentation` `autonomous driving` `efficiency`
+- 2024 — [HeLiMOS: A Dataset for Moving Object Segmentation in 3D Point Clouds From Heterogeneous LiDAR Sensors](https://arxiv.org/abs/2408.06328) — `segmentation` `detection` `dataset`
+- 2024 — [Loss Distillation via Gradient Matching for Point Cloud Completion with Weighted Chamfer Distance](https://arxiv.org/abs/2409.06171) — `detection` `completion`
+- 2024 — [Moving Object Segmentation in Point Cloud Data using Hidden Markov Models](https://arxiv.org/abs/2410.18638) — `segmentation` `detection` — Workshop
+- 2024 — [Tracking Tumors under Deformation from Partial Point Clouds using Occupancy Networks](https://arxiv.org/abs/2411.02619) — `tracking`
+- 2023 — [Converting Depth Images and Point Clouds for Feature-based Pose Estimation](https://arxiv.org/abs/2310.14924) — `registration`
+- 2023 — [Deep Robust Multi-Robot Re-localisation in Natural Environments](https://arxiv.org/abs/2307.13950) — `localization` `robustness`
+- 2023 — [GraNet: A Multi-Level Graph Network for 6-DoF Grasp Pose Generation in Cluttered Scenes](https://arxiv.org/abs/2312.03345) — `generation`
+- 2023 — [Irregular Change Detection in Sparse Bi-Temporal Point Clouds using Learned Place Recognition Descriptors and Point-to-Voxel Comparison](https://arxiv.org/abs/2306.15416) — `detection` `localization`
+- 2023 — [Point2Point : A Framework for Efficient Deep Learning on Hilbert sorted Point Clouds with applications in Spatio-Temporal Occupancy Prediction](https://arxiv.org/abs/2306.16306) — `occupancy prediction` `efficiency`
+- 2023 — [SUIT: Learning Significance-guided Information for 3D Temporal Detection](https://arxiv.org/abs/2307.01807) — `detection` `autonomous driving`
+- 2023 — [SuPerPM: A Surgical Perception Framework Based on Deep Point Matching Learned from Physical Constrained Simulation Data](https://arxiv.org/abs/2309.13863) — `tracking`
+- 2023 — [T-UDA: Temporal Unsupervised Domain Adaptation in Sequential Point Clouds](https://arxiv.org/abs/2309.08302) — `domain adaptation`
+- 2023 — [Test-Time Adaptation for Point Cloud Upsampling Using Meta-Learning](https://arxiv.org/abs/2308.16484) — `upsampling`
+- 2022 — [An Extrinsic Calibration Method between LiDAR and GNSS/INS for Autonomous Driving](https://arxiv.org/abs/2209.07694) — `autonomous driving`
+- 2022 — [An Integrated LiDAR-SLAM System for Complex Environment with Noisy Point Clouds](https://arxiv.org/abs/2212.05705) — `slam` `localization`
+- 2022 — [BoxGraph: Semantic Place Recognition and Pose Estimation from 3D LiDAR](https://arxiv.org/abs/2206.15154) — `segmentation` `localization`
+- 2022 — [Challenges of SLAM in extremely unstructured environments: the DLR Planetary Stereo, Solid-State LiDAR, Inertial Dataset](https://arxiv.org/abs/2207.06815) — `slam` `dataset`
+- 2022 — [Elevation State-Space: Surfel-Based Navigation in Uneven Environments for Mobile Robots](https://arxiv.org/abs/2208.08202)
+- 2022 — [EVOPS Benchmark: Evaluation of Plane Segmentation from RGBD and LiDAR Data](https://arxiv.org/abs/2204.05799) — `segmentation` `slam` `dataset`
+- 2022 — [Gravity-constrained point cloud registration](https://arxiv.org/abs/2203.13799) — `registration` `slam` `localization`
+- 2022 — [How Do We Fail? Stress Testing Perception in Autonomous Vehicles](https://arxiv.org/abs/2203.14155)
+- 2022 — [Koopman pose predictions for temporally consistent human walking estimations](https://arxiv.org/abs/2205.02737) — `tracking`
+- 2022 — [LapSeg3D: Weakly Supervised Semantic Segmentation of Point Clouds Representing Laparoscopic Scenes](https://arxiv.org/abs/2207.07418) — `segmentation`
+- 2022 — [LiSnowNet: Real-time Snow Removal for LiDAR Point Cloud](https://arxiv.org/abs/2211.10023) — `autonomous driving` `efficiency`
+- 2022 — [PaintNet: Unstructured Multi-Path Learning from 3D Point Clouds for Robotic Spray Painting](https://arxiv.org/abs/2211.06930)
+- 2022 — [Patchwork++: Fast and Robust Ground Segmentation Solving Partial Under-Segmentation Using 3D Point Cloud](https://arxiv.org/abs/2207.11919) — `segmentation` `detection` `robustness`
+- 2022 — [PFilter: Building Persistent Maps through Feature Filtering for Fast and Accurate LiDAR-based SLAM](https://arxiv.org/abs/2208.14848) — `registration` `slam` `localization`
+- 2022 — [SemanticBEVFusion: Rethink LiDAR-Camera Fusion in Unified Bird's-Eye View Representation for 3D Object Detection](https://arxiv.org/abs/2212.04675) — `detection` `autonomous driving` `multi-modal`
+- 2022 — [SSP-Pose: Symmetry-Aware Shape Prior Deformation for Direct Category-Level Object Pose Estimation](https://arxiv.org/abs/2208.06661)
+- 2022 — [Unsupervised confidence for LiDAR depth maps and applications](https://arxiv.org/abs/2210.03118) — `autonomous driving` — [code](https://github.com/andreaconti/lidar-confidence)
+- 2021 — [Active Visuo-Tactile Point Cloud Registration for Accurate Pose Estimation of Objects in an Unknown Workspace](https://arxiv.org/abs/2108.04015) — `registration`
+- 2021 — [CRLF: Automatic Calibration and Refinement based on Line Feature for LiDAR and Camera in Road Scenes](https://arxiv.org/abs/2103.04558)
+- 2021 — [FIDNet: LiDAR Point Cloud Semantic Segmentation with Fully Interpolation Decoding](https://arxiv.org/abs/2109.03787) — `segmentation` — [code](https://github.com/placeforyiming/IROS21-FIDNet-SemanticKITTI)
+- 2021 — [Graph-Guided Deformation for Point Cloud Completion](https://arxiv.org/abs/2112.01840) — `completion` `generation`
+- 2021 — [Identification and Avoidance of Static and Dynamic Obstacles on Point Cloud for UAVs Navigation](https://arxiv.org/abs/2105.06622)
+- 2021 — [Learning to Detect Multi-Modal Grasps for Dexterous Grasping in Dense Clutter](https://arxiv.org/abs/2106.03919) — `detection` `multi-modal`
+- 2021 — [Moving Object Segmentation in 3D LiDAR Data: A Learning-based Approach Exploiting Sequential Data](https://arxiv.org/abs/2105.08971) — `segmentation`
+- 2021 — [Multi-View Fusion for Multi-Level Robotic Scene Understanding](https://arxiv.org/abs/2103.13539)
+- 2021 — [On Enhancing Ground Surface Detection from Sparse Lidar Point Cloud](https://arxiv.org/abs/2105.11649) — `detection` `autonomous driving`
+- 2021 — [PLUMENet: Efficient 3D Object Detection from Stereo Images](https://arxiv.org/abs/2101.06594) — `detection` `autonomous driving` `efficiency`
+- 2021 — [PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds](https://arxiv.org/abs/2108.06455) — `tracking`
+- 2021 — [Similarity-Aware Fusion Network for 3D Semantic Segmentation](https://arxiv.org/abs/2107.01579) — `segmentation`
+- 2021 — [Sparse PointPillars: Maintaining and Exploiting Input Sparsity to Improve Runtime on Embedded Systems](https://arxiv.org/abs/2106.06882) — `detection` `BEV`
+- 2021 — [SpectGRASP: Robotic Grasping by Spectral Correlation](https://arxiv.org/abs/2107.12492)
+- 2021 — [SSC: Semantic Scan Context for Large-Scale Place Recognition](https://arxiv.org/abs/2107.00382) — `slam` `localization`
+
+## ICRA <sub>(66)</sub>
+
+- 2026 — [Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model](https://arxiv.org/abs/2607.06896) — `detection` `tracking` `slam` — Workshop
+- 2025 — [Beyond Frame-wise Tracking: A Trajectory-based Paradigm for Efficient Point Cloud Tracking](https://arxiv.org/abs/2509.11453) — `tracking` `efficiency`
+- 2025 — [Domain Adaptation-Based Crossmodal Knowledge Distillation for 3D Semantic Segmentation](https://arxiv.org/abs/2509.00379) — `segmentation` `autonomous driving` `domain adaptation`
+- 2025 — [LiLa-Net: Lightweight Latent LiDAR Autoencoder for 3D Point Cloud Reconstruction](https://arxiv.org/abs/2510.02028) — `reconstruction` `efficiency`
+- 2025 — [PlaneHEC: Efficient Hand-Eye Calibration for Multi-view Robotic Arm via Any Point Cloud Plane Detection](https://arxiv.org/abs/2507.19851) — `detection` `efficiency`
+- 2025 — [Radar Tracker: Moving Instance Tracking in Sparse and Noisy Radar Point Clouds](https://arxiv.org/abs/2507.03441) — `segmentation` `tracking` `multi-modal`
+- 2025 — [Radar Velocity Transformer: Single-scan Moving Object Segmentation in Noisy Radar Point Clouds](https://arxiv.org/abs/2507.03463) — `segmentation` `autonomous driving` `multi-modal`
+- 2025 — [RadarSFD: Single-Frame Diffusion with Pretrained Priors for Radar Point Clouds](https://arxiv.org/abs/2509.18068) — `pre-training` `multi-modal`
+- 2024 — [23 DoF Grasping Policies from a Raw Point Cloud](https://arxiv.org/abs/2411.14400) — Workshop
+- 2024 — [A Robust Probability-based Joint Registration Method of Multiple Point Clouds Considering Local Consistency](https://arxiv.org/abs/2409.09682) — `registration` `robustness`
+- 2024 — [Can We Remove the Ground? Obstacle-aware Point Cloud Compression for Remote Object Detection](https://arxiv.org/abs/2410.00582) — `detection` `compression`
+- 2024 — [Efficient LiDAR Bundle Adjustment for Multi-Scan Alignment Utilizing Continuous-Time Trajectories](https://arxiv.org/abs/2412.11760) — `localization` `efficiency`
+- 2024 — [FlatFusion: Delving into Details of Sparse Transformer-based Camera-LiDAR Fusion for Autonomous Driving](https://arxiv.org/abs/2408.06832) — `autonomous driving` `multi-modal`
+- 2024 — [Kinematic-ICP: Enhancing LiDAR Odometry with Kinematic Constraints for Wheeled Mobile Robots Moving on Planar Surfaces](https://arxiv.org/abs/2410.10277) — `registration` `localization`
+- 2024 — [LiDAR-EDIT: LiDAR Data Generation by Editing the Object Layouts in Real-World Scenes](https://arxiv.org/abs/2412.00592) — `generation` `autonomous driving`
+- 2024 — [LiPO: LiDAR Inertial Odometry for ICP Comparison](https://arxiv.org/abs/2410.08097) — `registration`
+- 2024 — [MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues](https://arxiv.org/abs/2412.02734) — `tracking` `autonomous driving` `multi-modal`
+- 2024 — [Points2Plans: From Point Clouds to Long-Horizon Plans with Composable Relational Dynamics](https://arxiv.org/abs/2408.14769)
+- 2023 — [A Data-efficient Framework for Robotics Large-scale LiDAR Scene Parsing](https://arxiv.org/abs/2312.02208) — `efficiency`
+- 2023 — [COIN-LIO: Complementary Intensity-Augmented LiDAR Inertial Odometry](https://arxiv.org/abs/2310.01235) — `registration`
+- 2023 — [Do we need scan-matching in radar odometry?](https://arxiv.org/abs/2310.18117) — `multi-modal`
+- 2023 — [FF-LOGO: Cross-Modality Point Cloud Registration with Feature Filtering and Local to Global Optimization](https://arxiv.org/abs/2309.08966) — `registration`
+- 2023 — [LiDAR Data Synthesis with Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2309.09256) — `completion` `generation` `denoising`
+- 2023 — [Mask4Former: Mask Transformer for 4D Panoptic Segmentation](https://arxiv.org/abs/2309.16133) — `segmentation` `tracking`
+- 2023 — [MGTR: Multi-Granular Transformer for Motion Prediction with LiDAR](https://arxiv.org/abs/2312.02409) — `autonomous driving`
+- 2023 — [Neural Informed RRT*: Learning-based Path Planning with Point Cloud State Representations under Admissible Ellipsoidal Constraints](https://arxiv.org/abs/2309.14595)
+- 2023 — [Out of Sight, Still in Mind: Reasoning and Planning about Unobserved Objects with Video Tracking Enabled Memory Models](https://arxiv.org/abs/2309.15278) — `tracking`
+- 2023 — [Proximity and Visuotactile Point Cloud Fusion for Contact Patches in Extreme Deformation](https://arxiv.org/abs/2307.03839)
+- 2023 — [QuadricsNet: Learning Concise Representation for Geometric Primitives in Point Clouds](https://arxiv.org/abs/2309.14211)
+- 2023 — [RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud](https://arxiv.org/abs/2309.09737) — `detection` `tracking` `multi-modal`
+- 2023 — [RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection](https://arxiv.org/abs/2307.10249) — `detection` `multi-modal`
+- 2023 — [Robust 3D Object Detection from LiDAR-Radar Point Clouds via Cross-Modal Feature Augmentation](https://arxiv.org/abs/2309.17336) — `detection` `generation` `multi-modal` `robustness`
+- 2022 — [3D Reconstruction-Based Seed Counting of Sorghum Panicles for Agricultural Inspection](https://arxiv.org/abs/2211.07748) — `reconstruction`
+- 2022 — [Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation Library](https://arxiv.org/abs/2211.15975)
+- 2022 — [BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation](https://arxiv.org/abs/2205.13542) — `autonomous driving`
+- 2022 — [Center Feature Fusion: Selective Multi-Sensor Fusion of Center-based Objects](https://arxiv.org/abs/2209.12880) — `detection`
+- 2022 — [Coarse-to-Fine Point Cloud Registration with SE(3)-Equivariant Representations](https://arxiv.org/abs/2210.02045) — `registration`
+- 2022 — [Dynamic Control Barrier Function-based Model Predictive Control to Safety-Critical Obstacle-Avoidance of Mobile Robot](https://arxiv.org/abs/2209.08539) — `detection`
+- 2022 — [Fast Staircase Detection and Estimation using 3D Point Clouds with Multi-detection Merging for Heterogeneous Robots](https://arxiv.org/abs/2211.00610) — `detection`
+- 2022 — [High Resolution Point Clouds from mmWave Radar](https://arxiv.org/abs/2206.09273) — `multi-modal`
+- 2022 — [HiTPR: Hierarchical Transformer for Place Recognition in Point Cloud](https://arxiv.org/abs/2204.05481) — `detection` `slam` `localization`
+- 2022 — [Interactive Object Segmentation in 3D Point Clouds](https://arxiv.org/abs/2204.07183) — `segmentation`
+- 2022 — [Learning to Estimate 3-D States of Deformable Linear Objects from Single-Frame Occluded Point Clouds](https://arxiv.org/abs/2210.01433)
+- 2022 — [PCB-RandNet: Rethinking Random Sampling for LIDAR Semantic Segmentation in Autonomous Driving Scene](https://arxiv.org/abs/2209.13797) — `segmentation` `autonomous driving` — [code](https://github.com/huixiancheng/PCB-RandNet)
+- 2022 — [Topologically Persistent Features-based Object Recognition in Cluttered Indoor Environments](https://arxiv.org/abs/2205.07479) — Workshop
+- 2021 — [A Divide-and-Merge Point Cloud Clustering Algorithm for LiDAR Panoptic Segmentation](https://arxiv.org/abs/2109.08224) — `segmentation` `autonomous driving` — [code](https://github.com/placeforyiming/Divide-and-Merge-LiDAR-Panoptic-Cluster)
+- 2021 — [CloudAAE: Learning 6D Object Pose Regression with On-line Data Synthesis on Point Clouds](https://arxiv.org/abs/2103.01977)
+- 2021 — [CPSeg: Cluster-free Panoptic Segmentation of 3D LiDAR Point Clouds](https://arxiv.org/abs/2111.01723) — `segmentation` `autonomous driving`
+- 2021 — [DC-Loc: Accurate Automotive Radar Based Metric Localization with Explicit Doppler Compensation](https://arxiv.org/abs/2112.14887) — `localization` `multi-modal`
+- 2021 — [Detecting and Mapping Trees in Unstructured Environments with a Stereo Camera and Pseudo-Lidar](https://arxiv.org/abs/2103.15967) — `detection`
+- 2021 — [ERASOR: Egocentric Ratio of Pseudo Occupancy-based Dynamic Object Removal for Static 3D Point Cloud Map Building](https://arxiv.org/abs/2103.04316)
+- 2021 — [Exploiting Local Geometry for Feature and Graph Construction for Better 3D Point Cloud Processing with Graph Neural Networks](https://arxiv.org/abs/2103.15226)
+- 2021 — [FGR: Frustum-Aware Geometric Reasoning for Weakly Supervised 3D Vehicle Detection](https://arxiv.org/abs/2105.07647) — `detection`
+- 2021 — [How to Build a Curb Dataset with LiDAR Data for Autonomous Driving](https://arxiv.org/abs/2110.03968) — `detection` `autonomous driving` `dataset`
+- 2021 — [Learning the Next Best View for 3D Point Clouds via Topological Features](https://arxiv.org/abs/2103.02789)
+- 2021 — [Learning Visual Shape Control of Novel 3D Deformable Objects from Partial-View Point Clouds](https://arxiv.org/abs/2110.04685)
+- 2021 — [Lifting 2D Object Locations to 3D by Discounting LiDAR Outliers across Objects and Views](https://arxiv.org/abs/2109.07945)
+- 2021 — [LiTAMIN2: Ultra Light LiDAR-based SLAM using Geometric Approximation applied with KL-Divergence](https://arxiv.org/abs/2103.00784) — `registration` `detection` `tracking` `slam`
+- 2021 — [LoGG3D-Net: Locally Guided Global Descriptor Learning for 3D Place Recognition](https://arxiv.org/abs/2109.08336) — `slam` `localization`
+- 2021 — [RGB Matters: Learning 7-DoF Grasp Poses on Monocular RGBD Images](https://arxiv.org/abs/2103.02184) — `monocular`
+- 2021 — [Robust Place Recognition using an Imaging Lidar](https://arxiv.org/abs/2103.02111) — `localization` `robustness`
+- 2021 — [SA-LOAM: Semantic-aided LiDAR SLAM with Loop Closure](https://arxiv.org/abs/2106.11516) — `segmentation` `detection` `slam`
+- 2021 — [Simple But Effective Redundant Odometry for Autonomous Vehicles](https://arxiv.org/abs/2105.11783) — `monocular` — [code](https://github.com/PRBonn/MutiverseOdometry)
+- 2021 — [Superpoint-guided Semi-supervised Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/2107.03601) — `segmentation`
+- 2021 — [Teat Pose Estimation via RGBD Segmentation for Automated Milking](https://arxiv.org/abs/2105.09843) — `segmentation` — Workshop
+- 2021 — [Volumetric Propagation Network: Stereo-LiDAR Fusion for Long-Range Depth Estimation](https://arxiv.org/abs/2103.12964)
+
+## RA-L <sub>(61)</sub>
+
+- 2026 — [C-ARC: Continuous-Adaptive Range Clustering for Non-Repetitive LiDAR Sensors](https://arxiv.org/abs/2606.18948)
+- 2026 — [EquiGQNet: Fast Grasp Quality Evaluation via Shared Equivariant Point Cloud Encoding](https://arxiv.org/abs/2609.07145)
+- 2026 — [Geometry-Aware Fisheye-LiDAR Fusion for Robust 3D Object Detection in Low-Overlap Setups](https://arxiv.org/abs/2606.08844) — `detection` `robustness`
+- 2026 — [Point Cloud Segmentation for Autonomous Clip Positioning in Laparoscopic Cholecystectomy on a Phantom](https://arxiv.org/abs/2606.12048) — `segmentation`
+- 2026 — [PointWalker: Mapless Quadruped Locomotion Directly From Raw LiDAR Point Clouds](https://arxiv.org/abs/2610.15548)
+- 2026 — [UAV-MapFusion: RTK-Aligned Uncertainty-Aware Coarse-to-Fine Multi-Session UAV Mapping](https://arxiv.org/abs/2606.26928)
+- 2025 — [Breaking the Static Assumption: A Dynamic-Aware LIO Framework Via Spatio-Temporal Normal Analysis](https://arxiv.org/abs/2510.22313) — `localization`
+- 2025 — [Have We Scene It All? Scene Graph-Aware Deep Point Cloud Compression](https://arxiv.org/abs/2510.08512) — `compression`
+- 2025 — [HOTFLoc++: End-to-End Hierarchical LiDAR Place Recognition, Re-Ranking, and 6-DoF Metric Localisation in Forests](https://arxiv.org/abs/2511.09170) — `localization`
+- 2025 — [PPL: Point Cloud Supervised Proprioceptive Locomotion Reinforcement Learning for Legged Robots in Crawl Spaces](https://arxiv.org/abs/2508.09950)
+- 2025 — [PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation](https://arxiv.org/abs/2507.04633) — `segmentation`
+- 2025 — [Rad-GS: Radar-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments](https://arxiv.org/abs/2511.16091) — `slam` `gaussian-splatting` `multi-modal`
+- 2025 — [Real-Time Adaptive Motion Planning via Point Cloud-Guided, Energy-Based Diffusion and Potential Fields](https://arxiv.org/abs/2507.09383) — `generation` `efficiency`
+- 2025 — [SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds](https://arxiv.org/abs/2507.06906) — `segmentation` `classification` `multi-modal`
+- 2024 — [EPIC: A Lightweight LiDAR-Based UAV Exploration Framework for Large-Scale Scenarios](https://arxiv.org/abs/2410.14203) — `efficiency` — [code](https://github.com/SYSU-STAR/EPIC)
+- 2024 — [Point Cloud Compression with Bits-back Coding](https://arxiv.org/abs/2410.18115) — `compression`
+- 2024 — [Point Cloud Structural Similarity-based Underwater Sonar Loop Detection](https://arxiv.org/abs/2409.14020) — `detection` `localization`
+- 2024 — [RANSAC Back to SOTA: A Two-stage Consensus Filtering for Real-time 3D Registration](https://arxiv.org/abs/2410.15682) — `registration` `efficiency`
+- 2023 — [CoFiI2P: Coarse-to-Fine Correspondences for Image-to-Point Cloud Registration](https://arxiv.org/abs/2309.14660) — `registration` `localization`
+- 2023 — [Concavity-Induced Distance for Unoriented Point Cloud Decomposition](https://arxiv.org/abs/2306.11051)
+- 2023 — [Cross-Modal Information-Guided Network using Contrastive Learning for Point Cloud Registration](https://arxiv.org/abs/2311.01202) — `registration` `self-supervised`
+- 2023 — [D2S: Representing sparse descriptors and 3D coordinates for camera relocalization](https://arxiv.org/abs/2307.15250) — `localization`
+- 2023 — [Energy-based Detection of Adverse Weather Effects in LiDAR Data](https://arxiv.org/abs/2305.16129) — `detection`
+- 2023 — [Incremental Multimodal Surface Mapping via Self-Organizing Gaussian Mixture Models](https://arxiv.org/abs/2309.10900) — `reconstruction` `multi-modal`
+- 2023 — [LCPR: A Multi-Scale Attention-Based LiDAR-Camera Fusion Network for Place Recognition](https://arxiv.org/abs/2311.03198) — `localization` `multi-modal`
+- 2023 — [Motion-to-Matching: A Mixed Paradigm for 3D Single Object Tracking](https://arxiv.org/abs/2308.11875) — `tracking`
+- 2023 — [Multi-Correlation Siamese Transformer Network with Dense Connection for 3D Single Object Tracking](https://arxiv.org/abs/2312.11051) — `tracking` `autonomous driving`
+- 2023 — [Pose-Graph Attentional Graph Neural Network for Lidar Place Recognition](https://arxiv.org/abs/2309.00168) — `localization`
+- 2023 — [RMS: Redundancy-Minimizing Point Cloud Sampling for Real-Time Pose Estimation](https://arxiv.org/abs/2312.07337) — `efficiency`
+- 2023 — [STTracker: Spatio-Temporal Tracker for 3D Single Object Tracking](https://arxiv.org/abs/2306.17440) — `tracking`
+- 2022 — [A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar](https://arxiv.org/abs/2204.04149) — `multi-modal` `robustness`
+- 2022 — [BIMS-PU: Bi-Directional and Multi-Scale Point Cloud Upsampling](https://arxiv.org/abs/2206.12648) — `upsampling`
+- 2022 — [Exploiting More Information in Sparse Point Cloud for 3D Single Object Tracking](https://arxiv.org/abs/2210.00519) — `tracking`
+- 2022 — [Gaussian Radar Transformer for Semantic Segmentation in Noisy Radar Data](https://arxiv.org/abs/2212.03690) — `segmentation` `multi-modal`
+- 2022 — [GMF: General Multimodal Fusion Framework for Correspondence Outlier Rejection](https://arxiv.org/abs/2211.00207) — `registration` `multi-modal`
+- 2022 — [GraffMatch: Global Matching of 3D Lines and Planes for Wide Baseline LiDAR Registration](https://arxiv.org/abs/2212.12745) — `registration` `detection`
+- 2022 — [Hyperbolic Cosine Transformer for LiDAR 3D Object Detection](https://arxiv.org/abs/2211.05580) — `detection`
+- 2022 — [Implicit and Efficient Point Cloud Completion for 3D Single Object Tracking](https://arxiv.org/abs/2209.00522) — `completion` `tracking` `localization` `efficiency`
+- 2022 — [PADLoC: LiDAR-Based Deep Loop Closure Detection and Registration Using Panoptic Attention](https://arxiv.org/abs/2209.09699) — `registration` `segmentation` `detection` `slam`
+- 2022 — [Point Cloud Change Detection With Stereo V-SLAM:Dataset, Metrics and Baseline](https://arxiv.org/abs/2207.00246) — `detection` `slam` `localization` `dataset`
+- 2022 — [Real-time Neural Dense Elevation Mapping for Urban Terrain with Uncertainty Estimations](https://arxiv.org/abs/2208.03467) — `reconstruction` `efficiency`
+- 2022 — [Real3D-Aug: Point Cloud Augmentation by Placing Real Objects with Occlusion Handling for 3D Detection and Segmentation](https://arxiv.org/abs/2206.07634) — `segmentation` `detection`
+- 2022 — [Receding Moving Object Segmentation in 3D LiDAR Data Using Sparse 4D Convolutions](https://arxiv.org/abs/2206.04129) — `segmentation`
+- 2022 — [Spectral Geometric Verification: Re-Ranking Point Cloud Retrieval for Metric Localization](https://arxiv.org/abs/2210.04432) — `localization`
+- 2022 — [SphereVLAD++: Attention-based and Signal-enhanced Viewpoint Invariant Descriptor](https://arxiv.org/abs/2207.02958) — `localization` `autonomous driving`
+- 2022 — [Teachers in concordance for pseudo-labeling of 3D sequential data](https://arxiv.org/abs/2207.06079) — `autonomous driving`
+- 2022 — [TRAVEL: Traversable Ground and Above-Ground Object Segmentation Using Graph Representation of 3D LiDAR Scans](https://arxiv.org/abs/2206.03190) — `segmentation`
+- 2022 — [Uncertainty Estimation for 3D Dense Prediction via Cross-Point Embeddings](https://arxiv.org/abs/2209.14602)
+- 2022 — [You Only Label Once: 3D Box Adaptation from Point Cloud to Image via Semi-Supervised Learning](https://arxiv.org/abs/2211.09302) — `detection`
+- 2021 — [BVMatch: Lidar-based Place Recognition Using Bird's-eye View Images](https://arxiv.org/abs/2109.00317) — `localization`
+- 2021 — [Cross-Modal Contrastive Learning of Representations for Navigation using Lightweight, Low-Cost Millimeter Wave Radar for Adverse Environmental Conditions](https://arxiv.org/abs/2101.03525) — `self-supervised` `multi-modal` `efficiency`
+- 2021 — [Direct LiDAR Odometry: Fast Localization with Dense Point Clouds](https://arxiv.org/abs/2110.00605) — `localization`
+- 2021 — [Efficient LiDAR Odometry for Autonomous Driving](https://arxiv.org/abs/2104.10879) — `registration` `localization` `autonomous driving` `efficiency`
+- 2021 — [Fast and Robust Registration of Partially Overlapping Point Clouds](https://arxiv.org/abs/2112.09922) — `registration` `slam` `robustness`
+- 2021 — [ICM-3D: Instantiated Category Modeling for 3D Instance Segmentation](https://arxiv.org/abs/2108.11771) — `segmentation`
+- 2021 — [iCurb: Imitation Learning-based Detection of Road Curbs using Aerial Images for Autonomous Driving](https://arxiv.org/abs/2103.17118) — `detection` `autonomous driving`
+- 2021 — [Loop closure detection using local 3D deep descriptors](https://arxiv.org/abs/2111.00440) — `detection` `localization`
+- 2021 — [LRGNet: Learnable Region Growing for Class-Agnostic Point Cloud Segmentation](https://arxiv.org/abs/2103.09160) — `segmentation`
+- 2021 — [RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration using Invariant Compatibility](https://arxiv.org/abs/2104.09133) — `registration` `robustness`
+- 2021 — [Stein ICP for Uncertainty Estimation in Point Cloud Matching](https://arxiv.org/abs/2106.03287)
+- 2021 — [TriVoC: Efficient Voting-based Consensus Maximization for Robust Point Cloud Registration with Extreme Outlier Ratios](https://arxiv.org/abs/2111.00657) — `registration` `robustness` `efficiency`
+
+## WACV <sub>(41)</sub>
+
+- 2026 — [3D-BBDA: Backpropagation-Free Black-Box Domain Adaptation for Robust 3D Point Cloud Recognition](https://arxiv.org/abs/2611.03588) — `domain adaptation` `robustness`
+- 2026 — [Do We Still Need Rotation-Invariant Architectures? A Statistical Robustness Benchmark for Point Cloud Classification](https://arxiv.org/abs/2611.03952) — `classification` `robustness` `dataset`
+- 2026 — [Embedding Predictive Adaptation and Refinement for Multi-Modal Industrial Anomaly Detection](https://arxiv.org/abs/2611.09521) — `detection` `multi-modal` `anomaly detection`
+- 2026 — [GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243) — `reconstruction` `monocular`
+- 2026 — [RadPose: ISAC-based RF 3D Human Pose Estimation](https://arxiv.org/abs/2611.01400)
+- 2026 — [Recovering Black-Box Point Cloud Models from Pose Shifts via Derivative-Free Optimization](https://arxiv.org/abs/2610.34850)
+- 2026 — [Rohbau3D-Semantics: Dense Semantic and Instance Labels for Point Clouds of Indoor Shell Construction Scenes](https://arxiv.org/abs/2611.06180)
+- 2026 — [SAGE: Semantic-Augmented Geometric Experts for Point Cloud Registration](https://arxiv.org/abs/2610.36658) — `registration` `reconstruction`
+- 2026 — [SATOR: Backpropagation-Free 3D Test-Time Adaptation via Sample-Adaptive Token Routing](https://arxiv.org/abs/2610.21367)
+- 2026 — [VaViT: Vanilla ViT for Automotive Point Cloud Semantic Segmentation](https://arxiv.org/abs/2605.31177) — `segmentation`
+- 2026 — [You Only Flow Once: Calibrated and Real-Time Radar Pose Estimation with Multi-Hypothesis Normalizing Flows](https://arxiv.org/abs/2608.09579) — `denoising` `multi-modal` `efficiency`
+- 2025 — [CVP: Central-Peripheral Vision-Inspired Multimodal Model for Spatial Reasoning](https://arxiv.org/abs/2512.08135) — `multi-modal`
+- 2025 — [GFT: Graph Feature Tuning for Efficient Point Cloud Analysis](https://arxiv.org/abs/2511.10799) — `efficiency`
+- 2025 — [MEGA-PCC: A Mamba-based Efficient Approach for Joint Geometry and Attribute Point Cloud Compression](https://arxiv.org/abs/2512.22463) — `compression` `efficiency`
+- 2025 — [MVAT: Multi-View Aware Teacher for Weakly Supervised 3D Object Detection](https://arxiv.org/abs/2509.07507) — `detection`
+- 2025 — [PALMS+: Modular Image-Based Floor Plan Localization Leveraging Depth Foundation Model](https://arxiv.org/abs/2511.09724) — `localization` `pre-training`
+- 2025 — [Point2Pose: A Generative Framework for 3D Human Pose Estimation with Multi-View Point Cloud Dataset](https://arxiv.org/abs/2512.10321) — `generation` `dataset`
+- 2025 — [SDT-6D: Fully Sparse Depth-Transformer for Staged End-to-End 6D Pose Estimation in Industrial Multi-View Bin Picking](https://arxiv.org/abs/2512.08430)
+- 2025 — [ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance](https://arxiv.org/abs/2511.22908) — `registration` `robustness`
+- 2024 — [Continual Learning in 3D Point Clouds: Employing Spectral Techniques for Exemplar Selection](https://arxiv.org/abs/2409.08388) — `classification`
+- 2024 — [EdgeGaussians -- 3D Edge Mapping via Gaussian Splatting](https://arxiv.org/abs/2409.12886) — `gaussian-splatting`
+- 2024 — [PocoLoco: A Point Cloud Diffusion Model of Human Shape in Loose Clothing](https://arxiv.org/abs/2411.04249) — `generation`
+- 2024 — [Point-GN: A Non-Parametric Network Using Gaussian Positional Encoding for Point Cloud Classification](https://arxiv.org/abs/2412.03056) — `classification`
+- 2024 — [ReFu: Recursive Fusion for Exemplar-Free 3D Class-Incremental Learning](https://arxiv.org/abs/2409.12326)
+- 2024 — [Test-Time Adaptation of 3D Point Clouds via Denoising Diffusion Models](https://arxiv.org/abs/2411.14495) — `denoising`
+- 2024 — [Transientangelo: Few-Viewpoint Surface Reconstruction Using Single-Photon Lidar](https://arxiv.org/abs/2408.12191) — `reconstruction`
+- 2024 — [XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration](https://arxiv.org/abs/2411.18377) — `registration` `tracking` `multi-modal`
+- 2024 — [ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset](https://arxiv.org/abs/2411.04865) — `segmentation` `dataset`
+- 2023 — [Registered and Segmented Deformable Object Reconstruction from a Single View Point Cloud](https://arxiv.org/abs/2311.07357) — `registration` `reconstruction`
+- 2023 — [U3DS$^3$: Unsupervised 3D Semantic Scene Segmentation](https://arxiv.org/abs/2311.06018) — `segmentation`
+- 2022 — [Centroid Distance Keypoint Detector for Colored Point Clouds](https://arxiv.org/abs/2210.01298) — `detection`
+- 2022 — [GaIA: Graphical Information Gain based Attention Network for Weakly Supervised Point Cloud Semantic Segmentation](https://arxiv.org/abs/2210.01558) — `segmentation`
+- 2022 — [Li3DeTr: A LiDAR based 3D Detection Transformer](https://arxiv.org/abs/2210.15365) — `detection` `autonomous driving`
+- 2022 — [MAELi: Masked Autoencoder for Large-Scale LiDAR Point Clouds](https://arxiv.org/abs/2212.07207) — `self-supervised`
+- 2022 — [MonoDVPS: A Self-Supervised Monocular Depth Estimation Approach to Depth-aware Video Panoptic Segmentation](https://arxiv.org/abs/2210.07577) — `segmentation` `self-supervised` `monocular`
+- 2022 — [Overlap-guided Gaussian Mixture Models for Point Cloud Registration](https://arxiv.org/abs/2210.09836) — `registration`
+- 2022 — [PointInverter: Point Cloud Reconstruction and Editing via a Generative Model with Shape Priors](https://arxiv.org/abs/2211.08702) — `generation` `reconstruction`
+- 2022 — [PointNeuron: 3D Neuron Reconstruction via Geometry and Topology Learning of Point Clouds](https://arxiv.org/abs/2210.08305) — `segmentation` `reconstruction`
+- 2022 — [Self-Distillation for Unsupervised 3D Domain Adaptation](https://arxiv.org/abs/2210.08226) — `classification` `domain adaptation`
+- 2021 — [EllipsoidNet: Ellipsoid Representation for Point Cloud Classification and Segmentation](https://arxiv.org/abs/2103.02517) — `segmentation` `classification`
+- 2021 — [Geometry-Aware Hierarchical Bayesian Learning on Manifolds](https://arxiv.org/abs/2111.00184) — `classification`
+
+## BMVC <sub>(32)</sub>
+
+- 2026 — [3D-MRL: Nested Multimodal 3D Representations via Matryoshka Representation Learning](https://arxiv.org/abs/2608.29285) — `open-vocabulary` `multi-modal`
+- 2026 — [FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence](https://arxiv.org/abs/2608.07937) — `gaussian-splatting` — [code](https://github.com/amir-sbg/FlexSplat)
+- 2026 — [ForestMamba: Sparse Mamba with Geometry-guided Queries for 3D Forest Point Cloud Segmentation](https://arxiv.org/abs/2606.01549) — `segmentation`
+- 2026 — [GEKey: Learning Geodesic Eccentric 3D Keypoints via Self-Supervision](https://arxiv.org/abs/2611.07677) — `detection`
+- 2026 — [Hyper^2: Unleashing Hyperbolic Geometry's Full Potential via Dual-Space Consistency](https://arxiv.org/abs/2608.22238) — `completion`
+- 2026 — [ReFineR: Single image to dense point cloud registration at pixel level with point splatting](https://arxiv.org/abs/2611.16583) — `registration` `detection`
+- 2025 — [Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion](https://arxiv.org/abs/2512.06882) — `segmentation`
+- 2025 — [Improving Multimodal Distillation for 3D Semantic Segmentation under Domain Shift](https://arxiv.org/abs/2511.17455) — `segmentation` `multi-modal`
+- 2024 — [3D Point Cloud Network Pruning: When Some Weights Do not Matter](https://arxiv.org/abs/2408.14601) — `efficiency`
+- 2024 — [LOGen: Toward Lidar Object Generation by Point Diffusion](https://arxiv.org/abs/2412.07385) — `generation` `autonomous driving`
+- 2024 — [TraIL-Det: Transformation-Invariant Local Feature Networks for 3D LiDAR Object Detection with Unsupervised Pre-Training](https://arxiv.org/abs/2408.13902) — `detection` `autonomous driving` `pre-training` — [code](https://github.com/l1997i/rapid_seg)
+- 2024 — [Unsupervised Point Cloud Registration with Self-Distillation](https://arxiv.org/abs/2409.07558) — `registration` `autonomous driving`
+- 2024 — [Vision-Language Guidance for LiDAR-based Unsupervised 3D Object Detection](https://arxiv.org/abs/2408.03790) — `detection` `autonomous driving` `vision-language`
+- 2023 — [3D-QAE: Fully Quantum Auto-Encoding of 3D Point Clouds](https://arxiv.org/abs/2311.05604)
+- 2023 — [A-Scan2BIM: Assistive Scan to Building Information Modeling](https://arxiv.org/abs/2311.18166)
+- 2023 — [Towards Robust Few-shot Point Cloud Semantic Segmentation](https://arxiv.org/abs/2309.11228) — `segmentation` `robustness`
+- 2022 — [APSNet: Attention Based Point Cloud Sampling](https://arxiv.org/abs/2210.05638)
+- 2022 — [Challenging the Universal Representation of Deep Models for 3D Point Cloud Registration](https://arxiv.org/abs/2211.16301) — `registration` — Workshop
+- 2022 — [DA-CIL: Towards Domain Adaptive Class-Incremental 3D Object Detection](https://arxiv.org/abs/2212.02057) — `detection`
+- 2022 — [Data Augmentation-free Unsupervised Learning for 3D Point Cloud Understanding](https://arxiv.org/abs/2210.02798)
+- 2022 — [Energy-Based Residual Latent Transport for Unsupervised Point Cloud Completion](https://arxiv.org/abs/2211.06820) — `completion` `generation`
+- 2022 — [EpipolarNVS: leveraging on Epipolar geometry for single-image Novel View Synthesis](https://arxiv.org/abs/2210.13077)
+- 2021 — [Cascading Feature Extraction for Fast Point Cloud Registration](https://arxiv.org/abs/2110.12204) — `registration`
+- 2021 — [DeepUME: Learning the Universal Manifold Embedding for Robust Point Cloud Registration](https://arxiv.org/abs/2112.09938) — `registration` `robustness`
+- 2021 — [FAST3D: Flow-Aware Self-Training for 3D Object Detectors](https://arxiv.org/abs/2110.09355) — `autonomous driving`
+- 2021 — [Local and Global Point Cloud Reconstruction for 3D Hand Pose Estimation](https://arxiv.org/abs/2112.06389) — `reconstruction`
+- 2021 — [Multimodal Semi-Supervised Learning for 3D Objects](https://arxiv.org/abs/2110.11601) — `classification` `multi-modal`
+- 2021 — [On Automatic Data Augmentation for 3D Point Cloud Classification](https://arxiv.org/abs/2112.06029) — `classification` `generation`
+- 2021 — [POEM: 1-bit Point-wise Operations based on Expectation-Maximization for Efficient Point Cloud Processing](https://arxiv.org/abs/2111.13386) — `efficiency`
+- 2021 — [Self-Supervised Point Cloud Completion via Inpainting](https://arxiv.org/abs/2111.10701) — `completion` `tracking` `self-supervised`
+- 2021 — [Two Heads are Better than One: Geometric-Latent Attention for Point Cloud Classification and Segmentation](https://arxiv.org/abs/2111.00231) — `segmentation` `classification`
+- 2021 — [VIN: Voxel-based Implicit Network for Joint 3D Object Detection and Segmentation for Lidars](https://arxiv.org/abs/2107.02980) — `segmentation` `detection`
+
+## ACM MM <sub>(31)</sub>
+
+- 2026 — [Leveraging 2D Foundation Priors for Generalized Category Discovery under Test-Time Adaptation in 3D LiDAR Segmentation](https://arxiv.org/abs/2611.01682) — `segmentation` `autonomous driving`
+- 2026 — [MMCoT$^3$: Empowering 3D Scene Understanding with 3D-Text Interleaved Multi-Modal Chain-of-Thought Reasoning](https://arxiv.org/abs/2611.01676) — `multi-modal`
+- 2026 — [PointQ-Bench: Benchmarking Diagnostic and Interpretable Point Cloud Quality Assessment](https://arxiv.org/abs/2605.28241) — `reconstruction`
+- 2026 — [ProjFormer: Point Cloud Completion via Geometric-Projective Transformer and Cross-Modal Semantic Constraints](https://arxiv.org/abs/2608.15104) — `completion`
+- 2026 — [SeqAlign3DVG: A Sequence-Aligned Benchmark and Voxel Reasoning Framework for 3D Visual Grounding](https://arxiv.org/abs/2608.30451) — `dataset`
+- 2026 — [VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction](https://arxiv.org/abs/2608.15260) — `reconstruction` — [code](https://github.com/WZ-CS/VGGT-Align)
+- 2025 — [B4DL: A Benchmark for 4D LiDAR LLM in Spatio-Temporal Understanding](https://arxiv.org/abs/2508.05269) — `vision-language` `dataset`
+- 2025 — [Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from Vector Drawings](https://arxiv.org/abs/2508.18733) — `generation`
+- 2025 — [Enhancing Pseudo-Boxes via Data-Level LiDAR-Camera Fusion for Unsupervised 3D Object Detection](https://arxiv.org/abs/2508.20530) — `detection` `generation` `multi-modal`
+- 2025 — [Graph-Guided Dual-Level Augmentation for 3D Scene Segmentation](https://arxiv.org/abs/2507.22668) — `segmentation`
+- 2025 — [Investigating Domain Gaps for Indoor 3D Object Detection](https://arxiv.org/abs/2508.17439) — `detection`
+- 2025 — [RWKV-PCSSC: Exploring RWKV Model for Point Cloud Semantic Scene Completion](https://arxiv.org/abs/2511.09878) — `completion` `occupancy prediction`
+- 2024 — [On-the-fly Point Feature Representation for Point Clouds Analysis](https://arxiv.org/abs/2407.21335)
+- 2024 — [Positional Prompt Tuning for Efficient 3D Representation Learning](https://arxiv.org/abs/2408.11567) — `efficiency`
+- 2024 — [RefMask3D: Language-Guided Transformer for 3D Referring Segmentation](https://arxiv.org/abs/2407.18244) — `segmentation` — [code](https://github.com/heshuting555/RefMask3D)
+- 2024 — [Towards Practical Human Motion Prediction with LiDAR Point Clouds](https://arxiv.org/abs/2408.08202)
+- 2023 — [Boosting Few-shot 3D Point Cloud Segmentation via Query-Guided Enhancement](https://arxiv.org/abs/2308.03177) — `segmentation`
+- 2023 — [Context-Aware Indoor Point Cloud Object Generation through User Instructions](https://arxiv.org/abs/2311.16501) — `generation`
+- 2023 — [MSECNet: Accurate and Robust Normal Estimation for 3D Point Clouds by Multi-Scale Edge Conditioning](https://arxiv.org/abs/2308.02237) — `reconstruction` `normal estimation` `robustness`
+- 2023 — [Screen-based 3D Subjective Experiment Software](https://arxiv.org/abs/2308.03698)
+- 2023 — [SUG: Single-dataset Unified Generalization for 3D Point Cloud Classification](https://arxiv.org/abs/2305.09160) — `classification` `dataset` — [code](https://github.com/SiyuanHuang95/SUG)
+- 2022 — [Ada3Diff: Defending against 3D Adversarial Point Clouds via Adaptive Diffusion](https://arxiv.org/abs/2211.16247) — `denoising` `autonomous driving` `robustness`
+- 2022 — [Boosting Single-Frame 3D Object Detection by Simulating Multi-Frame Point Clouds](https://arxiv.org/abs/2207.01030) — `detection`
+- 2022 — [GRASP-Net: Geometric Residual Analysis and Synthesis for Point Cloud Compression](https://arxiv.org/abs/2209.04401) — `compression` — Workshop
+- 2022 — [Zero-shot point cloud segmentation by transferring geometric primitives](https://arxiv.org/abs/2210.09923) — `segmentation` `open-vocabulary`
+- 2021 — [Neighbor-Vote: Improving Monocular 3D Object Detection through Neighbor Distance Voting](https://arxiv.org/abs/2107.02493) — `detection` `generation` `autonomous driving` `monocular`
+- 2021 — [Patch-Based Deep Autoencoder for Point Cloud Geometry Compression](https://arxiv.org/abs/2110.09109) — `reconstruction` `compression`
+- 2021 — [PC$^2$-PU: Patch Correlation and Point Correlation for Effective Point Cloud Upsampling](https://arxiv.org/abs/2109.09337) — `upsampling`
+- 2021 — [Self-Contrastive Learning with Hard Negative Sampling for Self-supervised Point Cloud Learning](https://arxiv.org/abs/2107.01886) — `self-supervised`
+- 2021 — [SSPU-Net: Self-Supervised Point Cloud Upsampling via Differentiable Rendering](https://arxiv.org/abs/2108.00454) — `self-supervised` `upsampling`
+- 2021 — [You Only Hypothesize Once: Point Cloud Registration with Rotation-equivariant Descriptors](https://arxiv.org/abs/2109.00182) — `registration`
+
+## 3DV <sub>(26)</sub>
+
+- 2026 — [Hierarchical Space Partition for Surface Reconstruction](https://arxiv.org/abs/2606.04891) — `reconstruction`
+- 2025 — [LOSC: LiDAR Open-voc Segmentation Consolidator](https://arxiv.org/abs/2507.07605) — `segmentation` `open-vocabulary`
+- 2025 — [Rethinking Metrics and Diffusion Architecture for 3D Point Cloud Generation](https://arxiv.org/abs/2511.05308) — `generation`
+- 2025 — [Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction](https://arxiv.org/abs/2511.04864) — `reconstruction` `self-supervised`
+- 2023 — [BEVContrast: Self-Supervision in BEV Space for Automotive Lidar Point Clouds](https://arxiv.org/abs/2310.17281) — `BEV`
+- 2023 — [Mixing-Denoising Generalizable Occupancy Networks](https://arxiv.org/abs/2311.12125) — `reconstruction` `denoising`
+- 2023 — [Test-Time Augmentation for 3D Point Cloud Classification and Segmentation](https://arxiv.org/abs/2311.13152) — `segmentation` `classification`
+- 2023 — [ZeroPS: High-quality Cross-modal Knowledge Transfer for Zero-Shot 3D Part Segmentation](https://arxiv.org/abs/2311.14262) — `segmentation` `open-vocabulary`
+- 2022 — [Arbitrary Point Cloud Upsampling with Spherical Mixture of Gaussians](https://arxiv.org/abs/2208.05274) — `upsampling`
+- 2022 — [Efficient Human Pose Estimation via 3D Event Point Cloud](https://arxiv.org/abs/2206.04511) — `efficiency` — [code](https://github.com/MasterHow/EventPointPose)
+- 2022 — [Neural Point-based Shape Modeling of Humans in Challenging Clothing](https://arxiv.org/abs/2209.06814)
+- 2022 — [Pix4Point: Image Pretrained Standard Transformers for 3D Point Cloud Understanding](https://arxiv.org/abs/2208.12259) — `pre-training`
+- 2022 — [SVNet: Where SO(3) Equivariance Meets Binarization on Point Cloud Representation](https://arxiv.org/abs/2209.05924) — `autonomous driving`
+- 2021 — [3D Point Cloud Registration with Multi-Scale Architecture and Unsupervised Transfer Learning](https://arxiv.org/abs/2103.14533) — `registration`
+- 2021 — [AA3DNet: Attention Augmented Real Time 3D Object Detection](https://arxiv.org/abs/2107.12137) — `detection`
+- 2021 — [DeepBBS: Deep Best Buddies for Point Cloud Registration](https://arxiv.org/abs/2110.03016) — `registration`
+- 2021 — [DPC: Unsupervised Deep Point Correspondence via Cross and Self Construction](https://arxiv.org/abs/2110.08636)
+- 2021 — [DSP-SLAM: Object Oriented SLAM with Deep Shape Priors](https://arxiv.org/abs/2108.09481) — `slam`
+- 2021 — [Generative Zero-Shot Learning for Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/2108.06230) — `segmentation` `classification` `generation` `open-vocabulary` — [code](https://github.com/valeoai/3DGenZ)
+- 2021 — [Investigating Attention Mechanism in 3D Point Cloud Object Detection](https://arxiv.org/abs/2108.00620) — `detection` `autonomous driving`
+- 2021 — [LiDAR-based Recurrent 3D Semantic Segmentation with Temporal Memory Alignment](https://arxiv.org/abs/2103.02263) — `segmentation`
+- 2021 — [NeeDrop: Self-supervised Shape Representation from Sparse Point Clouds using Needle Dropping](https://arxiv.org/abs/2111.15207) — `self-supervised`
+- 2021 — [Occlusion Guided Self-supervised Scene Flow Estimation on 3D Point Clouds](https://arxiv.org/abs/2104.04724) — `self-supervised` `scene flow` `autonomous driving`
+- 2021 — [Point Discriminative Learning for Data-efficient 3D Point Cloud Analysis](https://arxiv.org/abs/2108.02104) — `classification` `efficiency`
+- 2021 — [RefRec: Pseudo-labels Refinement via Shape Reconstruction for Unsupervised 3D Domain Adaptation](https://arxiv.org/abs/2110.11036) — `classification` `reconstruction` `domain adaptation` — [code](https://github.com/CVLAB-Unibo/RefRec)
+- 2021 — [Representing Shape Collections with Alignment-Aware Linear Models](https://arxiv.org/abs/2109.01605)
+
+## ISPRS <sub>(24)</sub>
+
+- 2026 — [3D Point Cloud from Close-Range Photogrammetry for Defect Characterisation of Rubberised Concrete](https://arxiv.org/abs/2608.21468) — `anomaly detection`
+- 2026 — [DeepTopoClustering: Unsupervised Derivation of Surface Process Taxonomy from 4D Point Clouds for Topographic Monitoring](https://arxiv.org/abs/2610.09860)
+- 2026 — [Structured-Li-GS: Structured 3D Gaussians Splatting with LiDAR Incorporation and Spatial Constraints](https://arxiv.org/abs/2606.27509) — `slam` `gaussian-splatting`
+- 2025 — [L2M-Reg: Building-level Uncertainty-aware Registration of Outdoor LiDAR Point Clouds and Semantic 3D City Models](https://arxiv.org/abs/2509.16832) — `registration` `detection`
+- 2025 — [RoofSeg: An edge-aware transformer-based network for end-to-end roof plane segmentation](https://arxiv.org/abs/2508.19003) — `segmentation` `detection` `reconstruction`
+- 2025 — [Uncertainty Quantification Framework for Aerial and UAV Photogrammetry through Error Propagation](https://arxiv.org/abs/2507.13486)
+- 2024 — [ARSGaussian: 3D Gaussian Splatting with LiDAR for Aerial Remote Sensing Novel View Synthesis](https://arxiv.org/abs/2412.18380) — `gaussian-splatting`
+- 2023 — [A boundary-aware point clustering approach in Euclidean and embedding spaces for roof plane segmentation](https://arxiv.org/abs/2309.03722) — `segmentation` `reconstruction`
+- 2023 — [A Critical Analysis of Internal Reliability for Uncertainty Quantification of Dense Image Matching in Multi-view Stereo](https://arxiv.org/abs/2309.09379)
+- 2023 — [DC3DCD: unsupervised learning for multiclass 3D point cloud change detection](https://arxiv.org/abs/2305.05421) — `detection`
+- 2023 — [Deep Unsupervised Learning for 3D ALS Point Cloud Change Detection](https://arxiv.org/abs/2305.03529) — `detection`
+- 2023 — [JSMNet Improving Indoor Point Cloud Semantic and Instance Segmentation through Self-Attention and Multiscale](https://arxiv.org/abs/2309.07425) — `segmentation`
+- 2023 — [Nothing Stands Still: A Spatiotemporal Benchmark on 3D Point Cloud Registration Under Large Geometric and Temporal Change](https://arxiv.org/abs/2311.09346) — `registration` `dataset`
+- 2023 — [PolyGNN: Polyhedron-based Graph Neural Network for 3D Building Reconstruction from Point Clouds](https://arxiv.org/abs/2307.08636) — `classification` `reconstruction`
+- 2023 — [Research on self-cross transformer model of point cloud change detecter](https://arxiv.org/abs/2309.07444)
+- 2023 — [SCP: Scene Completion Pre-training for 3D Object Detection](https://arxiv.org/abs/2309.06199) — `detection` `completion` `autonomous driving` `pre-training`
+- 2022 — [Beyond single receptive field: A receptive field fusion-and-stratification network for airborne laser scanning point cloud classification](https://arxiv.org/abs/2207.10278) — `classification`
+- 2022 — [Building Change Detection using Multi-Temporal Airborne LiDAR Data](https://arxiv.org/abs/2204.12535) — `detection`
+- 2022 — [CroCo: Cross-Modal Contrastive learning for localization of Earth Observation data](https://arxiv.org/abs/2204.07052) — `localization` `self-supervised`
+- 2022 — [Graph-theoretical approach to robust 3D normal extraction of LiDAR data](https://arxiv.org/abs/2205.11460) — `robustness`
+- 2021 — [3D Surface Reconstruction From Multi-Date Satellite Images](https://arxiv.org/abs/2102.02502) — `reconstruction`
+- 2021 — [GlobalMatch: Registration of Forest Terrestrial Point Clouds by Global Matching of Relative Stem Positions](https://arxiv.org/abs/2112.11121) — `registration`
+- 2021 — [Reconstructing Compact Building Models from Point Clouds Using Deep Implicit Fields](https://arxiv.org/abs/2112.13142) — `reconstruction`
+- 2021 — [Weakly Supervised Pseudo-Label assisted Learning for ALS Point Cloud Semantic Segmentation](https://arxiv.org/abs/2105.01919) — `segmentation`
+
+## PR <sub>(23)</sub>
+
+- 2026 — [Loss Landscape Topology Reveals Why Simple Baselines are Competitive at 3D Point Cloud Segmentation Under Class Imbalance](https://arxiv.org/abs/2607.21089) — `segmentation`
+- 2026 — [Physics-inspired Pseudo Anomaly Generation and Prototype Feature Guidance for 3D Anomaly Detection](https://arxiv.org/abs/2607.10544) — `detection` `generation` `anomaly detection`
+- 2025 — [A Lightweight 3D Anomaly Detection Method with Rotationally Invariant Features](https://arxiv.org/abs/2511.13115) — `detection` `anomaly detection` `efficiency`
+- 2025 — [Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet](https://arxiv.org/abs/2509.05198) — `classification` `autonomous driving`
+- 2025 — [PointSlice: Accurate and Efficient Slice-Based Representation for 3D Object Detection from Point Clouds](https://arxiv.org/abs/2509.01487) — `segmentation` `detection` `autonomous driving` `efficiency`
+- 2025 — [SFGFusion: Surface Fitting Guided 3D Object Detection with 4D Radar and Camera Fusion](https://arxiv.org/abs/2510.19215) — `detection` `autonomous driving` `multi-modal`
+- 2025 — [Unlocking 3D Affordance Segmentation with 2D Semantic Knowledge](https://arxiv.org/abs/2510.08316) — `segmentation`
+- 2024 — [MFP3D: Monocular Food Portion Estimation Leveraging 3D Point Clouds](https://arxiv.org/abs/2411.10492) — `tracking` `monocular` — Workshop
+- 2023 — [Advancements in Point Cloud Data Augmentation for Deep Learning: A Survey](https://arxiv.org/abs/2308.12113) — `segmentation` `detection` `classification`
+- 2023 — [Correlation Pyramid Network for 3D Single Object Tracking](https://arxiv.org/abs/2305.09195) — `tracking` `autonomous driving`
+- 2023 — [Cross-modal and Cross-domain Knowledge Transfer for Label-free 3D Segmentation](https://arxiv.org/abs/2309.10649) — `segmentation`
+- 2023 — [Learnable Chamfer Distance for Point Cloud Reconstruction](https://arxiv.org/abs/2312.16582) — `reconstruction`
+- 2023 — [MarS3D: A Plug-and-Play Motion-Aware Model for Semantic Segmentation on Multi-Scan 3D Point Clouds](https://arxiv.org/abs/2307.09316) — `segmentation`
+- 2023 — [Rotation-Invariant Completion Network](https://arxiv.org/abs/2308.11979) — `completion`
+- 2022 — [Composite Convolution: a Flexible Operator for Deep Learning on 3D Point Clouds](https://arxiv.org/abs/2209.11796) — `compression`
+- 2022 — [Global Hierarchical Attention for 3D Point Cloud Analysis](https://arxiv.org/abs/2208.03791)
+- 2022 — [NeuralMeshing: Differentiable Meshing of Implicit Neural Representations](https://arxiv.org/abs/2210.02382) — `generation`
+- 2022 — [One-Shot Neural Fields for 3D Object Understanding](https://arxiv.org/abs/2210.12126) — `reconstruction` — Workshop
+- 2021 — [BADet: Boundary-Aware 3D Object Detection from Point Clouds](https://arxiv.org/abs/2104.10330) — `detection`
+- 2021 — [Continuous Conditional Random Field Convolution for Point Cloud Segmentation](https://arxiv.org/abs/2110.06085) — `segmentation`
+- 2021 — [GSIP: Green Semantic Segmentation of Large-Scale Indoor Point Clouds](https://arxiv.org/abs/2109.11835) — `segmentation`
+- 2021 — [MKConv: Multidimensional Feature Representation for Point Cloud Analysis](https://arxiv.org/abs/2107.12655)
+- 2021 — [Quantifying point cloud realism through adversarially learned latent representations](https://arxiv.org/abs/2109.11775) — `classification` `generation`
+
+## ICLR <sub>(20)</sub>
+
+- 2026 — [Point-Focused Attention Meets Context-Scan State Space: Robust Biological Visual Perception for Point Cloud Representation](https://arxiv.org/abs/2610.11342) — `robustness`
+- 2024 — [GaussianAnything: Interactive Point Cloud Flow Matching For 3D Object Generation](https://arxiv.org/abs/2411.08033) — `generation`
+- 2024 — [Matérn Kernels for Tunable Implicit Surface Reconstruction](https://arxiv.org/abs/2409.15466) — `reconstruction`
+- 2024 — [MIRACLE3D: Memory-efficient Integrated Robust Approach for Continual Learning on Point Clouds via Shape Model Construction](https://arxiv.org/abs/2410.06418) — `classification` `robustness` `efficiency`
+- 2024 — [Multimodality Helps Few-shot 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2410.22489) — `segmentation`
+- 2023 — [AGILE3D: Attention Guided Interactive Multi-object 3D Segmentation](https://arxiv.org/abs/2306.00977) — `segmentation` `classification`
+- 2023 — [FreeReg: Image-to-Point Cloud Registration Leveraging Pretrained Diffusion Models and Monocular Depth Estimators](https://arxiv.org/abs/2310.03420) — `registration` `monocular` `pre-training`
+- 2023 — [Multi-View Representation is What You Need for Point-Cloud Pre-Training](https://arxiv.org/abs/2306.02558) — `pre-training`
+- 2023 — [Point2SSM: Learning Morphological Variations of Anatomies from Point Cloud](https://arxiv.org/abs/2305.14486)
+- 2023 — [Pre-Training LiDAR-Based 3D Object Detectors Through Colorization](https://arxiv.org/abs/2310.14592) — `detection` `autonomous driving` `pre-training`
+- 2023 — [SpikePoint: An Efficient Point-based Spiking Neural Network for Event Cameras Action Recognition](https://arxiv.org/abs/2310.07189) — `efficiency`
+- 2023 — [ZeroFlow: Scalable Scene Flow via Distillation](https://arxiv.org/abs/2305.10424) — `detection` `scene flow`
+- 2022 — [Equivariant Descriptor Fields: SE(3)-Equivariant Energy-Based Models for End-to-End Visual Robotic Manipulation Learning](https://arxiv.org/abs/2206.08321)
+- 2022 — [Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception](https://arxiv.org/abs/2203.11405) — `detection` `autonomous driving` — [code](https://github.com/YurongYou/Hindsight)
+- 2022 — [Interpretable Geometric Deep Learning via Learnable Randomness Injection](https://arxiv.org/abs/2210.16966)
+- 2022 — [Representation-Agnostic Shape Fields](https://arxiv.org/abs/2203.10259) — [code](https://github.com/seanywang0408/RASF)
+- 2021 — [A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion](https://arxiv.org/abs/2112.03530) — `completion` — [code](https://github.com/ZhaoyangLyu/Point_Diffusion_Refinement)
+- 2021 — [Deep Convolution for Irregularly Sampled Temporal Point Clouds](https://arxiv.org/abs/2105.00137)
+- 2021 — [Deep Point Cloud Reconstruction](https://arxiv.org/abs/2111.11704) — `reconstruction` `denoising`
+- 2021 — [Voint Cloud: Multi-View Point Cloud Representation for 3D Understanding](https://arxiv.org/abs/2111.15363) — `segmentation` `classification` — [code](https://github.com/ajhamdi/vointcloud)
+
+## TPAMI <sub>(19)</sub>
+
+- 2026 — [GAPrompt++: Multi-Granular Geometry-Aware Point Cloud Prompt for 3D Vision Model](https://arxiv.org/abs/2609.19716) — [code](https://github.com/PKU-OV3-LAB/GAPromptPlus.git)
+- 2025 — [High-quality Pseudo-labeling for Point Cloud Segmentation with Scene-level Annotation](https://arxiv.org/abs/2506.23227) — `segmentation` — [code](https://github.com/LHDuan/WSegPC)
+- 2025 — [Text2Loc++: Generalizing 3D Point Cloud Localization from Natural Language](https://arxiv.org/abs/2511.15308) — `localization`
+- 2024 — [Monge-Ampere Regularization for Learning Arbitrary Shapes from Point Clouds](https://arxiv.org/abs/2410.18477) — `reconstruction` — [code](https://github.com/chuanxiang-yang/S2DF)
+- 2024 — [Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning](https://arxiv.org/abs/2410.08114) — `efficiency` — [code](https://github.com/jerryfeng2003/PointGST)
+- 2023 — [A Survey of Label-Efficient Deep Learning for 3D Point Clouds](https://arxiv.org/abs/2305.19812) — `efficiency`
+- 2023 — [Compositional Semantic Mix for Domain Adaptation in Point Cloud Segmentation](https://arxiv.org/abs/2308.14619) — `segmentation` `domain adaptation`
+- 2022 — [Flattening-Net: Deep Regular 2D Representation for 3D Point Cloud Analysis](https://arxiv.org/abs/2212.08892)
+- 2022 — [Incomplete Gamma Kernels: Generalizing Locally Optimal Projection Operators](https://arxiv.org/abs/2205.01087) — `denoising`
+- 2022 — [Learning Canonical Embeddings for Unsupervised Shape Correspondence with Locally Linear Transformations](https://arxiv.org/abs/2209.02152)
+- 2022 — [Point Cloud Attacks in Graph Spectral Domain: When 3D Geometry Meets Graph Signal Processing](https://arxiv.org/abs/2207.13326)
+- 2022 — [Refine-Net: Normal Refinement Neural Network for Noisy Point Clouds](https://arxiv.org/abs/2203.12514) — `generation` `reconstruction`
+- 2022 — [Robust Point Cloud Registration Framework Based on Deep Graph Matching(TPAMI Version)](https://arxiv.org/abs/2211.04696) — `registration` `robustness`
+- 2022 — [Robust Point Cloud Segmentation with Noisy Annotations](https://arxiv.org/abs/2212.03242) — `segmentation` `robustness`
+- 2022 — [Scalable SoftGroup for 3D Instance Segmentation on Point Clouds](https://arxiv.org/abs/2209.08263) — `segmentation`
+- 2021 — [Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR-based Perception](https://arxiv.org/abs/2109.05441) — `segmentation` `detection` — [code](https://github.com/xinge008/Cylinder3D)
+- 2021 — [EPNet++: Cascade Bi-directional Fusion for Multi-Modal 3D Object Detection](https://arxiv.org/abs/2112.11088) — `detection` `multi-modal`
+- 2021 — [Learning Semantic Segmentation of Large-Scale Point Clouds with Random Sampling](https://arxiv.org/abs/2107.02389) — `segmentation`
+- 2021 — [Revisiting Transformation Invariant Geometric Deep Learning: An Initial Representation Perspective](https://arxiv.org/abs/2112.12345)
+
+## ICML <sub>(15)</sub>
+
+- 2026 — [DynaTok: Token-Based 4D Reconstruction from Partial Point Clouds](https://arxiv.org/abs/2606.12189) — `reconstruction`
+- 2026 — [FoundObj: Self-supervised Foundation Models as Rewards for Label-free 3D Object Segmentation](https://arxiv.org/abs/2605.27178) — `segmentation` `self-supervised` — [code](https://github.com/vLAR-group/FoundObj)
+- 2026 — [Fourier Features Let Agents Learn High Precision Policies with Imitation Learning](https://arxiv.org/abs/2606.12334)
+- 2026 — [SIMPC: Learning Self-Induced Mirror-Point Consistency for Unsupervised Point Cloud Denoising](https://arxiv.org/abs/2605.26894) — `denoising`
+- 2026 — [Zero-Shot 3D Question Answering via Hierarchical View-to-Token Transportation](https://arxiv.org/abs/2606.03100) — `open-vocabulary`
+- 2025 — [Geometry-to-Image Synthesis-Driven Generative Point Cloud Registration](https://arxiv.org/abs/2512.09407) — `registration` `generation`
+- 2025 — [WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting](https://arxiv.org/abs/2510.10726) — `reconstruction` — [code](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror)
+- 2023 — [Equivariant vs. Invariant Layers: A Comparison of Backbone and Pooling for Point Cloud Classification](https://arxiv.org/abs/2306.05553) — `classification` — Workshop
+- 2023 — [Sample Complexity Bounds for Estimating Probability Divergences under Invariances](https://arxiv.org/abs/2311.02868) — `generation`
+- 2023 — [Stable and Consistent Prediction of 3D Characteristic Orientation via Invariant Residual Learning](https://arxiv.org/abs/2306.11406)
+- 2022 — [Implicit Neural Spatial Representations for Time-dependent PDEs](https://arxiv.org/abs/2210.00124)
+- 2022 — [The Manifold Scattering Transform for High-Dimensional Point Cloud Data](https://arxiv.org/abs/2206.10078) — Workshop
+- 2021 — [Representation Topology Divergence: A Method for Comparing Neural Network Representations](https://arxiv.org/abs/2201.00058)
+- 2021 — [Revisiting Point Cloud Shape Classification with a Simple and Effective Baseline](https://arxiv.org/abs/2106.05304) — `classification`
+- 2021 — [Scalable Certified Segmentation via Randomized Smoothing](https://arxiv.org/abs/2107.00228) — `segmentation`
+
+## IJCAI <sub>(11)</sub>
+
+- 2025 — [Exploring Semantic Masked Autoencoder for Self-supervised Point Cloud Understanding](https://arxiv.org/abs/2506.21957) — `self-supervised`
+- 2025 — [GPI-Net: Gestalt-Guided Parallel Interaction Network via Orthogonal Geometric Consistency for Robust Point Cloud Registration](https://arxiv.org/abs/2507.14452) — `registration` `robustness`
+- 2024 — [ESP-PCT: Enhanced VR Semantic Performance through Efficient Compression of Temporal and Spatial Redundancies in Point Cloud Transformers](https://arxiv.org/abs/2409.01216) — `compression` `efficiency`
+- 2024 — [Point Cloud Mixture-of-Domain-Experts Model for 3D Self-supervised Learning](https://arxiv.org/abs/2410.09886) — `self-supervised`
+- 2022 — [Reconstruction-Aware Prior Distillation for Semi-supervised Point Cloud Completion](https://arxiv.org/abs/2204.09186) — `completion` `reconstruction`
+- 2022 — [Spatiality-guided Transformer for 3D Dense Captioning on Point Clouds](https://arxiv.org/abs/2204.10688) — `detection`
+- 2021 — [2nd Place Solution for IJCAI-PRICAI 2020 3D AI Challenge: 3D Object Reconstruction from A Single Image](https://arxiv.org/abs/2105.13575) — `reconstruction`
+- 2021 — [Planning with Learned Dynamic Model for Unsupervised Point Cloud Registration](https://arxiv.org/abs/2108.02613) — `registration`
+- 2021 — [Point-based Acoustic Scattering for Interactive Sound Propagation via Surface Encoding](https://arxiv.org/abs/2105.08177)
+- 2021 — [PointLIE: Locally Invertible Embedding for Point Cloud Sampling and Recovery](https://arxiv.org/abs/2104.14769)
+- 2021 — [VR3Dense: Voxel Representation Learning for 3D Object Detection and Monocular Dense Depth Reconstruction](https://arxiv.org/abs/2104.05932) — `detection` `reconstruction` `autonomous driving` `monocular` — Workshop
+
+## SIGGRAPH Asia <sub>(10)</sub>
+
+- 2026 — [CRAB: Cuboid-based Representation for As-built BIM from Point Clouds](https://arxiv.org/abs/2610.29257) — `reconstruction`
+- 2025 — [CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling](https://arxiv.org/abs/2509.21114) — `generation`
+- 2025 — [Neural Visibility of Point Sets](https://arxiv.org/abs/2509.24150)
+- 2024 — [ELMO: Enhanced Real-time LiDAR Motion Capture through Upsampling](https://arxiv.org/abs/2410.06963) — `generation` `upsampling` `efficiency`
+- 2024 — [Neural Laplacian Operator for 3D Point Clouds](https://arxiv.org/abs/2409.06506)
+- 2024 — [Representing Long Volumetric Video with Temporal Gaussian Hierarchy](https://arxiv.org/abs/2412.09608) — `reconstruction`
+- 2023 — [Neural Gradient Learning and Optimization for Oriented Point Normal Estimation](https://arxiv.org/abs/2309.09211) — `normal estimation`
+- 2022 — [Morig: Motion-aware rigging of character meshes from point clouds](https://arxiv.org/abs/2210.09463)
+- 2022 — [RFEPS: Reconstructing Feature-line Equipped Polygonal Surface](https://arxiv.org/abs/2212.03600) — `reconstruction`
+- 2022 — [SHRED: 3D Shape Region Decomposition with Learned Local Operations](https://arxiv.org/abs/2206.03480) — `segmentation`
+
+## SIGGRAPH <sub>(8)</sub>
+
+- 2025 — [A Fast Volumetric Capture and Reconstruction Pipeline for Dynamic Point Clouds and Gaussian Splats](https://arxiv.org/abs/2512.15719) — `reconstruction` — [code](https://github.com/irc-hslu/capturestudio)
+- 2025 — [Generating real-time detailed ground visualisations from sparse aerial point clouds](https://arxiv.org/abs/2507.18664) — `efficiency`
+- 2023 — [Adaptive Local Basis Functions for Shape Completion](https://arxiv.org/abs/2307.08348) — `completion`
+- 2022 — [Deep Billboards towards Lossless Real2Sim in Virtual Reality](https://arxiv.org/abs/2208.08861)
+- 2022 — [Shape Completion with Points in the Shadow](https://arxiv.org/abs/2209.08345) — `completion`
+- 2021 — [DeltaConv: Anisotropic Operators for Geometric Deep Learning on Point Clouds](https://arxiv.org/abs/2111.08799)
+- 2021 — [Orienting Point Clouds with Dipole Propagation](https://arxiv.org/abs/2105.01604)
+- 2021 — [SP-GAN: Sphere-Guided 3D Shape Generation and Manipulation](https://arxiv.org/abs/2108.04476) — `generation`
+
+## TVCG <sub>(8)</sub>
+
+- 2025 — [PFF-Net: Patch Feature Fitting for Point Cloud Normal Estimation](https://arxiv.org/abs/2511.21365) — `normal estimation`
+- 2025 — [PKSS-Align: Robust Point Cloud Registration on Pre-Kendall Shape Space](https://arxiv.org/abs/2508.04286) — `registration` `robustness`
+- 2024 — [NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds](https://arxiv.org/abs/2411.17392) — `reconstruction`
+- 2022 — [Contrastive Learning for Joint Normal Estimation and Point Cloud Filtering](https://arxiv.org/abs/2208.06811) — `self-supervised` `normal estimation` — [code](https://github.com/ddsediri/CLJNEPCF)
+- 2022 — [PointVST: Self-Supervised Pre-training for 3D Point Clouds via View-Specific Point-to-Image Translation](https://arxiv.org/abs/2212.14197) — `generation` `self-supervised` `pre-training`
+- 2021 — [Consistent Two-Flow Network for Tele-Registration of Point Clouds](https://arxiv.org/abs/2106.00329) — `registration`
+- 2021 — [Meta-PU: An Arbitrary-Scale Upsampling Network for Point Cloud](https://arxiv.org/abs/2102.04317) — `reconstruction` `upsampling`
+- 2021 — [WSDesc: Weakly Supervised 3D Local Descriptor Learning for Point Cloud Registration](https://arxiv.org/abs/2108.02740) — `registration`
+
+## TIP <sub>(4)</sub>
+
+- 2024 — [TripleMixer: A 3D Point Cloud Denoising Model for Adverse Weather](https://arxiv.org/abs/2408.13802) — `denoising`
+- 2023 — [Prototype Adaption and Projection for Few- and Zero-shot 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2305.14335) — `segmentation` `open-vocabulary`
+- 2022 — [3D Cascade RCNN: High Quality Object Detection in Point Clouds](https://arxiv.org/abs/2211.08248) — `detection` — [code](https://github.com/caiqi/Cascasde-3D)
+- 2022 — [Learning A Locally Unified 3D Point Cloud for View Synthesis](https://arxiv.org/abs/2209.05013)
+
+## IJCV <sub>(3)</sub>
+
+- 2023 — [A Review and A Robust Framework of Data-Efficient 3D Scene Parsing with Traditional/Learned 3D Descriptors](https://arxiv.org/abs/2312.01262) — `segmentation` `detection` `robustness` `efficiency`
+- 2022 — [CompleteDT: Point Cloud Completion with Dense Augment Inference Transformers](https://arxiv.org/abs/2205.14999) — `completion`
+- 2021 — [PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection](https://arxiv.org/abs/2102.00463) — `detection` — [code](https://github.com/open-mmlab/OpenPCDet)
+
+## T-ITS <sub>(2)</sub>
+
+- 2024 — [MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2411.15016) — `detection` `autonomous driving` `multi-modal`
+- 2024 — [PRFusion: Toward Effective and Robust Multi-Modal Place Recognition with Image and Point Cloud Fusion](https://arxiv.org/abs/2410.04939) — `localization` `autonomous driving` `multi-modal` `robustness`
+
+## TGRS <sub>(1)</sub>
+
+- 2023 — [Benchmarking Deep Learning Architectures for Urban Vegetation Point Cloud Semantic Segmentation from MLS](https://arxiv.org/abs/2306.10274) — `segmentation`
