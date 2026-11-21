@@ -1,6 +1,6 @@
 # Registration & Matching · `registration`
 
-共 **425** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **426** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
@@ -38,6 +38,7 @@
 - [Generalized-CVO: Fast and Correspondence-Free Local Point Cloud Registration with Second Order Riemannian Optimization](https://arxiv.org/abs/2606.10019) — `registration`
 - [Geometry-Constrained Bidirectional Point Cloud Registration for Thin, Sheet-Like Heritage Artifacts](https://arxiv.org/abs/2610.07793) — `registration` `reconstruction`
 - [GRIP: Gaussian Rendering as a Cross-Modal Bridge for Image-to-Point Cloud Registration](https://arxiv.org/abs/2609.25966) — `registration`
+- [I See You: Initial Multi-Robot LiDAR Registration with Mutual-Observation Checks](https://arxiv.org/abs/2611.26276) — `registration`
 - [IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration](https://arxiv.org/abs/2603.12719) — `registration` `autonomous driving`
 - [Image-to-Point Cloud Registration Made Easy with Rectified Flow-based LiDAR Upsampling](https://arxiv.org/abs/2607.14639) — `registration` `upsampling`
 - [Iterative Differential Entropy Minimization (IDEM) method for fine rigid pairwise 3D Point Cloud Registration: A Focus on the Metric](https://arxiv.org/abs/2601.09601) — `registration`

@@ -1,6 +1,6 @@
 # Multi-modal Fusion · `multi-modal`
 
-共 **238** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **239** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
@@ -48,6 +48,7 @@
 - [MGPC: Multimodal Network for Generalizable Point Cloud Completion With Modality Dropout and Progressive Decoding](https://arxiv.org/abs/2601.03660) — `completion` `generation` `multi-modal` — [code](https://github.com/L-J-Yuan/MGPC)
 - [MM-TRELLIS: Point-Cloud Guided Multi-Modal 3D Vehicle Generation in Autonomous Driving](https://arxiv.org/abs/2606.24301) — `generation` `reconstruction` `autonomous driving` `multi-modal`
 - [mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud](https://arxiv.org/abs/2603.08551) — `multi-modal`
+- [MS-Point: Multi-Modal Hierarchical Spectral Learning for Point Cloud Understanding](https://arxiv.org/abs/2611.25282) — `multi-modal`
 - [Multimodal Signal Processing For Thermo-Visible-Lidar Fusion In Real-time 3D Semantic Mapping](https://arxiv.org/abs/2601.09578) — `slam` `multi-modal` `efficiency`
 - [RAPA: Ray-Aware Physics Augmentation for Robust Camera-LiDAR Calibration](https://arxiv.org/abs/2611.12129) — `multi-modal` `robustness`
 - [Refine Then Fusion: Training-Free 3D Point Cloud Adaptation with Priority Refinement and Multi-Modal Knowledge Fusion](https://arxiv.org/abs/2609.21522) — `multi-modal`
