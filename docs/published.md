@@ -1,6 +1,6 @@
 # 已正式发表 / Peer-reviewed only
 
-共 **1716** 篇（另有 2617 篇为 arXiv 预印本，见 [README](../../README.md)）。
+共 **1716** 篇（另有 2622 篇为 arXiv 预印本，见 [README](../../README.md)）。
 按会议/期刊分组，组内按年份倒序。
 
 ---

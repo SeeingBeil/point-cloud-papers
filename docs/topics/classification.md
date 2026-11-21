@@ -1,6 +1,6 @@
 # Classification & Retrieval · `classification`
 
-共 **211** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **212** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
@@ -27,6 +27,7 @@
 - [PCT-Prompt: A Prompt-Guided Transformer Framework for Dense Prediction Tasks in Point Clouds](https://arxiv.org/abs/2608.16225) — `classification`
 - [Point-Selection Fine-Tuning Framework for Robust Point Cloud Classification](https://arxiv.org/abs/2607.19711) — `classification` `robustness`
 - [ProtoPointNet: Prototype-Based Interpretable Classification of 3D Dental Point Clouds with Verifiable Spatial Activations](https://arxiv.org/abs/2607.12335) — `classification`
+- [QFT-Based Hybrid PointNet-Quantum Neural Networks for LiDAR Point-Cloud Classification](https://arxiv.org/abs/2611.25578) — `classification`
 - [Refining Roadside 4D Radar Vehicle Classification Using Point-Cloud Dispersion](https://arxiv.org/abs/2611.02147) — `classification` `multi-modal`
 - [Role-based Effectiveness of an Epistemic Uncertainty Estimate in Training Models for Semantic Segmentation of 3D LiDAR Point Clouds](https://arxiv.org/abs/2611.05569) — `segmentation` `classification`
 - [Structure-First Point Cloud Learning with Mapper Region Graphs](https://arxiv.org/abs/2602.05522) — `classification`

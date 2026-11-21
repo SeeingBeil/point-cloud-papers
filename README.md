@@ -5,13 +5,14 @@
   <sub>Curated papers on 3D point clouds and LiDAR perception, 2021–present. Synced with arXiv.</sub>
 </p>
 
-[![Papers](https://img.shields.io/badge/papers-4333-blue)](#-papers)
+[![Papers](https://img.shields.io/badge/papers-4338-blue)](#-papers)
 [![With code](https://img.shields.io/badge/with_code-242-brightgreen)](#-papers)
 [![Datasets](https://img.shields.io/badge/datasets-index-orange)](DATASETS.md)
-[![Update](https://img.shields.io/badge/last_update-2026-11-16-lightgrey)](#)
+[![Update](https://img.shields.io/badge/last_update-2026-11-21-lightgrey)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-
+> 本列表由 `scripts/build.py` 从 [`data/entries.json`](data/entries.json) 自动生成，**请勿直接编辑本文件**。
+> This README is generated. Add papers by editing `data/entries.json` (see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
 ## 目录 / Contents
 
@@ -29,13 +30,13 @@
 | `detection` | 637 | [查看](docs/topics/detection.md) |
 | `autonomous driving` | 474 | [查看](docs/topics/autonomous-driving.md) |
 | `reconstruction` | 429 | [查看](docs/topics/reconstruction.md) |
-| `registration` | 425 | [查看](docs/topics/registration.md) |
+| `registration` | 426 | [查看](docs/topics/registration.md) |
 | `efficiency` | 354 | [查看](docs/topics/efficiency.md) |
 | `generation` | 326 | [查看](docs/topics/generation.md) |
 | `robustness` | 285 | [查看](docs/topics/robustness.md) |
 | `localization` | 264 | [查看](docs/topics/localization.md) |
-| `multi-modal` | 238 | [查看](docs/topics/multi-modal.md) |
-| `classification` | 211 | [查看](docs/topics/classification.md) |
+| `multi-modal` | 239 | [查看](docs/topics/multi-modal.md) |
+| `classification` | 212 | [查看](docs/topics/classification.md) |
 | `self-supervised` | 204 | [查看](docs/topics/self-supervised.md) |
 | `compression` | 200 | [查看](docs/topics/compression.md) |
 | `completion` | 188 | [查看](docs/topics/completion.md) |
@@ -61,7 +62,7 @@
 
 ## 论文 / Papers
 
-### 2026 <sub>(640)</sub>
+### 2026 <sub>(645)</sub>
 
 <details><summary><b>CVPR</b> · 57</summary>
 
@@ -404,7 +405,7 @@
 
 </details>
 
-<details><summary><b>arXiv</b> · 404</summary>
+<details><summary><b>arXiv</b> · 409</summary>
 
 - [2L-LSH: A Locality-Sensitive Hash Function-Based Method For Rapid Point Cloud Indexing](https://arxiv.org/abs/2604.21442) — `classification` `reconstruction`
 - [3D LULC classification using multispectral LiDAR and deep learning: current and prospective schemes](https://arxiv.org/abs/2605.22328) — `segmentation` `classification`
@@ -413,6 +414,7 @@
 - [A B-Spline Function Based 3D Point Cloud Unwrapping Scheme for 3D Fingerprint Recognition and Identification](https://arxiv.org/abs/2604.16546)
 - [A Clinical Point Cloud Paradigm for In-Hospital Mortality Prediction from Multi-Level Incomplete Multimodal EHRs](https://arxiv.org/abs/2604.04614) — `multi-modal`
 - [A Closed-Form Persistence-Landmark Pipeline for Certified Point-Cloud and Graph Classification](https://arxiv.org/abs/2605.02836) — `classification`
+- [A Complete Geometric Message-Passing Architecture for Point Clouds](https://arxiv.org/abs/2611.26384)
 - [A Comprehensive Survey on Deep Learning-Based LiDAR Super-Resolution for Autonomous Driving](https://arxiv.org/abs/2602.15904) — `upsampling` `autonomous driving`
 - [A Differentiable Optimization Framework for Registering Sequential Bounding Boxes with Point Cloud Stream](https://arxiv.org/abs/2609.34103) — `registration`
 - [A meshfree exterior calculus for generalizable and data-efficient learning of physics from point clouds](https://arxiv.org/abs/2605.08436) — `efficiency`
@@ -566,10 +568,12 @@
 - [Hi-LOAM: Hierarchical Implicit Neural Fields for LiDAR Odometry and Mapping](https://arxiv.org/abs/2604.01720) — `reconstruction` `autonomous driving`
 - [Hierarchical Flow Matching for 3D Point Cloud Generation](https://arxiv.org/abs/2608.05557) — `generation` `denoising`
 - [Hierarchical Frequency-Domain Compression of Implicit Geometric Representations for Large-Scale Point Clouds](https://arxiv.org/abs/2609.32789) — `compression`
+- [High-Precision Docking of Differential-Drive Mobile Robots Through LiDAR and Vision Collaboration](https://arxiv.org/abs/2611.24191)
 - [How Sampling Strategy Affects Imbalance Mitigation in LiDAR Segmentation: A Study of Structured vs. Random Point-Based Architectures](https://arxiv.org/abs/2608.16673) — `segmentation`
 - [HuLiGen: Human LiDAR Generation from Parametric Body Models](https://arxiv.org/abs/2610.10196) — `generation`
 - [Hybrid-PCGC: Hybrid Point Cloud Geometry Compression Bridging Generalization-based Model and Implicit Neural Representation](https://arxiv.org/abs/2602.21662) — `compression` `autonomous driving`
 - [HyperDet: 3D Object Detection with Hyper 4D Radar Point Clouds](https://arxiv.org/abs/2602.11554) — `detection` `multi-modal`
+- [I See You: Initial Multi-Robot LiDAR Registration with Mutual-Observation Checks](https://arxiv.org/abs/2611.26276) — `registration`
 - [IGASA: Integrated Geometry-Aware and Skip-Attention Modules for Enhanced Point Cloud Registration](https://arxiv.org/abs/2603.12719) — `registration` `autonomous driving`
 - [Illumination-Invariant Anomaly Detection for Sub-Canopy UAV Multispectral Point Clouds](https://arxiv.org/abs/2606.09111) — `detection` `anomaly detection`
 - [Image-to-Point Cloud Registration Made Easy with Rectified Flow-based LiDAR Upsampling](https://arxiv.org/abs/2607.14639) — `registration` `upsampling`
@@ -639,6 +643,7 @@
 - [mmGAT: Pose Estimation by Graph Attention with Mutual Features from mmWave Radar Point Cloud](https://arxiv.org/abs/2603.08551) — `multi-modal`
 - [MonoEM-GS: Monocular Expectation-Maximization Gaussian Splatting SLAM](https://arxiv.org/abs/2604.10593) — `slam` `gaussian-splatting` `monocular`
 - [Motion-Saliency Complementary Masked Modeling for Point Cloud Video Understanding](https://arxiv.org/abs/2608.30279) — `self-supervised`
+- [MS-Point: Multi-Modal Hierarchical Spectral Learning for Point Cloud Understanding](https://arxiv.org/abs/2611.25282) — `multi-modal`
 - [MSSP: Multi-Scale Spatially-Constrained Partition for Unsupervised Semantic Segmentation of 3D Point Clouds](https://arxiv.org/abs/2609.06959) — `segmentation`
 - [Multi-level latent-diffusion adaptation for cross-region point cloud segmentation of ancient terraces](https://arxiv.org/abs/2611.18033) — `segmentation` `detection`
 - [Multi-Path Mamba Diffusion for 3D Point Cloud Semantic Scene Completion](https://arxiv.org/abs/2611.04583) — `completion` `generation` `occupancy prediction`
@@ -698,6 +703,7 @@
 - [PT$^3$: Prototype-Guided Self-Supervised Pretraining for Generalizable mmWave Human Point Cloud Representation](https://arxiv.org/abs/2610.38551) — `self-supervised` `pre-training`
 - [PT-WNO: Point Transformer with Wavelet Neural Operator for 3D Point Cloud Semantic Segmentation](https://arxiv.org/abs/2606.11466) — `segmentation`
 - [PWAVEP: Purifying Imperceptible Adversarial Perturbations in 3D Point Clouds via Spectral Graph Wavelets](https://arxiv.org/abs/2602.03333) — `robustness`
+- [QFT-Based Hybrid PointNet-Quantum Neural Networks for LiDAR Point-Cloud Classification](https://arxiv.org/abs/2611.25578) — `classification`
 - [Quartet of Diffusions: Structure-Aware Point Cloud Generation through Part and Symmetry Guidance](https://arxiv.org/abs/2601.20425) — `generation`
 - [R1A-PC: Physics-Guided Electromagnetic Inversion of Three-Dimensional Human Point Clouds in Complex Static Environments](https://arxiv.org/abs/2610.05144)
 - [R4Tun: LLM-guided adaptive segmental tunnel lining segmentation in point clouds](https://arxiv.org/abs/2609.11360) — `segmentation` `vision-language`
@@ -1782,7 +1788,7 @@
 
 ## 说明 / Notes
 
-- 共 **4333** 篇（2021 年至今），其中 **242** 篇附带代码链接；年份为会议年份，纯 arXiv 为首次提交年份。
+- 共 **4338** 篇（2021 年至今），其中 **242** 篇附带代码链接；年份为会议年份，纯 arXiv 为首次提交年份。
 - 收录范围：点云相关（检测、分割、配准、补全、分类、跟踪、SLAM、生成、压缩、预训练等），不限于单一子方向。
 - 2021 年前的经典工作未收录；数据集见 [DATASETS.md](DATASETS.md)（不受年份限制）。
 - 每日自动同步：[`.github/workflows/arxiv-sync.yml`](.github/workflows/arxiv-sync.yml)。
