@@ -5,13 +5,14 @@
   <sub>Curated papers on 3D point clouds and LiDAR perception, 2021–present. Synced with arXiv.</sub>
 </p>
 
-[![Papers](https://img.shields.io/badge/papers-4333-blue)](#-papers)
+[![Papers](https://img.shields.io/badge/papers-4335-blue)](#-papers)
 [![With code](https://img.shields.io/badge/with_code-242-brightgreen)](#-papers)
 [![Datasets](https://img.shields.io/badge/datasets-index-orange)](DATASETS.md)
-[![Update](https://img.shields.io/badge/last_update-2026-11-16-lightgrey)](#)
+[![Update](https://img.shields.io/badge/last_update-2026-11-28-lightgrey)](#)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-
+> 本列表由 `scripts/build.py` 从 [`data/entries.json`](data/entries.json) 自动生成，**请勿直接编辑本文件**。
+> This README is generated. Add papers by editing `data/entries.json` (see [CONTRIBUTING.md](CONTRIBUTING.md)).
 
 ## 目录 / Contents
 
@@ -26,7 +27,7 @@
 | 任务 | 篇数 | 列表 |
 |:--|--:|:--|
 | `segmentation` | 685 | [查看](docs/topics/segmentation.md) |
-| `detection` | 637 | [查看](docs/topics/detection.md) |
+| `detection` | 639 | [查看](docs/topics/detection.md) |
 | `autonomous driving` | 474 | [查看](docs/topics/autonomous-driving.md) |
 | `reconstruction` | 429 | [查看](docs/topics/reconstruction.md) |
 | `registration` | 425 | [查看](docs/topics/registration.md) |
@@ -37,7 +38,7 @@
 | `multi-modal` | 238 | [查看](docs/topics/multi-modal.md) |
 | `classification` | 211 | [查看](docs/topics/classification.md) |
 | `self-supervised` | 204 | [查看](docs/topics/self-supervised.md) |
-| `compression` | 200 | [查看](docs/topics/compression.md) |
+| `compression` | 201 | [查看](docs/topics/compression.md) |
 | `completion` | 188 | [查看](docs/topics/completion.md) |
 | `tracking` | 125 | [查看](docs/topics/tracking.md) |
 | `dataset` | 121 | [查看](docs/topics/dataset.md) |
@@ -61,7 +62,7 @@
 
 ## 论文 / Papers
 
-### 2026 <sub>(640)</sub>
+### 2026 <sub>(642)</sub>
 
 <details><summary><b>CVPR</b> · 57</summary>
 
@@ -312,9 +313,10 @@
 
 </details>
 
-<details><summary><b>ICRA</b> · 9</summary>
+<details><summary><b>ICRA</b> · 10</summary>
 
 - [Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection](https://arxiv.org/abs/2605.04541) — `registration` `localization`
+- [Autonomous Vineyard Exploration using LiDAR Sensing: A Field Evaluation on Legged-Wheeled Quadruped Robot](https://arxiv.org/abs/2611.34246) — `detection` — Workshop
 - [D-Compress: Detail-Preserving LiDAR Range Image Compression for Real-Time Streaming on Resource-Constrained Robots](https://arxiv.org/abs/2603.13699) — `compression` `efficiency`
 - [Dr-PoGO: Direct Radar Pose-Graph Optimization](https://arxiv.org/abs/2605.04806) — `slam` `localization` `multi-modal`
 - [DRUM: Diffusion-based Raydrop-aware Unpaired Mapping for Sim2Real LiDAR Segmentation](https://arxiv.org/abs/2603.26263) — `segmentation`
@@ -404,7 +406,7 @@
 
 </details>
 
-<details><summary><b>arXiv</b> · 404</summary>
+<details><summary><b>arXiv</b> · 405</summary>
 
 - [2L-LSH: A Locality-Sensitive Hash Function-Based Method For Rapid Point Cloud Indexing](https://arxiv.org/abs/2604.21442) — `classification` `reconstruction`
 - [3D LULC classification using multispectral LiDAR and deep learning: current and prospective schemes](https://arxiv.org/abs/2605.22328) — `segmentation` `classification`
@@ -807,6 +809,7 @@
 - [When Point Clouds Outperform Pixels: Rethinking Zero-Shot Multimodal Anomaly Detection](https://arxiv.org/abs/2609.25793) — `detection` `localization` `open-vocabulary` `multi-modal`
 - [WHU-PCPR: A cross-platform heterogeneous point cloud dataset for place recognition in complex urban scenes](https://arxiv.org/abs/2601.06442) — `localization` `autonomous driving` `dataset`
 - [WNOJ-LIO: A White-Noise-on-Jerk Motion-Prior EKF for High-Dynamic LiDAR-IMU Fusion](https://arxiv.org/abs/2607.13405)
+- [xFORM: Accelerating Fixed-Lag LiDAR Odometry with Exact Factor Compression](https://arxiv.org/abs/2611.34053) — `detection` `compression`
 - [xModel-KD: Cross-modal Knowledge Distillation for 3D Scene Perception using LiDAR](https://arxiv.org/abs/2605.30111) — `segmentation`
 - [ZIL: Zero-shot Image-to-LiDAR Registration](https://arxiv.org/abs/2609.22716) — `registration` `autonomous driving` `open-vocabulary`
 - [ZVeC: A Zero-Shot Framework for Instance-Level Vehicle Extraction and Generative Point Cloud Completion](https://arxiv.org/abs/2609.24825) — `completion` `generation` `reconstruction` `open-vocabulary`
@@ -1782,7 +1785,7 @@
 
 ## 说明 / Notes
 
-- 共 **4333** 篇（2021 年至今），其中 **242** 篇附带代码链接；年份为会议年份，纯 arXiv 为首次提交年份。
+- 共 **4335** 篇（2021 年至今），其中 **242** 篇附带代码链接；年份为会议年份，纯 arXiv 为首次提交年份。
 - 收录范围：点云相关（检测、分割、配准、补全、分类、跟踪、SLAM、生成、压缩、预训练等），不限于单一子方向。
 - 2021 年前的经典工作未收录；数据集见 [DATASETS.md](DATASETS.md)（不受年份限制）。
 - 每日自动同步：[`.github/workflows/arxiv-sync.yml`](.github/workflows/arxiv-sync.yml)。
