@@ -1,6 +1,6 @@
 # 3D Object Detection · `detection`
 
-共 **637** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **639** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
@@ -29,6 +29,7 @@
 - [Embedding Predictive Adaptation and Refinement for Multi-Modal Industrial Anomaly Detection](https://arxiv.org/abs/2611.09521) — `detection` `multi-modal` `anomaly detection`
 - [GEKey: Learning Geodesic Eccentric 3D Keypoints via Self-Supervision](https://arxiv.org/abs/2611.07677) — `detection`
 - [ReFineR: Single image to dense point cloud registration at pixel level with point splatting](https://arxiv.org/abs/2611.16583) — `registration` `detection`
+- [Autonomous Vineyard Exploration using LiDAR Sensing: A Field Evaluation on Legged-Wheeled Quadruped Robot](https://arxiv.org/abs/2611.34246) — `detection` — Workshop
 - [Dynamic Object Detection and Tracking in Construction: A Fisheye Camera and LiDAR Sensor Fusion Model](https://arxiv.org/abs/2607.06896) — `detection` `tracking` `slam` — Workshop
 - [PIRATR: Parametric Object Inference for Robotic Applications with Transformers in 3D Point Clouds](https://arxiv.org/abs/2602.05557) — `detection` `localization`
 - [DeeperRadar: End-to-End MIMO Radar Design and Multi-Modal Fusion for Autonomous Vehicle Perception](https://arxiv.org/abs/2607.17351) — `detection` `multi-modal`
@@ -86,6 +87,7 @@
 - [ViCo3D: Empowering LiDAR-based Collaborative 3D Object Detection with Vision Foundation Models](https://arxiv.org/abs/2607.12959) — `detection` `BEV`
 - [Viking Hill Dataset: A Lidar-Radar-Camera Dataset for Detection and Segmentation in Forest Scenes](https://arxiv.org/abs/2606.19154) — `segmentation` `detection` `multi-modal` `dataset`
 - [When Point Clouds Outperform Pixels: Rethinking Zero-Shot Multimodal Anomaly Detection](https://arxiv.org/abs/2609.25793) — `detection` `localization` `open-vocabulary` `multi-modal`
+- [xFORM: Accelerating Fixed-Lag LiDAR Odometry with Exact Factor Compression](https://arxiv.org/abs/2611.34053) — `detection` `compression`
 ## 2025
 
 - [3D-AVS: LiDAR-based 3D Auto-Vocabulary Segmentation](https://arxiv.org/abs/2406.09126) — `segmentation` `detection` `open-vocabulary` — Workshop

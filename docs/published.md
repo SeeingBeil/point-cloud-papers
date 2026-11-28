@@ -1,6 +1,6 @@
 # 已正式发表 / Peer-reviewed only
 
-共 **1716** 篇（另有 2617 篇为 arXiv 预印本，见 [README](../../README.md)）。
+共 **1717** 篇（另有 2618 篇为 arXiv 预印本，见 [README](../../README.md)）。
 按会议/期刊分组，组内按年份倒序。
 
 ---
@@ -733,9 +733,10 @@
 - 2022 — [SWFormer: Sparse Window Transformer for 3D Object Detection in Point Clouds](https://arxiv.org/abs/2210.07372) — `detection` `autonomous driving`
 - 2022 — [What Matters for 3D Scene Flow Network](https://arxiv.org/abs/2207.09143) — `scene flow`
 
-## ICRA <sub>(143)</sub>
+## ICRA <sub>(144)</sub>
 
 - 2026 — [Angle-I2P: Angle-Consistent-Aware Hierarchical Attention for Cross-Modality Outlier Rejection](https://arxiv.org/abs/2605.04541) — `registration` `localization`
+- 2026 — [Autonomous Vineyard Exploration using LiDAR Sensing: A Field Evaluation on Legged-Wheeled Quadruped Robot](https://arxiv.org/abs/2611.34246) — `detection` — Workshop
 - 2026 — [D-Compress: Detail-Preserving LiDAR Range Image Compression for Real-Time Streaming on Resource-Constrained Robots](https://arxiv.org/abs/2603.13699) — `compression` `efficiency`
 - 2026 — [Dr-PoGO: Direct Radar Pose-Graph Optimization](https://arxiv.org/abs/2605.04806) — `slam` `localization` `multi-modal`
 - 2026 — [DRUM: Diffusion-based Raydrop-aware Unpaired Mapping for Sim2Real LiDAR Segmentation](https://arxiv.org/abs/2603.26263) — `segmentation`

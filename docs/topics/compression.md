@@ -1,6 +1,6 @@
 # Compression · `compression`
 
-共 **200** 篇 · 返回 [索引](../../README.md#-browse-by-task)
+共 **201** 篇 · 返回 [索引](../../README.md#-browse-by-task)
 
 ---
 
@@ -32,6 +32,7 @@
 - [Task-Oriented Wireless Transmission of 3D Point Clouds: Geometric Versus Semantic Robustness](https://arxiv.org/abs/2603.13560) — `reconstruction` `compression` `robustness`
 - [Towards Practical Lossless Neural Compression for LiDAR Point Clouds](https://arxiv.org/abs/2603.25260) — `compression`
 - [Transform-Aligned Learned Features for Lossy Point Cloud Attribute Compression](https://arxiv.org/abs/2609.34834) — `compression`
+- [xFORM: Accelerating Fixed-Lag LiDAR Odometry with Exact Factor Compression](https://arxiv.org/abs/2611.34053) — `detection` `compression`
 ## 2025
 
 - [LINR-PCGC: Lossless Implicit Neural Representations for Point Cloud Geometry Compression](https://arxiv.org/abs/2507.15686) — `compression`
